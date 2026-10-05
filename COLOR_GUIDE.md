@@ -17,6 +17,7 @@ the color of every word on all 2,196 pages. All 31,102 KJV verses were found, pl
 | `data/tagged_verses.jsonl` | Same thing as JSON, with the font "voice" of every segment, and `orig` (the PDF's color) on any word we corrected. |
 | `data/tagged_words.csv` | 256,000+ rows. One row per colored word: reference, word, color, voice, red-letter flag, and the PDF's original color. |
 | `tools/corrections/*.tsv` | Every correction we made to the PDF's colors, with the reason (see section 7). |
+| `reports/ambiguous_referents.md` | Divine pronouns we left alone on purpose because interpreters differ. |
 | `data/lexicon.json` | Every colored term with how many times it got each color, and how many times it was left black. |
 | `reports/categories/NN_*.md` | One file per color. Every term in that color, and every verse it appears in. |
 | `reports/verses_by_color/*.txt` | One file per color. Every verse that contains that color. |
@@ -417,15 +418,19 @@ bread", "The Prince of Peace".
 
 ## 7. Corrections we made to the source
 
-The PDF is hand-colored and very consistent, but it has a few theological slips. Our
+The PDF is hand-colored and very consistent, but its pronouns for God slip often enough to matter. Our
 data fixes them so an AI learns the right pattern. Every fix is a row in
 `tools/corrections/*.tsv` with the verse, the word, the old color, the new color and
 the reason. The original color is still kept (`orig` in `tagged_verses.jsonl`,
 `source_category` in `tagged_words.csv`), so nothing from the PDF is lost.
 
-1. **Father and Son pronouns mixed up.** John 3:16-17, Acts 3:13, 3:26 and Romans
-   1:3, 1:9 colored the Father's "he"/"his" (in "his Son") with the Son color.
-   Romans 10:9 colored "God hath raised **him**" with the Father color.
+1. **The Father's pronouns colored as the Son in the Gospels and Acts.** Whenever
+   Jesus speaks of the Father or prays to him, the PDF tends to give the Father's
+   pronouns the Son color. "Hallowed be **thy** name" (Matthew 6:9), "glorify
+   **thy** Son" (John 17:1), "the will of **him** that sent me" (John 6:38), and
+   "he gave **his** only begotten Son" (John 3:16) all had the Son color. About
+   400 of these now have the Father color. The Comforter's pronouns in John
+   14-16 now have the Spirit color.
 2. **Pronouns in the letters.** From Romans to Jude the PDF colors almost every
    divine pronoun with the Father color, even where the text plainly means Christ
    ("by him were all things created", Colossians 1:16; "he ever liveth to make
@@ -437,8 +442,17 @@ the reason. The original color is still kept (`orig` in `tagged_verses.jsonl`,
    and "the Angel which redeemed me" (Genesis 48:16) but left the same Angel as an
    ordinary angel in Genesis 16, 22, Judges 6, 13 and elsewhere, even though there he
    speaks as God and is worshiped. The rule in 5.2 now applies everywhere.
+4. **A few titles.** "the Highest" (Luke 1:32, 35, 76; 6:35) now has the Father
+   color. "Master" said by Mary (John 20:16), "the Holy One" said of Jesus (Mark
+   1:24, Luke 4:34, Acts 2:27, 3:14, 13:35) and "that man whom he hath ordained"
+   (Acts 17:31) now have the Son color. "God" in Ephesians 2:16 now has the
+   Father color.
 
-The New Testament pronoun review is in progress. Counts will be added when it is done.
+In all, **1,144 words** changed color. The biggest groups are Father to Son (481),
+Son to Father (409), human pronoun to Son (71) or to Father (51), angel to Son (49,
+the Angel of the LORD), and Son to Spirit (24). Each New Testament book was read
+verse by verse. Places where good Reformed interpreters differ were left as the PDF
+had them, and every one is listed in `reports/ambiguous_referents.md`.
 
 Things we did **not** change, on purpose:
 

@@ -1,0 +1,362 @@
+# Pronoun referent fixes: Gospels and Revelation (Father vs Son). Only clear cases.
+Matthew 3:17	whom	1	GOD_FATHER	GOD_SON	the beloved Son, in whom the Father is pleased
+Matthew 4:6	He	1	GOD_SON	GOD_FATHER	God gives his angels charge (Ps 91)
+Matthew 4:6	his	1	GOD_SON	GOD_FATHER	God's angels (Ps 91)
+Matthew 4:10	him	1	GOD_SON	GOD_FATHER	the Lord thy God, him only serve
+Matthew 5:35	his	1	GOD_SON	GOD_FATHER	God's footstool
+Matthew 5:45	he	1	GOD_SON	GOD_FATHER	your Father in heaven
+Matthew 5:45	his	1	GOD_SON	GOD_FATHER	your Father's sun
+Matthew 6:4	himself	1	GOD_SON	GOD_FATHER	thy Father which seeth in secret
+Matthew 6:8	him	1	GOD_SON	GOD_FATHER	your Father, before ye ask him
+Matthew 6:9	thy	1	GOD_SON	GOD_FATHER	Our Father, hallowed be thy name
+Matthew 6:10	Thy	*	GOD_SON	GOD_FATHER	Father's kingdom and will (Lord's Prayer)
+Matthew 6:13	thine	1	GOD_SON	GOD_FATHER	Father's kingdom (Lord's Prayer)
+Matthew 6:30	he	1	GOD_SON	GOD_FATHER	God clothing the grass
+Matthew 6:33	his	1	GOD_SON	GOD_FATHER	God's righteousness
+Matthew 7:11	him	1	GOD_SON	GOD_FATHER	your Father, them that ask him
+Matthew 8:17	Himself	1	GOD_FATHER	GOD_SON	Jesus bearing infirmities (Isa 53 fulfilled)
+Matthew 10:28	him	1	GOD_SON	GOD_FATHER	God, able to destroy soul and body
+Matthew 10:40	him	1	GOD_SON	GOD_FATHER	the Father, him that sent me
+Matthew 11:10	I	1	GOD_SON	GOD_FATHER	God sends messenger (Mal 3:1)
+Matthew 11:10	my	1	GOD_SON	GOD_FATHER	God's messenger (Mal 3:1)
+Matthew 11:25	thee	1	GOD_SON	GOD_FATHER	Father addressed in prayer
+Matthew 11:25	thou	1	GOD_SON	GOD_FATHER	Father addressed in prayer
+Matthew 11:26	thy	1	GOD_SON	GOD_FATHER	Father addressed in prayer
+Matthew 11:27	him	1	PRONOUN	GOD_FATHER	the Father, whom the Son reveals
+Matthew 13:37	He	1	GOD_FATHER	GOD_SON	sower is the Son of man
+Matthew 15:8	me	*	GOD_SON	GOD_FATHER	God speaking (Isa 29:13)
+Matthew 15:9	me	1	GOD_SON	GOD_FATHER	God speaking (Isa 29:13)
+Matthew 16:2	He	1	GOD_FATHER	GOD_SON	Jesus answering
+Matthew 17:5	whom	1	PRONOUN	GOD_SON	the beloved Son
+Matthew 19:4	he	2	GOD_SON	GOD_FATHER	God the Creator, he which made them
+Matthew 19:8	He	1	PRONOUN	GOD_SON	Jesus answering about Moses
+Matthew 22:32	I	1	GOD_SON	GOD_FATHER	God at the bush, I am the God of Abraham
+Matthew 22:44	my	1	GOD_SON	PRONOUN	David's (my Lord)
+Matthew 22:44	my	2	GOD_SON	GOD_FATHER	the LORD's right hand (Ps 110)
+Matthew 22:44	I	1	GOD_SON	GOD_FATHER	the LORD makes enemies footstool
+Matthew 22:45	his	1	GOD_SON	PRONOUN	David's son
+Matthew 23:21	him	1	GOD_SON	GOD_FATHER	God dwelling in the temple
+Matthew 23:22	him	1	GOD_SON	GOD_FATHER	God on the throne
+Matthew 26:31	I	1	GOD_SON	GOD_FATHER	God smites the shepherd (Zech 13:7)
+Matthew 26:34	him	1	GOD_SON	PRONOUN	Peter
+Matthew 26:39	thou	1	GOD_SON	GOD_FATHER	Father addressed in Gethsemane
+Matthew 26:42	He	1	PRONOUN	GOD_SON	Jesus praying the second time
+Matthew 26:42	thy	1	GOD_SON	GOD_FATHER	Father's will
+Matthew 26:53	he	1	PRONOUN	GOD_FATHER	the Father gives legions
+Matthew 27:3	himself	1	GOD_SON	PRONOUN	Judas repented himself
+Matthew 27:35	my	*	GOD_FATHER	GOD_SON	Christ's garments (Ps 22 fulfilled)
+Matthew 27:43	him	1	GOD_SON	GOD_FATHER	God, let him deliver him
+Matthew 27:43	he	1	GOD_SON	GOD_FATHER	God, if he will have him
+Matthew 27:46	thou	1	GOD_SON	GOD_FATHER	My God, why hast thou forsaken
+Matthew 27:54	him	1	GOD_SON	PRONOUN	the centurion's companions
+Matthew 28:6	He	1	GOD_FATHER	GOD_SON	Jesus risen, He is not here
+Mark 1:2	my	1	PRONOUN	GOD_FATHER	God's messenger (Mal 3:1)
+Mark 1:5	him	1	GOD_SON	PRONOUN	John the Baptist
+Mark 1:19	his	1	GOD_SON	PRONOUN	James's brother John
+Mark 4:26	he	1	PRONOUN	GOD_SON	Jesus speaking parable
+Mark 5:31	me	1	PRONOUN	GOD_SON	Jesus, Who touched me
+Mark 7:6	He	1	PRONOUN	GOD_SON	Jesus answering
+Mark 7:6	me	*	GOD_SON	GOD_FATHER	God speaking (Isa 29:13)
+Mark 7:7	me	1	GOD_SON	GOD_FATHER	God speaking (Isa 29:13)
+Mark 9:7	him	1	GOD_FATHER	GOD_SON	hear him, the beloved Son
+Mark 9:36	him	*	GOD_SON	PRONOUN	the little child
+Mark 9:37	him	1	GOD_SON	GOD_FATHER	the Father, him that sent me
+Mark 10:5	he	1	GOD_SON	PRONOUN	Moses wrote the precept
+Mark 10:49	him	1	GOD_SON	PRONOUN	blind Bartimaeus
+Mark 10:52	him	1	GOD_SON	PRONOUN	blind Bartimaeus
+Mark 12:26	I	1	GOD_SON	GOD_FATHER	God at the bush
+Mark 12:32	he	1	GOD_SON	GOD_FATHER	one God, none other but he
+Mark 12:33	him	1	GOD_SON	GOD_FATHER	God, to love him
+Mark 12:34	he	1	GOD_SON	PRONOUN	the scribe answered discreetly
+Mark 12:36	my	1	GOD_SON	PRONOUN	David's (my Lord)
+Mark 12:36	my	2	GOD_SON	GOD_FATHER	the LORD's right hand (Ps 110)
+Mark 12:36	I	1	GOD_SON	GOD_FATHER	the LORD makes enemies footstool
+Mark 12:37	him	1	GOD_FATHER	GOD_SON	the Christ whom David calls Lord
+Mark 12:37	he	1	GOD_FATHER	GOD_SON	the Christ, David's son
+Mark 13:2	him	1	GOD_SON	PRONOUN	the disciple
+Mark 13:20	he	*	GOD_SON	GOD_FATHER	the Lord who chose the elect
+Mark 14:21	him	1	GOD_FATHER	GOD_SON	Son of man, written of him
+Mark 14:27	I	1	GOD_SON	GOD_FATHER	God smites the shepherd (Zech 13:7)
+Mark 14:30	him	1	GOD_SON	PRONOUN	Peter
+Mark 14:36	thee	1	GOD_SON	GOD_FATHER	Abba Father addressed
+Mark 14:36	thou	1	GOD_SON	GOD_FATHER	Abba Father addressed
+Mark 15:15	he	1	GOD_SON	PRONOUN	Pilate scourged him
+Mark 15:34	thou	1	GOD_SON	GOD_FATHER	My God, why hast thou forsaken
+Mark 15:39	he	2	GOD_SON	PRONOUN	the centurion said
+Luke 1:25	he	1	GOD_SON	GOD_FATHER	the Lord looked on Elisabeth
+Luke 1:48	he	1	GOD_SON	GOD_FATHER	God my Saviour (Magnificat)
+Luke 1:48	his	1	GOD_SON	GOD_FATHER	God's handmaiden (Magnificat)
+Luke 1:49	he	1	GOD_SON	GOD_FATHER	he that is mighty (Magnificat)
+Luke 1:49	his	1	GOD_SON	GOD_FATHER	God's holy name (Magnificat)
+Luke 1:50	his	1	GOD_SON	GOD_FATHER	God's mercy (Magnificat)
+Luke 1:50	him	1	GOD_SON	GOD_FATHER	them that fear God (Magnificat)
+Luke 1:51	He	1	GOD_SON	GOD_FATHER	God (Magnificat)
+Luke 1:51	his	1	GOD_SON	GOD_FATHER	God's arm (Magnificat)
+Luke 1:51	he	1	GOD_SON	GOD_FATHER	God (Magnificat)
+Luke 1:52	He	1	GOD_SON	GOD_FATHER	God (Magnificat)
+Luke 1:53	He	1	GOD_SON	GOD_FATHER	God (Magnificat)
+Luke 1:53	he	1	GOD_SON	GOD_FATHER	God (Magnificat)
+Luke 1:54	He	1	GOD_SON	GOD_FATHER	God (Magnificat)
+Luke 1:54	his	*	GOD_SON	GOD_FATHER	God's servant and mercy (Magnificat)
+Luke 1:55	he	1	GOD_SON	GOD_FATHER	God spake to the fathers (Magnificat)
+Luke 1:68	he	1	GOD_SON	GOD_FATHER	Lord God of Israel (Benedictus)
+Luke 1:68	his	1	GOD_SON	GOD_FATHER	Lord God of Israel's people
+Luke 1:69	his	1	GOD_SON	GOD_FATHER	God's servant David (Benedictus)
+Luke 1:70	he	1	GOD_SON	GOD_FATHER	God spake by prophets (Benedictus)
+Luke 1:70	his	1	GOD_SON	GOD_FATHER	God's prophets (Benedictus)
+Luke 1:72	his	1	GOD_SON	GOD_FATHER	God's covenant (Benedictus)
+Luke 1:73	he	1	GOD_SON	GOD_FATHER	God's oath to Abraham (Benedictus)
+Luke 1:74	he	1	GOD_SON	GOD_FATHER	God grants deliverance (Benedictus)
+Luke 1:74	him	1	GOD_SON	GOD_FATHER	serve God (Benedictus)
+Luke 1:75	him	1	GOD_SON	GOD_FATHER	before God (Benedictus)
+Luke 2:29	thou	1	GOD_SON	GOD_FATHER	Lord addressed by Simeon
+Luke 2:29	thy	*	GOD_SON	GOD_FATHER	Lord addressed by Simeon
+Luke 2:30	thy	1	GOD_SON	GOD_FATHER	Lord addressed by Simeon
+Luke 2:31	thou	1	GOD_SON	GOD_FATHER	Lord addressed by Simeon
+Luke 2:32	thy	1	GOD_SON	GOD_FATHER	Lord addressed by Simeon
+Luke 3:22	Thou	1	GOD_FATHER	GOD_SON	the beloved Son addressed
+Luke 3:22	thee	1	GOD_FATHER	GOD_SON	the beloved Son addressed
+Luke 4:8	him	1	GOD_SON	GOD_FATHER	the Lord thy God, him only serve
+Luke 4:10	He	1	GOD_SON	GOD_FATHER	God gives angels charge (Ps 91)
+Luke 4:10	his	1	GOD_SON	GOD_FATHER	God's angels (Ps 91)
+Luke 4:18	he	*	GOD_SON	GOD_FATHER	the LORD anointed and sent me (Isa 61:1)
+Luke 4:35	him	1	GOD_SON	PRONOUN	the unclean devil rebuked
+Luke 6:35	he	1	GOD_SON	GOD_FATHER	the Highest, kind to unthankful
+Luke 7:16	his	1	GOD_SON	GOD_FATHER	God hath visited his people
+Luke 7:27	I	1	GOD_SON	GOD_FATHER	God sends messenger (Mal 3:1)
+Luke 7:27	my	1	GOD_SON	GOD_FATHER	God's messenger (Mal 3:1)
+Luke 7:33	He	1	GOD_SON	PRONOUN	John the Baptist hath a devil
+Luke 8:8	he	1	PRONOUN	GOD_SON	Jesus cried, He that hath ears
+Luke 10:16	him	1	PRONOUN	GOD_FATHER	the Father, him that sent me
+Luke 10:21	thee	1	GOD_SON	GOD_FATHER	Father addressed in prayer
+Luke 10:21	thou	1	GOD_SON	GOD_FATHER	Father addressed in prayer
+Luke 10:21	thy	1	GOD_SON	GOD_FATHER	Father addressed in prayer
+Luke 11:2	thy	1	GOD_SON	GOD_FATHER	Our Father (Lord's Prayer)
+Luke 11:2	Thy	*	GOD_SON	GOD_FATHER	Father's kingdom and will (Lord's Prayer)
+Luke 11:8	I	1	GOD_FATHER	GOD_SON	Jesus, I say unto you
+Luke 11:13	him	1	GOD_SON	GOD_FATHER	heavenly Father, them that ask him
+Luke 11:38	he	1	GOD_SON	PRONOUN	the Pharisee marvelled
+Luke 11:39	him	1	GOD_SON	PRONOUN	the Pharisee
+Luke 11:40	he	1	GOD_SON	GOD_FATHER	God who made outside and inside
+Luke 12:5	him	*	GOD_SON	GOD_FATHER	God who can cast into hell
+Luke 12:5	he	1	GOD_SON	GOD_FATHER	God who can cast into hell
+Luke 12:28	he	1	GOD_SON	GOD_FATHER	God clothing the grass
+Luke 12:54	he	1	PRONOUN	GOD_SON	Jesus speaking to the people
+Luke 13:3	I	1	GOD_FATHER	GOD_SON	Jesus, I tell you
+Luke 13:5	I	1	GOD_FATHER	GOD_SON	Jesus, I tell you
+Luke 13:6	He	1	PRONOUN	GOD_SON	Jesus spake this parable
+Luke 13:15	him	1	GOD_SON	PRONOUN	ruler of the synagogue
+Luke 14:15	him	*	GOD_FATHER	GOD_SON	Jesus, at the meal
+Luke 18:7	his	1	GOD_SON	GOD_FATHER	God's own elect
+Luke 18:7	him	1	GOD_SON	GOD_FATHER	elect cry unto God
+Luke 18:7	he	1	GOD_SON	GOD_FATHER	God bears long
+Luke 18:8	he	1	GOD_SON	GOD_FATHER	God will avenge them
+Luke 18:11	thee	1	GOD_SON	GOD_FATHER	God addressed by Pharisee
+Luke 18:41	he	1	GOD_SON	PRONOUN	the blind man said
+Luke 20:23	me	1	PRONOUN	GOD_SON	Jesus, Why tempt ye me
+Luke 20:38	he	1	GOD_SON	GOD_FATHER	God of the living
+Luke 20:38	him	1	GOD_SON	GOD_FATHER	all live unto God
+Luke 20:42	my	1	GOD_SON	PRONOUN	David's (my Lord)
+Luke 20:42	my	2	GOD_SON	GOD_FATHER	the LORD's right hand (Ps 110)
+Luke 20:43	I	1	GOD_SON	GOD_FATHER	the LORD makes enemies footstool
+Luke 22:42	thou	1	GOD_SON	GOD_FATHER	Father addressed
+Luke 22:42	thine	1	GOD_SON	GOD_FATHER	Father's will
+Luke 23:13	he	1	GOD_SON	PRONOUN	Pilate called together
+Luke 23:40	him	1	GOD_SON	PRONOUN	the railing malefactor
+Luke 23:40	thou	*	GOD_SON	PRONOUN	the railing malefactor
+Luke 23:42	he	1	GOD_SON	PRONOUN	the penitent thief
+Luke 23:43	him	1	GOD_SON	PRONOUN	the penitent thief
+Luke 23:43	thee	1	GOD_SON	PRONOUN	the penitent thief
+Luke 23:46	thy	1	GOD_SON	GOD_FATHER	Father, into thy hands
+Luke 24:18	whose	1	GOD_SON	PRONOUN	Cleopas
+John 1:18	him	1	GOD_SON	GOD_FATHER	God whom the Son declared
+John 1:33	he	1	GOD_SON	GOD_FATHER	God who sent John
+John 1:33	whom	1	GOD_FATHER	GOD_SON	Jesus on whom the Spirit remains
+John 1:33	him	1	GOD_FATHER	GOD_SON	Jesus on whom the Spirit remains
+John 1:33	he	1	GOD_FATHER	GOD_SON	Jesus who baptizeth with Holy Ghost
+John 2:17	thine	1	GOD_SON	GOD_FATHER	God's house (Ps 69:9)
+John 4:23	him	1	GOD_SON	GOD_FATHER	the Father seeketh worshippers
+John 4:24	him	*	GOD_SON	GOD_FATHER	God is a Spirit
+John 4:34	him	1	GOD_SON	GOD_FATHER	the Father, him that sent me
+John 4:34	his	1	GOD_SON	GOD_FATHER	the Father's work
+John 5:20	himself	1	GOD_SON	GOD_FATHER	the Father, that himself doeth
+John 5:20	he	1	GOD_SON	GOD_FATHER	the Father will shew him
+John 5:24	him	1	GOD_SON	GOD_FATHER	the Father, him that sent me
+John 5:26	himself	1	GOD_SON	GOD_FATHER	Father hath life in himself
+John 5:26	he	1	GOD_SON	GOD_FATHER	Father hath given to the Son
+John 5:37	himself	1	GOD_SON	GOD_FATHER	the Father himself
+John 5:37	his	*	GOD_SON	GOD_FATHER	the Father's voice and shape
+John 5:38	his	1	GOD_SON	GOD_FATHER	the Father's word
+John 5:38	he	1	GOD_SON	GOD_FATHER	the Father hath sent
+John 6:15	him	1	GOD_FATHER	GOD_SON	Jesus, take him by force
+John 6:29	he	1	GOD_SON	GOD_FATHER	God, whom he hath sent
+John 6:38	him	1	GOD_SON	GOD_FATHER	the Father, him that sent me
+John 6:39	he	1	GOD_SON	GOD_FATHER	the Father hath given me
+John 6:40	him	1	GOD_SON	GOD_FATHER	the Father, him that sent me
+John 6:42	I	1	PRONOUN	GOD_SON	Jesus's saying quoted
+John 6:71	him	1	PRONOUN	GOD_SON	Jesus, whom Judas would betray
+John 7:16	his	1	GOD_SON	GOD_FATHER	the Father, his that sent me
+John 7:17	his	1	GOD_SON	GOD_FATHER	God's will
+John 7:18	his	1	GOD_SON	GOD_FATHER	glory of the one that sent him
+John 7:28	he	2	GOD_SON	GOD_FATHER	the Father, he that sent me
+John 7:28	whom	1	GOD_SON	GOD_FATHER	the Father, whom ye know not
+John 7:29	him	*	GOD_SON	GOD_FATHER	the Father, I know him
+John 7:29	he	1	GOD_SON	GOD_FATHER	the Father hath sent me
+John 7:33	him	1	GOD_SON	GOD_FATHER	the Father, him that sent me
+John 7:36	me	*	GOD_FATHER	GOD_SON	Jesus's saying quoted
+John 7:36	I	1	GOD_FATHER	GOD_SON	Jesus's saying quoted
+John 8:22	I	1	PRONOUN	GOD_SON	Jesus's saying quoted
+John 8:26	he	1	GOD_SON	GOD_FATHER	the Father, he that sent me
+John 8:26	him	1	GOD_SON	GOD_FATHER	the Father, heard of him
+John 8:29	he	1	GOD_SON	GOD_FATHER	the Father, he that sent me
+John 8:29	him	1	GOD_SON	GOD_FATHER	please the Father
+John 8:42	he	1	GOD_SON	GOD_FATHER	God sent me
+John 8:54	whom	1	GOD_SON	GOD_FATHER	the Father whom ye call God
+John 8:54	he	1	GOD_SON	GOD_FATHER	the Father whom ye call God
+John 8:55	him	*	GOD_SON	GOD_FATHER	the Father, I know him
+John 8:55	his	1	GOD_SON	GOD_FATHER	the Father's saying
+John 8:56	he	1	GOD_SON	PRONOUN	Abraham saw it
+John 9:4	him	1	GOD_SON	GOD_FATHER	the Father, him that sent me
+John 9:31	his	1	GOD_SON	GOD_FATHER	God's will
+John 9:31	he	1	GOD_SON	GOD_FATHER	God heareth
+John 9:40	him	1	PRONOUN	GOD_SON	Jesus addressed by Pharisees
+John 10:38	him	1	GOD_SON	GOD_FATHER	I in the Father
+John 11:41	thee	1	GOD_SON	GOD_FATHER	Father addressed
+John 11:41	thou	1	GOD_SON	GOD_FATHER	Father addressed
+John 11:42	thou	*	GOD_SON	GOD_FATHER	Father addressed
+John 12:17	he	1	PRONOUN	GOD_SON	Jesus called Lazarus
+John 12:28	thy	1	GOD_SON	GOD_FATHER	Father, glorify thy name
+John 12:44	him	1	GOD_SON	GOD_FATHER	the Father, him that sent me
+John 12:45	him	1	GOD_SON	GOD_FATHER	the Father, him that sent me
+John 12:49	he	1	GOD_SON	GOD_FATHER	the Father gave commandment
+John 12:50	his	1	GOD_SON	GOD_FATHER	the Father's commandment
+John 13:6	him	1	PRONOUN	GOD_SON	Jesus, Peter saith unto him
+John 13:20	him	1	GOD_SON	GOD_FATHER	the Father, him that sent me
+John 14:7	him	*	GOD_SON	GOD_FATHER	the Father known and seen
+John 14:10	he	1	GOD_SON	GOD_FATHER	the Father doeth the works
+John 14:16	he	1	GOD_SON	GOD_FATHER	the Father shall give
+John 14:16	he	2	GOD_SON	GOD_SPIRIT	the Comforter abides
+John 14:17	whom	1	GOD_SON	GOD_SPIRIT	the Spirit of truth
+John 14:17	him	*	GOD_SON	GOD_SPIRIT	the Spirit of truth
+John 14:17	he	1	GOD_SON	GOD_SPIRIT	the Spirit of truth
+John 14:22	him	1	PRONOUN	GOD_SON	Jesus addressed by Judas
+John 14:26	whom	1	GOD_SON	GOD_SPIRIT	the Holy Ghost
+John 14:26	he	1	GOD_SON	GOD_SPIRIT	the Holy Ghost
+John 15:2	he	*	GOD_SON	GOD_FATHER	the Father, the husbandman
+John 15:10	his	1	GOD_SON	GOD_FATHER	the Father's love
+John 15:16	he	1	GOD_SON	GOD_FATHER	the Father gives
+John 15:21	him	1	GOD_SON	GOD_FATHER	the Father, him that sent me
+John 15:26	whom	1	GOD_SON	GOD_SPIRIT	the Comforter
+John 15:26	he	1	GOD_SON	GOD_SPIRIT	the Comforter
+John 16:5	him	1	GOD_SON	GOD_FATHER	the Father, him that sent me
+John 16:7	him	1	GOD_SON	GOD_SPIRIT	the Comforter
+John 16:8	he	*	GOD_SON	GOD_SPIRIT	the Comforter
+John 16:13	he	*	GOD_SON	GOD_SPIRIT	the Spirit of truth
+John 16:13	himself	1	GOD_SON	GOD_SPIRIT	the Spirit of truth
+John 16:14	He	1	GOD_SON	GOD_SPIRIT	the Spirit glorifies Christ
+John 16:14	he	1	GOD_SON	GOD_SPIRIT	the Spirit receives of mine
+John 16:15	he	1	GOD_SON	GOD_SPIRIT	the Spirit shall take of mine
+John 16:23	he	1	GOD_SON	GOD_FATHER	the Father will give
+John 16:27	himself	1	GOD_SON	GOD_FATHER	the Father himself loveth you
+John 17:1	thy	*	GOD_SON	GOD_FATHER	Father addressed (thy Son)
+John 17:1	thee	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:2	thou	*	GOD_SON	GOD_FATHER	Father addressed
+John 17:3	thee	1	GOD_SON	GOD_FATHER	Father, the only true God
+John 17:3	thou	1	GOD_SON	GOD_FATHER	Father hath sent
+John 17:4	thee	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:4	thou	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:5	thou	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:5	thine	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:5	thee	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:6	thy	*	GOD_SON	GOD_FATHER	Father addressed
+John 17:6	thou	*	GOD_SON	GOD_FATHER	Father addressed
+John 17:6	thine	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:7	thou	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:7	thee	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:8	thou	*	GOD_SON	GOD_FATHER	Father addressed
+John 17:8	thee	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:9	thou	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:9	thine	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:10	thine	*	GOD_SON	GOD_FATHER	Father addressed
+John 17:11	thee	1	GOD_SON	GOD_FATHER	Holy Father addressed
+John 17:11	thine	1	GOD_SON	GOD_FATHER	Holy Father addressed
+John 17:11	thou	1	GOD_SON	GOD_FATHER	Holy Father addressed
+John 17:12	thy	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:12	thou	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:13	thee	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:14	thy	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:15	thou	*	GOD_SON	GOD_FATHER	Father addressed
+John 17:17	thy	*	GOD_SON	GOD_FATHER	Father addressed
+John 17:18	thou	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:21	thou	*	GOD_SON	GOD_FATHER	Father addressed
+John 17:21	thee	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:22	thou	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:23	thou	*	GOD_SON	GOD_FATHER	Father addressed
+John 17:24	thou	*	GOD_SON	GOD_FATHER	Father addressed
+John 17:25	thee	*	GOD_SON	GOD_FATHER	righteous Father addressed
+John 17:25	thou	1	GOD_SON	GOD_FATHER	righteous Father addressed
+John 17:26	thy	1	GOD_SON	GOD_FATHER	Father addressed
+John 17:26	thou	1	GOD_SON	GOD_FATHER	Father addressed
+John 18:9	thou	1	GOD_SON	GOD_FATHER	Father, them which thou gavest me
+John 19:24	my	*	GOD_FATHER	GOD_SON	Christ's raiment (Ps 22 fulfilled)
+Revelation 1:4	him	1	GOD_SON	GOD_FATHER	the Father, which is, was, is to come
+Revelation 1:4	his	1	GOD_SON	GOD_FATHER	the Father's throne
+Revelation 3:5	his	1	GOD_SON	GOD_FATHER	my Father's angels
+Revelation 3:21	his	1	GOD_SON	GOD_FATHER	my Father's throne
+Revelation 4:3	he	1	GOD_SON	GOD_FATHER	him that sat on the throne
+Revelation 4:9	him	1	GOD_SON	GOD_FATHER	him that sat on the throne
+Revelation 4:9	who	1	GOD_SON	GOD_FATHER	him that sat on the throne
+Revelation 4:10	him	*	GOD_SON	GOD_FATHER	him that sat on the throne
+Revelation 4:11	Thou	1	GOD_SON	GOD_FATHER	Lord God the Creator on throne
+Revelation 4:11	thou	1	GOD_SON	GOD_FATHER	Lord God the Creator on throne
+Revelation 4:11	thy	1	GOD_SON	GOD_FATHER	Lord God the Creator on throne
+Revelation 5:1	him	1	GOD_SON	GOD_FATHER	him that sat on the throne
+Revelation 5:7	him	1	GOD_SON	GOD_FATHER	throne-sitter, distinct from the Lamb
+Revelation 5:13	him	1	GOD_SON	GOD_FATHER	throne-sitter, distinct from the Lamb
+Revelation 5:14	him	1	GOD_SON	GOD_FATHER	him that liveth for ever (as 4:9-10)
+Revelation 6:16	him	1	GOD_SON	GOD_FATHER	throne-sitter, distinct from the Lamb
+Revelation 7:15	him	1	GOD_SON	GOD_FATHER	God on the throne
+Revelation 7:15	his	1	GOD_SON	GOD_FATHER	God's temple
+Revelation 7:15	he	1	GOD_SON	GOD_FATHER	he that sitteth on the throne
+Revelation 10:6	him	1	GOD_SON	GOD_FATHER	him that liveth for ever, Creator
+Revelation 10:6	who	1	GOD_SON	GOD_FATHER	him that liveth for ever, Creator
+Revelation 10:7	he	1	GOD_SON	GOD_FATHER	God declared to prophets
+Revelation 10:7	his	1	GOD_SON	GOD_FATHER	God's servants the prophets
+Revelation 11:15	his	1	GOD_SON	GOD_FATHER	the Lord's Christ (Ps 2:2)
+Revelation 11:17	thee	*	GOD_SON	GOD_FATHER	Lord God Almighty addressed
+Revelation 11:17	thou	1	GOD_SON	GOD_FATHER	Lord God Almighty addressed
+Revelation 11:17	thy	1	GOD_SON	GOD_FATHER	Lord God Almighty addressed
+Revelation 11:18	thy	*	GOD_SON	GOD_FATHER	Lord God Almighty addressed
+Revelation 11:18	thou	1	GOD_SON	GOD_FATHER	Lord God Almighty addressed
+Revelation 11:19	his	*	GOD_SON	GOD_FATHER	God's temple and testament
+Revelation 12:5	his	1	GOD_SON	GOD_FATHER	God's throne
+Revelation 12:10	his	1	GOD_SON	GOD_FATHER	God's Christ
+Revelation 13:6	his	*	GOD_SON	GOD_FATHER	God's name and tabernacle
+Revelation 14:7	him	*	GOD_SON	GOD_FATHER	God the Creator
+Revelation 14:7	his	1	GOD_SON	GOD_FATHER	God's judgment
+Revelation 14:10	his	1	GOD_SON	GOD_FATHER	God's indignation
+Revelation 15:3	thy	*	GOD_SON	GOD_FATHER	Lord God Almighty addressed
+Revelation 15:3	thou	1	GOD_SON	GOD_FATHER	Lord God Almighty addressed
+Revelation 15:4	thee	*	GOD_SON	GOD_FATHER	Lord God Almighty addressed
+Revelation 15:4	thy	*	GOD_SON	GOD_FATHER	Lord God Almighty addressed
+Revelation 15:4	thou	1	GOD_SON	GOD_FATHER	Lord God Almighty addressed
+Revelation 15:7	who	1	GOD_SON	GOD_FATHER	God who liveth for ever
+Revelation 15:8	his	1	GOD_SON	GOD_FATHER	God's power
+Revelation 16:5	Thou	1	GOD_SON	GOD_FATHER	Lord which art and wast
+Revelation 16:5	thou	1	GOD_SON	GOD_FATHER	Lord which art and wast
+Revelation 16:6	thou	1	GOD_SON	GOD_FATHER	Lord which art and wast
+Revelation 16:7	thy	1	GOD_SON	GOD_FATHER	Lord God Almighty's judgments
+Revelation 16:9	him	1	GOD_SON	GOD_FATHER	God over these plagues
+Revelation 16:19	his	1	PRONOUN	GOD_FATHER	God's wrath
+Revelation 17:17	his	1	GOD_SON	GOD_FATHER	God's will
+Revelation 18:8	who	1	GOD_SON	GOD_FATHER	the Lord God who judgeth
+Revelation 19:2	his	*	GOD_SON	GOD_FATHER	God's judgments and servants
+Revelation 19:2	he	1	GOD_SON	GOD_FATHER	God hath judged the whore
+Revelation 19:5	his	1	GOD_SON	GOD_FATHER	our God's servants
+Revelation 19:5	him	1	GOD_SON	GOD_FATHER	our God, ye that fear him
+Revelation 19:7	him	1	GOD_SON	GOD_FATHER	the Lord God omnipotent (19:6)
+Revelation 21:3	he	1	GOD_SON	GOD_FATHER	God will dwell with them
+Revelation 21:3	his	1	GOD_SON	GOD_FATHER	God's people
+Revelation 21:3	himself	1	GOD_SON	GOD_FATHER	God himself
+Revelation 21:5	he	*	GOD_SON	GOD_FATHER	he that sat upon the throne
+Revelation 21:6	he	1	GOD_SON	GOD_FATHER	throne-sitter, Alpha and Omega

@@ -73,7 +73,7 @@ its colored uses this is, how often the same word is left uncolored, and every v
 | sister | 107 | 100% | 0 |  |
 | prince | 97 | 97% | 0 | GOD_SON 3 |
 | saints | 96 | 100% | 0 |  |
-| master | 95 | 61% | 0 | GOD_SON 59, GOD_FATHER 1, GOD_SPIRIT 1 |
+| master | 95 | 61% | 0 | GOD_SON 60, GOD_FATHER 1 |
 | young | 89 | 77% | 0 | GENERAL_TIME 17, ANIMAL 10 |
 | young men | 88 | 100% | - |  |
 | ruler | 84 | 100% | 0 |  |
@@ -886,7 +886,7 @@ its colored uses this is, how often the same word is left uncolored, and every v
 | manservants | 1 | 100% | 0 |  |
 | manslayers | 1 | 100% | 0 |  |
 | martyrs | 1 | 100% | 0 |  |
-| Master | 1 | 61% | 0 | GOD_SON 59, GOD_FATHER 1, GOD_SPIRIT 1 |
+| Master | 1 | 61% | 0 | GOD_SON 60, GOD_FATHER 1 |
 | masterbuilder | 1 | 100% | 0 |  |
 | Masters | 1 | 100% | 0 |  |
 | mean | 1 | 100% | 21 |  |

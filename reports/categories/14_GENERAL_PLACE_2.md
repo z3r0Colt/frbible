@@ -97,7 +97,7 @@ its colored uses this is, how often the same word is left uncolored, and every v
 | lowest | 7 | 88% | 3 | GENERAL_PLACE_1 1 |
 | wither | 7 | 100% | 4 |  |
 | herein | 6 | 100% | 0 |  |
-| highest | 6 | 55% | 7 | GOD_SON 4, GOD_FATHER 1 |
+| highest | 6 | 55% | 7 | GOD_FATHER 5 |
 | narrow | 6 | 67% | 0 | GENERAL_PLACE_1 3 |
 | rereward | 6 | 100% | 0 |  |
 | face | 5 | 56% | 407 | GENERAL_PLACE_1 4 |
