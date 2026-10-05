@@ -18240,8 +18240,9 @@
 },
 "holy one": {
 "colors": {
-"GOD_FATHER": 48,
-"ANGELIC": 2
+"GOD_FATHER": 43,
+"ANGELIC": 2,
+"GOD_SON": 5
 },
 "uncolored": 0
 },
@@ -23962,9 +23963,9 @@
 },
 "man": {
 "colors": {
-"GENERAL_PEOPLE": 2400,
+"GENERAL_PEOPLE": 2399,
 "GOD_FATHER": 1,
-"GOD_SON": 11
+"GOD_SON": 12
 },
 "uncolored": 0
 },

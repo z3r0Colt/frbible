@@ -42,7 +42,7 @@ meaning 'in this way'). Words never colored are not listed.
 | by | 32 | 2593 | 1% | GENERAL_PLACE_2 32 |
 | you | 2616 | 0 | 100% | PRONOUN 2614, GOD_FATHER 2 |
 | israel | 2565 | 0 | 100% | PROPER_PLACE 1688, PEOPLE_GROUP 711, PROPER_PERSON 166 |
-| man | 2412 | 0 | 100% | GENERAL_PEOPLE 2400, GOD_SON 11, GOD_FATHER 1 |
+| man | 2412 | 0 | 100% | GENERAL_PEOPLE 2399, GOD_SON 12, GOD_FATHER 1 |
 | up | 706 | 1674 | 30% | GENERAL_PLACE_2 706 |
 | there | 567 | 1730 | 25% | GENERAL_PLACE_2 566, GENERAL_PLACE_1 1 |
 | king | 2256 | 0 | 100% | GENERAL_PEOPLE 2193, GOD_FATHER 38, GOD_SON 25 |

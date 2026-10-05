@@ -1,10 +1,10 @@
 # God the Son  `GOD_SON`  (#6a2ea6)
 
 - Legend examples (from the PDF's Color Code page): Son, Jesus, Christ, Saviour, Lamb, Lion, Emmanuel
-- Occurrences: **7,405** across **3,475** verses (11.1% of all verses)
-- Distinct terms: **132**
+- Occurrences: **7,411** across **3,476** verses (11.1% of all verses)
+- Distinct terms: **133**
 - Occurrences inside words of Christ (red letter): 2,047
-- Voice layer of occurrences: narration 4,000, speech 2,980, quote 192, speech2 132, divine 64, emphasis 35, speech3 2
+- Voice layer of occurrences: narration 4,000, speech 2,984, quote 194, speech2 132, divine 64, emphasis 35, speech3 2
 
 Each term is listed with how many times it carries this color, what share of all
 its colored uses this is, how often the same word is left uncolored, and every verse.
@@ -43,8 +43,8 @@ its colored uses this is, how often the same word is left uncolored, and every v
 | us | 15 | 1% | 0 | PRONOUN 1423, GOD_FATHER 14 |
 | we | 14 | 1% | 1 | PRONOUN 1819, GOD_FATHER 9 |
 | thyself | 13 | 6% | 0 | PRONOUN 177, GOD_FATHER 25 |
+| man | 12 | 0% | 0 | GENERAL_PEOPLE 2399, GOD_FATHER 1 |
 | Son of David | 12 | 100% | - |  |
-| man | 11 | 0% | 0 | GENERAL_PEOPLE 2400, GOD_FATHER 1 |
 | whose | 11 | 4% | 0 | PRONOUN 276, GOD_FATHER 27 |
 | Lord | 10 | 0% | 0 | GOD_FATHER 7569, GENERAL_PEOPLE 249 |
 | His | 7 | 7% | 0 | PRONOUN 6554, GOD_FATHER 1366 |
@@ -52,6 +52,7 @@ its colored uses this is, how often the same word is left uncolored, and every v
 | JESUS | 6 | 100% | 0 | PROPER_PERSON 3, DEMONIC 1 |
 | light | 6 | 100% | 262 |  |
 | Thy | 6 | 2% | 0 | PRONOUN 3406, GOD_FATHER 1099 |
+| Holy One | 5 | 10% | - | GOD_FATHER 43, ANGELIC 2 |
 | Angel | 4 | 26% | 0 | ANGELIC 148 |
 | Highest | 4 | 36% | 7 | GENERAL_PLACE_2 6, GOD_FATHER 1 |
 | KING | 4 | 1% | 0 | GENERAL_PEOPLE 2193, GOD_FATHER 38 |
@@ -238,11 +239,11 @@ Matt 20:18 | Mark 4:30; 10:33 | Luke 18:31; 22:8 | John 3:11; 4:22; 6:5; 14:23; 
 ### thyself (13)
 Matt 4:6; 27:40 | Mark 15:30 | Luke 4:9, 23; 7:6; 23:37, 39 | John 7:4; 8:13, 53; 10:33; 14:22
 
+### man (12)
+Josh 5:13 | Judg 13:6, 8, 10, 11 | Zech 1:8, 10 | Matt 27:19 | John 9:24, 33 | Acts 17:31
+
 ### Son of David (12)
 Matt 9:27; 15:22; 20:30, 31; 21:9, 15; 22:42 | Mark 10:47, 48; 12:35 | Luke 18:38, 39
-
-### man (11)
-Josh 5:13 | Judg 13:6, 8, 10, 11 | Zech 1:8, 10 | Matt 27:19 | John 9:24, 33
 
 ### whose (11)
 Matt 3:11, 12 | Mark 1:7 | Luke 3:16, 17; 24:18 | John 1:27; 6:42 | Acts 13:25 | 1Pet 2:24 | Rev 20:11
@@ -264,6 +265,9 @@ John 8:12; 12:35, 36
 
 ### Thy (6)
 Matt 6:10 | Luke 8:20; 11:2 | Heb 1:8
+
+### Holy One (5)
+Mark 1:24 | Luke 4:34 | Acts 2:27; 3:14; 13:35
 
 ### Angel (4)
 Gen 48:16 | Exod 23:20, 23; 32:34

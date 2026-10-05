@@ -24,7 +24,7 @@ its colored uses this is, how often the same word is left uncolored, and every v
 | Gabriel | 4 | 100% | 0 |  |
 | angel's | 2 | 100% | 0 |  |
 | archangel | 2 | 100% | 0 |  |
-| holy one | 2 | 4% | - | GOD_FATHER 48 |
+| holy one | 2 | 4% | - | GOD_FATHER 43, GOD_SON 5 |
 | host | 2 | 1% | 23 | GENERAL_PEOPLE 166 |
 | seraphims | 2 | 100% | 0 |  |
 | watcher | 2 | 100% | 0 |  |

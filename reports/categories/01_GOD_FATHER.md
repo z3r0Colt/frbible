@@ -1,10 +1,10 @@
 # God the Father  `GOD_FATHER`  (#7a36bf)
 
 - Legend examples (from the PDF's Color Code page): Father, God, LORD, Almighty, Jehovah, Redeemer
-- Occurrences: **24,623** across **12,149** verses (38.9% of all verses)
+- Occurrences: **24,618** across **12,148** verses (38.9% of all verses)
 - Distinct terms: **107**
 - Occurrences inside words of Christ (red letter): 442
-- Voice layer of occurrences: speech 10,874, divine 7,439, narration 5,402, speech2 570, quote 315, emphasis 13, speech3 10
+- Voice layer of occurrences: speech 10,871, divine 7,439, narration 5,402, speech2 570, quote 313, emphasis 13, speech3 10
 
 Each term is listed with how many times it carries this color, what share of all
 its colored uses this is, how often the same word is left uncolored, and every verse.
@@ -35,8 +35,8 @@ its colored uses this is, how often the same word is left uncolored, and every v
 | LORD'S | 108 | 93% | 0 | GENERAL_PEOPLE 9 |
 | Almighty | 56 | 98% | 0 | GOD_SON 1 |
 | most high | 49 | 100% | - |  |
-| Holy One | 48 | 96% | - | ANGELIC 2 |
 | whom | 47 | 6% | 1 | PRONOUN 643, GOD_SON 70, GOD_SPIRIT 1 |
+| Holy One | 43 | 86% | - | GOD_SON 5, ANGELIC 2 |
 | himself | 42 | 8% | 0 | PRONOUN 411, GOD_SON 74 |
 | King | 36 | 2% | 0 | GENERAL_PEOPLE 2193, GOD_SON 25 |
 | Thy | 31 | 24% | 0 | PRONOUN 3406, GOD_SON 97 |
@@ -101,7 +101,7 @@ its colored uses this is, how often the same word is left uncolored, and every v
 | king | 1 | 2% | 0 | GENERAL_PEOPLE 2193, GOD_SON 25 |
 | KING | 1 | 2% | 0 | GENERAL_PEOPLE 2193, GOD_SON 25 |
 | lofty | 1 | 100% | 7 |  |
-| man | 1 | 0% | 0 | GENERAL_PEOPLE 2400, GOD_SON 11 |
+| man | 1 | 0% | 0 | GENERAL_PEOPLE 2399, GOD_SON 12 |
 | master | 1 | 1% | 0 | GENERAL_PEOPLE 96, GOD_SON 59, GOD_SPIRIT 1 |
 | men | 1 | 0% | 0 | GENERAL_PEOPLE 1431 |
 | mighty | 1 | 6% | 171 | GENERAL_PEOPLE 30, QUANTITY 1 |
@@ -189,11 +189,11 @@ Gen 17:1; 28:3; 35:11; 43:14; 48:3; 49:25 | Exod 6:3 | Num 24:4, 16 | Ruth 1:20,
 ### most high (49)
 Gen 14:18, 19, 20, 22 | Num 24:16 | Deut 32:8 | 2Sam 22:14 | Ps 7:17; 9:2; 21:7; 46:4; 47:2; 50:14; 56:2; 57:2; 73:11; 77:10; 78:17, 56; 82:6; 83:18; 91:1, 9; 92:1, 8; 107:11 | Isa 14:14 | Lam 3:35, 38 | Dan 3:26; 4:17, 24, 25, 32, 34; 5:18, 21; 7:18, 22, 25, 27 | Hos 7:16; 11:7 | Mark 5:7 | Luke 8:28 | Acts 7:48; 16:17 | Heb 7:1
 
-### Holy One (48)
-2Kgs 19:22 | Job 6:10 | Ps 16:10; 71:22; 78:41; 89:18 | Isa 1:4; 5:19, 24; 10:17, 20; 12:6; 17:7; 29:19, 23; 30:11, 12, 15; 31:1; 37:23; 40:25; 41:14, 16, 20; 43:3, 14, 15; 45:11; 47:4; 48:17; 49:7; 54:5; 55:5; 60:9, 14 | Jer 50:29; 51:5 | Ezek 39:7 | Hos 11:9 | Hab 1:12; 3:3 | Mark 1:24 | Luke 4:34 | Acts 2:27; 3:14; 13:35 | 1John 2:20
-
 ### whom (47)
 Gen 2:8; 24:40 | 1Sam 17:45 | 1Kgs 17:1; 18:15 | 2Kgs 3:14; 19:10 | Job 19:27 | Ps 18:2; 94:1; 144:2 | Isa 37:10; 42:1, 24 | Jer 42:6, 9 | Lam 4:20 | Dan 3:17; 6:16, 20 | Zech 12:10 | Matt 3:17 | John 1:33 | Acts 27:23 | Rom 1:9; 4:17; 10:14; 11:36 | 1Cor 1:9; 8:6 | 2Cor 1:10 | Gal 1:5 | Eph 3:15 | 1Tim 6:16 | 2Tim 1:3, 12; 4:18 | Heb 2:10; 4:13; 13:21 | Jas 1:17 | 1Pet 4:11
+
+### Holy One (43)
+2Kgs 19:22 | Job 6:10 | Ps 16:10; 71:22; 78:41; 89:18 | Isa 1:4; 5:19, 24; 10:17, 20; 12:6; 17:7; 29:19, 23; 30:11, 12, 15; 31:1; 37:23; 40:25; 41:14, 16, 20; 43:3, 14, 15; 45:11; 47:4; 48:17; 49:7; 54:5; 55:5; 60:9, 14 | Jer 50:29; 51:5 | Ezek 39:7 | Hos 11:9 | Hab 1:12; 3:3 | 1John 2:20
 
 ### himself (42)
 Gen 22:8 | Num 16:9 | Deut 7:6; 14:2; 28:9; 29:13; 32:36 | Josh 22:23 | 1Sam 3:21; 10:19 | 2Sam 7:23 | 2Chr 13:12; 16:9 | Job 23:9; 34:14 | Ps 4:3; 50:6; 87:5; 93:1; 113:6; 135:4, 14 | Prov 16:4 | Isa 7:14; 8:13; 38:15; 44:23; 45:18; 63:12 | Jer 51:14 | Dan 9:26 | Hos 5:6 | Amos 6:8 | Acts 14:17 | 2Cor 5:18, 19 | Eph 1:5, 9 | Col 1:20 | 1Thess 3:11 | 2Thess 3:16 | Heb 6:13

@@ -209990,7 +209990,7 @@ Mark 1:24,Mark,1,24,I,PRONOUN,speech,0,PRONOUN
 Mark 1:24,Mark,1,24,thee,GOD_SON,speech,0,GOD_SON
 Mark 1:24,Mark,1,24,who,GOD_SON,speech,0,GOD_SON
 Mark 1:24,Mark,1,24,thou,GOD_SON,speech,0,GOD_SON
-Mark 1:24,Mark,1,24,Holy One,GOD_FATHER,speech,0,GOD_FATHER
+Mark 1:24,Mark,1,24,Holy One,GOD_SON,speech,0,GOD_FATHER
 Mark 1:24,Mark,1,24,God,GOD_FATHER,speech,0,GOD_FATHER
 Mark 1:25,Mark,1,25,Jesus,GOD_SON,narration,0,GOD_SON
 Mark 1:25,Mark,1,25,him,PRONOUN,narration,0,PRONOUN
@@ -216098,7 +216098,7 @@ Luke 4:34,Luke,4,34,I,PRONOUN,speech,0,PRONOUN
 Luke 4:34,Luke,4,34,thee,GOD_SON,speech,0,GOD_SON
 Luke 4:34,Luke,4,34,who,GOD_SON,speech,0,GOD_SON
 Luke 4:34,Luke,4,34,thou,GOD_SON,speech,0,GOD_SON
-Luke 4:34,Luke,4,34,Holy One,GOD_FATHER,speech,0,GOD_FATHER
+Luke 4:34,Luke,4,34,Holy One,GOD_SON,speech,0,GOD_FATHER
 Luke 4:34,Luke,4,34,God,GOD_FATHER,speech,0,GOD_FATHER
 Luke 4:35,Luke,4,35,Jesus,GOD_SON,narration,0,GOD_SON
 Luke 4:35,Luke,4,35,him,GOD_SON,narration,0,GOD_SON
@@ -229823,7 +229823,7 @@ Acts 2:27,Acts,2,27,my,GOD_SON,quote,0,PRONOUN
 Acts 2:27,Acts,2,27,hell,GENERAL_PLACE_1,quote,0,GENERAL_PLACE_1
 Acts 2:27,Acts,2,27,thou,GOD_FATHER,quote,0,GOD_SON
 Acts 2:27,Acts,2,27,thine,GOD_FATHER,quote,0,GOD_SON
-Acts 2:27,Acts,2,27,Holy One,GOD_FATHER,quote,0,GOD_FATHER
+Acts 2:27,Acts,2,27,Holy One,GOD_SON,quote,0,GOD_FATHER
 Acts 2:28,Acts,2,28,Thou,GOD_FATHER,quote,0,GOD_SON
 Acts 2:28,Acts,2,28,me,GOD_SON,quote,0,PRONOUN
 Acts 2:28,Acts,2,28,ways,GENERAL_PLACE_1,quote,0,GENERAL_PLACE_1
@@ -230066,7 +230066,7 @@ Acts 3:13,Acts,3,13,when,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 3:13,Acts,3,13,he,PRONOUN,speech,0,PRONOUN
 Acts 3:13,Acts,3,13,him,GOD_SON,speech,0,GOD_SON
 Acts 3:14,Acts,3,14,ye,PRONOUN,speech,0,PRONOUN
-Acts 3:14,Acts,3,14,Holy One,GOD_FATHER,speech,0,GOD_FATHER
+Acts 3:14,Acts,3,14,Holy One,GOD_SON,speech,0,GOD_FATHER
 Acts 3:14,Acts,3,14,Just,GOD_SON,speech,0,GOD_SON
 Acts 3:14,Acts,3,14,murderer,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 3:14,Acts,3,14,you,PRONOUN,speech,0,PRONOUN
@@ -233167,7 +233167,7 @@ Acts 13:35,Acts,13,35,he,PRONOUN,speech,0,PRONOUN
 Acts 13:35,Acts,13,35,another,QUANTITY,speech,0,QUANTITY
 Acts 13:35,Acts,13,35,Thou,GOD_FATHER,quote,0,GOD_SON
 Acts 13:35,Acts,13,35,thine,GOD_FATHER,quote,0,GOD_SON
-Acts 13:35,Acts,13,35,Holy One,GOD_FATHER,quote,0,GOD_FATHER
+Acts 13:35,Acts,13,35,Holy One,GOD_SON,quote,0,GOD_FATHER
 Acts 13:36,Acts,13,36,David,PROPER_PERSON,speech,0,PROPER_PERSON
 Acts 13:36,Acts,13,36,after,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 13:36,Acts,13,36,he,PRONOUN,speech,0,PRONOUN
@@ -234330,7 +234330,7 @@ Acts 17:31,Acts,17,31,he,GOD_FATHER,speech,0,GOD_SON
 Acts 17:31,Acts,17,31,day,SPECIFIC_TIME,speech,0,SPECIFIC_TIME
 Acts 17:31,Acts,17,31,he,GOD_FATHER,speech,0,GOD_SON
 Acts 17:31,Acts,17,31,world,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
-Acts 17:31,Acts,17,31,man,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
+Acts 17:31,Acts,17,31,man,GOD_SON,speech,0,GENERAL_PEOPLE
 Acts 17:31,Acts,17,31,whom,GOD_SON,speech,0,GOD_SON
 Acts 17:31,Acts,17,31,he,GOD_FATHER,speech,0,GOD_SON
 Acts 17:31,Acts,17,31,he,GOD_FATHER,speech,0,GOD_SON

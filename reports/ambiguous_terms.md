@@ -88,8 +88,8 @@ deliberate (see COLOR_GUIDE.md) and sometimes inconsistencies in the source.
 - **PROPER_PERSON** 166 (6%) : Gen 32:28, 32; 35:10, 21, 22; 36:31; 37:3, 13; 42:5; 43:6
 
 ## man  (2412 colored uses, 0 uncolored)
-- **GENERAL_PEOPLE** 2400 (100%) : Gen 1:26, 27; 2:5, 7, 8, 15, 16, 18, 22, 23
-- **GOD_SON** 11 (0%) : Josh 5:13 | Judg 13:6, 8, 10, 11 | Zech 1:8, 10 | Matt 27:19 | John 9:24, 33
+- **GENERAL_PEOPLE** 2399 (99%) : Gen 1:26, 27; 2:5, 7, 8, 15, 16, 18, 22, 23
+- **GOD_SON** 12 (0%) : Josh 5:13 | Judg 13:6, 8, 10, 11 | Zech 1:8, 10 | Matt 27:19 | John 9:24, 33 | Acts 17:31
 - **GOD_FATHER** 1 (0%) : Gen 32:24
 
 ## king  (2256 colored uses, 0 uncolored)
@@ -727,7 +727,8 @@ deliberate (see COLOR_GUIDE.md) and sometimes inconsistencies in the source.
 - **PROPER_PLACE** 9 (18%) : Deut 34:2 | Josh 20:7 | 1Kgs 4:15; 15:20 | 2Kgs 15:29 | 1Chr 12:40 | 2Chr 16:4; 34:6 | Isa 9:1
 
 ## holy one  (50 colored uses, 0 uncolored)
-- **GOD_FATHER** 48 (96%) : 2Kgs 19:22 | Job 6:10 | Ps 16:10; 71:22; 78:41; 89:18 | Isa 1:4; 5:19, 24; 10:17, 20; 12:6
+- **GOD_FATHER** 43 (86%) : 2Kgs 19:22 | Job 6:10 | Ps 16:10; 71:22; 78:41; 89:18 | Isa 1:4; 5:19, 24; 10:17, 20; 12:6
+- **GOD_SON** 5 (10%) : Mark 1:24 | Luke 4:34 | Acts 2:27; 3:14; 13:35
 - **ANGELIC** 2 (4%) : Dan 4:13, 23
 
 ## ends  (49 colored uses, 2 uncolored)
