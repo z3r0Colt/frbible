@@ -11,6 +11,7 @@ Outputs (in data/):
 """
 import collections
 import csv
+import glob
 import json
 import os
 import re
@@ -124,6 +125,51 @@ def overview_groups(doc):
     return groups
 
 
+def seg_term(text):
+    return text.strip(" ,.;:?!()\u2019'")
+
+
+def apply_corrections(verses):
+    """Apply tools/corrections/*.tsv. Returns {(verse_key, seg_index): original_tag}.
+
+    Each row names a verse, a term, which match of (term, from-color) to change
+    (1-based, or * for all), and the new color. Files apply in name order. A row that matches nothing is an
+    error, so a typo can never silently do nothing.
+    """
+    index = {f"{b} {c}:{v}": (b, c, v) for (b, c, v) in verses}
+    orig, errors = {}, []
+    files = sorted(glob.glob(os.path.join(os.path.dirname(__file__), "corrections", "*.tsv")))
+    for path in files:
+        # Resolve every row of a file against the colors as they stood before
+        # that file, so "him #1" and "him #2" mean the same words they did when
+        # the file was written.
+        changes = []
+        for n, line in enumerate(open(path, encoding="utf-8"), 1):
+            if not line.strip() or line.startswith("#"):
+                continue
+            ref, term, occ, src, dst = line.rstrip("\n").split("\t")[:5]
+            where = f"{os.path.basename(path)}:{n}"
+            key = index.get(ref)
+            if key is None:
+                errors.append(f"{where} unknown ref {ref}")
+                continue
+            hits = [i for i, s in enumerate(verses[key])
+                    if s[1] == src and seg_term(s[0]) == term]
+            if occ != "*":
+                k = int(occ)
+                hits = hits[k - 1:k]
+            if not hits:
+                errors.append(f"{where} no {term!r} as {src} in {ref}")
+            changes += [(key, i, src, dst) for i in hits]
+        for key, i, src, dst in changes:
+            orig.setdefault((key, i), src)
+            verses[key][i][1] = dst
+    if errors:
+        sys.exit("correction errors:\n  " + "\n  ".join(errors))
+    print(f"corrections applied: {len(orig)} words", file=sys.stderr)
+    return orig
+
+
 def main():
     doc = pymupdf.open(PDF)
     groups = overview_groups(doc)
@@ -219,6 +265,8 @@ def main():
             else:
                 i += 1
 
+    orig = apply_corrections(verses)
+
     # Mark colored words that sit inside red-letter text, then write outputs
     red = {"RED", "RED_SUPPLIED"}
     short = {v: k for k, v in SHORT.items()}
@@ -227,7 +275,7 @@ def main():
             open(f"{OUT}/tagged_words.csv", "w", newline="") as fw:
         w = csv.writer(fw)
         w.writerow(["ref", "book", "chapter", "verse", "term", "category",
-                    "voice", "in_words_of_christ"])
+                    "voice", "in_words_of_christ", "source_category"])
         ft.write(TEXT_HEADER)
         for (book, ch, vs), merged in verses.items():
             ref = f"{book} {ch}:{vs}"
@@ -238,14 +286,16 @@ def main():
                 next_red = any(m[1] in red for m in merged[i + 1:i + 3])
                 in_red = tag in red or (prev_red and next_red) or \
                     (tag in CATEGORIES.values() and (prev_red or next_red) and v != "narration")
-                out.append({"t": t, "c": tag, "v": v, **({"r": 1} if in_red else {})})
+                o = orig.get(((book, ch, vs), i))
+                out.append({"t": t, "c": tag, "v": v, **({"r": 1} if in_red else {}),
+                            **({"orig": o} if o else {})})
                 if t.strip() and in_red != red_open:
                     inline.append("\u00ab" if in_red else "\u00bb")
                     red_open = in_red
                 if tag in CATEGORIES.values():
                     term = t.strip(" ,.;:?!()\u2019'")
                     if term:
-                        w.writerow([ref, book, ch, vs, term, tag, v, int(in_red)])
+                        w.writerow([ref, book, ch, vs, term, tag, v, int(in_red), o or tag])
                         lead = t[:len(t) - len(t.lstrip())]
                         core = t.strip()
                         k = core.find(term)

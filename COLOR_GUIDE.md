@@ -5,7 +5,7 @@ Digital Book, Color Text, Light Mode* (KJV, Joshua Paul Smith, 2024), the PDF in
 repo. It is written so that a person or an AI can apply the same system to another
 Bible text and get the same result.
 
-Every number here was measured from the PDF by `tools/extract_colors.py`, which reads
+Every number here was measured from the PDF (before the corrections in section 7) by `tools/extract_colors.py`, which reads
 the color of every word on all 2,196 pages. All 31,102 KJV verses were found, plus
 116 psalm titles (stored as verse 0).
 
@@ -14,8 +14,9 @@ the color of every word on all 2,196 pages. All 31,102 KJV verses were found, pl
 | File | What it holds |
 |---|---|
 | `data/tagged_bible.txt` | The whole Bible, one verse per line, every colored word marked `[word\|CODE]`, words of Christ inside `« »`. Best file for teaching an AI by example. |
-| `data/tagged_verses.jsonl` | Same thing as JSON, with the font "voice" of every segment. |
-| `data/tagged_words.csv` | 256,000+ rows. One row per colored word: reference, word, color, voice, red-letter flag. |
+| `data/tagged_verses.jsonl` | Same thing as JSON, with the font "voice" of every segment, and `orig` (the PDF's color) on any word we corrected. |
+| `data/tagged_words.csv` | 256,000+ rows. One row per colored word: reference, word, color, voice, red-letter flag, and the PDF's original color. |
+| `tools/corrections/*.tsv` | Every correction we made to the PDF's colors, with the reason (see section 7). |
 | `data/lexicon.json` | Every colored term with how many times it got each color, and how many times it was left black. |
 | `reports/categories/NN_*.md` | One file per color. Every term in that color, and every verse it appears in. |
 | `reports/verses_by_color/*.txt` | One file per color. Every verse that contains that color. |
@@ -184,7 +185,21 @@ text points clearly at the Son or the Spirit.
   Daniel 3:25 "the Son of God"; Daniel 7:13 "the Son of man";
   Daniel 8:25 "Prince of princes"; Daniel 9:24-26 "most Holy", "Messiah the Prince";
   Hosea 2:16 "Ishi… Baali"; Zechariah 3:8, 6:12 "the BRANCH".
-* The plain "angel of the LORD" is ANGELIC (197 times), not Son.
+* **The Angel of the LORD** (corrected rule, see section 7). In Old Testament scenes
+  where "the angel of the LORD" or "the angel of God" speaks as God, is called God,
+  or receives worship, he is the Son before his incarnation. The word "angel" and
+  the pronouns for him take the Son color. Those scenes are Genesis 16:7-11,
+  21:17-18, 22:11-18, 31:11-13; Exodus 3:2, 14:19, 23:20-23; Numbers 22:22-35;
+  Judges 2:1-4, 6:11-22, 13:3-21; Isaiah 63:9; Hosea 12:4; Zechariah 1:8-12,
+  3:1-6; and "the messenger of the covenant" in Malachi 3:1. Titles in those
+  scenes (LORD, God) keep the Father color, as everywhere else. Pronouns go back
+  to the Father color once the text names the speaker only as "the LORD" or
+  "God" (Exodus 3:4, Judges 6:14). Any other angel, including every "angel of the
+  Lord" in the New Testament (Matthew 1:20, Luke 2:9, Acts 12:7), is ANGELIC.
+* **Pronouns follow the referent in every book, letters included.** When Paul writes
+  "God also hath highly exalted him" (Philippians 2:9), "God" is the Father and
+  "him" is the Son. When the Father gives or sends "his Son" (John 3:16), "his" is
+  the Father.
 
 ### 5.3 GOD_SPIRIT `#5a278c`
 
@@ -400,15 +415,41 @@ bread", "The Prince of Peace".
 
 ---
 
-## 7. Known quirks in the source
+## 7. Corrections we made to the source
 
-The PDF is hand-colored and very consistent, but not perfect. A few examples found in
-the data:
+The PDF is hand-colored and very consistent, but it has a few theological slips. Our
+data fixes them so an AI learns the right pattern. Every fix is a row in
+`tools/corrections/*.tsv` with the verse, the word, the old color, the new color and
+the reason. The original color is still kept (`orig` in `tagged_verses.jsonl`,
+`source_category` in `tagged_words.csv`), so nothing from the PDF is lost.
 
-* John 3:16 colors "he gave his only begotten Son" with the **Son** color, although
-  "he" is the Father.
-* Romans 10:9 colors "God hath raised **him** from the dead" with the Father color,
-  although "him" is Jesus.
+1. **Father and Son pronouns mixed up.** John 3:16-17, Acts 3:13, 3:26 and Romans
+   1:3, 1:9 colored the Father's "he"/"his" (in "his Son") with the Son color.
+   Romans 10:9 colored "God hath raised **him**" with the Father color.
+2. **Pronouns in the letters.** From Romans to Jude the PDF colors almost every
+   divine pronoun with the Father color, even where the text plainly means Christ
+   ("by him were all things created", Colossians 1:16; "he ever liveth to make
+   intercession", Hebrews 7:25). We went through those books verse by verse and
+   gave the Son color where the referent is clear. Where good Reformed interpreters
+   differ over whether "him" is the Father or the Son (many places in 1 John), the
+   Father color is left as it was.
+3. **The Angel of the LORD.** The PDF gave the Son color to "mine Angel" (Exodus 23)
+   and "the Angel which redeemed me" (Genesis 48:16) but left the same Angel as an
+   ordinary angel in Genesis 16, 22, Judges 6, 13 and elsewhere, even though there he
+   speaks as God and is worshiped. The rule in 5.2 now applies everywhere.
+
+The New Testament pronoun review is in progress. Counts will be added when it is done.
+
+Things we did **not** change, on purpose:
+
+* "Lord" and "God" said of Jesus keep the Father color. That is the system's design
+  (purple is "God"), not a slip. A Son-colored "Lord" would show Christ's deity even
+  more plainly, and it is an easy change if you want it.
+* The red letters and the numerals (435 for "four hundred thirty and five") are the
+  book's layout choices and are left as they are.
+
+Other notes:
+
 * Small counts of odd one-off tags exist (for example "all" as GENERAL_PEOPLE once).
   Not every minority tag is an error. "Jesus" is PROPER_PERSON 3 times, and all 3
   are right: Acts 7:45 and Hebrews 4:8 mean Joshua, and Colossians 4:11 is "Jesus,

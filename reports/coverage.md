@@ -13,26 +13,26 @@ meaning 'in this way'). Words never colored are not listed.
 | to | 484 | 12971 | 4% | GENERAL_TIME 459, GENERAL_PLACE_2 25 |
 | that | 3 | 12865 | 0% | GENERAL_TIME 2, GOD_FATHER 1 |
 | in | 63 | 12532 | 1% | GENERAL_TIME 59, GENERAL_PLACE_2 4 |
-| he | 10392 | 1 | 100% | PRONOUN 7258, GOD_FATHER 1921, GOD_SON 1213 |
+| he | 10392 | 1 | 100% | PRONOUN 7251, GOD_FATHER 1914, GOD_SON 1227 |
 | for | 388 | 8597 | 4% | GENERAL_TIME 388 |
-| i | 8849 | 1 | 100% | PRONOUN 5001, GOD_FATHER 3118, GOD_SON 730 |
-| his | 8476 | 0 | 100% | PRONOUN 6564, GOD_FATHER 1402, GOD_SON 510 |
+| i | 8849 | 1 | 100% | PRONOUN 4997, GOD_FATHER 3099, GOD_SON 753 |
+| his | 8476 | 0 | 100% | PRONOUN 6561, GOD_FATHER 1401, GOD_SON 514 |
 | a | 19 | 8179 | 0% | QUANTITY 19 |
 | lord | 7830 | 0 | 100% | GOD_FATHER 7569, GENERAL_PEOPLE 249, GOD_SON 12 |
 | they | 7375 | 2 | 100% | PRONOUN 7373, GOD_FATHER 2 |
 | be | 1 | 7011 | 0% | GENERAL_TIME 1 |
-| him | 6666 | 1 | 100% | PRONOUN 4893, GOD_SON 1086, GOD_FATHER 687 |
+| him | 6666 | 1 | 100% | PRONOUN 4889, GOD_SON 1096, GOD_FATHER 681 |
 | not | 1 | 6596 | 0% | GENERAL_TIME 1 |
 | them | 6429 | 0 | 100% | PRONOUN 6425, GOD_FATHER 4 |
 | all | 5535 | 86 | 98% | QUANTITY 5534, GENERAL_PEOPLE 1 |
-| thou | 5474 | 0 | 100% | PRONOUN 4223, GOD_FATHER 1002, GOD_SON 249 |
-| thy | 4602 | 0 | 100% | PRONOUN 3411, GOD_FATHER 1095, GOD_SON 96 |
+| thou | 5474 | 0 | 100% | PRONOUN 4222, GOD_FATHER 1001, GOD_SON 251 |
+| thy | 4602 | 0 | 100% | PRONOUN 3408, GOD_FATHER 1095, GOD_SON 99 |
 | god | 4407 | 1 | 100% | GOD_FATHER 4355, DEMONIC 51, GOD_SON 1 |
-| my | 4358 | 0 | 100% | PRONOUN 2937, GOD_FATHER 1154, GOD_SON 267 |
-| me | 4085 | 2 | 100% | PRONOUN 3075, GOD_FATHER 596, GOD_SON 414 |
+| my | 4358 | 0 | 100% | PRONOUN 2936, GOD_FATHER 1151, GOD_SON 271 |
+| me | 4085 | 2 | 100% | PRONOUN 3074, GOD_FATHER 590, GOD_SON 421 |
 | ye | 3983 | 1 | 100% | PRONOUN 3980, GOD_FATHER 3 |
 | their | 3932 | 0 | 100% | PRONOUN 3932 |
-| thee | 3827 | 0 | 100% | PRONOUN 3224, GOD_FATHER 490, GOD_SON 113 |
+| thee | 3827 | 0 | 100% | PRONOUN 3220, GOD_FATHER 489, GOD_SON 118 |
 | from | 5 | 3641 | 0% | GENERAL_TIME 5 |
 | as | 111 | 3387 | 3% | GENERAL_TIME 111 |
 | when | 2773 | 74 | 97% | GENERAL_TIME 2773 |
@@ -42,7 +42,7 @@ meaning 'in this way'). Words never colored are not listed.
 | by | 32 | 2593 | 1% | GENERAL_PLACE_2 32 |
 | you | 2616 | 0 | 100% | PRONOUN 2614, GOD_FATHER 2 |
 | israel | 2565 | 0 | 100% | PROPER_PLACE 1688, PEOPLE_GROUP 711, PROPER_PERSON 166 |
-| man | 2412 | 0 | 100% | GENERAL_PEOPLE 2407, GOD_SON 4, GOD_FATHER 1 |
+| man | 2412 | 0 | 100% | GENERAL_PEOPLE 2400, GOD_SON 11, GOD_FATHER 1 |
 | up | 706 | 1674 | 30% | GENERAL_PLACE_2 706 |
 | there | 567 | 1730 | 25% | GENERAL_PLACE_2 566, GENERAL_PLACE_1 1 |
 | king | 2256 | 0 | 100% | GENERAL_PEOPLE 2193, GOD_FATHER 38, GOD_SON 25 |
@@ -100,7 +100,7 @@ meaning 'in this way'). Words never colored are not listed.
 | moses | 848 | 0 | 100% | PROPER_PERSON 848 |
 | judah | 813 | 0 | 100% | PROPER_PLACE 694, PEOPLE_GROUP 70, PROPER_PERSON 49 |
 | jerusalem | 811 | 0 | 100% | PROPER_PLACE 810, PEOPLE_GROUP 1 |
-| whom | 762 | 1 | 100% | PRONOUN 648, GOD_FATHER 69, GOD_SON 45 |
+| whom | 762 | 1 | 100% | PRONOUN 648, GOD_FATHER 68, GOD_SON 46 |
 | pass | 463 | 256 | 64% | GENERAL_TIME 463 |
 | good | 2 | 715 | 0% | GENERAL_TIME 2 |
 | place | 697 | 5 | 99% | GENERAL_PLACE_1 695, GENERAL_PLACE_2 1, QUANTITY 1 |
@@ -256,7 +256,7 @@ meaning 'in this way'). Words never colored are not listed.
 | oil | 11 | 191 | 5% | PLANT 11 |
 | little | 114 | 88 | 56% | QUANTITY 100, GENERAL_PLACE_1 11, ANIMAL 2, GENERAL_PEOPLE 1 |
 | inhabitants | 202 | 0 | 100% | GENERAL_PEOPLE 202 |
-| angel | 201 | 0 | 100% | ANGELIC 197, GOD_SON 4 |
+| angel | 201 | 0 | 100% | ANGELIC 148, GOD_SON 53 |
 | child | 199 | 0 | 100% | GENERAL_PEOPLE 198, GOD_SON 1 |
 | tree | 197 | 0 | 100% | PLANT 197 |
 | jordan | 197 | 0 | 100% | PROPER_PLACE 197 |
@@ -357,7 +357,7 @@ meaning 'in this way'). Words never colored are not listed.
 | ear | 3 | 117 | 2% | PLANT 3 |
 | rock | 76 | 43 | 64% | GENERAL_PLACE_1 67, GOD_FATHER 6, GOD_SON 2, GENERAL_PLACE_2 1 |
 | captain | 119 | 0 | 100% | GENERAL_PEOPLE 117, GOD_SON 2 |
-| myself | 118 | 0 | 100% | PRONOUN 101, GOD_SON 15, GOD_FATHER 2 |
+| myself | 118 | 0 | 100% | PRONOUN 100, GOD_SON 16, GOD_FATHER 2 |
 | jonathan | 118 | 0 | 100% | PROPER_PERSON 118 |
 | john | 118 | 0 | 100% | PROPER_PERSON 118 |
 | generations | 108 | 10 | 92% | GENERAL_TIME 107, GENERAL_PEOPLE 1 |
@@ -799,7 +799,7 @@ meaning 'in this way'). Words never colored are not listed.
 | branch | 29 | 6 | 83% | PLANT 26, GOD_SON 2, GOD_FATHER 1 |
 | spirits | 9 | 25 | 26% | DEMONIC 4, GOD_SPIRIT 4, GENERAL_PEOPLE 1 |
 | residue | 12 | 22 | 35% | QUANTITY 12 |
-| messenger | 34 | 0 | 100% | GENERAL_PEOPLE 34 |
+| messenger | 34 | 0 | 100% | GENERAL_PEOPLE 33, GOD_SON 1 |
 | lions | 34 | 0 | 100% | ANIMAL 34 |
 | likeness | 9 | 25 | 26% | DEMONIC 9 |
 | lad | 34 | 0 | 100% | GENERAL_PEOPLE 34 |

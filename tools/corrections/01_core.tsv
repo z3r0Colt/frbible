@@ -1,0 +1,136 @@
+# Corrections to the source PDF's colors, applied by extract_colors.py.
+# Columns: ref <TAB> term <TAB> occurrence <TAB> from <TAB> to <TAB> note
+# occurrence = which match of (term, from) in the verse, 1-based, or * for all.
+# The original color is kept in tagged_verses.jsonl as "orig".
+#
+# --- Father/Son pronoun slips: the Father gives and sends "his Son" ---
+John 3:16	he	1	GOD_SON	GOD_FATHER	God gave his Son: the giver is the Father
+John 3:16	his	1	GOD_SON	GOD_FATHER	his = the Father's (only begotten Son)
+John 3:17	his	1	GOD_SON	GOD_FATHER	God sent his Son
+Acts 3:13	his	1	GOD_SON	GOD_FATHER	God hath glorified his Son
+Acts 3:26	his	1	GOD_SON	GOD_FATHER	God raised up his Son
+Romans 1:3	his	1	GOD_SON	GOD_FATHER	the gospel of God concerning his Son
+Romans 1:9	whom	1	GOD_SON	GOD_FATHER	God, whom I serve
+Romans 1:9	his	1	GOD_SON	GOD_FATHER	the gospel of his Son
+Romans 10:9	him	1	GOD_FATHER	GOD_SON	God raised him (Jesus) from the dead
+#
+# --- The Angel of the LORD: the Son before his incarnation ---
+# Rule: in Old Testament scenes where "the angel of the LORD/of God" speaks as
+# God, is called God, or receives worship, the Angel and the pronouns for him
+# take the Son's color. Titles (LORD, God) keep the Father color, as everywhere
+# else in this system. Pronouns switch back once the text names the speaker
+# only as "the LORD" or "God" (Exodus 3:4, Judges 6:14).
+Genesis 16:7	angel	*	ANGELIC	GOD_SON	Angel of the LORD to Hagar; she calls him God (16:13)
+Genesis 16:8	he	1	GOD_FATHER	GOD_SON	the Angel
+Genesis 16:9	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Genesis 16:10	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Genesis 16:10	I	1	GOD_FATHER	GOD_SON	the Angel: I will multiply thy seed
+Genesis 16:11	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Genesis 21:17	angel	*	ANGELIC	GOD_SON	Angel of God to Hagar
+Genesis 21:18	I	1	GOD_FATHER	GOD_SON	the Angel: I will make him a great nation
+Genesis 22:11	angel	*	ANGELIC	GOD_SON	Angel of the LORD to Abraham
+Genesis 22:12	he	1	GOD_FATHER	GOD_SON	the Angel
+Genesis 22:12	I	1	GOD_FATHER	GOD_SON	the Angel
+Genesis 22:12	me	1	GOD_FATHER	GOD_SON	withheld thy son from me
+Genesis 22:15	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Genesis 22:16	myself	1	PRONOUN	GOD_SON	By myself have I sworn (Hebrews 6:13)
+Genesis 22:16	I	1	GOD_FATHER	GOD_SON	the Angel swears
+Genesis 22:17	I	*	GOD_FATHER	GOD_SON	the Angel
+Genesis 22:18	my	1	GOD_FATHER	GOD_SON	the Angel
+Genesis 31:11	angel	*	ANGELIC	GOD_SON	Angel of God: I am the God of Beth-el (31:13)
+Genesis 31:12	he	1	GOD_FATHER	GOD_SON	the Angel
+Genesis 31:12	I	1	GOD_FATHER	GOD_SON	the Angel
+Genesis 31:13	I	1	GOD_FATHER	GOD_SON	the Angel: I am the God of Beth-el
+Genesis 31:13	me	1	GOD_FATHER	GOD_SON	the Angel
+Exodus 3:2	angel	*	ANGELIC	GOD_SON	Angel of the LORD in the bush (Acts 7:30-32)
+Exodus 14:19	angel	*	ANGELIC	GOD_SON	Angel of God in the pillar (13:21 the LORD went before them)
+Exodus 23:21	him	*	GOD_FATHER	GOD_SON	the Angel of 23:20: my name is in him
+Exodus 23:21	his	1	GOD_FATHER	GOD_SON	the Angel's voice
+Exodus 23:21	he	1	GOD_FATHER	GOD_SON	the Angel will not pardon
+Exodus 23:22	his	1	GOD_FATHER	GOD_SON	the Angel's voice
+Numbers 22:22	angel	*	ANGELIC	GOD_SON	Angel of the LORD to Balaam
+Numbers 22:23	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Numbers 22:23	his	*	GOD_FATHER	GOD_SON	the Angel's sword
+Numbers 22:24	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Numbers 22:25	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Numbers 22:26	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Numbers 22:27	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Numbers 22:31	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Numbers 22:31	his	*	GOD_FATHER	GOD_SON	the Angel's sword and hand
+Numbers 22:32	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Numbers 22:32	I	1	GOD_FATHER	GOD_SON	the Angel
+Numbers 22:32	me	1	GOD_FATHER	GOD_SON	the Angel
+Numbers 22:33	me	*	GOD_FATHER	GOD_SON	the Angel
+Numbers 22:33	I	1	GOD_FATHER	GOD_SON	the Angel
+Numbers 22:34	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Numbers 22:34	thou	1	GOD_FATHER	GOD_SON	the Angel
+Numbers 22:34	thee	1	GOD_FATHER	GOD_SON	the Angel
+Numbers 22:35	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Numbers 22:35	I	1	GOD_FATHER	GOD_SON	the word that I shall speak
+Judges 2:1	angel	*	ANGELIC	GOD_SON	Angel of the LORD: I made you to go up out of Egypt
+Judges 2:1	I	*	GOD_FATHER	GOD_SON	the Angel
+Judges 2:1	my	1	GOD_FATHER	GOD_SON	my covenant
+Judges 2:2	my	1	GOD_FATHER	GOD_SON	the Angel
+Judges 2:3	I	*	GOD_FATHER	GOD_SON	the Angel
+Judges 2:4	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Judges 6:11	angel	*	ANGELIC	GOD_SON	Angel of the LORD to Gideon (6:14 the LORD looked upon him)
+Judges 6:12	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Judges 6:13	him	1	GOD_FATHER	GOD_SON	Gideon speaks to the Angel
+Judges 6:20	angel	*	ANGELIC	GOD_SON	Angel of God
+Judges 6:21	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Judges 6:21	his	1	PRONOUN	GOD_SON	the staff in his hand
+Judges 6:22	he	1	GOD_FATHER	GOD_SON	the Angel
+Judges 6:22	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Judges 13:3	angel	*	ANGELIC	GOD_SON	Angel of the LORD to Manoah's wife; his name is Wonderful (13:18)
+Judges 13:6	man	1	GENERAL_PEOPLE	GOD_SON	the Angel, as she saw him
+Judges 13:6	his	*	PRONOUN	GOD_SON	the Angel
+Judges 13:6	him	1	PRONOUN	GOD_SON	the Angel
+Judges 13:6	he	*	PRONOUN	GOD_SON	the Angel
+Judges 13:7	he	1	PRONOUN	GOD_SON	the Angel
+Judges 13:8	man	1	GENERAL_PEOPLE	GOD_SON	the Angel
+Judges 13:9	angel	*	ANGELIC	GOD_SON	Angel of God
+Judges 13:10	man	1	GENERAL_PEOPLE	GOD_SON	the Angel
+Judges 13:11	man	*	GENERAL_PEOPLE	GOD_SON	the Angel
+Judges 13:11	him	1	PRONOUN	GOD_SON	the Angel
+Judges 13:11	thou	1	PRONOUN	GOD_SON	the Angel
+Judges 13:11	he	1	PRONOUN	GOD_SON	the Angel
+Judges 13:11	I	1	PRONOUN	GOD_SON	the Angel
+Judges 13:12	thy	1	PRONOUN	GOD_SON	the Angel's words
+Judges 13:13	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Judges 13:13	I	1	PRONOUN	GOD_SON	the Angel
+Judges 13:14	I	1	PRONOUN	GOD_SON	the Angel
+Judges 13:15	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Judges 13:15	thee	*	PRONOUN	GOD_SON	the Angel
+Judges 13:16	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Judges 13:16	me	1	PRONOUN	GOD_SON	the Angel
+Judges 13:16	I	1	PRONOUN	GOD_SON	the Angel
+Judges 13:16	he	1	PRONOUN	GOD_SON	the Angel
+Judges 13:17	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Judges 13:17	thy	*	PRONOUN	GOD_SON	the Angel
+Judges 13:17	thee	1	PRONOUN	GOD_SON	the Angel
+Judges 13:18	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Judges 13:18	my	1	PRONOUN	GOD_SON	my name, seeing it is secret (Wonderful)
+Judges 13:19	angel	*	ANGELIC	GOD_SON	the Angel did wondrously
+Judges 13:20	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Judges 13:21	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Judges 13:21	he	1	PRONOUN	GOD_SON	the Angel
+Isaiah 63:9	angel	*	ANGELIC	GOD_SON	the angel of his presence saved them
+Hosea 12:4	angel	*	ANGELIC	GOD_SON	the one Jacob wrestled (Genesis 32:30 I have seen God)
+Hosea 12:4	him	1	PRONOUN	GOD_SON	made supplication unto him (the Angel)
+Zechariah 1:8	man	1	GENERAL_PEOPLE	GOD_SON	the man among the myrtles is the Angel of the LORD (1:11)
+Zechariah 1:8	he	1	PRONOUN	GOD_SON	the Angel
+Zechariah 1:8	him	1	PRONOUN	GOD_SON	the Angel
+Zechariah 1:10	man	1	GENERAL_PEOPLE	GOD_SON	the Angel
+Zechariah 1:11	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Zechariah 1:12	angel	*	ANGELIC	GOD_SON	Angel of the LORD intercedes with the LORD of hosts
+Zechariah 3:1	angel	*	ANGELIC	GOD_SON	Angel of the LORD with Joshua the high priest
+Zechariah 3:3	angel	*	ANGELIC	GOD_SON	the Angel
+Zechariah 3:4	he	*	GOD_FATHER	GOD_SON	the Angel takes away iniquity
+Zechariah 3:4	him	1	GOD_FATHER	GOD_SON	those that stood before him
+Zechariah 3:4	I	*	GOD_FATHER	GOD_SON	the Angel
+Zechariah 3:5	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Zechariah 3:6	angel	*	ANGELIC	GOD_SON	Angel of the LORD
+Malachi 3:1	messenger	2	GENERAL_PEOPLE	GOD_SON	the messenger of the covenant is the Lord who comes to his temple
+Malachi 3:1	whom	*	GOD_FATHER	GOD_SON	the Lord, whom ye seek
+Malachi 3:1	his	1	GOD_FATHER	GOD_SON	his temple
+Malachi 3:1	he	1	GOD_FATHER	GOD_SON	he shall come
