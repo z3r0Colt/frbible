@@ -17146,9 +17146,9 @@
 },
 "he": {
 "colors": {
-"GOD_FATHER": 1891,
+"GOD_FATHER": 1890,
 "PRONOUN": 7241,
-"GOD_SON": 1241,
+"GOD_SON": 1242,
 "GOD_SPIRIT": 19
 },
 "uncolored": 1
@@ -17977,8 +17977,8 @@
 "him": {
 "colors": {
 "PRONOUN": 4892,
-"GOD_FATHER": 647,
-"GOD_SON": 1123,
+"GOD_FATHER": 644,
+"GOD_SON": 1126,
 "GOD_SPIRIT": 4
 },
 "uncolored": 1
@@ -23207,9 +23207,9 @@
 },
 "lord": {
 "colors": {
-"GOD_FATHER": 7569,
+"GOD_FATHER": 7111,
 "GENERAL_PEOPLE": 249,
-"GOD_SON": 12
+"GOD_SON": 470
 },
 "uncolored": 0
 },
@@ -23222,7 +23222,8 @@
 "lord's": {
 "colors": {
 "GENERAL_PEOPLE": 9,
-"GOD_FATHER": 123
+"GOD_FATHER": 114,
+"GOD_SON": 9
 },
 "uncolored": 0
 },
@@ -29404,7 +29405,7 @@
 },
 "potentate": {
 "colors": {
-"GOD_SON": 1
+"GOD_FATHER": 1
 },
 "uncolored": 0
 },
@@ -35930,9 +35931,9 @@
 },
 "thine": {
 "colors": {
-"PRONOUN": 749,
+"PRONOUN": 748,
 "GOD_FATHER": 180,
-"GOD_SON": 8
+"GOD_SON": 9
 },
 "uncolored": 0
 },
@@ -36034,9 +36035,9 @@
 },
 "thou": {
 "colors": {
-"PRONOUN": 4222,
+"PRONOUN": 4221,
 "GOD_FATHER": 1048,
-"GOD_SON": 204
+"GOD_SON": 205
 },
 "uncolored": 0
 },
@@ -36139,8 +36140,8 @@
 "thy": {
 "colors": {
 "GOD_FATHER": 1133,
-"PRONOUN": 3406,
-"GOD_SON": 63
+"PRONOUN": 3405,
+"GOD_SON": 64
 },
 "uncolored": 0
 },
@@ -37983,9 +37984,9 @@
 },
 "whom": {
 "colors": {
-"GOD_FATHER": 48,
+"GOD_FATHER": 46,
 "PRONOUN": 642,
-"GOD_SON": 68,
+"GOD_SON": 70,
 "GOD_SPIRIT": 4
 },
 "uncolored": 1

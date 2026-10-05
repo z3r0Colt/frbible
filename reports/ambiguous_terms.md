@@ -7,8 +7,8 @@ deliberate (see COLOR_GUIDE.md) and sometimes inconsistencies in the source.
 
 ## he  (10392 colored uses, 1 uncolored)
 - **PRONOUN** 7241 (70%) : Gen 2:19, 21; 3:1, 6, 10, 16, 22, 23; 4:4, 5, 9, 17
-- **GOD_FATHER** 1891 (18%) : Gen 1:5, 10, 16, 27, 31; 2:2, 3, 8
-- **GOD_SON** 1241 (12%) : Gen 16:8; 22:12; 31:12 | Exod 23:21 | Judg 6:22; 13:6, 7, 11, 16, 21 | Zech 1:8
+- **GOD_FATHER** 1890 (18%) : Gen 1:5, 10, 16, 27, 31; 2:2, 3, 8
+- **GOD_SON** 1242 (12%) : Gen 16:8; 22:12; 31:12 | Exod 23:21 | Judg 6:22; 13:6, 7, 11, 16, 21 | Zech 1:8
 - **GOD_SPIRIT** 19 (0%) : John 14:16, 17, 26; 15:26; 16:8, 13
 
 ## i  (8849 colored uses, 1 uncolored)
@@ -23,9 +23,9 @@ deliberate (see COLOR_GUIDE.md) and sometimes inconsistencies in the source.
 - **GOD_SON** 506 (6%) : Exod 23:21, 22 | Num 22:23, 31 | Judg 6:21; 13:6 | Mal 3:1 | Matt 1:18, 21
 
 ## lord  (7830 colored uses, 0 uncolored)
-- **GOD_FATHER** 7569 (97%) : Gen 2:4, 5, 7, 8, 9, 15, 16, 18, 19, 21, 22; 3:1
+- **GOD_FATHER** 7111 (91%) : Gen 2:4, 5, 7, 8, 9, 15, 16, 18, 19, 21, 22; 3:1
+- **GOD_SON** 470 (6%) : Josh 5:14 | Ps 110:1 | Matt 7:21, 22; 8:2, 6, 8, 21, 25; 9:28
 - **GENERAL_PEOPLE** 249 (3%) : Gen 18:12; 19:18; 23:6, 11, 15; 24:18; 27:29, 37; 31:35; 32:4, 5, 18
-- **GOD_SON** 12 (0%) : Josh 5:14 | Matt 17:15 | Luke 6:46 | Acts 1:6; 9:5 | 1Cor 9:1, 2, 5, 14 | Rev 1:8
 
 ## they  (7375 colored uses, 2 uncolored)
 - **PRONOUN** 7373 (100%) : Gen 2:4, 24, 25; 3:7, 8; 4:8; 5:2; 6:2
@@ -33,8 +33,8 @@ deliberate (see COLOR_GUIDE.md) and sometimes inconsistencies in the source.
 
 ## him  (6666 colored uses, 1 uncolored)
 - **PRONOUN** 4892 (73%) : Gen 1:27; 2:15, 18, 20; 3:9, 23; 4:7, 8, 15
-- **GOD_SON** 1123 (17%) : Exod 23:21 | Judg 6:13; 13:6, 11 | Hos 12:4 | Zech 1:8; 3:4 | Matt 2:2, 8
-- **GOD_FATHER** 647 (10%) : Gen 6:6; 15:10; 16:13; 32:29; 35:14 | Exod 15:2; 16:8; 33:15; 34:29 | Lev 26:46 | Num 16:5
+- **GOD_SON** 1126 (17%) : Exod 23:21 | Judg 6:13; 13:6, 11 | Hos 12:4 | Zech 1:8; 3:4 | Matt 2:2, 8
+- **GOD_FATHER** 644 (10%) : Gen 6:6; 15:10; 16:13; 32:29; 35:14 | Exod 15:2; 16:8; 33:15; 34:29 | Lev 26:46 | Num 16:5
 - **GOD_SPIRIT** 4 (0%) : John 14:17; 16:7
 
 ## them  (6429 colored uses, 0 uncolored)
@@ -46,14 +46,14 @@ deliberate (see COLOR_GUIDE.md) and sometimes inconsistencies in the source.
 - **GENERAL_PEOPLE** 1 (0%) : Nah 3:19
 
 ## thou  (5474 colored uses, 0 uncolored)
-- **PRONOUN** 4222 (77%) : Gen 2:16, 17; 3:9, 11, 13, 14
+- **PRONOUN** 4221 (77%) : Gen 2:16, 17; 3:9, 11, 13, 14
 - **GOD_FATHER** 1048 (19%) : Gen 3:12; 15:2, 3; 16:13; 18:23, 24, 28; 24:14, 42; 28:22; 32:10
-- **GOD_SON** 204 (4%) : Num 22:34 | Judg 13:11 | Ps 110:4 | Matt 3:14; 4:3, 6, 9; 8:2, 8, 19
+- **GOD_SON** 205 (4%) : Num 22:34 | Judg 13:11 | Ps 110:1, 4 | Matt 3:14; 4:3, 6, 9; 8:2, 8
 
 ## thy  (4602 colored uses, 0 uncolored)
-- **PRONOUN** 3406 (74%) : Gen 3:14, 15, 16, 17, 19
+- **PRONOUN** 3405 (74%) : Gen 3:14, 15, 16, 17, 19
 - **GOD_FATHER** 1133 (25%) : Gen 3:10; 18:3; 24:14; 32:10, 29; 49:18 | Exod 4:10; 5:23; 15:6
-- **GOD_SON** 63 (1%) : Judg 13:12, 17 | Matt 4:6; 7:22; 9:14, 18; 11:10; 12:2
+- **GOD_SON** 64 (1%) : Judg 13:12, 17 | Ps 110:1 | Matt 4:6; 7:22; 9:14, 18; 11:10
 
 ## god  (4407 colored uses, 1 uncolored)
 - **GOD_FATHER** 4356 (99%) : Gen 1:1, 2, 3, 4, 5, 6, 7, 8, 9, 10
@@ -177,9 +177,9 @@ deliberate (see COLOR_GUIDE.md) and sometimes inconsistencies in the source.
 - **GOD_FATHER** 255 (27%) : Matt 5:16, 45, 48; 6:1, 4, 6, 8, 9, 14, 15, 18
 
 ## thine  (937 colored uses, 0 uncolored)
-- **PRONOUN** 749 (80%) : Gen 13:14; 14:20, 23; 15:4; 20:7; 21:18; 22:2, 12, 16
+- **PRONOUN** 748 (80%) : Gen 13:14; 14:20, 23; 15:4; 20:7; 21:18; 22:2, 12, 16
 - **GOD_FATHER** 180 (19%) : Exod 15:7, 16, 17; 32:13; 34:9 | Num 10:35 | Deut 9:26, 29 | Judg 6:39 | 1Sam 1:11
-- **GOD_SON** 8 (1%) : Matt 22:44 | Mark 12:36 | Luke 4:7; 5:33; 20:43 | John 18:35 | Heb 1:10, 13
+- **GOD_SON** 9 (1%) : Ps 110:1 | Matt 22:44 | Mark 12:36 | Luke 4:7; 5:33; 20:43 | John 18:35 | Heb 1:10, 13
 
 ## judah  (813 colored uses, 0 uncolored)
 - **PROPER_PLACE** 694 (85%) : Deut 34:2 | Josh 11:21; 18:5; 19:34; 20:7; 21:11 | Judg 1:16; 15:9; 18:12; 20:18 | Ruth 1:7 | 1Sam 11:8
@@ -192,8 +192,8 @@ deliberate (see COLOR_GUIDE.md) and sometimes inconsistencies in the source.
 
 ## whom  (762 colored uses, 1 uncolored)
 - **PRONOUN** 642 (84%) : Gen 3:12; 4:25; 6:7; 10:14; 15:14; 21:3; 22:2; 24:3, 14, 44, 47; 25:12
-- **GOD_SON** 68 (9%) : Mal 3:1 | Matt 3:17; 12:18; 17:5 | Mark 1:11 | John 1:15, 26, 30, 33, 45
-- **GOD_FATHER** 48 (6%) : Gen 2:8; 24:40 | 1Sam 17:45 | 1Kgs 17:1; 18:15 | 2Kgs 3:14; 19:10 | Job 19:27 | Ps 18:2; 94:1; 144:2
+- **GOD_SON** 70 (9%) : Mal 3:1 | Matt 3:17; 12:18; 17:5 | Mark 1:11 | John 1:15, 26, 30, 33, 45
+- **GOD_FATHER** 46 (6%) : Gen 2:8; 24:40 | 1Sam 17:45 | 1Kgs 17:1; 18:15 | 2Kgs 3:14; 19:10 | Job 19:27 | Ps 18:2; 94:1; 144:2
 - **GOD_SPIRIT** 4 (1%) : John 14:17, 26; 15:26 | Acts 5:32
 
 ## place  (697 colored uses, 5 uncolored)
@@ -517,8 +517,9 @@ deliberate (see COLOR_GUIDE.md) and sometimes inconsistencies in the source.
 - **GENERAL_PEOPLE** 16 (12%) : Gen 42:19 | Exod 1:21; 6:14; 12:27 | Num 4:22; 16:32; 17:6; 32:18 | 2Chr 25:5; 35:4 | Neh 10:34 | Job 21:9
 
 ## lord's  (132 colored uses, 0 uncolored)
-- **GOD_FATHER** 123 (93%) : Exod 9:29; 12:11, 27; 13:9, 12; 32:26; 35:21, 24 | Lev 3:16; 16:9; 23:5; 27:26
+- **GOD_FATHER** 114 (86%) : Exod 9:29; 12:11, 27; 13:9, 12; 32:26; 35:21, 24 | Lev 3:16; 16:9; 23:5; 27:26
 - **GENERAL_PEOPLE** 9 (7%) : Gen 40:7; 44:8, 9, 16, 18 | 2Sam 20:6 | 1Chr 21:3 | Isa 22:18 | Luke 16:5
+- **GOD_SON** 9 (7%) : Rom 14:8 | 1Cor 7:22; 10:21; 11:20, 26, 29 | Gal 1:19 | 1Pet 2:13 | Rev 1:10
 
 ## gentiles  (129 colored uses, 0 uncolored)
 - **PEOPLE_GROUP** 128 (99%) : Gen 10:5 | Judg 4:2, 13, 16 | Isa 11:10; 42:1, 6; 49:6, 22; 54:3; 60:3, 5

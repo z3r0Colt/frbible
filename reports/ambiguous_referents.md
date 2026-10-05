@@ -147,3 +147,102 @@ During the New Testament review these places were left as the PDF colored them b
 - Revelation 22:3-4 - "his servants shall serve him... see his face": God and the Lamb on one throne; singular referent debated; left GS.
 - Revelation 22:6 - "the Lord God of the holy prophets sent his angel": Father (cf. 1:1) vs Christ (cf. 22:16); left GS.
 - Revelation 22:14 - "do his commandments": Christ (speaker 22:12-16) or God; left GS.
+
+# "Lord" left with the Father color on purpose
+
+These uses of "Lord" may mean the Father or the Son, and good Reformed interpreters differ. They keep the Father color.
+
+## matthew mark
+
+- Matthew 3:3	Lord#1 (GF)	"Prepare ye the way of the Lord" - Isaiah 40:3 YHWH, fulfilled in Christ (his already GS); kept GF as OT quotation
+- Mark 1:3	Lord#1 (GF)	same Isaiah 40:3 quotation as Matthew 3:3
+- Matthew 9:38	Lord#1 (GF)	"Lord of the harvest" - usually the Father, some see Christ (he sends labourers, 10:1)
+- Mark 5:19	Lord#1 (GF)	"how great things the Lord hath done" - Luke 8:39 has "God" in Jesus' words but "Jesus" in the man's report
+- Matthew 21:9	Lord#1 (GF)	"cometh in the name of the Lord" - Psalm 118:26, YHWH; kept GF
+- Matthew 23:39	Lord#1 (GF)	Psalm 118:26 again; kept GF
+- Mark 11:9	Lord#1 (GF)	Psalm 118:26; kept GF
+- Mark 11:10	Lord#1 (GF)	Psalm 118:26 echo; kept GF
+- Mark 13:20	Lord#1 (GF)	"except that the Lord had shortened those days" - God (he hath chosen tagged GF); some read Christ
+- Matthew 25:11	Lord#1-2 (GP)	"Lord, Lord, open to us" - parable bridegroom figuring Christ; left GP as parable character (not in scope as GF)
+
+## luke
+
+- Luke 1:17	Lord	1	"make ready a people prepared for the Lord": antecedent is "the Lord their God" (1:16), yet John prepares for Christ; Christ-as-Jehovah reading debated
+- Luke 1:76	Lord	1	"go before the face of the Lord": Malachi/Isaiah echo of Jehovah, fulfilled in John preceding Jesus; debated
+- Luke 3:4	Lord	1	Isaiah 40:3 quotation "Prepare ye the way of the Lord": OT Jehovah, applied to Christ; left as OT quotation
+- Luke 5:17	Lord	1	"the power of the Lord was present to heal": usually God's power working through Jesus; some read Jesus
+- Luke 10:2	Lord	1	"Lord of the harvest": usually the Father (prayer addressed), some read Christ (cf. Matt 9:38 / 10:1 sending)
+- Luke 13:35	Lord	1	Psalm 118:26 "cometh in the name of the Lord": the coming one is Christ, the Lord named is Jehovah; left GF
+- Luke 19:38	Lord	1	Psalm 118:26 "the King that cometh in the name of the Lord": same as 13:35; left GF
+
+## john revelation
+
+- John 1:23	Lord	1	Isaiah 40:3 quotation ("way of the LORD"); the Baptist applies it to preparing for Jesus, but as an OT quotation it stays GF
+- Revelation 6:10	Lord	1	"O Lord (Despotes), holy and true": usually the Father as sovereign Judge, but "holy and true" is Christ's title in 3:7
+- Revelation 22:6	Lord	1	"the Lord God of the holy prophets sent his angel": normally the Father, yet 22:16 has "I Jesus have sent mine angel" (cf. 1:1)
+
+## acts
+
+- Acts 2:20 Lord#1 - Joel 2:31 "day of the Lord"; Peter's application may point to Christ
+- Acts 2:21 Lord#1 - Joel 2:32 "call on the name of the Lord"; Peter (2:38) and Paul (Rom 10:13) apply it to Jesus
+- Acts 5:9 Lord#1 - "Spirit of the Lord": Father or Christ
+- Acts 8:25 Lord#1 - "word of the Lord": God's word or the word about Christ
+- Acts 8:39 Lord#1 - "Spirit of the Lord": Father or Christ
+- Acts 9:31 Lord#1 - "fear of the Lord": OT phrase, but the context is the risen Christ
+- Acts 10:14 Lord#1 - Peter answers the heavenly voice; v.15 says "what God hath cleansed"
+- Acts 11:8 Lord#1 - the same as 10:14
+- Acts 11:21 Lord#1 - "hand of the Lord": OT phrase; v.20 preaches the Lord Jesus
+- Acts 13:2 Lord#1 - "ministered to the Lord": God or Christ
+- Acts 13:10 Lord#1 - "right ways of the Lord": OT phrase (Hos 14:9)
+- Acts 13:12 Lord#1 - "doctrine of the Lord": teaching about Christ, or from God
+- Acts 13:47 Lord#1 - "so hath the Lord commanded us" (Isa 49:6); the speaker could be God or the risen Christ
+- Acts 13:48 Lord#1 - "word of the Lord" (some mss "word of God")
+- Acts 13:49 Lord#1 - "word of the Lord"
+- Acts 15:35 Lord#1 - "word of the Lord"
+- Acts 15:36 Lord#1 - "word of the Lord"
+- Acts 16:10 Lord#1 - "the Lord had called us" (some mss "God"); cf. the Spirit of Jesus, v.7
+- Acts 16:14 Lord#1 - "whose heart the Lord opened": God or Christ
+- Acts 16:32 Lord#1 - "word of the Lord" right after "Believe on the Lord Jesus Christ" (v.31); leans toward the Son
+- Acts 18:25 Lord#1 - "way of the Lord": Isa 40:3 echo; #2 was changed to GS
+- Acts 21:14 Lord#1 - "the will of the Lord be done": Father or Christ
+- Acts 21:20 Lord#1 - "glorified the Lord" (critical text "God")
+
+## rom cor gal
+
+- Romans 14:11	LORD	Isaiah 45:23 "saith the LORD", but framed by "judgment seat of Christ" (14:10) and applied to Christ in Phil 2:10-11; left GF as OT quotation.
+- 1 Corinthians 2:16	Lord	Isaiah 40:13 "mind of the Lord" (YHWH), yet Paul answers "we have the mind of Christ"; left GF as OT quotation.
+- 1 Corinthians 10:26	Lord’s	Psalm 24:1 "the earth is the Lord's"; some read Christ from the Lord's-table context (10:21); left GF.
+- 1 Corinthians 10:28	Lord’s	Same Psalm 24:1 quotation (KJV/TR repetition); left GF.
+- 2 Corinthians 3:16	Lord	"turn to the Lord" echoes Moses before YHWH (Ex 34:34); interpreters split between YHWH, Christ, and the Spirit; left GF.
+- 2 Corinthians 3:17	Lord	"Now the Lord is that Spirit" (both occurrences): Lord = YHWH of Ex 34 / the Spirit / Christ is debated; left GF.
+- 2 Corinthians 3:18	Lord	"glory of the Lord" and "Spirit of the Lord" (both occurrences): could be Christ (cf. 4:4-6 image) or YHWH of Ex 34; left GF.
+- 2 Corinthians 8:21	Lord	Proverbs 3:4 (LXX) "in the sight of the Lord"; Christ or God both defended; left GF.
+
+## other epistles
+
+- # "Lord" left as GOD_FATHER on purpose because the referent is debatable. Ephesians through Jude.
+- 1 Timothy 6:15	Lord#1	'King of kings and Lord of lords' shown 'in his times' by the one dwelling in unapproachable light (v16) = most read the Father; some read Christ (cf. Rev 17:14). Note: 'Potentate' in this verse is tagged GS, which is inconsistent.
+- 2 Timothy 2:19	Lord#1	quotation of Num 16:5 (YHWH); Paul may apply it to Christ, as the next clause names Christ.
+- Hebrews 12:14	Lord#1	'no man shall see the Lord' - God (beatific vision) or Christ at his appearing; interpreters differ.
+- James 1:7	Lord#1	most read God the giver (cf. 1:5 'ask of God'); some read Christ.
+- James 1:12	Lord#1	'the Lord hath promised' (TR); usually God (cf. 2:5), some read Christ.
+- James 4:10	Lord#1	'humble yourselves in the sight of the Lord' - parallels 4:7 'submit to God'; some read Christ.
+- James 4:15	Lord#1	'If the Lord will' - God's providence generally; could be Christ.
+- James 5:10	Lord#1	OT prophets spoke in the name of the LORD (YHWH); left GF, though James uses 'Lord' of Christ in 5:7-8.
+- James 5:11	Lord#1	'the end of the Lord' - God's purpose in Job (majority); some (Augustine) read Christ's death.
+- James 5:11	Lord#2	'the Lord is very pitiful' - echo of Ex 34:6/Ps 103:8 (YHWH); left GF.
+- James 5:14	Lord#1	anointing 'in the name of the Lord' - many read Christ (cf. Acts 3:6), others God.
+- James 5:15	Lord#1	'the Lord shall raise him up' - God or Christ; interpreters differ.
+- 1 Peter 1:25	Lord#1	Isa 40:8 quotation (LXX 'of the Lord' for 'of our God'); Peter applies it to the gospel of Christ.
+- 1 Peter 3:12	Lord#1	AMB (weak): Ps 34:15-16 quotation of YHWH; left GF though Peter applies Ps 34:8 to Christ in 2:3.
+- 1 Peter 3:12	Lord#2	AMB (weak): same Ps 34:16 quotation as #1.
+- 1 Peter 3:15	Lord#1	KJV/TR 'the Lord God' (Isa 8:13 echo) = God; critical text reads 'Christ as Lord'.
+- 2 Peter 2:9	Lord#1	context is God's past judgments (2:4-8 'God spared not'); most read God, some Christ.
+- 2 Peter 2:11	Lord#1	'before the Lord' - God or Christ as judge; phrase absent in some manuscripts.
+- 2 Peter 3:8	Lord#1	echo of Ps 90:4 (God); but chapter concerns Christ's coming (3:4).
+- 2 Peter 3:9	Lord#1	'the Lord is not slack concerning his promise' - the promise of Christ's coming (3:4); referent God or Christ debated.
+- 2 Peter 3:10	Lord#1	'the day of the Lord' - Christ's return (3:4 'his coming') vs. 'the day of God' (3:12); interpreters differ.
+- Jude 1:4	Lord#1	KJV/TR 'the only Lord God' = God the Father as distinct from 'our Lord Jesus Christ'; by Granville Sharp / critical text both titles are Christ.
+- Jude 1:5	Lord#1	'the Lord, having saved the people out of Egypt' - YHWH, or the pre-incarnate Christ (cf. 1 Cor 10:4,9; some MSS read 'Jesus').
+- Jude 1:9	Lord#1	AMB (weak): 'The Lord rebuke thee' - echo of Zech 3:2 (YHWH); left GF.
+- Jude 1:14	Lord#1	Enoch's 'the Lord cometh with ten thousands of his saints' - God (1 Enoch 1:9) or Christ at his return, as many apply it.

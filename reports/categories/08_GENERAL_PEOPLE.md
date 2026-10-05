@@ -42,7 +42,7 @@ its colored uses this is, how often the same word is left uncolored, and every v
 | daughters | 250 | 100% | 0 |  |
 | disciples | 244 | 100% | 0 |  |
 | tribe | 242 | 100% | 0 |  |
-| lord | 235 | 3% | 0 | GOD_FATHER 7569, GOD_SON 12 |
+| lord | 235 | 3% | 0 | GOD_FATHER 7111, GOD_SON 470 |
 | prophet | 232 | 97% | 0 | GOD_SON 5, DEMONIC 3 |
 | prophets | 232 | 100% | 0 |  |
 | mother | 229 | 100% | 0 |  |
@@ -229,7 +229,7 @@ its colored uses this is, how often the same word is left uncolored, and every v
 | rich man | 15 | 100% | - |  |
 | bride | 14 | 100% | 0 |  |
 | eldest | 14 | 100% | 0 |  |
-| Lord | 14 | 3% | 0 | GOD_FATHER 7569, GOD_SON 12 |
+| Lord | 14 | 3% | 0 | GOD_FATHER 7111, GOD_SON 470 |
 | oppressor | 14 | 100% | 0 |  |
 | spies | 14 | 100% | 0 |  |
 | teachers | 14 | 100% | 0 |  |
@@ -296,7 +296,7 @@ its colored uses this is, how often the same word is left uncolored, and every v
 | humble | 9 | 100% | 16 |  |
 | innocent | 9 | 100% | 29 |  |
 | labourers | 9 | 100% | 0 |  |
-| lord's | 9 | 7% | 0 | GOD_FATHER 123 |
+| lord's | 9 | 7% | 0 | GOD_FATHER 114, GOD_SON 9 |
 | maids | 9 | 100% | 0 |  |
 | mistress | 9 | 100% | 0 |  |
 | partaker | 9 | 100% | 0 |  |

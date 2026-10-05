@@ -13,20 +13,20 @@ meaning 'in this way'). Words never colored are not listed.
 | to | 484 | 12971 | 4% | GENERAL_TIME 459, GENERAL_PLACE_2 25 |
 | that | 3 | 12865 | 0% | GENERAL_TIME 2, GOD_FATHER 1 |
 | in | 63 | 12532 | 1% | GENERAL_TIME 59, GENERAL_PLACE_2 4 |
-| he | 10392 | 1 | 100% | PRONOUN 7241, GOD_FATHER 1891, GOD_SON 1241, GOD_SPIRIT 19 |
+| he | 10392 | 1 | 100% | PRONOUN 7241, GOD_FATHER 1890, GOD_SON 1242, GOD_SPIRIT 19 |
 | for | 388 | 8597 | 4% | GENERAL_TIME 388 |
 | i | 8849 | 1 | 100% | PRONOUN 4986, GOD_FATHER 3103, GOD_SON 759, GOD_SPIRIT 1 |
 | his | 8476 | 0 | 100% | PRONOUN 6555, GOD_FATHER 1415, GOD_SON 506 |
 | a | 19 | 8179 | 0% | QUANTITY 19 |
-| lord | 7830 | 0 | 100% | GOD_FATHER 7569, GENERAL_PEOPLE 249, GOD_SON 12 |
+| lord | 7830 | 0 | 100% | GOD_FATHER 7111, GOD_SON 470, GENERAL_PEOPLE 249 |
 | they | 7375 | 2 | 100% | PRONOUN 7373, GOD_FATHER 2 |
 | be | 1 | 7011 | 0% | GENERAL_TIME 1 |
-| him | 6666 | 1 | 100% | PRONOUN 4892, GOD_SON 1123, GOD_FATHER 647, GOD_SPIRIT 4 |
+| him | 6666 | 1 | 100% | PRONOUN 4892, GOD_SON 1126, GOD_FATHER 644, GOD_SPIRIT 4 |
 | not | 1 | 6596 | 0% | GENERAL_TIME 1 |
 | them | 6429 | 0 | 100% | PRONOUN 6425, GOD_FATHER 4 |
 | all | 5535 | 86 | 98% | QUANTITY 5534, GENERAL_PEOPLE 1 |
-| thou | 5474 | 0 | 100% | PRONOUN 4222, GOD_FATHER 1048, GOD_SON 204 |
-| thy | 4602 | 0 | 100% | PRONOUN 3406, GOD_FATHER 1133, GOD_SON 63 |
+| thou | 5474 | 0 | 100% | PRONOUN 4221, GOD_FATHER 1048, GOD_SON 205 |
+| thy | 4602 | 0 | 100% | PRONOUN 3405, GOD_FATHER 1133, GOD_SON 64 |
 | god | 4407 | 1 | 100% | GOD_FATHER 4356, DEMONIC 51 |
 | my | 4358 | 0 | 100% | PRONOUN 2929, GOD_FATHER 1153, GOD_SON 276 |
 | me | 4085 | 2 | 100% | PRONOUN 3065, GOD_FATHER 595, GOD_SON 424, GOD_SPIRIT 1 |
@@ -88,7 +88,7 @@ meaning 'in this way'). Words never colored are not listed.
 | who | 969 | 0 | 100% | PRONOUN 788, GOD_FATHER 129, GOD_SON 52 |
 | father | 954 | 0 | 100% | GENERAL_PEOPLE 699, GOD_FATHER 255 |
 | great | 88 | 857 | 9% | QUANTITY 73, GENERAL_PEOPLE 4, ANIMAL 3, DEMONIC 3, GENERAL_PLACE_1 2, GOD_FATHER 1, GENERAL_TIME 1, GOD_SON 1 |
-| thine | 937 | 0 | 100% | PRONOUN 749, GOD_FATHER 180, GOD_SON 8 |
+| thine | 937 | 0 | 100% | PRONOUN 748, GOD_FATHER 180, GOD_SON 9 |
 | any | 141 | 776 | 15% | GENERAL_TIME 96, QUANTITY 45 |
 | away | 142 | 774 | 16% | GENERAL_PLACE_2 142 |
 | among | 19 | 897 | 2% | GENERAL_PLACE_2 19 |
@@ -100,7 +100,7 @@ meaning 'in this way'). Words never colored are not listed.
 | moses | 848 | 0 | 100% | PROPER_PERSON 848 |
 | judah | 813 | 0 | 100% | PROPER_PLACE 694, PEOPLE_GROUP 70, PROPER_PERSON 49 |
 | jerusalem | 811 | 0 | 100% | PROPER_PLACE 810, PEOPLE_GROUP 1 |
-| whom | 762 | 1 | 100% | PRONOUN 642, GOD_SON 68, GOD_FATHER 48, GOD_SPIRIT 4 |
+| whom | 762 | 1 | 100% | PRONOUN 642, GOD_SON 70, GOD_FATHER 46, GOD_SPIRIT 4 |
 | pass | 463 | 256 | 64% | GENERAL_TIME 463 |
 | good | 2 | 715 | 0% | GENERAL_TIME 2 |
 | place | 697 | 5 | 99% | GENERAL_PLACE_1 695, GENERAL_PLACE_2 1, QUANTITY 1 |
@@ -336,7 +336,7 @@ meaning 'in this way'). Words never colored are not listed.
 | wives | 133 | 0 | 100% | GENERAL_PEOPLE 133 |
 | heavens | 133 | 0 | 100% | GENERAL_PLACE_1 133 |
 | north | 132 | 0 | 100% | GENERAL_PLACE_1 132 |
-| lord's | 132 | 0 | 100% | GOD_FATHER 123, GENERAL_PEOPLE 9 |
+| lord's | 132 | 0 | 100% | GOD_FATHER 114, GENERAL_PEOPLE 9, GOD_SON 9 |
 | beside | 41 | 91 | 31% | GENERAL_PLACE_2 41 |
 | rose | 2 | 129 | 2% | PLANT 2 |
 | fat | 1 | 129 | 1% | ANIMAL 1 |

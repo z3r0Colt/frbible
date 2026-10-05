@@ -459,11 +459,12 @@ the reason. The original color is still kept (`orig` in `tagged_verses.jsonl`,
    (Acts 17:31) now have the Son color. "God" in Ephesians 2:16 now has the
    Father color.
 
-In all, **1,144 words** changed color. The biggest groups are Father to Son (481),
-Son to Father (409), human pronoun to Son (71) or to Father (51), angel to Son (49,
-the Angel of the LORD), and Son to Spirit (24). Each New Testament book was read
-verse by verse. Places where good Reformed interpreters differ were left as the PDF
-had them, and every one is listed in `reports/ambiguous_referents.md`.
+In all, **1,619 words** changed color. The biggest groups are Father to Son (952,
+including 467 uses of "Lord" said of Jesus), Son to Father (410), human pronoun to
+Son (76) or to Father (49), angel to Son (49, the Angel of the LORD), and Son to
+Spirit (24). Each New Testament book was read verse by verse. Places where good
+Reformed interpreters differ were left as the PDF had them, and every one is listed
+in `reports/ambiguous_referents.md`.
 
 Things we did **not** change, on purpose:
 

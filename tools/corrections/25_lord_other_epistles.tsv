@@ -19,7 +19,7 @@ Ephesians 5:29	Lord	1	GOD_FATHER	GOD_SON	the Lord (Christ, context)
 Ephesians 6:1	Lord	1	GOD_FATHER	GOD_SON	in the Lord (Christ)
 Ephesians 6:4	Lord	1	GOD_FATHER	GOD_SON	the Lord (Christ, context)
 Ephesians 6:7	Lord	1	GOD_FATHER	GOD_SON	the Lord (Christ, context)
-Ephesians 6:8	Lord	1	GOD_FATHER	GOD_SON	the Lord (Christ, context)
+Ephesians 6:8	Lord	1	GOD_FATHER	GOD_SON	receive of the Lord (servants of Christ, 6:6)
 Ephesians 6:10	Lord	1	GOD_FATHER	GOD_SON	in the Lord (Christ)
 Ephesians 6:21	Lord	1	GOD_FATHER	GOD_SON	in the Lord (Christ)
 Ephesians 6:23	Lord	1	GOD_FATHER	GOD_SON	Lord Jesus
@@ -31,7 +31,7 @@ Philippians 2:19	Lord	1	GOD_FATHER	GOD_SON	Lord Jesus
 Philippians 2:24	Lord	1	GOD_FATHER	GOD_SON	in the Lord (Christ)
 Philippians 2:29	Lord	1	GOD_FATHER	GOD_SON	in the Lord (Christ)
 Philippians 3:1	Lord	1	GOD_FATHER	GOD_SON	in the Lord (Christ)
-Philippians 3:8	Lord	1	GOD_FATHER	GOD_SON	the Lord (Christ, context)
+Philippians 3:8	Lord	1	GOD_FATHER	GOD_SON	Christ Jesus my Lord
 Philippians 3:20	Lord	1	GOD_FATHER	GOD_SON	Lord Jesus
 Philippians 4:1	Lord	1	GOD_FATHER	GOD_SON	in the Lord (Christ)
 Philippians 4:2	Lord	1	GOD_FATHER	GOD_SON	in the Lord (Christ)
@@ -42,14 +42,14 @@ Philippians 4:23	Lord	1	GOD_FATHER	GOD_SON	Lord Jesus
 Colossians 1:2	Lord	1	GOD_FATHER	GOD_SON	Lord Jesus
 Colossians 1:3	Lord	1	GOD_FATHER	GOD_SON	Lord Jesus
 Colossians 1:10	Lord	1	GOD_FATHER	GOD_SON	the Lord (Christ, context)
-Colossians 2:6	Lord	1	GOD_FATHER	GOD_SON	the Lord (Christ, context)
+Colossians 2:6	Lord	1	GOD_FATHER	GOD_SON	Christ Jesus the Lord
 Colossians 3:16	Lord	1	GOD_FATHER	GOD_SON	the Lord (Christ, context)
 Colossians 3:17	Lord	1	GOD_FATHER	GOD_SON	Lord Jesus
 Colossians 3:18	Lord	1	GOD_FATHER	GOD_SON	in the Lord (Christ)
 Colossians 3:20	Lord	1	GOD_FATHER	GOD_SON	the Lord (Christ, context)
 Colossians 3:23	Lord	1	GOD_FATHER	GOD_SON	the Lord (Christ, context)
-Colossians 3:24	Lord	1	GOD_FATHER	GOD_SON	the Lord (Christ, context)
-Colossians 3:24	Lord	2	GOD_FATHER	GOD_SON	the Lord (Christ, context)
+Colossians 3:24	Lord	1	GOD_FATHER	GOD_SON	reward of the Lord (= the Lord Christ)
+Colossians 3:24	Lord	2	GOD_FATHER	GOD_SON	ye serve the Lord Christ
 Colossians 4:7	Lord	1	GOD_FATHER	GOD_SON	in the Lord (Christ)
 Colossians 4:17	Lord	1	GOD_FATHER	GOD_SON	in the Lord (Christ)
 1 Thessalonians 1:1	Lord	1	GOD_FATHER	GOD_SON	Lord Jesus
@@ -134,7 +134,7 @@ Hebrews 7:14	Lord	1	GOD_FATHER	GOD_SON	our Lord sprang out of Juda
 Hebrews 13:20	Lord	1	GOD_FATHER	GOD_SON	Lord Jesus
 James 1:1	Lord	1	GOD_FATHER	GOD_SON	Lord Jesus
 James 2:1	Lord	1	GOD_FATHER	GOD_SON	Lord Jesus
-James 2:1	Lord	2	GOD_FATHER	GOD_SON	the Lord (Christ, context)
+James 2:1	Lord	2	GOD_FATHER	GOD_SON	the Lord of glory (Christ)
 James 5:7	Lord	1	GOD_FATHER	GOD_SON	the coming of the Lord
 James 5:8	Lord	1	GOD_FATHER	GOD_SON	the coming of the Lord
 1 Peter 1:3	Lord	1	GOD_FATHER	GOD_SON	Lord Jesus
@@ -146,8 +146,8 @@ James 5:8	Lord	1	GOD_FATHER	GOD_SON	the coming of the Lord
 2 Peter 1:14	Lord	1	GOD_FATHER	GOD_SON	Lord Jesus
 2 Peter 1:16	Lord	1	GOD_FATHER	GOD_SON	Lord Jesus
 2 Peter 2:1	Lord	1	GOD_FATHER	GOD_SON	denying the Lord that bought them
-2 Peter 2:20	Lord	1	GOD_FATHER	GOD_SON	the Lord (Christ, context)
-2 Peter 3:2	Lord	1	GOD_FATHER	GOD_SON	the Lord (Christ, context)
+2 Peter 2:20	Lord	1	GOD_FATHER	GOD_SON	the Lord and Saviour Jesus Christ
+2 Peter 3:2	Lord	1	GOD_FATHER	GOD_SON	apostles of the Lord and Saviour
 2 Peter 3:15	Lord	1	GOD_FATHER	GOD_SON	longsuffering of our Lord (Christ)
 2 Peter 3:18	Lord	1	GOD_FATHER	GOD_SON	our Lord
 2 John 1:3	Lord	1	GOD_FATHER	GOD_SON	Lord Jesus

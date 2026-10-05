@@ -15,15 +15,15 @@ its colored uses this is, how often the same word is left uncolored, and every v
 |---|---:|---:|---:|---|
 | Spirit | 170 | 98% | 313 | DEMONIC 3, GOD_SON 1 |
 | Holy Ghost | 90 | 100% | - |  |
-| he | 18 | 0% | 1 | PRONOUN 7241, GOD_FATHER 1891, GOD_SON 1241 |
+| he | 18 | 0% | 1 | PRONOUN 7241, GOD_FATHER 1890, GOD_SON 1242 |
 | spirit | 5 | 98% | 313 | DEMONIC 3, GOD_SON 1 |
 | Comforter | 4 | 50% | 0 | GENERAL_PEOPLE 4 |
-| him | 4 | 0% | 1 | PRONOUN 4892, GOD_SON 1123, GOD_FATHER 647 |
+| him | 4 | 0% | 1 | PRONOUN 4892, GOD_SON 1126, GOD_FATHER 644 |
 | Spirits | 4 | 44% | 25 | DEMONIC 4, GENERAL_PEOPLE 1 |
-| whom | 4 | 1% | 1 | PRONOUN 642, GOD_SON 68, GOD_FATHER 48 |
+| whom | 4 | 1% | 1 | PRONOUN 642, GOD_SON 70, GOD_FATHER 46 |
 | of | 3 | 6% | 34424 | GENERAL_TIME 43, GENERAL_PLACE_1 1 |
 | truth | 3 | 75% | 231 | GOD_SON 1 |
-| He | 1 | 0% | 1 | PRONOUN 7241, GOD_FATHER 1891, GOD_SON 1241 |
+| He | 1 | 0% | 1 | PRONOUN 7241, GOD_FATHER 1890, GOD_SON 1242 |
 | himself | 1 | 0% | 0 | PRONOUN 412, GOD_SON 67, GOD_FATHER 48 |
 | Holy Spirit | 1 | 100% | - |  |
 | I | 1 | 0% | 1 | PRONOUN 4986, GOD_FATHER 3103, GOD_SON 759 |
