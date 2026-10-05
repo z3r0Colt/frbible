@@ -1,0 +1,66 @@
+# Pronoun referent fixes: Romans, Galatians (Father vs Son). Only clear cases.
+Romans 1:2	he	1	GOD_SON	GOD_FATHER	God, who promised the gospel of God
+Romans 1:2	his	1	GOD_SON	GOD_FATHER	God's prophets
+Romans 1:20	him	1	GOD_SON	GOD_FATHER	God (1:19), invisible things of the Creator
+Romans 1:20	his	1	GOD_SON	GOD_FATHER	God's eternal power and Godhead
+Romans 1:21	him	1	GOD_SON	GOD_FATHER	God, glorified him not as God
+Romans 1:25	who	1	GOD_SON	GOD_FATHER	the Creator, blessed for ever
+Romans 2:6	who	1	PRONOUN	GOD_FATHER	God, who will render to every man
+Romans 3:4	thou	*	PRONOUN	GOD_FATHER	God addressed (Ps 51:4)
+Romans 3:4	thy	1	PRONOUN	GOD_FATHER	God's sayings (Ps 51:4)
+Romans 3:25	whom	1	PRONOUN	GOD_SON	Christ Jesus, set forth as propitiation
+Romans 3:25	his	1	GOD_FATHER	GOD_SON	Christ's blood
+Romans 4:5	him	2	PRONOUN	GOD_FATHER	God, who justifieth the ungodly
+Romans 4:17	whom	1	PRONOUN	GOD_FATHER	God, whom Abraham believed
+Romans 4:25	who	1	PRONOUN	GOD_SON	Jesus, delivered for our offences
+Romans 5:2	whom	1	GOD_FATHER	GOD_SON	our Lord Jesus Christ (5:1)
+Romans 5:9	his	1	GOD_FATHER	GOD_SON	Christ's blood (5:8)
+Romans 5:9	him	1	GOD_FATHER	GOD_SON	Christ, saved from wrath through him
+Romans 5:10	his	2	GOD_FATHER	GOD_SON	the Son's life
+Romans 5:11	whom	1	GOD_FATHER	GOD_SON	our Lord Jesus Christ
+Romans 5:14	him	1	GOD_FATHER	GOD_SON	Christ, him that was to come
+Romans 6:3	his	1	GOD_FATHER	GOD_SON	Jesus Christ's death
+Romans 6:4	him	1	GOD_FATHER	GOD_SON	Christ, buried with him
+Romans 6:5	his	*	GOD_FATHER	GOD_SON	Christ's death and resurrection
+Romans 6:6	him	1	GOD_FATHER	GOD_SON	Christ, crucified with him
+Romans 6:8	him	1	GOD_FATHER	GOD_SON	Christ, live with him
+Romans 6:9	him	1	GOD_FATHER	GOD_SON	Christ, death hath no dominion
+Romans 6:10	he	*	GOD_FATHER	GOD_SON	Christ, died unto sin once
+Romans 7:4	him	1	GOD_FATHER	GOD_SON	Christ, raised from the dead
+Romans 7:4	who	1	GOD_FATHER	GOD_SON	Christ, raised from the dead
+Romans 8:9	his	1	GOD_FATHER	GOD_SON	none of Christ's
+Romans 8:17	him	1	GOD_FATHER	GOD_SON	Christ, suffer with him (joint-heirs)
+Romans 8:20	him	1	PRONOUN	GOD_FATHER	God, who subjected creation in hope
+Romans 8:20	who	1	PRONOUN	GOD_FATHER	God, who subjected creation in hope
+Romans 8:27	he	2	GOD_FATHER	GOD_SPIRIT	the Spirit, maketh intercession
+Romans 8:29	he	3	GOD_FATHER	GOD_SON	the Son, firstborn among many brethren
+Romans 8:32	He	1	PRONOUN	GOD_FATHER	the Father, who spared not his Son
+Romans 8:32	him	*	GOD_FATHER	GOD_SON	the Son, delivered up; with him
+Romans 8:34	who	*	GOD_FATHER	GOD_SON	Christ, at right hand, intercedes
+Romans 8:36	thy	1	PRONOUN	GOD_FATHER	God addressed (Ps 44:22)
+Romans 8:36	we	*	GOD_FATHER	PRONOUN	believers, killed all the day long
+Romans 9:5	who	1	GOD_FATHER	GOD_SON	Christ, who is over all, God blessed
+Romans 9:33	him	1	GOD_FATHER	GOD_SON	Christ, the stone believed on
+Romans 10:11	him	1	GOD_FATHER	GOD_SON	the Lord Jesus (10:9), believed on
+Romans 10:14	whom	*	PRONOUN	GOD_FATHER	divine object of faith, not human; matches him (GF)
+Romans 10:20	me	*	PRONOUN	GOD_FATHER	God speaking (Isa 65:1)
+Romans 11:4	myself	1	PRONOUN	GOD_FATHER	God: I have reserved to myself
+Romans 14:9	he	1	GOD_FATHER	GOD_SON	Christ, that he might be Lord
+Romans 14:11	me	1	PRONOUN	GOD_FATHER	the LORD speaking (Isa 45:23), matches I
+Romans 15:3	himself	1	GOD_FATHER	GOD_SON	Christ pleased not himself
+Romans 15:3	thee	1	PRONOUN	GOD_FATHER	God reproached (Ps 69:9)
+Romans 15:3	me	1	PRONOUN	GOD_SON	Christ speaking in Ps 69:9
+Romans 15:10	his	1	PRONOUN	GOD_FATHER	God's people (Deut 32:43)
+Romans 15:12	he	1	GOD_FATHER	GOD_SON	Christ, root of Jesse
+Romans 15:12	him	1	GOD_FATHER	GOD_SON	Christ, in him Gentiles trust
+Romans 15:21	he	1	GOD_FATHER	GOD_SON	Christ (15:20), not spoken of
+Galatians 1:1	him	1	GOD_FATHER	GOD_SON	Jesus Christ, raised from the dead
+Galatians 1:4	who	1	GOD_FATHER	GOD_SON	Lord Jesus Christ, gave himself
+Galatians 1:4	himself	1	GOD_FATHER	GOD_SON	Christ gave himself for our sins
+Galatians 1:4	he	1	GOD_FATHER	GOD_SON	Christ, might deliver us
+Galatians 1:16	him	1	GOD_FATHER	GOD_SON	the Son, preached among heathen
+Galatians 2:20	who	1	GOD_FATHER	GOD_SON	the Son of God, who loved me
+Galatians 2:20	himself	1	GOD_FATHER	GOD_SON	the Son gave himself for me
+Galatians 3:16	He	1	PRONOUN	GOD_FATHER	God, who spoke the promise
+Galatians 3:19	whom	1	PRONOUN	GOD_SON	the seed, Christ (3:16)
+Galatians 6:14	whom	1	GOD_FATHER	GOD_SON	Lord Jesus Christ, by whom world crucified

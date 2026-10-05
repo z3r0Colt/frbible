@@ -22,7 +22,7 @@ its colored uses this is, how often the same word is left uncolored, and every v
 | devil | 59 | 100% | 0 |  |
 | devils | 55 | 100% | 0 |  |
 | Satan | 55 | 100% | 0 |  |
-| god | 51 | 1% | 1 | GOD_FATHER 4355, GOD_SON 1 |
+| god | 51 | 1% | 1 | GOD_FATHER 4356 |
 | images | 38 | 100% | 0 |  |
 | beast | 37 | 21% | 0 | ANIMAL 136, ANGELIC 7 |
 | image | 37 | 100% | 25 |  |

@@ -1,0 +1,119 @@
+# Pronoun referent fixes: Acts, Thessalonians, Pastorals, Philemon (Father vs Son vs Spirit). Only clear cases.
+Acts 1:7	his	1	GOD_SON	GOD_FATHER	Father, put in his own power
+Acts 2:25	I	*	PRONOUN	GOD_SON	Christ speaking in Ps 16 (David of him)
+Acts 2:25	my	*	PRONOUN	GOD_SON	Christ speaking in Ps 16
+Acts 2:25	he	1	GOD_SON	GOD_FATHER	the Lord (Father) at Christ's right hand
+Acts 2:26	my	*	PRONOUN	GOD_SON	Christ speaking in Ps 16
+Acts 2:27	thou	*	GOD_SON	GOD_FATHER	Father addressed, not leave soul in hell
+Acts 2:27	thine	1	GOD_SON	GOD_FATHER	Father's Holy One
+Acts 2:27	my	1	PRONOUN	GOD_SON	Christ's soul (Ps 16)
+Acts 2:28	Thou	1	GOD_SON	GOD_FATHER	Father addressed by Christ
+Acts 2:28	thou	1	GOD_SON	GOD_FATHER	Father addressed by Christ
+Acts 2:28	thy	1	GOD_SON	GOD_FATHER	Father's countenance
+Acts 2:28	me	*	PRONOUN	GOD_SON	Christ speaking in Ps 16
+Acts 2:34	my	2	PRONOUN	GOD_FATHER	LORD's right hand (Ps 110)
+Acts 2:35	I	1	PRONOUN	GOD_FATHER	LORD makes Christ's foes footstool
+Acts 3:18	his	1	GOD_SON	GOD_FATHER	God's prophets
+Acts 3:18	he	1	GOD_SON	GOD_FATHER	God fulfilled
+Acts 3:20	he	1	GOD_SON	GOD_FATHER	God shall send Jesus Christ
+Acts 3:21	his	1	GOD_SON	GOD_FATHER	God's holy prophets
+Acts 4:24	thou	1	GOD_SON	GOD_FATHER	Sovereign Lord addressed, Creator
+Acts 4:25	who	1	GOD_SON	GOD_FATHER	Father, spoke by David
+Acts 4:25	thy	1	GOD_SON	GOD_FATHER	Father's servant David
+Acts 4:26	his	1	GOD_SON	GOD_FATHER	the Lord and his Christ
+Acts 4:27	thy	1	GOD_SON	GOD_FATHER	Father's holy child Jesus
+Acts 4:27	thou	1	GOD_SON	GOD_FATHER	Father anointed Jesus
+Acts 4:28	thy	*	GOD_SON	GOD_FATHER	Father's hand and counsel
+Acts 4:29	thy	*	GOD_SON	GOD_FATHER	Father addressed (cf. thy child Jesus)
+Acts 4:30	thine	1	GOD_SON	GOD_FATHER	Father's hand
+Acts 4:30	thy	1	GOD_SON	GOD_FATHER	Father's holy child Jesus
+Acts 5:31	his	1	GOD_SON	GOD_FATHER	God exalted with his right hand
+Acts 5:32	whom	1	GOD_SON	GOD_SPIRIT	the Holy Ghost whom God hath given
+Acts 5:32	him	1	GOD_SON	GOD_FATHER	God, them that obey him
+Acts 7:4	he	2	PRONOUN	GOD_FATHER	God removed Abraham into the land
+Acts 7:5	he	*	GOD_SON	GOD_FATHER	God gave/promised to Abraham
+Acts 7:7	me	1	PRONOUN	GOD_FATHER	God speaking, serve me
+Acts 7:8	he	1	GOD_SON	GOD_FATHER	God gave covenant of circumcision
+Acts 7:44	he	1	PRONOUN	GOD_FATHER	God appointed, speaking unto Moses
+Acts 7:47	him	1	GOD_SON	GOD_FATHER	house for the God of Jacob
+Acts 8:16	he	1	PRONOUN	GOD_SPIRIT	Holy Ghost fallen upon none
+Acts 10:35	him	*	GOD_SON	GOD_FATHER	God, feareth him / accepted with him
+Acts 11:17	he	1	GOD_SON	GOD_FATHER	God gave like gift
+Acts 12:11	his	1	GOD_SON	GOD_FATHER	the Lord (God) sent his angel
+Acts 13:2	me	1	GOD_FATHER	GOD_SPIRIT	Holy Ghost speaking
+Acts 13:2	I	1	GOD_FATHER	GOD_SPIRIT	Holy Ghost speaking
+Acts 13:17	he	1	GOD_SON	GOD_FATHER	God of Israel brought them out
+Acts 13:18	he	1	GOD_SON	GOD_FATHER	God suffered their manners
+Acts 13:19	he	*	GOD_SON	GOD_FATHER	God destroyed nations, divided land
+Acts 13:20	he	1	GOD_SON	GOD_FATHER	God gave judges
+Acts 13:22	he	*	GOD_SON	GOD_FATHER	God removed Saul, raised David
+Acts 13:23	his	1	GOD_SON	GOD_FATHER	God's promise
+Acts 13:33	he	1	GOD_SON	GOD_FATHER	God raised up Jesus
+Acts 13:33	my	1	PRONOUN	GOD_FATHER	Father: Thou art my Son
+Acts 13:33	I	1	PRONOUN	GOD_FATHER	Father: I have begotten thee
+Acts 13:34	he	*	GOD_SON	GOD_FATHER	God raised him / said
+Acts 13:34	I	1	PRONOUN	GOD_FATHER	God: I will give you sure mercies
+Acts 13:35	Thou	1	GOD_SON	GOD_FATHER	Father addressed (Ps 16)
+Acts 13:35	thine	1	GOD_SON	GOD_FATHER	Father's Holy One
+Acts 13:41	I	1	PRONOUN	GOD_FATHER	God: I work a work (Hab 1:5)
+Acts 14:17	he	*	GOD_SON	GOD_FATHER	living God, left not himself without witness
+Acts 14:17	himself	1	GOD_SON	GOD_FATHER	living God
+Acts 14:27	he	1	GOD_SON	GOD_FATHER	God opened door of faith
+Acts 15:8	he	1	GOD_SON	GOD_FATHER	God gave Holy Ghost
+Acts 15:14	his	1	GOD_SON	GOD_FATHER	a people for God's name
+Acts 15:16	I	*	PRONOUN	GOD_FATHER	the Lord speaking (Amos 9)
+Acts 15:17	whom	1	GOD_SON	PRONOUN	the Gentiles, upon whom my name is called
+Acts 15:17	my	1	PRONOUN	GOD_FATHER	the LORD's name
+Acts 15:17	who	1	GOD_SON	GOD_FATHER	the LORD who doeth all these things
+Acts 15:18	his	1	GOD_SON	GOD_FATHER	God's works
+Acts 15:21	him	1	GOD_SON	PRONOUN	Moses preached in synagogues
+Acts 17:23	Whom	1	GOD_SON	GOD_FATHER	the unknown God
+Acts 17:23	him	1	GOD_SON	GOD_FATHER	the unknown God
+Acts 17:24	he	1	GOD_SON	GOD_FATHER	God, Lord of heaven and earth
+Acts 17:25	he	*	GOD_SON	GOD_FATHER	God needs nothing, gives life
+Acts 17:27	him	*	GOD_SON	GOD_FATHER	seek the Lord (God), feel after him
+Acts 17:27	he	1	GOD_SON	GOD_FATHER	God not far from us
+Acts 17:28	him	1	GOD_SON	GOD_FATHER	in God we live
+Acts 17:28	his	1	GOD_SON	GOD_FATHER	God's offspring
+Acts 17:31	he	*	GOD_SON	GOD_FATHER	God judges by the man he ordained
+Acts 19:4	him	2	GOD_SON	PRONOUN	John (come after him)
+Acts 20:32	his	1	GOD_SON	GOD_FATHER	God, word of his grace
+Acts 22:14	his	1	GOD_SON	GOD_FATHER	God of our fathers' will
+Acts 27:23	whose	1	GOD_SON	GOD_FATHER	God whose I am
+Acts 27:23	whom	1	GOD_SON	GOD_FATHER	God whom I serve
+1 Thessalonians 1:10	whom	1	GOD_FATHER	GOD_SON	the Son whom he raised
+1 Thessalonians 2:19	his	1	GOD_FATHER	GOD_SON	Christ's coming
+1 Thessalonians 3:13	his	1	GOD_FATHER	GOD_SON	Lord Jesus coming with his saints
+1 Thessalonians 4:14	him	1	GOD_FATHER	GOD_SON	bring with Jesus
+1 Thessalonians 4:16	himself	1	GOD_FATHER	GOD_SON	the Lord (Christ) descends
+1 Thessalonians 5:10	who	1	GOD_FATHER	GOD_SON	Christ died for us
+1 Thessalonians 5:10	him	1	GOD_FATHER	GOD_SON	live together with Christ
+2 Thessalonians 1:7	his	1	GOD_FATHER	GOD_SON	Lord Jesus' mighty angels
+2 Thessalonians 1:9	his	1	GOD_FATHER	GOD_SON	Lord Jesus' power
+2 Thessalonians 1:10	he	1	GOD_FATHER	GOD_SON	Christ comes to be glorified
+2 Thessalonians 1:10	his	1	GOD_FATHER	GOD_SON	Christ's saints
+2 Thessalonians 1:12	him	1	GOD_FATHER	GOD_SON	ye glorified in Christ
+2 Thessalonians 2:1	him	1	GOD_FATHER	GOD_SON	gathering unto Christ
+2 Thessalonians 2:6	he	1	GOD_FATHER	PRONOUN	man of sin revealed
+2 Thessalonians 2:6	his	1	GOD_FATHER	PRONOUN	man of sin's time
+2 Thessalonians 2:8	his	*	PRONOUN	GOD_SON	the Lord (Christ) mouth and coming
+2 Thessalonians 2:16	himself	1	GOD_FATHER	GOD_SON	our Lord Jesus Christ himself
+1 Timothy 1:12	who	1	GOD_FATHER	GOD_SON	Christ Jesus enabled me
+1 Timothy 1:12	he	1	GOD_FATHER	GOD_SON	Christ counted me faithful
+1 Timothy 1:16	him	1	GOD_FATHER	GOD_SON	believe on Jesus Christ
+1 Timothy 2:6	who	1	GOD_FATHER	GOD_SON	Christ Jesus gave himself a ransom
+1 Timothy 2:6	himself	1	GOD_FATHER	GOD_SON	Christ gave himself
+1 Timothy 6:13	who	2	GOD_FATHER	GOD_SON	Christ before Pontius Pilate
+2 Timothy 1:8	his	1	GOD_FATHER	GOD_SON	our Lord's prisoner (Christ)
+2 Timothy 1:10	who	1	GOD_FATHER	GOD_SON	Saviour Jesus Christ abolished death
+2 Timothy 2:11	him	*	GOD_FATHER	GOD_SON	Christ, dead and living with him
+2 Timothy 2:12	him	*	GOD_FATHER	GOD_SON	Christ, reign with / deny him
+2 Timothy 2:12	he	1	GOD_FATHER	GOD_SON	Christ will deny us
+2 Timothy 2:13	he	*	GOD_FATHER	GOD_SON	Christ abides faithful
+2 Timothy 2:13	himself	1	GOD_FATHER	GOD_SON	Christ cannot deny himself
+2 Timothy 4:1	who	1	GOD_FATHER	GOD_SON	Lord Jesus Christ shall judge
+2 Timothy 4:1	his	*	GOD_FATHER	GOD_SON	Christ's appearing and kingdom
+2 Timothy 4:8	his	1	GOD_FATHER	GOD_SON	Christ's appearing
+Titus 1:16	him	1	PRONOUN	GOD_FATHER	deny God in works
+Titus 2:14	himself	*	GOD_FATHER	GOD_SON	Christ gave himself, purify unto himself
+Titus 2:14	he	1	GOD_FATHER	GOD_SON	Christ might redeem us

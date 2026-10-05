@@ -15647,9 +15647,8 @@
 },
 "god": {
 "colors": {
-"GOD_FATHER": 4355,
-"DEMONIC": 51,
-"GOD_SON": 1
+"GOD_FATHER": 4356,
+"DEMONIC": 51
 },
 "uncolored": 1
 },
@@ -17147,9 +17146,10 @@
 },
 "he": {
 "colors": {
-"GOD_FATHER": 1914,
-"PRONOUN": 7251,
-"GOD_SON": 1227
+"GOD_FATHER": 1808,
+"PRONOUN": 7242,
+"GOD_SON": 1339,
+"GOD_SPIRIT": 3
 },
 "uncolored": 1
 },
@@ -17977,17 +17977,17 @@
 },
 "him": {
 "colors": {
-"PRONOUN": 4889,
-"GOD_FATHER": 681,
-"GOD_SON": 1096
+"PRONOUN": 4883,
+"GOD_FATHER": 591,
+"GOD_SON": 1192
 },
 "uncolored": 1
 },
 "himself": {
 "colors": {
 "PRONOUN": 411,
-"GOD_FATHER": 70,
-"GOD_SON": 47
+"GOD_FATHER": 48,
+"GOD_SON": 69
 },
 "uncolored": 0
 },
@@ -18067,9 +18067,9 @@
 },
 "his": {
 "colors": {
-"PRONOUN": 6561,
-"GOD_FATHER": 1401,
-"GOD_SON": 514
+"PRONOUN": 6555,
+"GOD_FATHER": 1364,
+"GOD_SON": 557
 },
 "uncolored": 0
 },
@@ -18802,9 +18802,9 @@
 },
 "i": {
 "colors": {
-"GOD_FATHER": 3099,
+"GOD_FATHER": 3092,
 "PRONOUN": 4997,
-"GOD_SON": 753
+"GOD_SON": 760
 },
 "uncolored": 1
 },
@@ -24407,9 +24407,9 @@
 },
 "me": {
 "colors": {
-"PRONOUN": 3074,
+"PRONOUN": 3070,
 "GOD_FATHER": 590,
-"GOD_SON": 421
+"GOD_SON": 425
 },
 "uncolored": 2
 },
@@ -26036,8 +26036,8 @@
 "my": {
 "colors": {
 "PRONOUN": 2936,
-"GOD_FATHER": 1151,
-"GOD_SON": 271
+"GOD_FATHER": 1148,
+"GOD_SON": 274
 },
 "uncolored": 0
 },
@@ -26061,9 +26061,9 @@
 },
 "myself": {
 "colors": {
-"PRONOUN": 100,
+"PRONOUN": 99,
 "GOD_SON": 16,
-"GOD_FATHER": 2
+"GOD_FATHER": 3
 },
 "uncolored": 0
 },
@@ -35757,9 +35757,9 @@
 },
 "thee": {
 "colors": {
-"PRONOUN": 3220,
-"GOD_FATHER": 489,
-"GOD_SON": 118
+"PRONOUN": 3219,
+"GOD_FATHER": 487,
+"GOD_SON": 121
 },
 "uncolored": 0
 },
@@ -35928,8 +35928,8 @@
 "thine": {
 "colors": {
 "PRONOUN": 749,
-"GOD_FATHER": 170,
-"GOD_SON": 18
+"GOD_FATHER": 168,
+"GOD_SON": 20
 },
 "uncolored": 0
 },
@@ -36031,9 +36031,9 @@
 },
 "thou": {
 "colors": {
-"PRONOUN": 4222,
-"GOD_FATHER": 1001,
-"GOD_SON": 251
+"PRONOUN": 4220,
+"GOD_FATHER": 993,
+"GOD_SON": 261
 },
 "uncolored": 0
 },
@@ -36135,9 +36135,9 @@
 },
 "thy": {
 "colors": {
-"GOD_FATHER": 1095,
-"PRONOUN": 3408,
-"GOD_SON": 99
+"GOD_FATHER": 1091,
+"PRONOUN": 3406,
+"GOD_SON": 105
 },
 "uncolored": 0
 },
@@ -37681,8 +37681,8 @@
 },
 "we": {
 "colors": {
-"PRONOUN": 1816,
-"GOD_FATHER": 12,
+"PRONOUN": 1819,
+"GOD_FATHER": 9,
 "GOD_SON": 15
 },
 "uncolored": 1
@@ -37953,15 +37953,15 @@
 },
 "who": {
 "colors": {
-"PRONOUN": 794,
-"GOD_FATHER": 153,
-"GOD_SON": 22
+"PRONOUN": 788,
+"GOD_FATHER": 129,
+"GOD_SON": 52
 },
 "uncolored": 0
 },
 "who his": {
 "colors": {
-"GOD_FATHER": 1
+"GOD_SON": 1
 },
 "uncolored": 0
 },
@@ -37980,9 +37980,9 @@
 },
 "whom": {
 "colors": {
-"GOD_FATHER": 68,
-"PRONOUN": 648,
-"GOD_SON": 46
+"GOD_FATHER": 47,
+"PRONOUN": 642,
+"GOD_SON": 73
 },
 "uncolored": 1
 },
@@ -38026,8 +38026,8 @@
 },
 "whose": {
 "colors": {
-"PRONOUN": 277,
-"GOD_FATHER": 25,
+"PRONOUN": 276,
+"GOD_FATHER": 26,
 "GOD_SON": 12
 },
 "uncolored": 0

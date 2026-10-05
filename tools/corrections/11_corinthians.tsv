@@ -1,0 +1,47 @@
+# Pronoun referent fixes: 1-2 Corinthians (Father vs Son). Only clear cases.
+1 Corinthians 1:5	him	1	GOD_FATHER	GOD_SON	Christ Jesus (v4), enriched in him
+1 Corinthians 1:8	who	1	PRONOUN	GOD_FATHER	divine, God who confirms (cf. v9 God is faithful); not human
+1 Corinthians 1:9	whom	1	PRONOUN	GOD_FATHER	God is faithful, by whom ye were called
+1 Corinthians 1:30	who	1	GOD_FATHER	GOD_SON	Christ Jesus, made unto us wisdom
+1 Corinthians 2:2	him	1	GOD_FATHER	GOD_SON	Jesus Christ, him crucified
+1 Corinthians 4:4	he	1	GOD_FATHER	GOD_SON	the Lord who judges = the coming Lord Christ (v5)
+1 Corinthians 4:5	who	1	GOD_FATHER	GOD_SON	the Lord who comes (parousia) and reveals hearts
+1 Corinthians 8:6	whom	2	GOD_FATHER	GOD_SON	one Lord Jesus Christ, by whom are all things
+1 Corinthians 8:6	him	2	GOD_FATHER	GOD_SON	one Lord Jesus Christ, we by him
+1 Corinthians 10:13	who	1	PRONOUN	GOD_FATHER	God is faithful, who will not suffer you
+1 Corinthians 11:23	he	1	GOD_FATHER	GOD_SON	the Lord Jesus, night he was betrayed
+1 Corinthians 11:24	he	*	GOD_FATHER	GOD_SON	Jesus gave thanks and brake bread
+1 Corinthians 11:24	my	1	GOD_FATHER	GOD_SON	Jesus: this is my body
+1 Corinthians 11:25	he	*	GOD_FATHER	GOD_SON	Jesus took the cup
+1 Corinthians 11:26	he	1	GOD_FATHER	GOD_SON	the Lord's death till he (Christ) come
+1 Corinthians 12:11	he	1	GOD_FATHER	GOD_SPIRIT	the selfsame Spirit, as he will
+1 Corinthians 15:4	he	*	GOD_FATHER	GOD_SON	Christ buried and rose again
+1 Corinthians 15:5	he	1	GOD_FATHER	GOD_SON	risen Christ seen of Cephas
+1 Corinthians 15:6	he	1	GOD_FATHER	GOD_SON	risen Christ seen of 500
+1 Corinthians 15:7	he	1	GOD_FATHER	GOD_SON	risen Christ seen of James
+1 Corinthians 15:8	he	1	GOD_FATHER	GOD_SON	risen Christ seen of Paul
+1 Corinthians 15:12	he	1	GOD_FATHER	GOD_SON	Christ preached that he rose
+1 Corinthians 15:15	whom	1	GOD_FATHER	GOD_SON	Christ, whom God raised not up
+1 Corinthians 15:23	his	1	GOD_FATHER	GOD_SON	Christ's coming (parousia)
+1 Corinthians 15:24	he	*	GOD_FATHER	GOD_SON	Christ delivers kingdom to the Father, puts down all rule
+1 Corinthians 15:25	he	1	GOD_FATHER	GOD_SON	Christ must reign
+1 Corinthians 15:25	his	1	GOD_FATHER	GOD_SON	enemies under Christ's feet
+1 Corinthians 15:27	his	1	GOD_FATHER	GOD_SON	God put all things under Christ's feet
+1 Corinthians 15:27	him	*	GOD_FATHER	GOD_SON	all things put under Christ; Father excepted
+1 Corinthians 15:28	him	1	GOD_FATHER	GOD_SON	all things subdued unto the Son
+1 Corinthians 15:28	himself	1	GOD_FATHER	GOD_SON	the Son also himself subject
+1 Corinthians 15:28	him	3	GOD_FATHER	GOD_SON	Father put all things under the Son
+2 Corinthians 1:19	who	1	GOD_FATHER	GOD_SON	Jesus Christ, who was preached among you
+2 Corinthians 1:19	him	1	GOD_FATHER	GOD_SON	in him (Christ) was yea
+2 Corinthians 1:20	him	*	GOD_FATHER	GOD_SON	promises of God yea and Amen in Christ
+2 Corinthians 4:4	who	1	GOD_FATHER	GOD_SON	Christ, who is the image of God
+2 Corinthians 5:15	he	1	GOD_FATHER	GOD_SON	Christ died for all (v14 one died)
+2 Corinthians 5:15	him	1	GOD_FATHER	GOD_SON	Christ, which died for them and rose
+2 Corinthians 5:16	him	1	GOD_FATHER	GOD_SON	Christ, know we him no more after flesh
+2 Corinthians 5:21	him	*	GOD_FATHER	GOD_SON	the Son, made sin for us; righteousness in him
+2 Corinthians 5:21	who	1	GOD_FATHER	GOD_SON	the Son, who knew no sin
+2 Corinthians 8:9	he	*	GOD_FATHER	GOD_SON	Christ, though rich became poor
+2 Corinthians 8:9	his	1	GOD_FATHER	GOD_SON	Christ's poverty
+2 Corinthians 12:9	he	1	PRONOUN	GOD_SON	the Lord (Christ) said, My grace is sufficient
+2 Corinthians 13:4	he	*	GOD_FATHER	GOD_SON	Christ crucified through weakness, liveth
+2 Corinthians 13:4	him	*	GOD_FATHER	GOD_SON	weak in Christ, live with Christ

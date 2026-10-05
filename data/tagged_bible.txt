@@ -28069,7 +28069,7 @@ Acts 28:29	And [when|T2] [he|PR] had said these words, the [Jews|PG] departed, a
 Acts 28:30	And [Paul|PN] dwelt [two|NU] [whole|QU] [years|T1] in [his|PR] own hired [house|L1], and received [all|QU] that came in unto [him|PR],
 Acts 28:31	preaching the kingdom of [God|GF], and teaching those things which concern the [Lord|GF] [Jesus|GS] [Christ|GS], with [all|QU] confidence, no [man|GP] forbidding [him|PR].
 Romans 1:1	[Paul|PN], a [servant|GP] of [Jesus|GS] [Christ|GS], called to be an [apostle|GP], separated unto the gospel of [God|GF],
-Romans 1:2	(which [he|GS] had promised [afore|T2] by [his|GS] [prophets|GP] in the holy scriptures,)
+Romans 1:2	(which [he|GF] had promised [afore|T2] by [his|GF] [prophets|GP] in the holy scriptures,)
 Romans 1:3	concerning [his|GF] [Son|GS] [Jesus|GS] [Christ|GS] [our|PR] [Lord|GF], which was made of the [seed|GP] of [David|PN] according to the flesh;
 Romans 1:4	and declared to be the [Son|GS] of [God|GF] with power, according to the spirit of holiness, by the resurrection from the [dead|GP]:
 Romans 1:5	by [whom|GS] [we|PR] have received grace and [apostleship|GP], for obedience to the faith among [all|QU] [nations|GP], for [his|GS] name:
@@ -28087,12 +28087,12 @@ Romans 1:16	For [I|PR] am not ashamed of the gospel of [Christ|GS]: for it is th
 Romans 1:17	For [therein|L2] is the righteousness of [God|GF] revealed from faith to faith: as it is written, The [just|GP] shall live by faith.
 Romans 1:18	For the wrath of [God|GF] is revealed from [heaven|L1] against [all|QU] ungodliness and unrighteousness of [men|GP], [who|PR] hold the truth in unrighteousness;
 Romans 1:19	because that which may be known of [God|GF] is manifest in [them|PR]; for [God|GF] hath shewed it unto [them|PR].
-Romans 1:20	For the invisible things of [him|GS] from the creation of the [world|L1] are clearly seen, being understood by the things that are made, even [his|GS] [eternal|T2] power and [Godhead|GF]; [so|T2] that [they|PR] are without excuse:
-Romans 1:21	because that, [when|T2] [they|PR] knew [God|GF], [they|PR] glorified [him|GS] not as [God|GF], neither were thankful; but became vain in [their|PR] imaginations, and [their|PR] foolish heart was darkened.
+Romans 1:20	For the invisible things of [him|GF] from the creation of the [world|L1] are clearly seen, being understood by the things that are made, even [his|GF] [eternal|T2] power and [Godhead|GF]; [so|T2] that [they|PR] are without excuse:
+Romans 1:21	because that, [when|T2] [they|PR] knew [God|GF], [they|PR] glorified [him|GF] not as [God|GF], neither were thankful; but became vain in [their|PR] imaginations, and [their|PR] foolish heart was darkened.
 Romans 1:22	Professing [themselves|PR] to be wise, [they|PR] became [fools|GP],
 Romans 1:23	and changed the glory of the uncorruptible [God|GF] into an image made like to corruptible [man|GP], and to [birds|BE], and [fourfooted|BE] [beasts|BE], and [creeping things|BE].
 Romans 1:24	Wherefore [God|GF] also gave [them|PR] up to uncleanness through the lusts of [their|PR] own hearts, to dishonour [their|PR] own bodies between [themselves|PR]:
-Romans 1:25	[who|PR] changed the truth of [God|GF] into a lie, and worshipped and served the [creature|BE] [more|QU] than the [Creator|GF], [who|GS] is blessed [for|T2] [ever|T2]. Amen.
+Romans 1:25	[who|PR] changed the truth of [God|GF] into a lie, and worshipped and served the [creature|BE] [more|QU] than the [Creator|GF], [who|GF] is blessed [for|T2] [ever|T2]. Amen.
 Romans 1:26	For this cause [God|GF] gave [them|PR] up unto vile affections: for even [their|PR] [women|GP] did change the natural use into that which is against nature:
 Romans 1:27	and likewise also the [men|GP], leaving the natural use of the [woman|GP], burned in [their|PR] lust one [toward|L2] another; [men|GP] with [men|GP] working that which is unseemly, and receiving in [themselves|PR] that recompence of [their|PR] error which was meet.
 Romans 1:28	And even as [they|PR] did not like to retain [God|GF] in [their|PR] knowledge, [God|GF] gave [them|PR] over to a reprobate mind, to do those things which are not convenient;
@@ -28105,7 +28105,7 @@ Romans 2:2	But [we|PR] are sure that the judgment of [God|GF] is according to tr
 Romans 2:3	And thinkest [thou|PR] this, O [man|GP], that judgest [them|PR] which do such things, and doest the same, that [thou|PR] shalt escape the judgment of [God|GF]?
 Romans 2:4	Or despisest [thou|PR] the riches of [his|GF] goodness and forbearance and longsuffering; not knowing that the goodness of [God|GF] leadeth [thee|PR] to repentance?
 Romans 2:5	But after [thy|PR] hardness and impenitent heart treasurest up unto [thyself|PR] wrath against the [day|T1] of wrath and revelation of the righteous judgment of [God|GF];
-Romans 2:6	[who|PR] will render to [every|QU] [man|GP] according to [his|PR] deeds:
+Romans 2:6	[who|GF] will render to [every|QU] [man|GP] according to [his|PR] deeds:
 Romans 2:7	to [them|PR] [who|PR] by patient [continuance|T2] in well doing seek for glory and honour and immortality, [eternal|T2] life:
 Romans 2:8	but unto [them|PR] that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath,
 Romans 2:9	tribulation and anguish, upon [every|QU] soul of [man|GP] that doeth evil, of the [Jew|PG] [first|NU], and also of the [Gentile|PG];
@@ -28132,7 +28132,7 @@ Romans 2:29	but [he|PR] is a [Jew|PG], which is one inwardly; and circumcision i
 Romans 3:1	What advantage then hath the [Jew|PG]? or what profit is there of circumcision?
 Romans 3:2	Much [every|QU] way: chiefly, because that unto [them|PR] were committed the oracles of [God|GF].
 Romans 3:3	For what if some did not believe? shall [their|PR] unbelief make the faith of [God|GF] without effect?
-Romans 3:4	[God|GF] forbid: yea, let [God|GF] be true, but [every|QU] [man|GP] a [liar|GP]; as it is written, That [thou|PR] mightest be justified in [thy|PR] sayings, and mightest overcome [when|T2] [thou|PR] art judged.
+Romans 3:4	[God|GF] forbid: yea, let [God|GF] be true, but [every|QU] [man|GP] a [liar|GP]; as it is written, That [thou|GF] mightest be justified in [thy|GF] sayings, and mightest overcome [when|T2] [thou|GF] art judged.
 Romans 3:5	But if [our|PR] unrighteousness commend the righteousness of [God|GF], what shall [we|PR] say? Is [God|GF] unrighteous [who|GF] taketh vengeance? ([I|PR] speak as a [man|GP])
 Romans 3:6	[God|GF] forbid: for then how shall [God|GF] judge the [world|L1]?
 Romans 3:7	For if the truth of [God|GF] hath [more|QU] abounded through [my|PR] lie unto [his|GF] glory; why yet am [I|PR] also judged as a [sinner|GP]?
@@ -28153,7 +28153,7 @@ Romans 3:21	But [now|T2] the righteousness of [God|GF] without the law is manife
 Romans 3:22	even the righteousness of [God|GF] which is by faith of [Jesus|GS] [Christ|GS] unto [all|QU] and upon [all|QU] [them|PR] that believe: for there is no difference:
 Romans 3:23	for [all|QU] have sinned, and come short of the glory of [God|GF];
 Romans 3:24	being justified freely by [his|GF] grace through the redemption that is in [Christ|GS] [Jesus|GS]:
-Romans 3:25	[whom|PR] [God|GF] hath set forth to be a propitiation through faith in [his|GF] blood, to declare [his|GF] righteousness for the remission of sins that are [past|T2], through the forbearance of [God|GF];
+Romans 3:25	[whom|GS] [God|GF] hath set forth to be a propitiation through faith in [his|GS] blood, to declare [his|GF] righteousness for the remission of sins that are [past|T2], through the forbearance of [God|GF];
 Romans 3:26	to declare, [I|PR] say, at this [time|T1] [his|GF] righteousness: that [he|GF] might be just, and the [justifier|GP] of [him|PR] which believeth in [Jesus|GS].
 Romans 3:27	[Where|L2] is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith.
 Romans 3:28	Therefore [we|PR] conclude that a [man|GP] is justified by faith without the deeds of the law.
@@ -28164,7 +28164,7 @@ Romans 4:1	What shall [we|PR] say then that [Abraham|PN] [our|PR] [father|GP], a
 Romans 4:2	For if [Abraham|PN] were justified by works, [he|PR] hath whereof to glory; but not [before|L2] [God|GF].
 Romans 4:3	For what saith the scripture? [Abraham|PN] believed [God|GF], and it was counted unto [him|PR] for righteousness.
 Romans 4:4	[Now|T2] to [him|PR] that worketh is the reward not reckoned of grace, but of debt.
-Romans 4:5	But to [him|PR] that worketh not, but believeth on [him|PR] that justifieth the ungodly, [his|PR] faith is counted for righteousness.
+Romans 4:5	But to [him|PR] that worketh not, but believeth on [him|GF] that justifieth the ungodly, [his|PR] faith is counted for righteousness.
 Romans 4:6	Even as [David|PN] also describeth the blessedness of the [man|GP], unto [whom|PR] [God|GF] imputeth righteousness without works,
 Romans 4:7	saying, Blessed are [they|PR] [whose|PR] iniquities are forgiven, and [whose|PR] sins are covered.
 Romans 4:8	Blessed is the [man|GP] to [whom|PR] the [Lord|GF] will not impute sin.
@@ -28176,7 +28176,7 @@ Romans 4:13	For the promise, that [he|PR] should be the [heir|GP] of the [world|
 Romans 4:14	For if [they|PR] which are of the law be [heirs|GP], faith is made void, and the promise made of [none|QU] effect:
 Romans 4:15	because the law worketh wrath: for [where|L2] no law is, there is no transgression.
 Romans 4:16	Therefore it is of faith, that it might be by grace; to the end the promise might be sure to [all|QU] the [seed|GP]; not to that [only|QU] which is of the law, but to that also which is of the faith of [Abraham|PN]; [who|PR] is the [father|GP] of [us|PR] [all|QU],
-Romans 4:17	(as it is written, [I|GF] have made [thee|PR] a [father|GP] of [many|QU] [nations|GP],) [before|L2] [him|GF] [whom|PR] [he|PR] believed, even [God|GF], [who|GF] quickeneth the [dead|GP], and calleth those things which be not as though [they|PR] were.
+Romans 4:17	(as it is written, [I|GF] have made [thee|PR] a [father|GP] of [many|QU] [nations|GP],) [before|L2] [him|GF] [whom|GF] [he|PR] believed, even [God|GF], [who|GF] quickeneth the [dead|GP], and calleth those things which be not as though [they|PR] were.
 Romans 4:18	[Who|PR] against hope believed in hope, that [he|PR] might become the [father|GP] of [many|QU] [nations|GP]; according to that which was spoken, So shall [thy|PR] [seed|GP] be.
 Romans 4:19	And being not weak in faith, [he|PR] considered not [his|PR] own body [now|T2] dead, [when|T2] [he|PR] was about [100|NU] [years|T1] [old|T2], neither yet the deadness of [Sara’s|PN] womb:
 Romans 4:20	[he|PR] staggered not at the promise of [God|GF] through unbelief; but was strong in faith, giving glory to [God|GF];
@@ -28184,21 +28184,21 @@ Romans 4:21	and being fully persuaded that, what [he|GF] had promised, [he|GF] w
 Romans 4:22	And therefore it was imputed to [him|PR] for righteousness.
 Romans 4:23	[Now|T2] it was not written for [his|PR] sake alone, that it was imputed to [him|PR];
 Romans 4:24	but for [us|PR] also, to [whom|PR] it shall be imputed, if [we|PR] believe on [him|GF] that raised up [Jesus|GS] [our|PR] [Lord|GF] from the [dead|GP];
-Romans 4:25	[who|PR] was delivered for [our|PR] offences, and was raised [again|T2] for [our|PR] justification.
+Romans 4:25	[who|GS] was delivered for [our|PR] offences, and was raised [again|T2] for [our|PR] justification.
 Romans 5:1	Therefore being justified by faith, [we|PR] have peace with [God|GF] through [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS]:
-Romans 5:2	by [whom|GF] also [we|PR] have access by faith into this grace [wherein|L2] [we|PR] stand, and rejoice in hope of the glory of [God|GF].
+Romans 5:2	by [whom|GS] also [we|PR] have access by faith into this grace [wherein|L2] [we|PR] stand, and rejoice in hope of the glory of [God|GF].
 Romans 5:3	And not [only|QU] [so|T2], but [we|PR] glory in tribulations also: knowing that tribulation worketh patience;
 Romans 5:4	and patience, experience; and experience, hope:
 Romans 5:5	and hope maketh not ashamed; because the love of [God|GF] is shed [abroad|L2] in [our|PR] hearts by the [Holy Ghost|HS] which is given unto [us|PR].
 Romans 5:6	For [when|T2] [we|PR] were yet without strength, in [due|T2] [time|T1] [Christ|GS] died for the ungodly.
 Romans 5:7	For scarcely for a righteous [man|GP] will one die: yet peradventure for a good [man|GP] [some|QU] would even dare to die.
 Romans 5:8	But [God|GF] commendeth [his|GF] love [toward|L2] [us|PR], in that, [while|T2] [we|PR] were yet [sinners|GP], [Christ|GS] died for [us|PR].
-Romans 5:9	Much [more|QU] then, being [now|T2] justified by [his|GF] blood, [we|PR] shall be saved from wrath through [him|GF].
-Romans 5:10	For if, [when|T2] [we|PR] were [enemies|GP], [we|PR] were reconciled to [God|GF] by the death of [his|GF] [Son|GS], [much|QU] [more|QU], being reconciled, [we|PR] shall be saved by [his|GF] life.
-Romans 5:11	And not [only|QU] [so|T2], but [we|PR] also joy in [God|GF] through [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS], by [whom|GF] [we|PR] have [now|T2] received the atonement.
+Romans 5:9	Much [more|QU] then, being [now|T2] justified by [his|GS] blood, [we|PR] shall be saved from wrath through [him|GS].
+Romans 5:10	For if, [when|T2] [we|PR] were [enemies|GP], [we|PR] were reconciled to [God|GF] by the death of [his|GF] [Son|GS], [much|QU] [more|QU], being reconciled, [we|PR] shall be saved by [his|GS] life.
+Romans 5:11	And not [only|QU] [so|T2], but [we|PR] also joy in [God|GF] through [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS], by [whom|GS] [we|PR] have [now|T2] received the atonement.
 Romans 5:12	Wherefore, as by [one|QU] [man|GP] sin entered into the [world|L1], and death by sin; and [so|T2] death passed upon [all|QU] [men|GP], for that [all|QU] have sinned:
 Romans 5:13	(for [until|T2] the law sin was in the [world|L1]: but sin is not imputed [when|T2] there is no law.
-Romans 5:14	Nevertheless death reigned from [Adam|PN] to [Moses|PN], even over [them|PR] that had not sinned after the similitude of [Adam’s|PN] transgression, [who|PR] is the figure of [him|GF] that was to come.
+Romans 5:14	Nevertheless death reigned from [Adam|PN] to [Moses|PN], even over [them|PR] that had not sinned after the similitude of [Adam’s|PN] transgression, [who|PR] is the figure of [him|GS] that was to come.
 Romans 5:15	But not as the offence, [so|T2] also is the free gift. For if through the offence of [one|QU] [many|QU] be dead, [much|QU] [more|QU] the grace of [God|GF], and the gift by grace, which is by [one|QU] [man|GP], [Jesus|GS] [Christ|GS], hath abounded unto [many|QU].
 Romans 5:16	And not as it was by [one|QU] that sinned, [so|T2] is the gift: for the judgment was by [one|QU] to condemnation, but the free gift is of [many|QU] offences unto justification.
 Romans 5:17	For if by [one|QU] [man’s|GP] offence death reigned by [one|QU]; [much|QU] [more|QU] [they|PR] which receive [abundance|QU] of grace and of the gift of righteousness shall reign in life by [one|QU], [Jesus|GS] [Christ|GS].)
@@ -28208,14 +28208,14 @@ Romans 5:20	Moreover the law entered, that the offence might abound. But [where|
 Romans 5:21	that as sin hath reigned unto death, even [so|T2] might grace reign through righteousness unto [eternal|T2] life by [Jesus|GS] [Christ|GS] [our|PR] [Lord|GF].
 Romans 6:1	What shall [we|PR] say then? Shall [we|PR] continue in sin, that grace may abound?
 Romans 6:2	[God|GF] forbid. How shall [we|PR], that are dead to sin, live any longer [therein|L2]?
-Romans 6:3	Know [ye|PR] not, that [so|T2] [many|QU] of [us|PR] as were baptized into [Jesus|GS] [Christ|GS] were baptized into [his|GF] death?
-Romans 6:4	Therefore [we|PR] are buried with [him|GF] by baptism into death: that like as [Christ|GS] was raised up from the [dead|GP] by the glory of the [Father|GF], even [so|T2] [we|PR] also should walk in newness of life.
-Romans 6:5	For if [we|PR] have been planted together in the likeness of [his|GF] death, [we|PR] shall be also in the likeness of [his|GF] resurrection:
-Romans 6:6	knowing this, that [our|PR] [old|T2] [man|GP] is crucified with [him|GF], that the body of sin might be destroyed, that [henceforth|T2] [we|PR] should not serve sin.
+Romans 6:3	Know [ye|PR] not, that [so|T2] [many|QU] of [us|PR] as were baptized into [Jesus|GS] [Christ|GS] were baptized into [his|GS] death?
+Romans 6:4	Therefore [we|PR] are buried with [him|GS] by baptism into death: that like as [Christ|GS] was raised up from the [dead|GP] by the glory of the [Father|GF], even [so|T2] [we|PR] also should walk in newness of life.
+Romans 6:5	For if [we|PR] have been planted together in the likeness of [his|GS] death, [we|PR] shall be also in the likeness of [his|GS] resurrection:
+Romans 6:6	knowing this, that [our|PR] [old|T2] [man|GP] is crucified with [him|GS], that the body of sin might be destroyed, that [henceforth|T2] [we|PR] should not serve sin.
 Romans 6:7	For [he|PR] that is dead is freed from sin.
-Romans 6:8	[Now|T2] if [we|PR] be dead with [Christ|GS], [we|PR] believe that [we|PR] shall also live with [him|GF]:
-Romans 6:9	knowing that [Christ|GS] being raised from the [dead|GP] dieth no [more|QU]; death hath [no|T2] [more|T2] dominion over [him|GF].
-Romans 6:10	For in that [he|GF] died, [he|GF] died unto sin [once|T2]: but in that [he|GF] liveth, [he|GF] liveth unto [God|GF].
+Romans 6:8	[Now|T2] if [we|PR] be dead with [Christ|GS], [we|PR] believe that [we|PR] shall also live with [him|GS]:
+Romans 6:9	knowing that [Christ|GS] being raised from the [dead|GP] dieth no [more|QU]; death hath [no|T2] [more|T2] dominion over [him|GS].
+Romans 6:10	For in that [he|GS] died, [he|GS] died unto sin [once|T2]: but in that [he|GS] liveth, [he|GS] liveth unto [God|GF].
 Romans 6:11	Likewise reckon [ye|PR] also [yourselves|PR] to be dead indeed unto sin, but alive unto [God|GF] through [Jesus|GS] [Christ|GS] [our|PR] [Lord|GF].
 Romans 6:12	Let not sin therefore reign in [your|PR] mortal body, that [ye|PR] should obey it in the lusts thereof.
 Romans 6:13	Neither yield [ye|PR] [your|PR] members as instruments of unrighteousness unto sin: but yield [yourselves|PR] unto [God|GF], as those that are alive from the [dead|GP], and [your|PR] members as instruments of righteousness unto [God|GF].
@@ -28232,7 +28232,7 @@ Romans 6:23	For the wages of sin is death; but the gift of [God|GF] is [eternal|
 Romans 7:1	Know [ye|PR] not, [brethren|GP], (for [I|PR] speak to [them|PR] that know the law,) how that the law hath dominion over a [man|GP] [as long|T2] [as|T2] [he|PR] liveth?
 Romans 7:2	For the [woman|GP] which hath an [husband|GP] is bound by the law to [her|PR] [husband|GP] [so|T2] [long|T2] as [he|PR] liveth; but if the [husband|GP] be dead, [she|PR] is loosed from the law of [her|PR] [husband|GP].
 Romans 7:3	So then if, [while|T2] [her|PR] [husband|GP] liveth, [she|PR] be married to [another|QU] [man|GP], [she|PR] shall be called an [adulteress|GP]: but if [her|PR] [husband|GP] be dead, [she|PR] is free from that law; [so|T2] that [she|PR] is no [adulteress|GP], though [she|PR] be married to [another|QU] [man|GP].
-Romans 7:4	Wherefore, [my|PR] [brethren|GP], [ye|PR] also are become dead to the law by the body of [Christ|GS]; that [ye|PR] should be married to another, even to [him|GF] [who|GF] is raised from the [dead|GP], that [we|PR] should bring forth [fruit|PL] unto [God|GF].
+Romans 7:4	Wherefore, [my|PR] [brethren|GP], [ye|PR] also are become dead to the law by the body of [Christ|GS]; that [ye|PR] should be married to another, even to [him|GS] [who|GS] is raised from the [dead|GP], that [we|PR] should bring forth [fruit|PL] unto [God|GF].
 Romans 7:5	For [when|T2] [we|PR] were in the flesh, the motions of sins, which were by the law, did work in [our|PR] members to bring forth [fruit|PL] unto death.
 Romans 7:6	But [now|T2] [we|PR] are delivered from the law, that being dead [wherein|L2] [we|PR] were held; that [we|PR] should serve in newness of spirit, and not in the oldness of the letter.
 Romans 7:7	What shall [we|PR] say then? Is the law sin? [God|GF] forbid. Nay, [I|PR] had not known sin, but by the law: for [I|PR] had not known lust, except the law had said, [Thou|PR] shalt not covet.
@@ -28262,7 +28262,7 @@ Romans 8:5	For [they|PR] that are after the flesh do mind the things of the fles
 Romans 8:6	For to be carnally minded is death; but to be spiritually minded is life and peace.
 Romans 8:7	Because the carnal mind is enmity against [God|GF]: for it is not subject to the law of [God|GF], neither indeed can be.
 Romans 8:8	So then [they|PR] that are in the flesh cannot please [God|GF].
-Romans 8:9	But [ye|PR] are not in the flesh, but in the [Spirit|HS], if [so|T2] be that the [Spirit|HS] of [God|GF] dwell in [you|PR]. [Now|T2] if any [man|GP] have not the [Spirit|HS] of [Christ|GS], [he|PR] is [none|QU] of [his|GF].
+Romans 8:9	But [ye|PR] are not in the flesh, but in the [Spirit|HS], if [so|T2] be that the [Spirit|HS] of [God|GF] dwell in [you|PR]. [Now|T2] if any [man|GP] have not the [Spirit|HS] of [Christ|GS], [he|PR] is [none|QU] of [his|GS].
 Romans 8:10	And if [Christ|GS] be in [you|PR], the body is dead because of sin; but the [Spirit|HS] is life because of righteousness.
 Romans 8:11	But if the [Spirit|HS] of [him|GF] that raised up [Jesus|GS] from the [dead|GP] dwell in [you|PR], [he|GF] that raised up [Christ|GS] from the [dead|GP] shall also quicken [your|PR] mortal bodies by [his|GF] [Spirit|HS] that dwelleth in [you|PR].
 Romans 8:12	Therefore, [brethren|GP], [we|PR] are [debtors|GP], not to the flesh, to live after the flesh.
@@ -28270,26 +28270,26 @@ Romans 8:13	For if [ye|PR] live after the flesh, [ye|PR] shall die: but if [ye|P
 Romans 8:14	For as [many|QU] as are led by the [Spirit|HS] of [God|GF], [they|PR] are the [sons|GP] of [God|GF].
 Romans 8:15	For [ye|PR] have not received the spirit of bondage [again|T2] to fear; but [ye|PR] have received the [Spirit|HS] of adoption, whereby [we|PR] cry, Abba, [Father|GF].
 Romans 8:16	The [Spirit|HS] itself beareth witness with [our|PR] spirit, that [we|PR] are the [children|GP] of [God|GF]:
-Romans 8:17	and if [children|GP], then [heirs|GP]; [heirs|GP] of [God|GF], and [joint|GP]-[heirs|GP] with [Christ|GS]; if [so|T2] be that [we|PR] suffer with [him|GF], that [we|PR] may be also glorified together.
+Romans 8:17	and if [children|GP], then [heirs|GP]; [heirs|GP] of [God|GF], and [joint|GP]-[heirs|GP] with [Christ|GS]; if [so|T2] be that [we|PR] suffer with [him|GS], that [we|PR] may be also glorified together.
 Romans 8:18	For [I|PR] reckon that the sufferings of this present [time|T1] are not worthy to be compared with the glory which shall be revealed in [us|PR].
 Romans 8:19	For the earnest expectation of the [creature|BE] waiteth for the manifestation of the [sons|GP] of [God|GF].
-Romans 8:20	For the [creature|BE] was made subject to vanity, not willingly, but by reason of [him|PR] [who|PR] hath subjected the same in hope,
+Romans 8:20	For the [creature|BE] was made subject to vanity, not willingly, but by reason of [him|GF] [who|GF] hath subjected the same in hope,
 Romans 8:21	because the [creature|BE] itself also shall be delivered from the bondage of corruption into the glorious liberty of the [children|GP] of [God|GF].
 Romans 8:22	For [we|PR] know that the [whole|QU] creation groaneth and travaileth in pain together [until|T2] [now|T2].
 Romans 8:23	And not [only|QU] [they|PR], but [ourselves|PR] also, which have the firstfruits of the [Spirit|HS], even [we|PR] [ourselves|PR] groan within [ourselves|PR], waiting for the adoption, to wit, the redemption of [our|PR] body.
 Romans 8:24	For [we|PR] are saved by hope: but hope that is seen is not hope: for what a [man|GP] seeth, why doth [he|PR] yet hope for?
 Romans 8:25	But if [we|PR] hope for that [we|PR] see not, then do [we|PR] with patience wait for it.
 Romans 8:26	Likewise the [Spirit|HS] also helpeth [our|PR] infirmities: for [we|PR] know not what [we|PR] should pray for as [we|PR] ought: but the [Spirit|HS] itself maketh intercession for [us|PR] with groanings which cannot be uttered.
-Romans 8:27	And [he|GF] that searcheth the hearts knoweth what is the mind of the [Spirit|HS], because [he|GF] maketh intercession for the [saints|GP] according to the will of [God|GF].
+Romans 8:27	And [he|GF] that searcheth the hearts knoweth what is the mind of the [Spirit|HS], because [he|HS] maketh intercession for the [saints|GP] according to the will of [God|GF].
 Romans 8:28	And [we|PR] know that [all|QU] things work together for good to [them|PR] that love [God|GF], to [them|PR] [who|PR] are the called according to [his|GF] purpose.
-Romans 8:29	For [whom|PR] [he|GF] did foreknow, [he|GF] also did predestinate to be conformed to the image of [his|GF] [Son|GS], that [he|GF] might be the [firstborn|GP] among [many|QU] [brethren|GP].
+Romans 8:29	For [whom|PR] [he|GF] did foreknow, [he|GF] also did predestinate to be conformed to the image of [his|GF] [Son|GS], that [he|GS] might be the [firstborn|GP] among [many|QU] [brethren|GP].
 Romans 8:30	Moreover [whom|PR] [he|GF] did predestinate, [them|PR] [he|GF] also called: and [whom|PR] [he|GF] called, [them|PR] [he|GF] also justified: and [whom|PR] [he|GF] justified, [them|PR] [he|GF] also glorified.
 Romans 8:31	What shall [we|PR] then say to these things? If [God|GF] be for [us|PR], [who|PR] can be against [us|PR]?
-Romans 8:32	[He|PR] that spared not [his|GF] own [Son|GS], but delivered [him|GF] up for [us|PR] [all|QU], how shall [he|GF] not with [him|GF] also freely give [us|PR] [all|QU] things?
+Romans 8:32	[He|GF] that spared not [his|GF] own [Son|GS], but delivered [him|GS] up for [us|PR] [all|QU], how shall [he|GF] not with [him|GS] also freely give [us|PR] [all|QU] things?
 Romans 8:33	[Who|PR] shall lay any thing to the charge of [God’s|GF] [elect|GP]? It is [God|GF] that justifieth.
-Romans 8:34	[Who|PR] is [he|PR] that condemneth? It is [Christ|GS] that died, yea rather, that is risen [again|T2], [who|GF] is even at the [right|L1] [hand|L2] of [God|GF], [who|GF] also maketh intercession for [us|PR].
+Romans 8:34	[Who|PR] is [he|PR] that condemneth? It is [Christ|GS] that died, yea rather, that is risen [again|T2], [who|GS] is even at the [right|L1] [hand|L2] of [God|GF], [who|GS] also maketh intercession for [us|PR].
 Romans 8:35	[Who|PR] shall separate [us|PR] from the love of [Christ|GS]? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?
-Romans 8:36	As it is written, For [thy|PR] sake [we|GF] are killed [all|QU] the [day|T1] [long|T2]; [we|GF] are accounted as [sheep|BE] for the slaughter.
+Romans 8:36	As it is written, For [thy|GF] sake [we|PR] are killed [all|QU] the [day|T1] [long|T2]; [we|PR] are accounted as [sheep|BE] for the slaughter.
 Romans 8:37	Nay, in [all|QU] these things [we|PR] are [more|QU] than [conquerors|GP] through [him|GF] that loved [us|PR].
 Romans 8:38	For [I|PR] am persuaded, that neither death, nor life, nor [angels|AN], nor principalities, nor powers, nor things present, nor things to come,
 Romans 8:39	nor [height|ME], nor [depth|ME], nor any other [creature|BE], shall be able to separate [us|PR] from the love of [God|GF], which is in [Christ|GS] [Jesus|GS] [our|PR] [Lord|GF].
@@ -28297,7 +28297,7 @@ Romans 9:1	[I|PR] say the truth in [Christ|GS], [I|PR] lie not, [my|PR] conscien
 Romans 9:2	that [I|PR] have great heaviness and [continual|T2] sorrow in [my|PR] heart.
 Romans 9:3	For [I|PR] could wish that [myself|PR] were accursed from [Christ|GS] for [my|PR] [brethren|GP], [my|PR] [kinsmen|GP] according to the flesh:
 Romans 9:4	[who|PR] are [Israelites|PG]; to [whom|PR] pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of [God|GF], and the promises;
-Romans 9:5	[whose|PR] are the [fathers|GP], and of [whom|PR] as concerning the flesh [Christ|GS] came, [who|GF] is over [all|QU], [God|GF] blessed [for|T2] [ever|T2]. Amen.
+Romans 9:5	[whose|PR] are the [fathers|GP], and of [whom|PR] as concerning the flesh [Christ|GS] came, [who|GS] is over [all|QU], [God|GF] blessed [for|T2] [ever|T2]. Amen.
 Romans 9:6	Not as though the word of [God|GF] hath taken [none|QU] effect. For [they|PR] are not [all|QU] [Israel|PG], which are of [Israel|PP]:
 Romans 9:7	neither, because [they|PR] are the [seed|GP] of [Abraham|PN], are [they|PR] [all|QU] [children|GP]: but, In [Isaac|PN] shall [thy|PR] [seed|GP] be called.
 Romans 9:8	That is, [They|PR] which are the [children|GP] of the flesh, these are not the [children|GP] of [God|GF]: but the [children|GP] of the promise are counted for the [seed|GP].
@@ -28325,7 +28325,7 @@ Romans 9:29	And as [Esaias|PN] said [before|T2], Except the [Lord|GF] of [Sabaot
 Romans 9:30	What shall [we|PR] say then? That the [Gentiles|PG], which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith.
 Romans 9:31	But [Israel|PG], which followed after the law of righteousness, hath not attained to the law of righteousness.
 Romans 9:32	Wherefore? Because [they|PR] sought it not by faith, but as it were by the works of the law. For [they|PR] stumbled at that stumblingstone;
-Romans 9:33	as it is written, Behold, [I|GF] lay in [Sion|PP] a stumblingstone and rock of offence: and [whosoever|PR] believeth on [him|GF] shall not be ashamed.
+Romans 9:33	as it is written, Behold, [I|GF] lay in [Sion|PP] a stumblingstone and rock of offence: and [whosoever|PR] believeth on [him|GS] shall not be ashamed.
 Romans 10:1	[Brethren|GP], [my|PR] heart’s desire and prayer to [God|GF] for [Israel|PG] is, that [they|PR] might be saved.
 Romans 10:2	For [I|PR] bear [them|PR] record that [they|PR] have a zeal of [God|GF], but not according to knowledge.
 Romans 10:3	For [they|PR] being ignorant of [God’s|GF] righteousness, and going about to establish [their|PR] own righteousness, have not submitted [themselves|PR] unto the righteousness of [God|GF].
@@ -28336,21 +28336,21 @@ Romans 10:7	or, [Who|PR] shall descend into the [deep|L1]? (that is, to bring up
 Romans 10:8	But what saith it? The word is [nigh|L2] [thee|PR], even in [thy|PR] mouth, and in [thy|PR] heart: that is, the word of faith, which [we|PR] preach;
 Romans 10:9	that if [thou|PR] shalt confess with [thy|PR] mouth the [Lord|GF] [Jesus|GS], and shalt believe in [thine|PR] heart that [God|GF] hath raised [him|GS] from the [dead|GP], [thou|PR] shalt be saved.
 Romans 10:10	For with the heart [man|GP] believeth unto righteousness; and with the mouth confession is made unto salvation.
-Romans 10:11	For the scripture saith, [Whosoever|PR] believeth on [him|GF] shall not be ashamed.
+Romans 10:11	For the scripture saith, [Whosoever|PR] believeth on [him|GS] shall not be ashamed.
 Romans 10:12	For there is no difference between the [Jew|PG] and the [Greek|PG]: for the same [Lord|GF] over [all|QU] is rich unto [all|QU] that call upon [him|GF].
 Romans 10:13	For [whosoever|PR] shall call upon the name of the [Lord|GF] shall be saved.
-Romans 10:14	How then shall [they|PR] call on [him|GF] in [whom|PR] [they|PR] have not believed? and how shall [they|PR] believe in [him|GF] of [whom|PR] [they|PR] have not heard? and how shall [they|PR] hear without a [preacher|GP]?
+Romans 10:14	How then shall [they|PR] call on [him|GF] in [whom|GF] [they|PR] have not believed? and how shall [they|PR] believe in [him|GF] of [whom|GF] [they|PR] have not heard? and how shall [they|PR] hear without a [preacher|GP]?
 Romans 10:15	And how shall [they|PR] preach, except [they|PR] be sent? as it is written, How beautiful are the feet of [them|PR] that preach the gospel of peace, and bring glad tidings of good things!
 Romans 10:16	But [they|PR] have not [all|QU] obeyed the gospel. For [Esaias|PN] saith, [Lord|GF], [who|PR] hath believed [our|PR] report?
 Romans 10:17	So then faith cometh by hearing, and hearing by the word of [God|GF].
 Romans 10:18	But [I|PR] say, Have [they|PR] not heard? Yes verily, [their|PR] sound went into [all|QU] the [earth|L1], and [their|PR] words unto the [ends|L1] of the [world|L1].
 Romans 10:19	But [I|PR] say, Did not [Israel|PG] know? [First|NU] [Moses|PN] saith, [I|GF] will provoke [you|PR] to jealousy by [them|PR] that are no [people|GP], and by a foolish [nation|GP] [I|GF] will anger [you|PR].
-Romans 10:20	But [Esaias|PN] is [very|QU] bold, and saith, [I|GF] was found of [them|PR] that sought [me|PR] not; [I|GF] was made manifest unto [them|PR] that asked not after [me|PR].
+Romans 10:20	But [Esaias|PN] is [very|QU] bold, and saith, [I|GF] was found of [them|PR] that sought [me|GF] not; [I|GF] was made manifest unto [them|PR] that asked not after [me|GF].
 Romans 10:21	But to [Israel|PG] [he|PR] saith, [All|QU] [day|T1] [long|T2] [I|GF] have stretched forth [my|GF] hands unto a disobedient and gainsaying [people|GP].
 Romans 11:1	[I|PR] say then, Hath [God|GF] cast away [his|GF] [people|GP]? [God|GF] forbid. For [I|PR] also am an [Israelite|PG], of the [seed|GP] of [Abraham|PN], of the [tribe|GP] of [Benjamin|PG].
 Romans 11:2	[God|GF] hath not cast away [his|GF] [people|GP] which [he|GF] foreknew. Wot [ye|PR] not what the scripture saith of [Elias|PN]? how [he|PR] maketh intercession to [God|GF] against [Israel|PG], saying,
 Romans 11:3	[Lord|GF], [they|PR] have killed [thy|GF] [prophets|GP], and digged [down|L2] [thine|GF] [altars|L1]; and [I|PR] am left alone, and [they|PR] seek [my|PR] life.
-Romans 11:4	But what saith the answer of [God|GF] unto [him|PR]? [I|GF] have reserved to [myself|PR] [7,000|NU] [men|GP], [who|PR] have not bowed the knee to the [image|DE] of [Baal|DE].
+Romans 11:4	But what saith the answer of [God|GF] unto [him|PR]? [I|GF] have reserved to [myself|GF] [7,000|NU] [men|GP], [who|PR] have not bowed the knee to the [image|DE] of [Baal|DE].
 Romans 11:5	Even [so|T2] then at this present [time|T1] also there is a remnant according to the election of grace.
 Romans 11:6	And if by grace, then is it no [more|QU] of works: otherwise grace is [no|T2] [more|T2] grace. But if it be of works, then is it [no|T2] [more|T2] grace: otherwise work is [no|T2] [more|T2] work.
 Romans 11:7	What then? [Israel|PG] hath not obtained that which [he|PR] seeketh for; but the election hath obtained it, and the rest were blinded
@@ -28426,9 +28426,9 @@ Romans 14:5	One [man|GP] esteemeth [one|QU] [day|T1] above [another|QU]: [anothe
 Romans 14:6	[He|PR] that regardeth the [day|T1], regardeth it unto the [Lord|GF]; and [he|PR] that regardeth not the [day|T1], to the [Lord|GF] [he|PR] doth not regard it. [He|PR] that eateth, eateth to the [Lord|GF], for [he|PR] giveth [God|GF] thanks; and [he|PR] that eateth not, to the [Lord|GF] [he|PR] eateth not, and giveth [God|GF] thanks.
 Romans 14:7	For [none|QU] of [us|PR] liveth to [himself|PR], and no [man|GP] dieth to [himself|PR].
 Romans 14:8	For whether [we|PR] live, [we|PR] live unto the [Lord|GF]; and whether [we|PR] die, [we|PR] die unto the [Lord|GF]: whether [we|PR] live therefore, or die, [we|PR] are the [Lord’s|GF].
-Romans 14:9	For to this end [Christ|GS] [both|QU] died, and rose, and revived, that [he|GF] might be [Lord|GF] [both|QU] of the [dead|GP] and [living|GP].
+Romans 14:9	For to this end [Christ|GS] [both|QU] died, and rose, and revived, that [he|GS] might be [Lord|GF] [both|QU] of the [dead|GP] and [living|GP].
 Romans 14:10	But why dost [thou|PR] judge [thy|PR] [brother|GP]? or why dost [thou|PR] set at nought [thy|PR] [brother|GP]? for [we|PR] shall [all|QU] stand [before|L2] the judgment [seat|L1] of [Christ|GS].
-Romans 14:11	For it is written, As [I|GF] live, saith the [LORD|GF], [every|QU] knee shall bow to [me|PR], and [every|QU] tongue shall confess to [God|GF].
+Romans 14:11	For it is written, As [I|GF] live, saith the [LORD|GF], [every|QU] knee shall bow to [me|GF], and [every|QU] tongue shall confess to [God|GF].
 Romans 14:12	So then [every|QU] [one|QU] of [us|PR] shall give account of [himself|PR] to [God|GF].
 Romans 14:13	Let [us|PR] not therefore judge [one|QU] [another|QU] [any|T2] [more|T2]: but judge this rather, that no [man|GP] put a stumblingblock or an occasion to fall in [his|PR] [brother’s|GP] way.
 Romans 14:14	[I|PR] know, and am persuaded by the [Lord|GF] [Jesus|GS], that there is nothing unclean of itself: but to [him|PR] that esteemeth any thing to be unclean, to [him|PR] it is unclean.
@@ -28443,16 +28443,16 @@ Romans 14:22	Hast [thou|PR] faith? have it to [thyself|PR] [before|L2] [God|GF].
 Romans 14:23	And [he|PR] that doubteth is damned if [he|PR] eat, because [he|PR] eateth not of faith: for whatsoever is not of faith is sin.
 Romans 15:1	[We|PR] then that are strong ought to bear the infirmities of the weak, and not to please [ourselves|PR].
 Romans 15:2	Let [every|QU] one of [us|PR] please [his|PR] [neighbour|GP] for [his|PR] good to edification.
-Romans 15:3	For even [Christ|GS] pleased not [himself|GF]; but, as it is written, The reproaches of [them|PR] that reproached [thee|PR] fell on [me|PR].
+Romans 15:3	For even [Christ|GS] pleased not [himself|GS]; but, as it is written, The reproaches of [them|PR] that reproached [thee|GF] fell on [me|GS].
 Romans 15:4	For whatsoever things were written [aforetime|T2] were written for [our|PR] learning, that [we|PR] through patience and comfort of the scriptures might have hope.
 Romans 15:5	[Now|T2] the [God|GF] of patience and consolation grant [you|PR] to be likeminded one [toward|L2] another according to [Christ|GS] [Jesus|GS]:
 Romans 15:6	that [ye|PR] may with [one|QU] mind and [one|QU] mouth glorify [God|GF], even the [Father|GF] of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS].
 Romans 15:7	Wherefore receive [ye|PR] one another, as [Christ|GS] also received [us|PR] to the glory of [God|GF].
 Romans 15:8	[Now|T2] [I|PR] say that [Jesus|GS] [Christ|GS] was a [minister|GP] of the circumcision for the truth of [God|GF], to confirm the promises made unto the [fathers|GP]:
 Romans 15:9	and that the [Gentiles|PG] might glorify [God|GF] for [his|GF] mercy; as it is written, For this cause [I|PR] will confess to [thee|GF] among the [Gentiles|PG], and sing unto [thy|GF] name.
-Romans 15:10	And [again|T2] [he|PR] saith, Rejoice, [ye|PR] [Gentiles|PG], with [his|PR] [people|GP].
+Romans 15:10	And [again|T2] [he|PR] saith, Rejoice, [ye|PR] [Gentiles|PG], with [his|GF] [people|GP].
 Romans 15:11	And [again|T2], Praise the [Lord|GF], [all|QU] [ye|PR] [Gentiles|PG]; and laud [him|GF], [all|QU] [ye|PR] [people|GP].
-Romans 15:12	And [again|T2], [Esaias|PN] saith, There shall be a [root|PL] of [Jesse|PN], and [he|GF] that shall rise to reign over the [Gentiles|PG]; in [him|GF] shall the [Gentiles|PG] trust.
+Romans 15:12	And [again|T2], [Esaias|PN] saith, There shall be a [root|PL] of [Jesse|PN], and [he|GS] that shall rise to reign over the [Gentiles|PG]; in [him|GS] shall the [Gentiles|PG] trust.
 Romans 15:13	[Now|T2] the [God|GF] of hope fill [you|PR] with [all|QU] joy and peace in believing, that [ye|PR] may abound in hope, through the power of the [Holy Ghost|HS].
 Romans 15:14	And [I|PR] [myself|PR] also am persuaded of [you|PR], [my|PR] [brethren|GP], that [ye|PR] also are full of goodness, filled with [all|QU] knowledge, able also to admonish one another.
 Romans 15:15	Nevertheless, [brethren|GP], [I|PR] have written the [more|QU] boldly unto [you|PR] in [some|QU] sort, as putting [you|PR] in mind, because of the grace that is given to [me|PR] of [God|GF],
@@ -28461,7 +28461,7 @@ Romans 15:17	[I|PR] have therefore whereof [I|PR] may glory through [Jesus|GS] [
 Romans 15:18	For [I|PR] will not dare to speak of any of those things which [Christ|GS] hath not wrought by [me|PR], to make the [Gentiles|PG] obedient, by word and deed,
 Romans 15:19	through mighty signs and wonders, by the power of the [Spirit|HS] of [God|GF]; [so|T2] that from [Jerusalem|PP], and [round|L2] [about|L2] unto [Illyricum|PP], [I|PR] have fully preached the gospel of [Christ|GS].
 Romans 15:20	Yea, [so|T2] have [I|PR] strived to preach the gospel, not [where|L2] [Christ|GS] was named, lest [I|PR] should build upon [another|QU] [man’s|GP] foundation:
-Romans 15:21	but as it is written, To [whom|PR] [he|GF] was not spoken of, [they|PR] shall see: and [they|PR] that have not heard shall understand.
+Romans 15:21	but as it is written, To [whom|PR] [he|GS] was not spoken of, [they|PR] shall see: and [they|PR] that have not heard shall understand.
 Romans 15:22	For which cause also [I|PR] have been [much|QU] hindered from coming to [you|PR].
 Romans 15:23	But [now|T2] having no [more|QU] [place|L1] in these [parts|L2], and having a great desire these [many|QU] [years|T1] to come unto [you|PR];
 Romans 15:24	[whensoever|T2] [I|PR] take [my|PR] journey into [Spain|PP], [I|PR] will come to [you|PR]: for [I|PR] trust to see [you|PR] in [my|PR] journey, and to be brought on [my|PR] way [thitherward|L1] by [you|PR], if [first|NU] [I|PR] be somewhat filled with [your|PR] company.
@@ -28505,11 +28505,11 @@ Romans 16:27	to [God|GF] only wise, be glory through [Jesus|GS] [Christ|GS] [for
 1 Corinthians 1:2	Unto the [church|GP] of [God|GF] which is at [Corinth|PP], to [them|PR] that are sanctified in [Christ|GS] [Jesus|GS], called to be [saints|GP], with [all|QU] that in [every|QU] [place|L1] call upon the name of [Jesus|GS] [Christ|GS] [our|PR] [Lord|GF], [both|QU] [theirs|PR] and [ours|PR]:
 1 Corinthians 1:3	Grace be unto [you|PR], and peace, from [God|GF] [our|PR] [Father|GF], and from the [Lord|GF] [Jesus|GS] [Christ|GS].
 1 Corinthians 1:4	[I|PR] thank [my|PR] [God|GF] [always|T2] on [your|PR] behalf, for the grace of [God|GF] which is given [you|PR] by [Jesus|GS] [Christ|GS];
-1 Corinthians 1:5	that in [every|QU] thing [ye|PR] are enriched by [him|GF], in [all|QU] utterance, and in [all|QU] knowledge;
+1 Corinthians 1:5	that in [every|QU] thing [ye|PR] are enriched by [him|GS], in [all|QU] utterance, and in [all|QU] knowledge;
 1 Corinthians 1:6	even as the testimony of [Christ|GS] was confirmed in [you|PR]:
 1 Corinthians 1:7	[so|T2] that [ye|PR] come [behind|L2] in no gift; waiting for the coming of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS]:
-1 Corinthians 1:8	[who|PR] shall also confirm [you|PR] unto the [end|T2], that [ye|PR] may be blameless in the [day|T1] of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS].
-1 Corinthians 1:9	[God|GF] is faithful, by [whom|PR] [ye|PR] were called unto the fellowship of [his|GF] [Son|GS] [Jesus|GS] [Christ|GS] [our|PR] [Lord|GF].
+1 Corinthians 1:8	[who|GF] shall also confirm [you|PR] unto the [end|T2], that [ye|PR] may be blameless in the [day|T1] of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS].
+1 Corinthians 1:9	[God|GF] is faithful, by [whom|GF] [ye|PR] were called unto the fellowship of [his|GF] [Son|GS] [Jesus|GS] [Christ|GS] [our|PR] [Lord|GF].
 1 Corinthians 1:10	[Now|T2] [I|PR] beseech [you|PR], [brethren|GP], by the name of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS], that [ye|PR] [all|QU] speak the same thing, and that there be no divisions among [you|PR]; but that [ye|PR] be perfectly joined together in the same mind and in the same judgment.
 1 Corinthians 1:11	For it hath been declared unto [me|PR] of [you|PR], [my|PR] [brethren|GP], by [them|PR] which are of the [house|GP] of [Chloe|PN], that there are contentions among [you|PR].
 1 Corinthians 1:12	[Now|T2] this [I|PR] say, that [every|QU] one of [you|PR] saith, [I|PR] am of [Paul|PN]; and [I|PR] of [Apollos|PN]; and [I|PR] of [Cephas|PN]; and [I|PR] of [Christ|GS].
@@ -28530,10 +28530,10 @@ Romans 16:27	to [God|GF] only wise, be glory through [Jesus|GS] [Christ|GS] [for
 1 Corinthians 1:27	but [God|GF] hath chosen the foolish things of the [world|L1] to confound the [wise|GP]; and [God|GF] hath chosen the weak things of the [world|L1] to confound the things which are mighty;
 1 Corinthians 1:28	and base things of the [world|L1], and things which are despised, hath [God|GF] chosen, yea, and things which are not, to bring to nought things that are:
 1 Corinthians 1:29	that no flesh should glory in [his|GF] presence.
-1 Corinthians 1:30	But of [him|GF] are [ye|PR] in [Christ|GS] [Jesus|GS], [who|GF] of [God|GF] is made unto [us|PR] wisdom, and righteousness, and sanctification, and redemption:
+1 Corinthians 1:30	But of [him|GF] are [ye|PR] in [Christ|GS] [Jesus|GS], [who|GS] of [God|GF] is made unto [us|PR] wisdom, and righteousness, and sanctification, and redemption:
 1 Corinthians 1:31	that, according as it is written, [He|PR] that glorieth, let [him|PR] glory in the [Lord|GF].
 1 Corinthians 2:1	And [I|PR], [brethren|GP], [when|T2] [I|PR] came to [you|PR], came not with excellency of speech or of wisdom, declaring unto [you|PR] the testimony of [God|GF].
-1 Corinthians 2:2	For [I|PR] determined not to know any thing among [you|PR], save [Jesus|GS] [Christ|GS], and [him|GF] crucified.
+1 Corinthians 2:2	For [I|PR] determined not to know any thing among [you|PR], save [Jesus|GS] [Christ|GS], and [him|GS] crucified.
 1 Corinthians 2:3	And [I|PR] was with [you|PR] in weakness, and in fear, and in [much|QU] trembling.
 1 Corinthians 2:4	And [my|PR] speech and [my|PR] preaching was not with enticing words of [man’s|GP] wisdom, but in demonstration of the [Spirit|HS] and of power:
 1 Corinthians 2:5	that [your|PR] faith should not stand in the wisdom of [men|GP], but in the power of [God|GF].
@@ -28574,8 +28574,8 @@ Romans 16:27	to [God|GF] only wise, be glory through [Jesus|GS] [Christ|GS] [for
 1 Corinthians 4:1	Let a [man|GP] [so|T2] account of [us|PR], as of the [ministers|GP] of [Christ|GS], and [stewards|GP] of the mysteries of [God|GF].
 1 Corinthians 4:2	Moreover it is required in [stewards|GP], that a [man|GP] be found faithful.
 1 Corinthians 4:3	But with [me|PR] it is a [very|QU] small thing that [I|PR] should be judged of [you|PR], or of [man’s|GP] judgment: yea, [I|PR] judge not [mine|PR] own self.
-1 Corinthians 4:4	For [I|PR] know nothing by [myself|PR]; yet am [I|PR] not hereby justified: but [he|GF] that judgeth [me|PR] is the [Lord|GF].
-1 Corinthians 4:5	Therefore judge nothing [before|T2] the [time|T1], [until|T2] the [Lord|GF] come, [who|GF] [both|QU] will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts: and then shall [every|QU] [man|GP] have praise of [God|GF].
+1 Corinthians 4:4	For [I|PR] know nothing by [myself|PR]; yet am [I|PR] not hereby justified: but [he|GS] that judgeth [me|PR] is the [Lord|GF].
+1 Corinthians 4:5	Therefore judge nothing [before|T2] the [time|T1], [until|T2] the [Lord|GF] come, [who|GS] [both|QU] will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts: and then shall [every|QU] [man|GP] have praise of [God|GF].
 1 Corinthians 4:6	And these things, [brethren|GP], [I|PR] have in a figure transferred to [myself|PR] and to [Apollos|PN] for [your|PR] sakes; that [ye|PR] might learn in [us|PR] not to think of [men|GP] above that which is written, that no one of [you|PR] be puffed up for one against another.
 1 Corinthians 4:7	For [who|PR] maketh [thee|PR] to differ from another? and what hast [thou|PR] that [thou|PR] didst not receive? [now|T2] if [thou|PR] didst receive it, why dost [thou|PR] glory, as if [thou|PR] hadst not received it?
 1 Corinthians 4:8	[Now|T2] [ye|PR] are full, [now|T2] [ye|PR] are rich, [ye|PR] have reigned as [kings|GP] without [us|PR]: and [I|PR] would to [God|GF] [ye|PR] did reign, that [we|PR] also might reign with [you|PR].
@@ -28670,7 +28670,7 @@ Romans 16:27	to [God|GF] only wise, be glory through [Jesus|GS] [Christ|GS] [for
 1 Corinthians 8:3	But if any [man|GP] love [God|GF], the same is known of [him|GF].
 1 Corinthians 8:4	As concerning therefore the eating of those things that are offered in sacrifice unto [idols|DE], [we|PR] know that an [idol|DE] is nothing in the [world|L1], and that there is [none|QU] other [God|GF] but [one|QU].
 1 Corinthians 8:5	For though there be that are called [gods|DE], whether in [heaven|L1] or in [earth|L1], (as there be [gods|DE] [many|QU], and [lords|GP] [many|QU],)
-1 Corinthians 8:6	but to [us|PR] there is but [one|QU] [God|GF], the [Father|GF], of [whom|GF] are [all|QU] things, and [we|PR] in [him|GF]; and [one|QU] [Lord|GF] [Jesus|GS] [Christ|GS], by [whom|GF] are [all|QU] things, and [we|PR] by [him|GF].
+1 Corinthians 8:6	but to [us|PR] there is but [one|QU] [God|GF], the [Father|GF], of [whom|GF] are [all|QU] things, and [we|PR] in [him|GF]; and [one|QU] [Lord|GF] [Jesus|GS] [Christ|GS], by [whom|GS] are [all|QU] things, and [we|PR] by [him|GS].
 1 Corinthians 8:7	Howbeit there is not in [every|QU] [man|GP] that knowledge: for [some|QU] with conscience of the [idol|DE] unto this [hour|T1] eat it as a thing offered unto an [idol|DE]; and [their|PR] conscience being weak is defiled.
 1 Corinthians 8:8	But meat commendeth [us|PR] not to [God|GF]: for neither, if [we|PR] eat, are [we|PR] the better; neither, if [we|PR] eat not, are [we|PR] the worse.
 1 Corinthians 8:9	But take heed lest by any means this liberty of [yours|PR] become a stumblingblock to [them|PR] that are weak.
@@ -28717,7 +28717,7 @@ Romans 16:27	to [God|GF] only wise, be glory through [Jesus|GS] [Christ|GS] [for
 1 Corinthians 10:10	Neither murmur [ye|PR], as [some|QU] of [them|PR] also murmured, and were destroyed of the [destroyer|GP].
 1 Corinthians 10:11	[Now|T2] [all|QU] these things happened unto [them|PR] for ensamples: and [they|PR] are written for [our|PR] admonition, upon [whom|PR] the [ends|L1] of the [world|L1] are come.
 1 Corinthians 10:12	Wherefore let [him|PR] that thinketh [he|PR] standeth take heed lest [he|PR] fall.
-1 Corinthians 10:13	There hath no temptation taken [you|PR] but such as is common to [man|GP]: but [God|GF] is faithful, [who|PR] will not suffer [you|PR] to be tempted above that [ye|PR] are able; but will with the temptation also make a way to escape, that [ye|PR] may be able to bear it.
+1 Corinthians 10:13	There hath no temptation taken [you|PR] but such as is common to [man|GP]: but [God|GF] is faithful, [who|GF] will not suffer [you|PR] to be tempted above that [ye|PR] are able; but will with the temptation also make a way to escape, that [ye|PR] may be able to bear it.
 1 Corinthians 10:14	Wherefore, [my|PR] dearly beloved, flee from idolatry.
 1 Corinthians 10:15	[I|PR] speak as to [wise men|GP]; judge [ye|PR] what [I|PR] say.
 1 Corinthians 10:16	The cup of blessing which [we|PR] bless, is it not the communion of the blood of [Christ|GS]? The bread which [we|PR] break, is it not the communion of the body of [Christ|GS]?
@@ -28760,10 +28760,10 @@ Romans 16:27	to [God|GF] only wise, be glory through [Jesus|GS] [Christ|GS] [for
 1 Corinthians 11:20	[When|T2] [ye|PR] come together therefore into [one|QU] [place|L1], this is not to eat the [Lord’s|GF] supper.
 1 Corinthians 11:21	For in eating [every|QU] one taketh [before|T2] other [his|PR] own supper: and [one|QU] is hungry, and [another|QU] is drunken.
 1 Corinthians 11:22	What? have [ye|PR] not [houses|L1] to eat and to drink in? or despise [ye|PR] the [church|GP] of [God|GF], and shame [them|PR] that have not? What shall [I|PR] say to [you|PR]? shall [I|PR] praise [you|PR] in this? [I|PR] praise [you|PR] not.
-1 Corinthians 11:23	For [I|PR] have received of the [Lord|GF] that which also [I|PR] delivered unto [you|PR], That the [Lord|GF] [Jesus|GS] the same [night|T1] in which [he|GF] was betrayed took bread:
-1 Corinthians 11:24	and [when|T2] [he|GF] had given thanks, [he|GF] brake it, and said, «Take, eat: this is [my|GF] body, which is broken for [you|PR]: this do in remembrance of [me|GS]. »
-1 Corinthians 11:25	[After|T2] the same manner also [he|GF] took the cup, [when|T2] [he|GF] had supped, saying, «This cup is the [new|T2] testament in [my|GS] blood: this do [ye|PR], as [oft|T2] as [ye|PR] drink it, in remembrance of [me|GS]. »
-1 Corinthians 11:26	For as [often|T2] as [ye|PR] eat this bread, and drink this cup, [ye|PR] do shew the [Lord’s|GF] death [till|T2] [he|GF] come.
+1 Corinthians 11:23	For [I|PR] have received of the [Lord|GF] that which also [I|PR] delivered unto [you|PR], That the [Lord|GF] [Jesus|GS] the same [night|T1] in which [he|GS] was betrayed took bread:
+1 Corinthians 11:24	and [when|T2] [he|GS] had given thanks, [he|GS] brake it, and said, «Take, eat: this is [my|GS] body, which is broken for [you|PR]: this do in remembrance of [me|GS]. »
+1 Corinthians 11:25	[After|T2] the same manner also [he|GS] took the cup, [when|T2] [he|GS] had supped, saying, «This cup is the [new|T2] testament in [my|GS] blood: this do [ye|PR], as [oft|T2] as [ye|PR] drink it, in remembrance of [me|GS]. »
+1 Corinthians 11:26	For as [often|T2] as [ye|PR] eat this bread, and drink this cup, [ye|PR] do shew the [Lord’s|GF] death [till|T2] [he|GS] come.
 1 Corinthians 11:27	Wherefore [whosoever|PR] shall eat this bread, and drink this cup of the [Lord|GF], unworthily, shall be guilty of the body and blood of the [Lord|GF].
 1 Corinthians 11:28	But let a [man|GP] examine [himself|PR], and [so|T2] let [him|PR] eat of that bread, and drink of that cup.
 1 Corinthians 11:29	For [he|PR] that eateth and drinketh unworthily, eateth and drinketh damnation to [himself|PR], not discerning the [Lord’s|GF] body.
@@ -28782,7 +28782,7 @@ Romans 16:27	to [God|GF] only wise, be glory through [Jesus|GS] [Christ|GS] [for
 1 Corinthians 12:8	For to [one|QU] is given by the [Spirit|HS] the word of wisdom; to [another|QU] the word of knowledge by the same [Spirit|HS];
 1 Corinthians 12:9	to [another|QU] faith by the same [Spirit|HS]; to [another|QU] the gifts of healing by the same [Spirit|HS];
 1 Corinthians 12:10	to [another|QU] the working of miracles; to [another|QU] prophecy; to [another|QU] discerning of spirits; to [another|QU] divers kinds of tongues; to [another|QU] the interpretation of tongues:
-1 Corinthians 12:11	but [all|QU] these worketh that [one|QU] and the selfsame [Spirit|HS], dividing to [every|QU] [man|GP] severally as [he|GF] will.
+1 Corinthians 12:11	but [all|QU] these worketh that [one|QU] and the selfsame [Spirit|HS], dividing to [every|QU] [man|GP] severally as [he|HS] will.
 1 Corinthians 12:12	For as the body is [one|QU], and hath [many|QU] members, and [all|QU] the members of that [one|QU] body, being [many|QU], are [one|QU] body: [so|T2] also is [Christ|GS].
 1 Corinthians 12:13	For by [one|QU] [Spirit|HS] are [we|PR] [all|QU] baptized into [one|QU] body, whether [we|PR] be [Jews|PG] or [Gentiles|PG], whether [we|PR] be bond or free; and have been [all|QU] made to drink into [one|QU] [Spirit|HS].
 1 Corinthians 12:14	For the body is not [one|QU] member, but [many|QU].
@@ -28859,18 +28859,18 @@ Romans 16:27	to [God|GF] only wise, be glory through [Jesus|GS] [Christ|GS] [for
 1 Corinthians 15:1	Moreover, [brethren|GP], [I|PR] declare unto [you|PR] the gospel which [I|PR] preached unto [you|PR], which also [ye|PR] have received, and [wherein|L2] [ye|PR] stand;
 1 Corinthians 15:2	by which also [ye|PR] are saved, if [ye|PR] keep in memory what [I|PR] preached unto [you|PR], unless [ye|PR] have believed in vain.
 1 Corinthians 15:3	For [I|PR] delivered unto [you|PR] [first|NU] of [all|QU] that which [I|PR] also received, how that [Christ|GS] died for [our|PR] sins according to the scriptures;
-1 Corinthians 15:4	and that [he|GF] was buried, and that [he|GF] rose [again|T2] the [3rd|NU] [day|T1] according to the scriptures:
-1 Corinthians 15:5	and that [he|GF] was seen of [Cephas|PN], then of the [12|NU]:
-1 Corinthians 15:6	[after|T2] that, [he|GF] was seen of [above|QU] [500|NU] [brethren|GP] at [once|T2]; of [whom|PR] the [greater|QU] [part|QU] remain unto this present, but [some|QU] are fallen asleep.
-1 Corinthians 15:7	[After|T2] that, [he|GF] was seen of [James|PN]; then of [all|QU] the [apostles|GP].
-1 Corinthians 15:8	And last of [all|QU] [he|GF] was seen of [me|PR] also, as of one born out of [due|T2] [time|T1].
+1 Corinthians 15:4	and that [he|GS] was buried, and that [he|GS] rose [again|T2] the [3rd|NU] [day|T1] according to the scriptures:
+1 Corinthians 15:5	and that [he|GS] was seen of [Cephas|PN], then of the [12|NU]:
+1 Corinthians 15:6	[after|T2] that, [he|GS] was seen of [above|QU] [500|NU] [brethren|GP] at [once|T2]; of [whom|PR] the [greater|QU] [part|QU] remain unto this present, but [some|QU] are fallen asleep.
+1 Corinthians 15:7	[After|T2] that, [he|GS] was seen of [James|PN]; then of [all|QU] the [apostles|GP].
+1 Corinthians 15:8	And last of [all|QU] [he|GS] was seen of [me|PR] also, as of one born out of [due|T2] [time|T1].
 1 Corinthians 15:9	For [I|PR] am the least of the [apostles|GP], that am not meet to be called an [apostle|GP], because [I|PR] persecuted the [church|GP] of [God|GF].
 1 Corinthians 15:10	But by the grace of [God|GF] [I|PR] am what [I|PR] am: and [his|GF] grace which was bestowed upon [me|PR] was not in vain; but [I|PR] laboured [more|QU] [abundantly|QU] than [they|PR] [all|QU]: yet not [I|PR], but the grace of [God|GF] which was with [me|PR].
 1 Corinthians 15:11	Therefore whether it were [I|PR] or [they|PR], [so|T2] [we|PR] preach, and [so|T2] [ye|PR] believed.
-1 Corinthians 15:12	[Now|T2] if [Christ|GS] be preached that [he|GF] rose from the [dead|GP], how say [some|QU] among [you|PR] that there is no resurrection of the [dead|GP]?
+1 Corinthians 15:12	[Now|T2] if [Christ|GS] be preached that [he|GS] rose from the [dead|GP], how say [some|QU] among [you|PR] that there is no resurrection of the [dead|GP]?
 1 Corinthians 15:13	But if there be no resurrection of the [dead|GP], then is [Christ|GS] not risen:
 1 Corinthians 15:14	and if [Christ|GS] be not risen, then is [our|PR] preaching vain, and [your|PR] faith is also vain.
-1 Corinthians 15:15	Yea, and [we|PR] are found [false witnesses|GP] of [God|GF]; because [we|PR] have testified of [God|GF] that [he|GF] raised up [Christ|GS]: [whom|GF] [he|GF] raised not up, if [so|T2] be that the [dead|GP] rise not.
+1 Corinthians 15:15	Yea, and [we|PR] are found [false witnesses|GP] of [God|GF]; because [we|PR] have testified of [God|GF] that [he|GF] raised up [Christ|GS]: [whom|GS] [he|GF] raised not up, if [so|T2] be that the [dead|GP] rise not.
 1 Corinthians 15:16	For if the [dead|GP] rise not, then is not [Christ|GS] raised:
 1 Corinthians 15:17	and if [Christ|GS] be not raised, [your|PR] faith is vain; [ye|PR] are yet in [your|PR] sins.
 1 Corinthians 15:18	Then [they|PR] also which are fallen asleep in [Christ|GS] are perished.
@@ -28878,12 +28878,12 @@ Romans 16:27	to [God|GF] only wise, be glory through [Jesus|GS] [Christ|GS] [for
 1 Corinthians 15:20	But [now|T2] is [Christ|GS] risen from the [dead|GP], and become the firstfruits of [them|PR] that slept.
 1 Corinthians 15:21	For [since|T2] by [man|GP] came death, by [man|GP] came also the resurrection of the [dead|GP].
 1 Corinthians 15:22	For as in [Adam|PN] [all|QU] die, even [so|T2] in [Christ|GS] shall [all|QU] be made alive.
-1 Corinthians 15:23	But [every|QU] [man|GP] in [his|PR] own order: [Christ|GS] the firstfruits; [afterward|T2] [they|PR] that are [Christ’s|GS] at [his|GF] coming.
-1 Corinthians 15:24	[Then|T2] cometh the [end|T2], [when|T2] [he|GF] shall have delivered up the kingdom to [God|GF], even the [Father|GF]; [when|T2] [he|GF] shall have put down [all|QU] rule and [all|QU] authority and power.
-1 Corinthians 15:25	For [he|GF] must reign, [till|T2] [he|GF] hath put [all|QU] [enemies|GP] [under|L2] [his|GF] feet.
+1 Corinthians 15:23	But [every|QU] [man|GP] in [his|PR] own order: [Christ|GS] the firstfruits; [afterward|T2] [they|PR] that are [Christ’s|GS] at [his|GS] coming.
+1 Corinthians 15:24	[Then|T2] cometh the [end|T2], [when|T2] [he|GS] shall have delivered up the kingdom to [God|GF], even the [Father|GF]; [when|T2] [he|GS] shall have put down [all|QU] rule and [all|QU] authority and power.
+1 Corinthians 15:25	For [he|GS] must reign, [till|T2] [he|GF] hath put [all|QU] [enemies|GP] [under|L2] [his|GS] feet.
 1 Corinthians 15:26	The last [enemy|GP] that shall be destroyed is death.
-1 Corinthians 15:27	For [he|GF] hath put [all|QU] things [under|L2] [his|GF] feet. But [when|T2] [he|GF] saith, [all|QU] things are put [under|L2] [him|GF], it is manifest that [he|GF] is excepted, which did put [all|QU] things [under|L2] [him|GF].
-1 Corinthians 15:28	And [when|T2] [all|QU] things shall be subdued unto [him|GF], then shall the [Son|GS] also [himself|GF] be subject unto [him|GF] that put [all|QU] things [under|L2] [him|GF], that [God|GF] may be [all|QU] in [all|QU].
+1 Corinthians 15:27	For [he|GF] hath put [all|QU] things [under|L2] [his|GS] feet. But [when|T2] [he|GF] saith, [all|QU] things are put [under|L2] [him|GS], it is manifest that [he|GF] is excepted, which did put [all|QU] things [under|L2] [him|GS].
+1 Corinthians 15:28	And [when|T2] [all|QU] things shall be subdued unto [him|GS], then shall the [Son|GS] also [himself|GS] be subject unto [him|GF] that put [all|QU] things [under|L2] [him|GS], that [God|GF] may be [all|QU] in [all|QU].
 1 Corinthians 15:29	Else what shall [they|PR] do which are baptized for the [dead|GP], if the [dead|GP] rise not at [all|QU]? why are [they|PR] then baptized for the [dead|GP]?
 1 Corinthians 15:30	And why stand [we|PR] in jeopardy [every|QU] [hour|T1]?
 1 Corinthians 15:31	[I|PR] protest by [your|PR] rejoicing which [I|PR] have in [Christ|GS] [Jesus|GS] [our|PR] [Lord|GF], [I|PR] die [daily|T1].
@@ -28956,8 +28956,8 @@ Romans 16:27	to [God|GF] only wise, be glory through [Jesus|GS] [Christ|GS] [for
 2 Corinthians 1:16	and to pass by [you|PR] into [Macedonia|PP], and to come [again|T2] out of [Macedonia|PP] unto [you|PR], and of [you|PR] to be brought on [my|PR] way [toward|L2] [Judaea|PP].
 2 Corinthians 1:17	[When|T2] [I|PR] therefore was thus minded, did [I|PR] use lightness? or the things that [I|PR] purpose, do [I|PR] purpose according to the flesh, that with [me|PR] there should be yea yea, and nay nay?
 2 Corinthians 1:18	But as [God|GF] is true, [our|PR] word [toward|L2] [you|PR] was not yea and nay.
-2 Corinthians 1:19	For the [Son|GS] of [God|GF], [Jesus|GS] [Christ|GS], [who|GF] was preached among [you|PR] by [us|PR], even by [me|PR] and [Silvanus|PN] and [Timotheus|PN], was not yea and nay, but in [him|GF] was yea.
-2 Corinthians 1:20	For [all|QU] the promises of [God|GF] in [him|GF] are yea, and in [him|GF] Amen, unto the glory of [God|GF] by [us|PR].
+2 Corinthians 1:19	For the [Son|GS] of [God|GF], [Jesus|GS] [Christ|GS], [who|GS] was preached among [you|PR] by [us|PR], even by [me|PR] and [Silvanus|PN] and [Timotheus|PN], was not yea and nay, but in [him|GS] was yea.
+2 Corinthians 1:20	For [all|QU] the promises of [God|GF] in [him|GS] are yea, and in [him|GS] Amen, unto the glory of [God|GF] by [us|PR].
 2 Corinthians 1:21	[Now|T2] [he|GF] which stablisheth [us|PR] with [you|PR] in [Christ|GS], and hath anointed [us|PR], is [God|GF];
 2 Corinthians 1:22	[who|GF] hath also sealed [us|PR], and given the earnest of the [Spirit|HS] in [our|PR] hearts.
 2 Corinthians 1:23	Moreover [I|PR] call [God|GF] for a record upon [my|PR] soul, that to spare [you|PR] [I|PR] came not as yet unto [Corinth|PP].
@@ -29000,7 +29000,7 @@ Romans 16:27	to [God|GF] only wise, be glory through [Jesus|GS] [Christ|GS] [for
 2 Corinthians 4:1	Therefore seeing [we|PR] have this ministry, as [we|PR] have received mercy, [we|PR] faint not;
 2 Corinthians 4:2	but have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of [God|GF] deceitfully; but by manifestation of the truth commending [ourselves|PR] to [every|QU] [man’s|GP] conscience in the sight of [God|GF].
 2 Corinthians 4:3	But if [our|PR] gospel be hid, it is hid to [them|PR] that are lost:
-2 Corinthians 4:4	in [whom|PR] the [god|DE] of this [world|L1] hath blinded the minds of [them|PR] which believe not, lest the light of the glorious gospel of [Christ|GS], [who|GF] is the image of [God|GF], should shine unto [them|PR].
+2 Corinthians 4:4	in [whom|PR] the [god|DE] of this [world|L1] hath blinded the minds of [them|PR] which believe not, lest the light of the glorious gospel of [Christ|GS], [who|GS] is the image of [God|GF], should shine unto [them|PR].
 2 Corinthians 4:5	For [we|PR] preach not [ourselves|PR], but [Christ|GS] [Jesus|GS] the [Lord|GF]; and [ourselves|PR] [your|PR] [servants|GP] for [Jesus|GS]’ sake.
 2 Corinthians 4:6	For [God|GF], [who|GF] commanded the light to shine out of darkness, hath shined in [our|PR] hearts, to give the light of the knowledge of the glory of [God|GF] in the face of [Jesus|GS] [Christ|GS].
 2 Corinthians 4:7	But [we|PR] have this treasure in earthen vessels, that the excellency of the power may be of [God|GF], and not of [us|PR].
@@ -29029,13 +29029,13 @@ Romans 16:27	to [God|GF] only wise, be glory through [Jesus|GS] [Christ|GS] [for
 2 Corinthians 5:12	For [we|PR] commend not [ourselves|PR] [again|T2] unto [you|PR], but give [you|PR] occasion to glory on [our|PR] behalf, that [ye|PR] may have somewhat to answer [them|PR] which glory in appearance, and not in heart.
 2 Corinthians 5:13	For whether [we|PR] be beside [ourselves|PR], it is to [God|GF]: or whether [we|PR] be sober, it is for [your|PR] cause.
 2 Corinthians 5:14	For the love of [Christ|GS] constraineth [us|PR]; because [we|PR] thus judge, that if [one|QU] died for [all|QU], then were [all|QU] dead:
-2 Corinthians 5:15	and that [he|GF] died for [all|QU], that [they|PR] which live should not [henceforth|T2] live unto [themselves|PR], but unto [him|GF] which died for [them|PR], and rose [again|T2].
-2 Corinthians 5:16	Wherefore [henceforth|T2] know [we|PR] no [man|GP] after the flesh: yea, though [we|PR] have known [Christ|GS] after the flesh, yet [now|T2] [henceforth|T2] know [we|PR] [him|GF] [no|T2] [more|T2].
+2 Corinthians 5:15	and that [he|GS] died for [all|QU], that [they|PR] which live should not [henceforth|T2] live unto [themselves|PR], but unto [him|GS] which died for [them|PR], and rose [again|T2].
+2 Corinthians 5:16	Wherefore [henceforth|T2] know [we|PR] no [man|GP] after the flesh: yea, though [we|PR] have known [Christ|GS] after the flesh, yet [now|T2] [henceforth|T2] know [we|PR] [him|GS] [no|T2] [more|T2].
 2 Corinthians 5:17	Therefore if any [man|GP] be in [Christ|GS], [he|PR] is a [new|T2] [creature|BE]: [old|T2] things are passed away; behold, [all|QU] things are become [new|T2].
 2 Corinthians 5:18	And [all|QU] things are of [God|GF], [who|GF] hath reconciled [us|PR] to [himself|GF] by [Jesus|GS] [Christ|GS], and hath given to [us|PR] the ministry of reconciliation;
 2 Corinthians 5:19	to wit, that [God|GF] was in [Christ|GS], reconciling the [world|L1] unto [himself|GF], not imputing [their|PR] trespasses unto [them|PR]; and hath committed unto [us|PR] the word of reconciliation.
 2 Corinthians 5:20	[Now|T2] then [we|PR] are [ambassadors|GP] for [Christ|GS], as though [God|GF] did beseech [you|PR] by [us|PR]: [we|PR] pray [you|PR] in [Christ’s|GS] stead, be [ye|PR] reconciled to [God|GF].
-2 Corinthians 5:21	For [he|GF] hath made [him|GF] to be sin for [us|PR], [who|GF] knew no sin; that [we|PR] might be made the righteousness of [God|GF] in [him|GF].
+2 Corinthians 5:21	For [he|GF] hath made [him|GS] to be sin for [us|PR], [who|GS] knew no sin; that [we|PR] might be made the righteousness of [God|GF] in [him|GS].
 2 Corinthians 6:1	[We|PR] then, as [workers|GP] together with [him|GF], beseech [you|PR] also that [ye|PR] receive not the grace of [God|GF] in vain.
 2 Corinthians 6:2	(For [he|GF] saith, [I|GF] have heard [thee|PR] in a [time|T1] accepted, and in the [day|T1] of salvation have [I|GF] succoured [thee|PR]: behold, [now|T2] is the accepted [time|T1]; behold, [now|T2] is the [day|T1] of salvation.)
 2 Corinthians 6:3	Giving no offence in any thing, that the ministry be not blamed:
@@ -29078,7 +29078,7 @@ Romans 16:27	to [God|GF] only wise, be glory through [Jesus|GS] [Christ|GS] [for
 2 Corinthians 8:6	Insomuch that [we|PR] desired [Titus|PN], that as [he|PR] had [begun|T2], [so|T2] [he|PR] would also finish in [you|PR] the same grace also.
 2 Corinthians 8:7	Therefore, as [ye|PR] abound in [every|QU] thing, in faith, and utterance, and knowledge, and in [all|QU] diligence, and in [your|PR] love to [us|PR], see that [ye|PR] abound in this grace also.
 2 Corinthians 8:8	[I|PR] speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of [your|PR] love.
-2 Corinthians 8:9	For [ye|PR] know the grace of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS], that, though [he|GF] was rich, yet for [your|PR] sakes [he|GF] became poor, that [ye|PR] through [his|GF] poverty might be rich.
+2 Corinthians 8:9	For [ye|PR] know the grace of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS], that, though [he|GS] was rich, yet for [your|PR] sakes [he|GS] became poor, that [ye|PR] through [his|GS] poverty might be rich.
 2 Corinthians 8:10	And [herein|L2] [I|PR] give [my|PR] advice: for this is expedient for [you|PR], [who|PR] have [begun|T2] [before|T2], not [only|QU] to do, but also to be forward a [year|T1] [ago|T2].
 2 Corinthians 8:11	[Now|T2] therefore perform the doing of it; that as there was a readiness to will, [so|T2] there may be a performance also out of that which [ye|PR] have.
 2 Corinthians 8:12	For if there be [first|NU] a willing mind, it is accepted according to that a [man|GP] hath, and not according to that [he|PR] hath not.
@@ -29168,7 +29168,7 @@ Romans 16:27	to [God|GF] only wise, be glory through [Jesus|GS] [Christ|GS] [for
 2 Corinthians 12:6	For though [I|PR] would desire to glory, [I|PR] shall not be a [fool|GP]; for [I|PR] will say the truth: but [now|T2] [I|PR] forbear, lest any [man|GP] should think of [me|PR] above that which [he|PR] seeth [me|PR] to be, or that [he|PR] heareth of [me|PR].
 2 Corinthians 12:7	And lest [I|PR] should be exalted above [measure|ME] through the [abundance|QU] of the revelations, there was given to [me|PR] a [thorn|PL] in the flesh, the [messenger|GP] of [Satan|DE] to buffet [me|PR], lest [I|PR] should be exalted above [measure|ME].
 2 Corinthians 12:8	For this thing [I|PR] besought the [Lord|GF] [thrice|NU], that it might depart from [me|PR].
-2 Corinthians 12:9	And [he|PR] said unto [me|PR], «[My|GS] grace is sufficient for [thee|PR]: for [my|GS] strength is made perfect in weakness. »Most gladly therefore will [I|PR] rather glory in [my|PR] infirmities, that the power of [Christ|GS] may rest upon [me|PR].
+2 Corinthians 12:9	And [he|GS] said unto [me|PR], «[My|GS] grace is sufficient for [thee|PR]: for [my|GS] strength is made perfect in weakness. »Most gladly therefore will [I|PR] rather glory in [my|PR] infirmities, that the power of [Christ|GS] may rest upon [me|PR].
 2 Corinthians 12:10	Therefore [I|PR] take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for [Christ’s|GS] sake: for [when|T2] [I|PR] am weak, then am [I|PR] strong.
 2 Corinthians 12:11	[I|PR] am become a [fool|GP] in glorying; [ye|PR] have compelled [me|PR]: for [I|PR] ought to have been commended of [you|PR]: for in nothing am [I|PR] [behind|L2] the very chiefest [apostles|GP], though [I|PR] be nothing.
 2 Corinthians 12:12	Truly the signs of an [apostle|GP] were wrought among [you|PR] in [all|QU] patience, in signs, and wonders, and mighty deeds.
@@ -29184,7 +29184,7 @@ Romans 16:27	to [God|GF] only wise, be glory through [Jesus|GS] [Christ|GS] [for
 2 Corinthians 13:1	This is the [3rd|NU] [time|T1] [I|PR] am coming to [you|PR]. In the mouth of [two|NU] or [three|NU] [witnesses|GP] shall [every|QU] word be established.
 2 Corinthians 13:2	[I|PR] told [you|PR] [before|T2], and foretell [you|PR], as if [I|PR] were present, the [2nd|NU] [time|T1]; and being absent [now|T2] [I|PR] write to [them|PR] which [heretofore|T2] have sinned, and to [all|QU] other, that, if [I|PR] come [again|T2], [I|PR] will not spare:
 2 Corinthians 13:3	[since|T2] [ye|PR] seek a proof of [Christ|GS] speaking in [me|PR], which to [you|PR]-ward is not weak, but is mighty in [you|PR].
-2 Corinthians 13:4	For though [he|GF] was crucified through weakness, yet [he|GF] liveth by the power of [God|GF]. For [we|PR] also are weak in [him|GF], but [we|PR] shall live with [him|GF] by the power of [God|GF] [toward|L2] [you|PR].
+2 Corinthians 13:4	For though [he|GS] was crucified through weakness, yet [he|GS] liveth by the power of [God|GF]. For [we|PR] also are weak in [him|GS], but [we|PR] shall live with [him|GS] by the power of [God|GF] [toward|L2] [you|PR].
 2 Corinthians 13:5	Examine [yourselves|PR], whether [ye|PR] be in the faith; prove [your|PR] own selves. Know [ye|PR] not [your|PR] own selves, how that [Jesus|GS] [Christ|GS] is in [you|PR], except [ye|PR] be [reprobates|GP]?
 2 Corinthians 13:6	But [I|PR] trust that [ye|PR] shall know that [we|PR] are not [reprobates|GP].
 2 Corinthians 13:7	[Now|T2] [I|PR] pray to [God|GF] that [ye|PR] do no evil; not that [we|PR] should appear approved, but that [ye|PR] should do that which is honest, though [we|PR] be as [reprobates|GP].
@@ -29195,10 +29195,10 @@ Romans 16:27	to [God|GF] only wise, be glory through [Jesus|GS] [Christ|GS] [for
 2 Corinthians 13:12	Greet one another with an holy kiss.
 2 Corinthians 13:13	All the [saints|GP] salute [you|PR].
 2 Corinthians 13:14	The grace of the [Lord|GF] [Jesus|GS] [Christ|GS], and the love of [God|GF], and the communion of the [Holy Ghost|HS], be with [you|PR] [all|QU]. Amen.
-Galatians 1:1	[Paul|PN], an [apostle|GP], (not of [men|GP], neither by [man|GP], but by [Jesus|GS] [Christ|GS], and [God|GF] the [Father|GF], [who|GF] raised [him|GF] from the [dead|GP];)
+Galatians 1:1	[Paul|PN], an [apostle|GP], (not of [men|GP], neither by [man|GP], but by [Jesus|GS] [Christ|GS], and [God|GF] the [Father|GF], [who|GF] raised [him|GS] from the [dead|GP];)
 Galatians 1:2	and [all|QU] the [brethren|GP] which are with [me|PR], unto the [churches|GP] of [Galatia|PP]:
 Galatians 1:3	Grace be to [you|PR] and peace from [God|GF] the [Father|GF], and from [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS],
-Galatians 1:4	[who|GF] gave [himself|GF] for [our|PR] sins, that [he|GF] might deliver [us|PR] from this present evil [world|L1], according to the will of [God|GF] and [our|PR] [Father|GF]:
+Galatians 1:4	[who|GS] gave [himself|GS] for [our|PR] sins, that [he|GS] might deliver [us|PR] from this present evil [world|L1], according to the will of [God|GF] and [our|PR] [Father|GF]:
 Galatians 1:5	to [whom|GF] be glory [for|T2] [ever|T2] and [ever|T2]. Amen.
 Galatians 1:6	[I|PR] marvel that [ye|PR] are [so|T2] [soon|T2] removed from [him|GF] that called [you|PR] into the grace of [Christ|GS] unto [another|QU] gospel:
 Galatians 1:7	which is not [another|QU]; but there be some that trouble [you|PR], and would pervert the gospel of [Christ|GS].
@@ -29210,7 +29210,7 @@ Galatians 1:12	For [I|PR] neither received it of [man|GP], neither was [I|PR] ta
 Galatians 1:13	For [ye|PR] have heard of [my|PR] conversation in [time|T1] [past|T2] in the [Jews|PG]’ religion, how that [beyond|L2] [measure|ME] [I|PR] persecuted the [church|GP] of [God|GF], and wasted it:
 Galatians 1:14	and profited in the [Jews|PG]’ religion [above|QU] [many|QU] [my|PR] equals in [mine|PR] own [nation|GP], being [more|QU] [exceedingly|QU] zealous of the traditions of [my|PR] [fathers|GP].
 Galatians 1:15	But [when|T2] it pleased [God|GF], [who|GF] separated [me|PR] from [my|PR] [mother’s|GP] womb, and called [me|PR] by [his|GF] grace,
-Galatians 1:16	to reveal [his|GF] [Son|GS] in [me|PR], that [I|PR] might preach [him|GF] among the [heathen|GP]; [immediately|T1] [I|PR] conferred not with flesh and blood:
+Galatians 1:16	to reveal [his|GF] [Son|GS] in [me|PR], that [I|PR] might preach [him|GS] among the [heathen|GP]; [immediately|T1] [I|PR] conferred not with flesh and blood:
 Galatians 1:17	neither went [I|PR] [up|L2] to [Jerusalem|PP] to [them|PR] which were [apostles|GP] [before|T2] [me|PR]; but [I|PR] went into [Arabia|PP], and returned [again|T2] unto [Damascus|PP].
 Galatians 1:18	[Then|T2] [after|T2] [3|NU] [years|T1] [I|PR] went [up|L2] to [Jerusalem|PP] to see [Peter|PN], and abode with [him|PR] [15|NU] [days|T1].
 Galatians 1:19	But other of the [apostles|GP] saw [I|PR] [none|QU], save [James|PN] the [Lord’s|GF] [brother|GP].
@@ -29238,7 +29238,7 @@ Galatians 2:16	knowing that a [man|GP] is not justified by the works of the law,
 Galatians 2:17	But if, [while|T2] [we|PR] seek to be justified by [Christ|GS], [we|PR] [ourselves|PR] also are found [sinners|GP], is therefore [Christ|GS] the [minister|GP] of sin? [God|GF] forbid.
 Galatians 2:18	For if [I|PR] build [again|T2] the things which [I|PR] destroyed, [I|PR] make [myself|PR] a [transgressor|GP].
 Galatians 2:19	For [I|PR] through the law am dead to the law, that [I|PR] might live unto [God|GF].
-Galatians 2:20	[I|PR] am crucified with [Christ|GS]: nevertheless [I|PR] live; yet not [I|PR], but [Christ|GS] liveth in [me|PR]: and the life which [I|PR] [now|T2] live in the flesh [I|PR] live by the faith of the [Son|GS] of [God|GF], [who|GF] loved [me|PR], and gave [himself|GF] for [me|PR].
+Galatians 2:20	[I|PR] am crucified with [Christ|GS]: nevertheless [I|PR] live; yet not [I|PR], but [Christ|GS] liveth in [me|PR]: and the life which [I|PR] [now|T2] live in the flesh [I|PR] live by the faith of the [Son|GS] of [God|GF], [who|GS] loved [me|PR], and gave [himself|GS] for [me|PR].
 Galatians 2:21	[I|PR] do not frustrate the grace of [God|GF]: for if righteousness come by the law, then [Christ|GS] is dead in vain.
 Galatians 3:1	O foolish [Galatians|PG], [who|PR] hath bewitched [you|PR], that [ye|PR] should not obey the truth, [before|L2] [whose|PR] eyes [Jesus|GS] [Christ|GS] hath been evidently set forth, crucified among [you|PR]?
 Galatians 3:2	This [only|QU] would [I|PR] learn of [you|PR], Received [ye|PR] the [Spirit|HS] by the works of the law, or by the hearing of faith?
@@ -29255,10 +29255,10 @@ Galatians 3:12	And the law is not of faith: but, The [man|GP] that doeth [them|P
 Galatians 3:13	[Christ|GS] hath redeemed [us|PR] from the curse of the law, being made a curse for [us|PR]: for it is written, Cursed is [every|QU] one that hangeth on a [tree|PL]:
 Galatians 3:14	that the blessing of [Abraham|PN] might come on the [Gentiles|PG] through [Jesus|GS] [Christ|GS]; that [we|PR] might receive the promise of the [Spirit|HS] through faith.
 Galatians 3:15	[Brethren|GP], [I|PR] speak after the manner of [men|GP]; Though it be but a [man’s|GP] covenant, yet if it be confirmed, no [man|GP] disannulleth, or [addeth|QU] thereto.
-Galatians 3:16	[Now|T2] to [Abraham|PN] and [his|PR] [seed|GP] were the promises made. [He|PR] saith not, And to [seeds|GP], as of [many|QU]; but as of [one|QU], And to [thy|PR] [seed|GP], which is [Christ|GS].
+Galatians 3:16	[Now|T2] to [Abraham|PN] and [his|PR] [seed|GP] were the promises made. [He|GF] saith not, And to [seeds|GP], as of [many|QU]; but as of [one|QU], And to [thy|PR] [seed|GP], which is [Christ|GS].
 Galatians 3:17	And this [I|PR] say, that the covenant, that was confirmed [before|T2] of [God|GF] in [Christ|GS], the law, which was [430|NU] [years|T1] [after|T2], cannot disannul, that it should make the promise of [none|QU] effect.
 Galatians 3:18	For if the inheritance be of the law, it is [no|T2] [more|T2] of promise: but [God|GF] gave it to [Abraham|PN] by promise.
-Galatians 3:19	Wherefore then serveth the law? It was [added|QU] because of transgressions, [till|T2] the [seed|GP] should come to [whom|PR] the promise was made; and it was ordained by [angels|AN] in the hand of a [mediator|GP].
+Galatians 3:19	Wherefore then serveth the law? It was [added|QU] because of transgressions, [till|T2] the [seed|GP] should come to [whom|GS] the promise was made; and it was ordained by [angels|AN] in the hand of a [mediator|GP].
 Galatians 3:20	[Now|T2] a [mediator|GP] is not a [mediator|GP] of [one|QU], but [God|GF] is [one|QU].
 Galatians 3:21	Is the law then against the promises of [God|GF]? [God|GF] forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.
 Galatians 3:22	But the scripture hath concluded [all|QU] [under|L2] sin, that the promise by faith of [Jesus|GS] [Christ|GS] might be given to [them|PR] that believe.
@@ -29339,7 +29339,7 @@ Galatians 6:10	As [we|PR] have therefore opportunity, let [us|PR] do good unto [
 Galatians 6:11	[Ye|PR] see how large a letter [I|PR] have written unto [you|PR] with [mine|PR] own hand.
 Galatians 6:12	As [many|QU] as desire to make a fair shew in the flesh, [they|PR] constrain [you|PR] to be circumcised; [only|QU] lest [they|PR] should suffer persecution for the cross of [Christ|GS].
 Galatians 6:13	For neither [they|PR] [themselves|PR] [who|PR] are circumcised keep the law; but desire to have [you|PR] circumcised, that [they|PR] may glory in [your|PR] flesh.
-Galatians 6:14	But [God|GF] forbid that [I|PR] should glory, save in the cross of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS], by [whom|GF] the [world|L1] is crucified unto [me|PR], and [I|PR] unto the [world|L1].
+Galatians 6:14	But [God|GF] forbid that [I|PR] should glory, save in the cross of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS], by [whom|GS] the [world|L1] is crucified unto [me|PR], and [I|PR] unto the [world|L1].
 Galatians 6:15	For in [Christ|GS] [Jesus|GS] neither circumcision availeth any thing, nor uncircumcision, but a [new|T2] [creature|BE].
 Galatians 6:16	And as [many|QU] as walk according to this rule, peace be on [them|PR], and mercy, and upon the [Israel|PP] of [God|GF].
 Galatians 6:17	From [henceforth|T2] let no [man|GP] trouble [me|PR]: for [I|PR] bear in [my|PR] body the marks of the [Lord|GF] [Jesus|GS].
@@ -29347,26 +29347,26 @@ Galatians 6:18	[Brethren|GP], the grace of [our|PR] [Lord|GF] [Jesus|GS] [Christ
 Ephesians 1:1	[Paul|PN], an [apostle|GP] of [Jesus|GS] [Christ|GS] by the will of [God|GF], to the [saints|GP] which are at [Ephesus|PP], and to the faithful in [Christ|GS] [Jesus|GS]:
 Ephesians 1:2	Grace be to [you|PR], and peace, from [God|GF] [our|PR] [Father|GF], and from the [Lord|GF] [Jesus|GS] [Christ|GS].
 Ephesians 1:3	Blessed be the [God|GF] and [Father|GF] of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS], [who|GF] hath blessed [us|PR] with [all|QU] spiritual blessings in heavenly [places|L1] in [Christ|GS]:
-Ephesians 1:4	according as [he|GF] hath chosen [us|PR] in [him|GF] [before|T2] the foundation of the [world|L1], that [we|PR] should be holy and without blame [before|L2] [him|GF] in love:
+Ephesians 1:4	according as [he|GF] hath chosen [us|PR] in [him|GS] [before|T2] the foundation of the [world|L1], that [we|PR] should be holy and without blame [before|L2] [him|GF] in love:
 Ephesians 1:5	having predestinated [us|PR] unto the adoption of [children|GP] by [Jesus|GS] [Christ|GS] to [himself|GF], according to the good pleasure of [his|GF] will,
 Ephesians 1:6	to the praise of the glory of [his|GF] grace, [wherein|L2] [he|GF] hath made [us|PR] accepted in the [beloved|GP].
-Ephesians 1:7	In [whom|GF] [we|PR] have redemption through [his|GF] blood, the forgiveness of sins, according to the riches of [his|GF] grace;
+Ephesians 1:7	In [whom|GS] [we|PR] have redemption through [his|GS] blood, the forgiveness of sins, according to the riches of [his|GF] grace;
 Ephesians 1:8	[wherein|L2] [he|GF] hath abounded [toward|L2] [us|PR] in [all|QU] wisdom and prudence;
 Ephesians 1:9	having made known unto [us|PR] the mystery of [his|GF] will, according to [his|GF] good pleasure which [he|GF] hath purposed in [himself|GF]:
-Ephesians 1:10	that in the dispensation of the fulness of [times|T2] [he|GF] might gather together in [one|QU] [all|QU] things in [Christ|GS], [both|QU] which are in [heaven|L1], and which are on [earth|L1]; even in [him|GF]:
-Ephesians 1:11	in [whom|GF] also [we|GF] have obtained an inheritance, being predestinated according to the purpose of [him|GF] [who|GF] worketh [all|QU] things after the counsel of [his|GF] own will:
+Ephesians 1:10	that in the dispensation of the fulness of [times|T2] [he|GF] might gather together in [one|QU] [all|QU] things in [Christ|GS], [both|QU] which are in [heaven|L1], and which are on [earth|L1]; even in [him|GS]:
+Ephesians 1:11	in [whom|GS] also [we|PR] have obtained an inheritance, being predestinated according to the purpose of [him|GF] [who|GF] worketh [all|QU] things after the counsel of [his|GF] own will:
 Ephesians 1:12	that [we|PR] should be to the praise of [his|GF] glory, [who|PR] [first|NU] trusted in [Christ|GS].
-Ephesians 1:13	In [whom|GF] [ye|PR] also trusted, [after|T2] that [ye|PR] heard the word of truth, the gospel of [your|PR] salvation: in [whom|GF] also [after|T2] that [ye|PR] believed, [ye|PR] were sealed with that holy [Spirit|HS] of promise,
+Ephesians 1:13	In [whom|GS] [ye|PR] also trusted, [after|T2] that [ye|PR] heard the word of truth, the gospel of [your|PR] salvation: in [whom|GS] also [after|T2] that [ye|PR] believed, [ye|PR] were sealed with that holy [Spirit|HS] of promise,
 Ephesians 1:14	which is the earnest of [our|PR] inheritance [until|T2] the redemption of the purchased possession, unto the praise of [his|GF] glory.
 Ephesians 1:15	Wherefore [I|PR] also, [after|T2] [I|PR] heard of [your|PR] faith in the [Lord|GF] [Jesus|GS], and love unto [all|QU] the [saints|GP],
 Ephesians 1:16	cease not to give thanks for [you|PR], making mention of [you|PR] in [my|PR] prayers;
 Ephesians 1:17	that the [God|GF] of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS], the [Father|GF] of glory, may give unto [you|PR] the spirit of wisdom and revelation in the knowledge of [him|GF]:
 Ephesians 1:18	the eyes of [your|PR] understanding being enlightened; that [ye|PR] may know what is the hope of [his|GF] calling, and what the riches of the glory of [his|GF] inheritance in the [saints|GP],
 Ephesians 1:19	and what is the [exceeding|QU] greatness of [his|GF] power to [us|PR]-ward [who|PR] believe, according to the working of [his|GF] mighty power,
-Ephesians 1:20	which [he|GF] wrought in [Christ|GS], [when|T2] [he|GF] raised [him|GF] from the [dead|GP], and set [him|GF] at [his|GF] own [right|L1] [hand|L2] in the heavenly [places|L1],
+Ephesians 1:20	which [he|GF] wrought in [Christ|GS], [when|T2] [he|GF] raised [him|GS] from the [dead|GP], and set [him|GS] at [his|GF] own [right|L1] [hand|L2] in the heavenly [places|L1],
 Ephesians 1:21	[far|L2] [above|L2] [all|QU] principality, and power, and might, and dominion, and [every|QU] name that is named, not [only|QU] in this [world|L1], but also in that which is to come:
-Ephesians 1:22	and hath put [all|QU] things [under|L2] [his|GF] feet, and gave [him|GF] to be the head over [all|QU] things to the [church|GP],
-Ephesians 1:23	which is [his|GF] body, the fulness of [him|GF] that filleth [all|QU] in [all|QU].
+Ephesians 1:22	and hath put [all|QU] things [under|L2] [his|GS] feet, and gave [him|GS] to be the head over [all|QU] things to the [church|GP],
+Ephesians 1:23	which is [his|GS] body, the fulness of [him|GS] that filleth [all|QU] in [all|QU].
 Ephesians 2:1	And [you|PR] hath [he|GF] quickened, [who|PR] were dead in trespasses and sins;
 Ephesians 2:2	[wherein|L2] in [time|T1] [past|T2] [ye|PR] walked according to the course of this [world|L1], according to the [prince|GP] of the power of the air, the spirit that [now|T2] worketh in the [children|GP] of disobedience:
 Ephesians 2:3	[among|L2] [whom|PR] also [we|PR] [all|QU] had [our|PR] conversation in [times|T2] [past|T2] in the lusts of [our|PR] flesh, fulfilling the desires of the flesh and of the mind; and were by nature the [children|GP] of wrath, even as others.
@@ -29380,15 +29380,15 @@ Ephesians 2:10	For [we|PR] are [his|GF] workmanship, created in [Christ|GS] [Jes
 Ephesians 2:11	Wherefore remember, that [ye|PR] being in [time|T1] [past|T2] [Gentiles|PG] in the flesh, [who|PR] are called [Uncircumcision|PG] by that which is called the [Circumcision|PG] in the flesh made by hands;
 Ephesians 2:12	that at that [time|T1] [ye|PR] were without [Christ|GS], being [aliens|GP] from the commonwealth of [Israel|PP], and [strangers|GP] from the covenants of promise, having no hope, and without [God|GF] in the [world|L1]:
 Ephesians 2:13	but [now|T2] in [Christ|GS] [Jesus|GS] [ye|PR] [who|PR] [sometimes|T2] were [far|L1] [off|L1] are made [nigh|L2] by the blood of [Christ|GS].
-Ephesians 2:14	For [he|GF] is [our|PR] peace, [who|GF] hath made [both|QU] [one|QU], and hath broken down the [middle|L2] [wall|L1] of partition between [us|PR];
-Ephesians 2:15	having abolished in [his|GF] flesh the enmity, even the law of commandments contained in ordinances; for to make in [himself|GF] of [twain|NU] [one|QU] [new|T2] [man|GP], [so|T2] making peace;
-Ephesians 2:16	and that [he|GF] might reconcile [both|QU] unto [God|GS] in [one|QU] body by the cross, having slain the enmity thereby:
+Ephesians 2:14	For [he|GS] is [our|PR] peace, [who|GS] hath made [both|QU] [one|QU], and hath broken down the [middle|L2] [wall|L1] of partition between [us|PR];
+Ephesians 2:15	having abolished in [his|GS] flesh the enmity, even the law of commandments contained in ordinances; for to make in [himself|GS] of [twain|NU] [one|QU] [new|T2] [man|GP], [so|T2] making peace;
+Ephesians 2:16	and that [he|GS] might reconcile [both|QU] unto [God|GF] in [one|QU] body by the cross, having slain the enmity thereby:
 Ephesians 2:17	and came and preached peace to [you|PR] which were [afar|L1] [off|L1], and to [them|PR] that were [nigh|L2].
-Ephesians 2:18	For through [him|GF] [we|PR] [both|QU] have access by [one|QU] [Spirit|HS] unto the [Father|GF].
+Ephesians 2:18	For through [him|GS] [we|PR] [both|QU] have access by [one|QU] [Spirit|HS] unto the [Father|GF].
 Ephesians 2:19	[Now|T2] therefore [ye|PR] are [no|T2] [more|T2] [strangers|GP] and [foreigners|GP], but [fellowcitizens|GP] with the [saints|GP], and of the [household|GP] of [God|GF];
-Ephesians 2:20	and are built upon the foundation of the [apostles|GP] and [prophets|GP], [Jesus|GS] [Christ|GS] [himself|GF] being the chief corner stone;
-Ephesians 2:21	in [whom|GF] [all|QU] the building fitly framed together groweth unto an holy [temple|L1] in the [Lord|GF]:
-Ephesians 2:22	in [whom|GF] [ye|PR] also are builded together for an [habitation|L1] of [God|GF] through the [Spirit|HS].
+Ephesians 2:20	and are built upon the foundation of the [apostles|GP] and [prophets|GP], [Jesus|GS] [Christ|GS] [himself|GS] being the chief corner stone;
+Ephesians 2:21	in [whom|GS] [all|QU] the building fitly framed together groweth unto an holy [temple|L1] in the [Lord|GF]:
+Ephesians 2:22	in [whom|GS] [ye|PR] also are builded together for an [habitation|L1] of [God|GF] through the [Spirit|HS].
 Ephesians 3:1	For this cause [I|PR] [Paul|PN], the [prisoner|GP] of [Jesus|GS] [Christ|GS] for [you|PR] [Gentiles|PG],
 Ephesians 3:2	if [ye|PR] have heard of the dispensation of the grace of [God|GF] which is given [me|PR] to [you|PR]-ward:
 Ephesians 3:3	how that by revelation [he|GF] made known unto [me|PR] the mystery; (as [I|PR] wrote [afore|T2] in [few|QU] words,
@@ -29400,7 +29400,7 @@ Ephesians 3:8	Unto [me|PR], [who|PR] am less than the least of [all|QU] [saints|
 Ephesians 3:9	and to make [all|QU] [men|GP] see what is the fellowship of the mystery, which from the [beginning|T2] of the [world|L1] hath been hid in [God|GF], [who|GF] created [all|QU] things by [Jesus|GS] [Christ|GS]:
 Ephesians 3:10	to the intent that [now|T2] unto the principalities and powers in heavenly [places|L1] might be known by the [church|GP] the [manifold|QU] wisdom of [God|GF],
 Ephesians 3:11	according to the [eternal|T2] purpose which [he|GF] purposed in [Christ|GS] [Jesus|GS] [our|PR] [Lord|GF]:
-Ephesians 3:12	in [whom|GF] [we|PR] have boldness and access with confidence by the faith of [him|GF].
+Ephesians 3:12	in [whom|GS] [we|PR] have boldness and access with confidence by the faith of [him|GS].
 Ephesians 3:13	Wherefore [I|PR] desire that [ye|PR] faint not at [my|PR] tribulations for [you|PR], which is [your|PR] glory.
 Ephesians 3:14	For this cause [I|PR] bow [my|PR] knees unto the [Father|GF] of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS],
 Ephesians 3:15	of [whom|GF] the [whole|QU] [family|GP] in [heaven|L1] and [earth|L1] is named,
@@ -29417,20 +29417,20 @@ Ephesians 4:4	There is [one|QU] body, and [one|QU] [Spirit|HS], even as [ye|PR] 
 Ephesians 4:5	[one|QU] [Lord|GF], [one|QU] faith, [one|QU] baptism,
 Ephesians 4:6	[one|QU] [God|GF] and [Father|GF] of [all|QU], [who|GF] is [above|L2] [all|QU], and [through|L2] [all|QU], and [in|L2] [you|PR] [all|QU].
 Ephesians 4:7	But unto [every|QU] one of [us|PR] is given grace according to the [measure|ME] of the gift of [Christ|GS].
-Ephesians 4:8	Wherefore [he|GF] saith, [When|T2] [he|GF] ascended [up|L2] on [high|L2], [he|GF] led captivity captive, and gave gifts unto [men|GP].
-Ephesians 4:9	([Now|T2] that [he|GF] ascended, what is it but that [he|GF] also descended [first|NU] into the [lower|L2] [parts|L2] of the [earth|L1]?
-Ephesians 4:10	[He|PR] that descended is the same also that ascended [up|L2] [far|L2] [above|L2] [all|QU] [heavens|L1], that [he|GF] might fill [all|QU] things.)
-Ephesians 4:11	And [he|GF] gave [some|QU], [apostles|GP]; and [some|QU], [prophets|GP]; and [some|QU], [evangelists|GP]; and [some|QU], [pastors|GP] and [teachers|GP];
+Ephesians 4:8	Wherefore [he|GF] saith, [When|T2] [he|GS] ascended [up|L2] on [high|L2], [he|GS] led captivity captive, and gave gifts unto [men|GP].
+Ephesians 4:9	([Now|T2] that [he|GS] ascended, what is it but that [he|GS] also descended [first|NU] into the [lower|L2] [parts|L2] of the [earth|L1]?
+Ephesians 4:10	[He|GS] that descended is the same also that ascended [up|L2] [far|L2] [above|L2] [all|QU] [heavens|L1], that [he|GS] might fill [all|QU] things.)
+Ephesians 4:11	And [he|GS] gave [some|QU], [apostles|GP]; and [some|QU], [prophets|GP]; and [some|QU], [evangelists|GP]; and [some|QU], [pastors|GP] and [teachers|GP];
 Ephesians 4:12	for the perfecting of the [saints|GP], for the work of the ministry, for the edifying of the body of [Christ|GS]:
 Ephesians 4:13	[till|T2] [we|PR] [all|QU] come in the unity of the faith, and of the knowledge of the [Son|GS] of [God|GF], unto a perfect [man|GP], unto the [measure|ME] of the stature of the fulness of [Christ|GS]:
 Ephesians 4:14	that [we|PR] [henceforth|T2] be [no|T2] [more|T2] [children|GP], tossed [to|L2] and [fro|L2], and carried about with [every|QU] wind of doctrine, by the sleight of [men|GP], and cunning craftiness, whereby [they|PR] lie in wait to deceive;
-Ephesians 4:15	but speaking the truth in love, may grow up into [him|GF] in [all|QU] things, which is the head, even [Christ|GS]:
-Ephesians 4:16	from [whom|GF] the [whole|QU] body fitly joined together and compacted by that which [every|QU] joint supplieth, according to the effectual working in the [measure|ME] of [every|QU] [part|QU], maketh [increase|QU] of the body unto the edifying of itself in love.
+Ephesians 4:15	but speaking the truth in love, may grow up into [him|GS] in [all|QU] things, which is the head, even [Christ|GS]:
+Ephesians 4:16	from [whom|GS] the [whole|QU] body fitly joined together and compacted by that which [every|QU] joint supplieth, according to the effectual working in the [measure|ME] of [every|QU] [part|QU], maketh [increase|QU] of the body unto the edifying of itself in love.
 Ephesians 4:17	This [I|PR] say therefore, and testify in the [Lord|GF], that [ye|PR] [henceforth|T2] walk not as other [Gentiles|PG] walk, in the vanity of [their|PR] mind,
 Ephesians 4:18	having the understanding darkened, being alienated from the life of [God|GF] through the ignorance that is in [them|PR], because of the blindness of [their|PR] heart:
 Ephesians 4:19	[who|PR] being [past|T2] feeling have given [themselves|PR] over unto lasciviousness, to work [all|QU] uncleanness with greediness.
 Ephesians 4:20	But [ye|PR] have not [so|T2] learned [Christ|GS];
-Ephesians 4:21	if [so|T2] be that [ye|PR] have heard [him|GF], and have been taught by [him|GF], as the truth is in [Jesus|GS]:
+Ephesians 4:21	if [so|T2] be that [ye|PR] have heard [him|GS], and have been taught by [him|GS], as the truth is in [Jesus|GS]:
 Ephesians 4:22	that [ye|PR] put off concerning the [former|T2] conversation the [old|T2] [man|GP], which is corrupt according to the deceitful lusts;
 Ephesians 4:23	and be renewed in the spirit of [your|PR] mind;
 Ephesians 4:24	and that [ye|PR] put on the [new|T2] [man|GP], which after [God|GF] is created in righteousness and true holiness.
@@ -29443,7 +29443,7 @@ Ephesians 4:30	And grieve not the holy [Spirit|HS] of [God|GF], whereby [ye|PR] 
 Ephesians 4:31	Let [all|QU] bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from [you|PR], with [all|QU] malice:
 Ephesians 4:32	and be [ye|PR] kind one to another, tenderhearted, forgiving one another, even as [God|GF] for [Christ’s|GS] sake hath forgiven [you|PR].
 Ephesians 5:1	Be [ye|PR] therefore [followers|GP] of [God|GF], as dear [children|GP];
-Ephesians 5:2	and walk in love, as [Christ|GS] also hath loved [us|PR], and hath given [himself|GF] for [us|PR] an offering and a sacrifice to [God|GF] for a sweetsmelling savour.
+Ephesians 5:2	and walk in love, as [Christ|GS] also hath loved [us|PR], and hath given [himself|GS] for [us|PR] an offering and a sacrifice to [God|GF] for a sweetsmelling savour.
 Ephesians 5:3	But fornication, and [all|QU] uncleanness, or covetousness, let it not be [once|T2] named among [you|PR], as becometh [saints|GP];
 Ephesians 5:4	neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.
 Ephesians 5:5	For this [ye|PR] know, that no [whoremonger|GP], nor unclean [person|GP], nor covetous [man|GP], [who|PR] is an [idolater|GP], hath any inheritance in the kingdom of [Christ|GS] and of [God|GF].
@@ -29464,14 +29464,14 @@ Ephesians 5:19	speaking to [yourselves|PR] in psalms and hymns and spiritual son
 Ephesians 5:20	giving thanks [always|T2] for [all|QU] things unto [God|GF] and the [Father|GF] in the name of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS];
 Ephesians 5:21	submitting [yourselves|PR] one to another in the fear of [God|GF].
 Ephesians 5:22	[Wives|GP], submit [yourselves|PR] unto [your|PR] own [husbands|GP], as unto the [Lord|GF].
-Ephesians 5:23	For the [husband|GP] is the head of the [wife|GP], even as [Christ|GS] is the head of the [church|GP]: and [he|GF] is the [saviour|GP] of the body.
+Ephesians 5:23	For the [husband|GP] is the head of the [wife|GP], even as [Christ|GS] is the head of the [church|GP]: and [he|GS] is the [saviour|GP] of the body.
 Ephesians 5:24	Therefore as the [church|GP] is subject unto [Christ|GS], [so|T2] let the [wives|GP] be to [their|PR] own [husbands|GP] in [every|QU] thing.
-Ephesians 5:25	[Husbands|GP], love [your|PR] [wives|GP], even as [Christ|GS] also loved the [church|GP], and gave [himself|GF] for it;
-Ephesians 5:26	that [he|GF] might sanctify and cleanse it with the washing of water by the word,
-Ephesians 5:27	that [he|GF] might present it to [himself|GF] a glorious [church|GP], not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
+Ephesians 5:25	[Husbands|GP], love [your|PR] [wives|GP], even as [Christ|GS] also loved the [church|GP], and gave [himself|GS] for it;
+Ephesians 5:26	that [he|GS] might sanctify and cleanse it with the washing of water by the word,
+Ephesians 5:27	that [he|GS] might present it to [himself|GS] a glorious [church|GP], not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
 Ephesians 5:28	So ought [men|GP] to love [their|PR] [wives|GP] as [their|PR] own bodies. [He|PR] that loveth [his|PR] [wife|GP] loveth [himself|PR].
 Ephesians 5:29	For no [man|GP] [ever|T2] yet hated [his|PR] own flesh; but nourisheth and cherisheth it, even as the [Lord|GF] the [church|GP]:
-Ephesians 5:30	for [we|PR] are members of [his|GF] body, of [his|GF] flesh, and of [his|GF] bones.
+Ephesians 5:30	for [we|PR] are members of [his|GS] body, of [his|GS] flesh, and of [his|GS] bones.
 Ephesians 5:31	For this cause shall a [man|GP] leave [his|PR] [father|GP] and [mother|GP], and shall be joined unto [his|PR] [wife|GP], and [they|PR] [two|NU] shall be [one|QU] flesh.
 Ephesians 5:32	This is a great mystery: but [I|PR] speak concerning [Christ|GS] and the [church|GP].
 Ephesians 5:33	Nevertheless let [every|QU] one of [you|PR] in particular [so|T2] love [his|PR] [wife|GP] even as [himself|PR]; and the [wife|GP] see that [she|PR] reverence [her|PR] [husband|GP].
@@ -29483,7 +29483,7 @@ Ephesians 6:5	[Servants|GP], be obedient to [them|PR] that are [your|PR] [master
 Ephesians 6:6	not with eyeservice, as [menpleasers|GP]; but as the [servants|GP] of [Christ|GS], doing the will of [God|GF] from the heart;
 Ephesians 6:7	with good will doing service, as to the [Lord|GF], and not to [men|GP]:
 Ephesians 6:8	knowing that whatsoever good thing any [man|GP] doeth, the same shall [he|PR] receive of the [Lord|GF], whether [he|PR] be bond or free.
-Ephesians 6:9	And, [ye|PR] [masters|GP], do the same things unto [them|PR], forbearing threatening: knowing that [your|PR] [Master|GS] also is in [heaven|L1]; neither is there respect of [persons|GP] with [him|GF].
+Ephesians 6:9	And, [ye|PR] [masters|GP], do the same things unto [them|PR], forbearing threatening: knowing that [your|PR] [Master|GS] also is in [heaven|L1]; neither is there respect of [persons|GP] with [him|GS].
 Ephesians 6:10	[Finally|T2], [my|PR] [brethren|GP], be strong in the [Lord|GF], and in the power of [his|GF] might.
 Ephesians 6:11	Put on the [whole|QU] armour of [God|GF], that [ye|PR] may be able to stand against the wiles of the [devil|DE].
 Ephesians 6:12	For [we|PR] wrestle not against flesh and blood, but against principalities, against powers, against the [rulers|GP] of the darkness of this [world|L1], against spiritual wickedness in [high|L2] [places|L1].
@@ -29527,17 +29527,17 @@ Philippians 1:25	And having this confidence, [I|PR] know that [I|PR] shall abide
 Philippians 1:26	that [your|PR] rejoicing may be [more|QU] [abundant|QU] in [Jesus|GS] [Christ|GS] for [me|PR] by [my|PR] coming to [you|PR] [again|T2].
 Philippians 1:27	Only let [your|PR] conversation be as it becometh the gospel of [Christ|GS]: that whether [I|PR] come and see [you|PR], or else be absent, [I|PR] may hear of [your|PR] affairs, that [ye|PR] stand fast in [one|QU] spirit, with [one|QU] mind striving together for the faith of the gospel;
 Philippians 1:28	and in nothing terrified by [your|PR] [adversaries|GP]: which is to [them|PR] an evident token of perdition, but to [you|PR] of salvation, and that of [God|GF].
-Philippians 1:29	For unto [you|PR] it is given in the behalf of [Christ|GS], not [only|QU] to believe on [him|GF], but also to suffer for [his|GF] sake;
+Philippians 1:29	For unto [you|PR] it is given in the behalf of [Christ|GS], not [only|QU] to believe on [him|GS], but also to suffer for [his|GS] sake;
 Philippians 1:30	having the same conflict which [ye|PR] saw in [me|PR], and [now|T2] hear to be in [me|PR].
 Philippians 2:1	If there be therefore any consolation in [Christ|GS], if any comfort of love, if any fellowship of the [Spirit|HS], if any bowels and mercies,
 Philippians 2:2	fulfil [ye|PR] [my|PR] joy, that [ye|PR] be likeminded, having the same love, being of [one|QU] accord, of [one|QU] mind.
 Philippians 2:3	Let nothing be done through strife or vainglory; but in lowliness of mind let [each|QU] esteem other better than [themselves|PR].
 Philippians 2:4	Look not [every|QU] [man|GP] on [his|PR] own things, but [every|QU] [man|GP] also on the things of others.
 Philippians 2:5	Let this mind be in [you|PR], which was also in [Christ|GS] [Jesus|GS]:
-Philippians 2:6	[who|GF], being in the form of [God|GF], thought it not robbery to be [equal|QU] with [God|GF]:
-Philippians 2:7	but made [himself|GF] of no reputation, and took upon [him|GF] the form of a [servant|GP], and was made in the likeness of [men|GP]:
-Philippians 2:8	and being found in fashion as a [man|GP], [he|GF] humbled [himself|GF], and became obedient unto death, even the death of the cross.
-Philippians 2:9	Wherefore [God|GF] also hath highly exalted [him|GF], and given [him|GF] a name which is [above|L2] [every|QU] name:
+Philippians 2:6	[who|GS], being in the form of [God|GF], thought it not robbery to be [equal|QU] with [God|GF]:
+Philippians 2:7	but made [himself|GS] of no reputation, and took upon [him|GS] the form of a [servant|GP], and was made in the likeness of [men|GP]:
+Philippians 2:8	and being found in fashion as a [man|GP], [he|GS] humbled [himself|GS], and became obedient unto death, even the death of the cross.
+Philippians 2:9	Wherefore [God|GF] also hath highly exalted [him|GS], and given [him|GS] a name which is [above|L2] [every|QU] name:
 Philippians 2:10	that at the name of [Jesus|GS] [every|QU] knee should bow, of things in [heaven|L1], and things in [earth|L1], and things [under|L2] the [earth|L1];
 Philippians 2:11	and that [every|QU] tongue should confess that [Jesus|GS] [Christ|GS] is [Lord|GF], to the glory of [God|GF] the [Father|GF].
 Philippians 2:12	Wherefore, [my|PR] [beloved|GP], as [ye|PR] have [always|T2] obeyed, not as in [my|PR] presence [only|QU], but [now|T2] [much|QU] [more|QU] in [my|PR] absence, work out [your|PR] own salvation with fear and trembling.
@@ -29566,9 +29566,9 @@ Philippians 3:4	Though [I|PR] might also have confidence in the flesh. If any ot
 Philippians 3:5	circumcised the [8th|NU] [day|T1], of the stock of [Israel|PP], of the [tribe|GP] of [Benjamin|PG], an [Hebrew|PG] of the [Hebrews|PG]; as touching the law, a [Pharisee|PG];
 Philippians 3:6	concerning zeal, persecuting the [church|GP]; touching the righteousness which is in the law, blameless.
 Philippians 3:7	But what things were gain to [me|PR], those [I|PR] counted loss for [Christ|GS].
-Philippians 3:8	Yea doubtless, and [I|PR] count [all|QU] things but loss for the excellency of the knowledge of [Christ|GS] [Jesus|GS] [my|PR] [Lord|GF]: for [whom|GF] [I|PR] have suffered the loss of [all|QU] things, and do count [them|PR] but dung, that [I|PR] may win [Christ|GS],
-Philippians 3:9	and be found in [him|GF], not having [mine|PR] own righteousness, which is of the law, but that which is through the faith of [Christ|GS], the righteousness which is of [God|GF] by faith:
-Philippians 3:10	that [I|PR] may know [him|GF], and the power of [his|GF] resurrection, and the fellowship of [his|GF] sufferings, being made conformable unto [his|GF] death;
+Philippians 3:8	Yea doubtless, and [I|PR] count [all|QU] things but loss for the excellency of the knowledge of [Christ|GS] [Jesus|GS] [my|PR] [Lord|GF]: for [whom|GS] [I|PR] have suffered the loss of [all|QU] things, and do count [them|PR] but dung, that [I|PR] may win [Christ|GS],
+Philippians 3:9	and be found in [him|GS], not having [mine|PR] own righteousness, which is of the law, but that which is through the faith of [Christ|GS], the righteousness which is of [God|GF] by faith:
+Philippians 3:10	that [I|PR] may know [him|GS], and the power of [his|GS] resurrection, and the fellowship of [his|GS] sufferings, being made conformable unto [his|GS] death;
 Philippians 3:11	if by any means [I|PR] might attain unto the resurrection of the [dead|GP].
 Philippians 3:12	Not as though [I|PR] had [already|T2] attained, either were [already|T2] perfect: but [I|PR] follow after, if that [I|PR] may apprehend that for which also [I|PR] am apprehended of [Christ|GS] [Jesus|GS].
 Philippians 3:13	[Brethren|GP], [I|PR] count not [myself|PR] to have apprehended: but this [one|QU] thing [I|PR] do, forgetting those things which are [behind|L2], and reaching [forth|L2] unto those things which are [before|T2],
@@ -29579,7 +29579,7 @@ Philippians 3:17	[Brethren|GP], be [followers|GP] together of [me|PR], and mark 
 Philippians 3:18	(For [many|QU] walk, of [whom|PR] [I|PR] have told [you|PR] [often|T2], and [now|T2] tell [you|PR] even weeping, that [they|PR] are the [enemies|GP] of the cross of [Christ|GS]:
 Philippians 3:19	[whose|PR] end is destruction, [whose|PR] [God|GF] is [their|PR] belly, and [whose|PR] glory is in [their|PR] shame, [who|PR] mind earthly things.)
 Philippians 3:20	For [our|PR] conversation is in [heaven|L1]; from [whence|L2] also [we|PR] look for the [Saviour|GF], the [Lord|GF] [Jesus|GS] [Christ|GS]:
-Philippians 3:21	[who|GS] shall change [our|PR] vile body, that it may be fashioned like unto [his|GF] glorious body, according to the working whereby [he|GF] is able even to subdue [all|QU] things unto [himself|GF].
+Philippians 3:21	[who|GS] shall change [our|PR] vile body, that it may be fashioned like unto [his|GS] glorious body, according to the working whereby [he|GS] is able even to subdue [all|QU] things unto [himself|GS].
 Philippians 4:1	Therefore, [my|PR] [brethren|GP] dearly [beloved|GP] and longed for, [my|PR] joy and crown, [so|T2] stand fast in the [Lord|GF], [my|PR] dearly [beloved|GP].
 Philippians 4:2	[I|PR] beseech [Euodias|PN], and beseech [Syntyche|PN], that [they|PR] be of the same mind in the [Lord|GF].
 Philippians 4:3	And [I|PR] intreat [thee|PR] also, true [yokefellow|GP], help those [women|GP] which laboured with [me|PR] in the gospel, with [Clement|PN] also, and with other [my|PR] [fellowlabourers|GP], [whose|PR] names are in the book of life.
@@ -29616,35 +29616,35 @@ Colossians 1:10	that [ye|PR] might walk worthy of the [Lord|GF] unto [all|QU] pl
 Colossians 1:11	strengthened with [all|QU] might, according to [his|GF] glorious power, unto [all|QU] patience and longsuffering with joyfulness;
 Colossians 1:12	giving thanks unto the [Father|GF], which hath made [us|PR] meet to be [partakers|GP] of the inheritance of the [saints|GP] in light:
 Colossians 1:13	[who|GF] hath delivered [us|PR] from the power of darkness, and hath translated [us|PR] into the kingdom of [his|GF] dear [Son|GS]:
-Colossians 1:14	in [whom|GF] [we|PR] have redemption through [his|GF] blood, even the forgiveness of sins:
-Colossians 1:15	[who|GF] is the image of the invisible [God|GF], the [firstborn|GP] of [every|QU] [creature|BE]:
-Colossians 1:16	for by [him|GF] were [all|QU] things created, that are in [heaven|L1], and that are in [earth|L1], visible and invisible, whether [they|PR] be [thrones|L1], or dominions, or principalities, or powers: [all|QU] things were created by [him|GF], and for [him|GF]:
-Colossians 1:17	and [he|GF] is [before|T2] [all|QU] things, and by [him|GF] [all|QU] things consist.
-Colossians 1:18	And [he|GF] is the head of the body, the [church|GP]: [who|GF] is the [beginning|T2], the [firstborn|GP] from the [dead|GP]; that in [all|QU] things [he|GF] might have the preeminence.
-Colossians 1:19	For it pleased the [Father|GF] that in [him|GF] should [all|QU] fulness dwell;
-Colossians 1:20	and, having made peace through the blood of [his|GF] cross, by [him|GF] to reconcile [all|QU] things unto [himself|GF]; by [him|GF], [I|PR] say, whether [they|PR] be things in [earth|L1], or things in [heaven|L1].
+Colossians 1:14	in [whom|GS] [we|PR] have redemption through [his|GS] blood, even the forgiveness of sins:
+Colossians 1:15	[who|GS] is the image of the invisible [God|GF], the [firstborn|GP] of [every|QU] [creature|BE]:
+Colossians 1:16	for by [him|GS] were [all|QU] things created, that are in [heaven|L1], and that are in [earth|L1], visible and invisible, whether [they|PR] be [thrones|L1], or dominions, or principalities, or powers: [all|QU] things were created by [him|GS], and for [him|GS]:
+Colossians 1:17	and [he|GS] is [before|T2] [all|QU] things, and by [him|GS] [all|QU] things consist.
+Colossians 1:18	And [he|GS] is the head of the body, the [church|GP]: [who|GS] is the [beginning|T2], the [firstborn|GP] from the [dead|GP]; that in [all|QU] things [he|GS] might have the preeminence.
+Colossians 1:19	For it pleased the [Father|GF] that in [him|GS] should [all|QU] fulness dwell;
+Colossians 1:20	and, having made peace through the blood of [his|GS] cross, by [him|GS] to reconcile [all|QU] things unto [himself|GF]; by [him|GS], [I|PR] say, whether [they|PR] be things in [earth|L1], or things in [heaven|L1].
 Colossians 1:21	And [you|PR], that were [sometime|T2] alienated and [enemies|GP] in [your|PR] mind by wicked works, yet [now|T2] hath [he|GF] reconciled
-Colossians 1:22	in the body of [his|GF] flesh through death, to present [you|PR] holy and unblameable and unreproveable in [his|GF] sight:
+Colossians 1:22	in the body of [his|GS] flesh through death, to present [you|PR] holy and unblameable and unreproveable in [his|GF] sight:
 Colossians 1:23	if [ye|PR] continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which [ye|PR] have heard, and which was preached to [every|QU] [creature|BE] which is [under|L2] [heaven|L1]; whereof [I|PR] [Paul|PN] am made a [minister|GP];
-Colossians 1:24	[who|PR] [now|T2] rejoice in [my|PR] sufferings for [you|PR], and fill up that which is [behind|L2] of the afflictions of [Christ|GS] in [my|PR] flesh for [his|GF] body’s sake, which is the [church|GP]:
+Colossians 1:24	[who|PR] [now|T2] rejoice in [my|PR] sufferings for [you|PR], and fill up that which is [behind|L2] of the afflictions of [Christ|GS] in [my|PR] flesh for [his|GS] body’s sake, which is the [church|GP]:
 Colossians 1:25	whereof [I|PR] am made a [minister|GP], according to the dispensation of [God|GF] which is given to [me|PR] for [you|PR], to fulfil the word of [God|GF];
 Colossians 1:26	even the mystery which hath been hid from [ages|T2] and from [generations|T2], but [now|T2] is made manifest to [his|GF] [saints|GP]:
 Colossians 1:27	to [whom|PR] [God|GF] would make known what is the riches of the glory of this mystery among the [Gentiles|PG]; which is [Christ|GS] in [you|PR], the hope of glory:
-Colossians 1:28	[whom|GF] [we|PR] preach, warning [every|QU] [man|GP], and teaching [every|QU] [man|GP] in [all|QU] wisdom; that [we|PR] may present [every|QU] [man|GP] perfect in [Christ|GS] [Jesus|GS]:
+Colossians 1:28	[whom|GS] [we|PR] preach, warning [every|QU] [man|GP], and teaching [every|QU] [man|GP] in [all|QU] wisdom; that [we|PR] may present [every|QU] [man|GP] perfect in [Christ|GS] [Jesus|GS]:
 Colossians 1:29	whereunto [I|PR] also labour, striving according to [his|GF] working, which worketh in [me|PR] mightily.
 Colossians 2:1	For [I|PR] would that [ye|PR] knew what great conflict [I|PR] have for [you|PR], and for [them|PR] at [Laodicea|PP], and for as [many|QU] as have not seen [my|PR] face in the flesh;
 Colossians 2:2	that [their|PR] hearts might be comforted, being knit together in love, and unto [all|QU] riches of the full assurance of understanding, to the acknowledgement of the mystery of [God|GF], and of the [Father|GF], and of [Christ|GS];
-Colossians 2:3	in [whom|GF] are hid [all|QU] the treasures of wisdom and knowledge.
+Colossians 2:3	in [whom|GS] are hid [all|QU] the treasures of wisdom and knowledge.
 Colossians 2:4	And this [I|PR] say, lest any [man|GP] should beguile [you|PR] with enticing words.
 Colossians 2:5	For though [I|PR] be absent in the flesh, yet am [I|PR] with [you|PR] in the spirit, joying and beholding [your|PR] order, and the stedfastness of [your|PR] faith in [Christ|GS].
-Colossians 2:6	As [ye|PR] have therefore received [Christ|GS] [Jesus|GS] the [Lord|GF], [so|T2] walk [ye|PR] in [him|GF]:
-Colossians 2:7	rooted and built up in [him|GF], and stablished in the faith, as [ye|PR] have been taught, abounding [therein|L2] with thanksgiving.
+Colossians 2:6	As [ye|PR] have therefore received [Christ|GS] [Jesus|GS] the [Lord|GF], [so|T2] walk [ye|PR] in [him|GS]:
+Colossians 2:7	rooted and built up in [him|GS], and stablished in the faith, as [ye|PR] have been taught, abounding [therein|L2] with thanksgiving.
 Colossians 2:8	Beware lest any [man|GP] spoil [you|PR] through philosophy and vain deceit, after the tradition of [men|GP], after the rudiments of the [world|L1], and not after [Christ|GS].
-Colossians 2:9	For in [him|GF] dwelleth [all|QU] the fulness of the [Godhead|GF] bodily.
-Colossians 2:10	And [ye|PR] are complete in [him|GF], which is the head of [all|QU] principality and power:
-Colossians 2:11	in [whom|GF] also [ye|PR] are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of [Christ|GS]:
-Colossians 2:12	buried with [him|GF] in baptism, [wherein|L2] also [ye|PR] are risen with [him|GF] through the faith of the operation of [God|GF], [who|GF] hath raised [him|GF] from the [dead|GP].
-Colossians 2:13	And [you|PR], being dead in [your|PR] sins and the uncircumcision of [your|PR] flesh, hath [he|GF] quickened together with [him|GF], having forgiven [you|PR] [all|QU] trespasses;
+Colossians 2:9	For in [him|GS] dwelleth [all|QU] the fulness of the [Godhead|GF] bodily.
+Colossians 2:10	And [ye|PR] are complete in [him|GS], which is the head of [all|QU] principality and power:
+Colossians 2:11	in [whom|GS] also [ye|PR] are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of [Christ|GS]:
+Colossians 2:12	buried with [him|GS] in baptism, [wherein|L2] also [ye|PR] are risen with [him|GS] through the faith of the operation of [God|GF], [who|GF] hath raised [him|GS] from the [dead|GP].
+Colossians 2:13	And [you|PR], being dead in [your|PR] sins and the uncircumcision of [your|PR] flesh, hath [he|GF] quickened together with [him|GS], having forgiven [you|PR] [all|QU] trespasses;
 Colossians 2:14	blotting out the handwriting of ordinances that was against [us|PR], which was contrary to [us|PR], and took it out of the way, nailing it to [his|GF] cross;
 Colossians 2:15	and having spoiled principalities and powers, [he|GF] made a shew of [them|PR] openly, triumphing over [them|PR] in it.
 Colossians 2:16	Let no [man|GP] therefore judge [you|PR] in meat, or in drink, or in respect of an holyday, or of the [new|T2] [moon|T2], or of the [sabbath|T1] [days|T1]:
@@ -29658,7 +29658,7 @@ Colossians 2:23	Which things have indeed a shew of wisdom in will worship, and h
 Colossians 3:1	If [ye|PR] then be risen with [Christ|GS], seek those things which are [above|L2], [where|L2] [Christ|GS] sitteth on the [right|L1] [hand|L2] of [God|GF].
 Colossians 3:2	Set [your|PR] affection on things [above|L2], not on things on the [earth|L1].
 Colossians 3:3	For [ye|PR] are dead, and [your|PR] life is hid with [Christ|GS] in [God|GF].
-Colossians 3:4	[When|T2] [Christ|GS], [who|GF] is [our|PR] life, shall appear, then shall [ye|PR] also appear with [him|GF] in glory.
+Colossians 3:4	[When|T2] [Christ|GS], [who|GS] is [our|PR] life, shall appear, then shall [ye|PR] also appear with [him|GS] in glory.
 Colossians 3:5	Mortify therefore [your|PR] members which are upon the [earth|L1]; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:
 Colossians 3:6	for which things’ sake the wrath of [God|GF] cometh on the [children|GP] of disobedience:
 Colossians 3:7	in the which [ye|PR] also walked [some|QU] [time|T1], [when|T2] [ye|PR] lived in [them|PR].
@@ -29671,7 +29671,7 @@ Colossians 3:13	forbearing one another, and forgiving one another, if any [man|G
 Colossians 3:14	And [above|L2] [all|QU] these things put on charity, which is the bond of perfectness.
 Colossians 3:15	And let the peace of [God|GF] rule in [your|PR] hearts, to the which also [ye|PR] are called in [one|QU] body; and be [ye|PR] thankful.
 Colossians 3:16	Let the word of [Christ|GS] dwell in [you|PR] richly in [all|QU] wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in [your|PR] hearts to the [Lord|GF].
-Colossians 3:17	And whatsoever [ye|PR] do in word or deed, do [all|QU] in the name of the [Lord|GF] [Jesus|GS], giving thanks to [God|GF] and the [Father|GF] by [him|GF].
+Colossians 3:17	And whatsoever [ye|PR] do in word or deed, do [all|QU] in the name of the [Lord|GF] [Jesus|GS], giving thanks to [God|GF] and the [Father|GF] by [him|GS].
 Colossians 3:18	[Wives|GP], submit [yourselves|PR] unto [your|PR] own [husbands|GP], as it is fit in the [Lord|GF].
 Colossians 3:19	[Husbands|GP], love [your|PR] [wives|GP], and be not bitter against [them|PR].
 Colossians 3:20	[Children|GP], obey [your|PR] [parents|GP] in [all|QU] things: for this is well pleasing unto the [Lord|GF].
@@ -30102,43 +30102,43 @@ Philemon 1:23	There salute [thee|PR] [Epaphras|PN], [my|PR] [fellowprisoner|GP] 
 Philemon 1:24	[Marcus|PN], [Aristarchus|PN], [Demas|PN], [Lucas|PN], [my|PR] [fellowlabourers|GP].
 Philemon 1:25	The grace of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS] be with [your|PR] spirit. Amen.
 Hebrews 1:1	[God|GF], [who|GF] at sundry [times|T2] and in divers manners spake in [time|T1] [past|T2] unto the [fathers|GP] by the [prophets|GP],
-Hebrews 1:2	hath in these last [days|T1] spoken unto [us|PR] by [his|GF] [Son|GS], [whom|GF] [he|GF] hath appointed [heir|GP] of [all|QU] things, by [whom|GF] also [he|GF] made the [worlds|L1];
-Hebrews 1:3	[who|GF] being the brightness of [his|GF] glory, and the express image of [his|GF] [person|GP], and upholding [all|QU] things by the word of [his|GF] power, [when|T2] [he|GF] had by [himself|GF] purged [our|PR] sins, sat down on the [right|L1] [hand|L2] of the [Majesty|GF] on [high|L2];
-Hebrews 1:4	being made [so|T2] [much|QU] better than the [angels|AN], as [he|GF] hath by inheritance obtained a [more|QU] excellent name than [they|PR].
-Hebrews 1:5	For unto which of the [angels|AN] said [he|GF] at any [time|T1], [Thou|GF] art [my|GF] [Son|GS], [this|T2] [day|T1] have [I|GF] begotten [thee|GF]? And [again|T2], [I|GF] will be to [him|GF] a [Father|GF], and [he|GF] shall be to [me|GF] a [Son|GS]?
-Hebrews 1:6	And [again|T2], [when|T2] [he|GF] bringeth in the firstbegotten into the [world|L1], [he|GF] saith, And let [all|QU] the [angels|AN] of [God|GF] worship [him|GF].
+Hebrews 1:2	hath in these last [days|T1] spoken unto [us|PR] by [his|GF] [Son|GS], [whom|GS] [he|GF] hath appointed [heir|GP] of [all|QU] things, by [whom|GS] also [he|GF] made the [worlds|L1];
+Hebrews 1:3	[who|GS] being the brightness of [his|GF] glory, and the express image of [his|GF] [person|GP], and upholding [all|QU] things by the word of [his|GS] power, [when|T2] [he|GS] had by [himself|GS] purged [our|PR] sins, sat down on the [right|L1] [hand|L2] of the [Majesty|GF] on [high|L2];
+Hebrews 1:4	being made [so|T2] [much|QU] better than the [angels|AN], as [he|GS] hath by inheritance obtained a [more|QU] excellent name than [they|PR].
+Hebrews 1:5	For unto which of the [angels|AN] said [he|GF] at any [time|T1], [Thou|GS] art [my|GF] [Son|GS], [this|T2] [day|T1] have [I|GF] begotten [thee|GS]? And [again|T2], [I|GF] will be to [him|GS] a [Father|GF], and [he|GS] shall be to [me|GF] a [Son|GS]?
+Hebrews 1:6	And [again|T2], [when|T2] [he|GF] bringeth in the firstbegotten into the [world|L1], [he|GF] saith, And let [all|QU] the [angels|AN] of [God|GF] worship [him|GS].
 Hebrews 1:7	And of the [angels|AN] [he|GF] saith, [Who|GF] maketh [his|GF] [angels|AN] spirits, and [his|GF] [ministers|GP] a flame of fire.
-Hebrews 1:8	But unto the [Son|GS] [he|GF] saith, [Thy|GF] [throne|L1], O [God|GF], is [for|T2] [ever|T2] and [ever|T2]: a sceptre of righteousness is the sceptre of [thy|GF] kingdom.
-Hebrews 1:9	[Thou|GF] hast loved righteousness, and hated iniquity; therefore [God|GF], even [thy|GF] [God|GF], hath anointed [thee|GF] with the oil of gladness [above|L2] [thy|GF] [fellows|GP].
-Hebrews 1:10	And, [Thou|GF], [Lord|GF], in the [beginning|T2] hast laid the foundation of the [earth|L1]; and the [heavens|L1] are the works of [thine|GF] hands:
-Hebrews 1:11	[they|PR] shall perish; but [thou|GF] remainest; and [they|PR] [all|QU] shall wax [old|T2] as doth a garment;
-Hebrews 1:12	and as a vesture shalt [thou|GF] fold [them|PR] up, and [they|PR] shall be changed: but [thou|GF] art the same, and [thy|GF] [years|T1] shall not fail.
-Hebrews 1:13	But to which of the [angels|AN] said [he|GF] at any [time|T1], Sit on [my|GF] [right|L1] [hand|L2], [until|T2] [I|GF] make [thine|GF] [enemies|GP] [thy|GF] footstool?
+Hebrews 1:8	But unto the [Son|GS] [he|GF] saith, [Thy|GS] [throne|L1], O [God|GF], is [for|T2] [ever|T2] and [ever|T2]: a sceptre of righteousness is the sceptre of [thy|GS] kingdom.
+Hebrews 1:9	[Thou|GS] hast loved righteousness, and hated iniquity; therefore [God|GF], even [thy|GS] [God|GF], hath anointed [thee|GS] with the oil of gladness [above|L2] [thy|GS] [fellows|GP].
+Hebrews 1:10	And, [Thou|GS], [Lord|GF], in the [beginning|T2] hast laid the foundation of the [earth|L1]; and the [heavens|L1] are the works of [thine|GS] hands:
+Hebrews 1:11	[they|PR] shall perish; but [thou|GS] remainest; and [they|PR] [all|QU] shall wax [old|T2] as doth a garment;
+Hebrews 1:12	and as a vesture shalt [thou|GS] fold [them|PR] up, and [they|PR] shall be changed: but [thou|GS] art the same, and [thy|GS] [years|T1] shall not fail.
+Hebrews 1:13	But to which of the [angels|AN] said [he|GF] at any [time|T1], Sit on [my|GF] [right|L1] [hand|L2], [until|T2] [I|GF] make [thine|GS] [enemies|GP] [thy|GS] footstool?
 Hebrews 1:14	Are [they|PR] not [all|QU] ministering spirits, sent [forth|L2] to minister for [them|PR] [who|PR] shall be [heirs|GP] of salvation?
 Hebrews 2:1	Therefore [we|PR] ought to give the [more|QU] earnest heed to the things which [we|PR] have heard, lest at any [time|T1] [we|PR] should let [them|PR] slip.
 Hebrews 2:2	For if the word spoken by [angels|AN] was stedfast, and [every|QU] transgression and disobedience received a just recompence of reward;
-Hebrews 2:3	how shall [we|PR] escape, if [we|PR] neglect [so|T2] great salvation; which at the [first|NU] [began|T2] to be spoken by the [Lord|GF], and was confirmed unto [us|PR] by [them|PR] that heard [him|GF];
+Hebrews 2:3	how shall [we|PR] escape, if [we|PR] neglect [so|T2] great salvation; which at the [first|NU] [began|T2] to be spoken by the [Lord|GF], and was confirmed unto [us|PR] by [them|PR] that heard [him|GS];
 Hebrews 2:4	[God|GF] also bearing [them|PR] witness, [both|QU] with signs and wonders, and with divers miracles, and gifts of the [Holy Ghost|HS], according to [his|GF] own will?
 Hebrews 2:5	For unto the [angels|AN] hath [he|GF] not put in subjection the world to come, whereof [we|PR] speak.
 Hebrews 2:6	But one in a certain [place|L1] testified, saying, What is [man|GP], that [thou|GF] art mindful of [him|PR]? or the [son|GP] of [man|GP], that [thou|GF] visitest [him|PR]?
 Hebrews 2:7	[Thou|GF] madest [him|PR] a [little|QU] lower than the [angels|AN]; [thou|GF] crownedst [him|PR] with glory and honour, and didst set [him|PR] over the works of [thy|GF] hands: [thou|GF] hast put [all|QU] things in subjection [under|L2] [his|PR] feet.
 Hebrews 2:8	For in that [he|GF] put [all|QU] in subjection [under|L2] [him|PR], [he|GF] left nothing that is not put [under|L2] [him|PR]. But [now|T2] [we|PR] see not yet [all|QU] things put [under|L2] [him|PR].
-Hebrews 2:9	But [we|PR] see [Jesus|GS], [who|GF] was made a [little|QU] lower than the [angels|AN] for the suffering of death, crowned with glory and honour; that [he|GF] by the grace of [God|GF] should taste death for [every|QU] [man|GP].
+Hebrews 2:9	But [we|PR] see [Jesus|GS], [who|GS] was made a [little|QU] lower than the [angels|AN] for the suffering of death, crowned with glory and honour; that [he|GS] by the grace of [God|GF] should taste death for [every|QU] [man|GP].
 Hebrews 2:10	For it became [him|GF], for [whom|GF] are [all|QU] things, and by [whom|GF] are [all|QU] things, in bringing [many|QU] [sons|GP] unto glory, to make the [captain|GP] of [their|PR] salvation perfect through sufferings.
-Hebrews 2:11	For [both|QU] [he|GF] that sanctifieth and [they|PR] [who|PR] are sanctified are [all|QU] of [one|QU]: for which cause [he|GF] is not ashamed to call [them|PR] [brethren|GP],
-Hebrews 2:12	saying, [I|GF] will declare [thy|GF] name unto [my|GF] [brethren|GP], in the [midst|L2] of the [church|GP] will [I|GF] sing praise unto [thee|GF].
-Hebrews 2:13	And [again|T2], [I|GF] will put [my|GF] trust in [him|GF]. And [again|T2], Behold [I|GF] and the [children|GP] which [God|GF] hath given [me|GF].
-Hebrews 2:14	Forasmuch then as the [children|GP] are [partakers|GP] of flesh and blood, [he|GF] also [himself|GF] likewise took part of the same; that through death [he|GF] might destroy [him|PR] that had the power of death, that is, the [devil|DE];
+Hebrews 2:11	For [both|QU] [he|GS] that sanctifieth and [they|PR] [who|PR] are sanctified are [all|QU] of [one|QU]: for which cause [he|GS] is not ashamed to call [them|PR] [brethren|GP],
+Hebrews 2:12	saying, [I|GS] will declare [thy|GF] name unto [my|GS] [brethren|GP], in the [midst|L2] of the [church|GP] will [I|GS] sing praise unto [thee|GF].
+Hebrews 2:13	And [again|T2], [I|GS] will put [my|GS] trust in [him|GF]. And [again|T2], Behold [I|GS] and the [children|GP] which [God|GF] hath given [me|GS].
+Hebrews 2:14	Forasmuch then as the [children|GP] are [partakers|GP] of flesh and blood, [he|GS] also [himself|GS] likewise took part of the same; that through death [he|GS] might destroy [him|PR] that had the power of death, that is, the [devil|DE];
 Hebrews 2:15	and deliver [them|PR] [who|PR] through fear of death were [all|QU] [their|PR] lifetime subject to bondage.
-Hebrews 2:16	For verily [he|GF] took not on [him|GF] the nature of [angels|AN]; but [he|GF] took on [him|GF] the [seed|GP] of [Abraham|PN].
-Hebrews 2:17	Wherefore in [all|QU] things it behoved [him|GF] to be made like unto [his|GF] [brethren|GP], that [he|GF] might be a merciful and faithful [high priest|GP] in things pertaining to [God|GF], to make reconciliation for the sins of the [people|GP].
-Hebrews 2:18	For in that [he|GF] [himself|GF] hath suffered being tempted, [he|GF] is able to succour [them|PR] that are tempted.
+Hebrews 2:16	For verily [he|GS] took not on [him|GS] the nature of [angels|AN]; but [he|GS] took on [him|GS] the [seed|GP] of [Abraham|PN].
+Hebrews 2:17	Wherefore in [all|QU] things it behoved [him|GS] to be made like unto [his|GS] [brethren|GP], that [he|GS] might be a merciful and faithful [high priest|GP] in things pertaining to [God|GF], to make reconciliation for the sins of the [people|GP].
+Hebrews 2:18	For in that [he|GS] [himself|GS] hath suffered being tempted, [he|GS] is able to succour [them|PR] that are tempted.
 Hebrews 3:1	Wherefore, holy [brethren|GP], [partakers|GP] of the heavenly calling, consider the [Apostle|GS] and [High|GS] [Priest|GS] of [our|PR] profession, [Christ|GS] [Jesus|GS];
-Hebrews 3:2	[who|GF] was faithful to [him|GF] that appointed [him|GF], as also [Moses|PN] was faithful in [all|QU] [his|PR] [house|L1].
+Hebrews 3:2	[who|GS] was faithful to [him|GF] that appointed [him|GS], as also [Moses|PN] was faithful in [all|QU] [his|GF] [house|L1].
 Hebrews 3:3	For this [man|GP] was counted worthy of [more|QU] glory than [Moses|PN], inasmuch as [he|PR] [who|PR] hath builded the [house|L1] hath [more|QU] honour than the [house|L1].
 Hebrews 3:4	For [every|QU] [house|L1] is builded by [some|QU] [man|GP]; but [he|GF] that built [all|QU] things is [God|GF].
-Hebrews 3:5	And [Moses|PN] verily was faithful in [all|QU] [his|PR] [house|L1], as a [servant|GP], for a testimony of those things which were to be spoken [after|T2];
-Hebrews 3:6	but [Christ|GS] as a [son|GP] over [his|GF] own [house|L1]; [whose|PR] [house|L1] are [we|PR], if [we|PR] hold fast the confidence and the rejoicing of the hope firm unto the [end|T2].
+Hebrews 3:5	And [Moses|PN] verily was faithful in [all|QU] [his|GF] [house|L1], as a [servant|GP], for a testimony of those things which were to be spoken [after|T2];
+Hebrews 3:6	but [Christ|GS] as a [son|GP] over [his|GF] own [house|L1]; [whose|GF] [house|L1] are [we|PR], if [we|PR] hold fast the confidence and the rejoicing of the hope firm unto the [end|T2].
 Hebrews 3:7	Wherefore (as the [Holy Ghost|HS] saith, To [day|T1] if [ye|PR] will hear [his|GF] voice, harden not [your|PR] hearts, as in the provocation,
 Hebrews 3:8	in the [day|T1] of temptation in the [wilderness|L1]:
 Hebrews 3:9	[when|T2] [your|PR] [fathers|GP] tempted [me|GF], proved [me|GF], and saw [my|GF] works [40|NU] [years|T1].
@@ -30161,7 +30161,7 @@ Hebrews 4:6	Seeing therefore it remaineth that [some|QU] must enter [therein|L2]
 Hebrews 4:7	[again|T2], [he|GF] limiteth a certain [day|T1], saying in [David|PN], To [day|T1], [after|T2] [so|T2] [long|T2] a [time|T1]; as it is said, To [day|T1] if [ye|PR] will hear [his|GF] voice, harden not [your|PR] hearts.
 Hebrews 4:8	For if [Jesus|PN] had given [them|PR] rest, then would [he|GF] not [afterward|T2] have spoken of [another|QU] [day|T1].
 Hebrews 4:9	There remaineth therefore a rest to the [people|GP] of [God|GF].
-Hebrews 4:10	For [he|PR] that is entered into [his|PR] rest, [he|PR] also hath ceased from [his|PR] own works, as [God|GF] did from [his|PR].
+Hebrews 4:10	For [he|PR] that is entered into [his|PR] rest, [he|PR] also hath ceased from [his|PR] own works, as [God|GF] did from [his|GF].
 Hebrews 4:11	Let [us|PR] labour therefore to enter into that rest, lest any [man|GP] fall after the same example of unbelief.
 Hebrews 4:12	For the word of [God|GF] is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
 Hebrews 4:13	Neither is there any [creature|BE] that is not manifest in [his|GF] sight: but [all|QU] things are naked and opened unto the eyes of [him|GF] with [whom|GF] [we|PR] have to do.
@@ -30172,11 +30172,11 @@ Hebrews 5:1	For [every|QU] [high priest|GP] taken from among [men|GP] is ordaine
 Hebrews 5:2	[who|PR] can have compassion on the ignorant, and on [them|PR] that are out of the way; for that [he|PR] [himself|PR] also is compassed with infirmity.
 Hebrews 5:3	And by reason hereof [he|PR] ought, as for the [people|GP], [so|T2] also for [himself|PR], to offer for sins.
 Hebrews 5:4	And no [man|GP] taketh this honour unto [himself|PR], but [he|PR] that is called of [God|GF], as was [Aaron|PN].
-Hebrews 5:5	So also [Christ|GS] glorified not [himself|GF] to be made an [high priest|GP]; but [he|GF] that said unto [him|GF], [Thou|GF] art [my|GF] [Son|GS], to [day|T1] have [I|GF] begotten [thee|GF].
-Hebrews 5:6	As [he|GF] saith also in [another|QU] [place|L1], [Thou|GF] art a [priest|GP] [for|T2] [ever|T2] after the order of [Melchisedec|PN].
-Hebrews 5:7	[Who|GS] in the [days|T1] of [his|GF] flesh, [when|T2] [he|GF] had offered up prayers and supplications with strong crying and tears unto [him|GF] that was able to save [him|GF] from death, and was heard in that [he|GF] feared;
-Hebrews 5:8	though [he|GF] were a [Son|GS], yet learned [he|GF] obedience by the things which [he|GF] suffered;
-Hebrews 5:9	and being made perfect, [he|GF] became the [author|GP] of [eternal|T2] salvation unto [all|QU] [them|PR] that obey [him|GF];
+Hebrews 5:5	So also [Christ|GS] glorified not [himself|GS] to be made an [high priest|GP]; but [he|GF] that said unto [him|GS], [Thou|GS] art [my|GF] [Son|GS], to [day|T1] have [I|GF] begotten [thee|GS].
+Hebrews 5:6	As [he|GF] saith also in [another|QU] [place|L1], [Thou|GS] art a [priest|GP] [for|T2] [ever|T2] after the order of [Melchisedec|PN].
+Hebrews 5:7	[Who|GS] in the [days|T1] of [his|GS] flesh, [when|T2] [he|GS] had offered up prayers and supplications with strong crying and tears unto [him|GF] that was able to save [him|GS] from death, and was heard in that [he|GS] feared;
+Hebrews 5:8	though [he|GS] were a [Son|GS], yet learned [he|GS] obedience by the things which [he|GS] suffered;
+Hebrews 5:9	and being made perfect, [he|GS] became the [author|GP] of [eternal|T2] salvation unto [all|QU] [them|PR] that obey [him|GS];
 Hebrews 5:10	called of [God|GF] an [high priest|GP] after the order of [Melchisedec|PN].
 Hebrews 5:11	Of [whom|PR] [we|PR] have [many|QU] things to say, and hard to be uttered, seeing [ye|PR] are dull of hearing.
 Hebrews 5:12	For [when|T2] for the [time|T1] [ye|PR] ought to be [teachers|GP], [ye|PR] have need that one teach [you|PR] [again|T2] which be the [first|NU] principles of the oracles of [God|GF]; and are become such as have need of milk, and not of strong meat.
@@ -30187,7 +30187,7 @@ Hebrews 6:2	of the doctrine of baptisms, and of laying on of hands, and of resur
 Hebrews 6:3	And this will [we|PR] do, if [God|GF] permit.
 Hebrews 6:4	For it is impossible for those [who|PR] were [once|T2] enlightened, and have tasted of the heavenly gift, and were made [partakers|GP] of the [Holy Ghost|HS],
 Hebrews 6:5	and have tasted the good word of [God|GF], and the powers of the [world|L1] to come,
-Hebrews 6:6	if [they|PR] shall fall away, to renew [them|PR] [again|T2] unto repentance; seeing [they|PR] crucify to [themselves|PR] the [Son|GS] of [God|GF] afresh, and put [him|GF] to an open shame.
+Hebrews 6:6	if [they|PR] shall fall away, to renew [them|PR] [again|T2] unto repentance; seeing [they|PR] crucify to [themselves|PR] the [Son|GS] of [God|GF] afresh, and put [him|GS] to an open shame.
 Hebrews 6:7	For the [earth|L1] which drinketh in the rain that cometh [oft|T2] upon it, and bringeth forth [herbs|PL] meet for [them|PR] by [whom|PR] it is dressed, receiveth blessing from [God|GF]:
 Hebrews 6:8	but that which beareth [thorns|PL] and [briers|PL] is rejected, and is [nigh|L2] unto cursing; [whose|PR] end is to be burned.
 Hebrews 6:9	But, [beloved|GP], [we|PR] are persuaded better things of [you|PR], and things that accompany salvation, though [we|PR] thus speak.
@@ -30214,28 +30214,28 @@ Hebrews 7:9	And as [I|PR] may [so|T2] say, [Levi|PN] also, [who|PR] receiveth [t
 Hebrews 7:10	For [he|PR] was yet in the loins of [his|PR] [father|GP], [when|T2] [Melchisedec|PN] met [him|PR].
 Hebrews 7:11	If therefore perfection were by the [Levitical|PG] [priesthood|GP], (for [under|L2] it the [people|GP] received the law,) what further need was there that [another|QU] [priest|GP] should rise after the order of [Melchisedec|PN], and not be called after the order of [Aaron|PN]?
 Hebrews 7:12	For the [priesthood|GP] being changed, there is made of necessity a change also of the law.
-Hebrews 7:13	For [he|GF] of [whom|GF] these things are spoken pertaineth to [another|QU] [tribe|GP], of which no [man|GP] gave attendance at the [altar|L1].
+Hebrews 7:13	For [he|GS] of [whom|GS] these things are spoken pertaineth to [another|QU] [tribe|GP], of which no [man|GP] gave attendance at the [altar|L1].
 Hebrews 7:14	For it is evident that [our|PR] [Lord|GF] sprang out of [Juda|PN]; of which [tribe|GP] [Moses|PN] spake nothing concerning [priesthood|GP].
 Hebrews 7:15	And it is yet [far|L2] [more|QU] evident: for that after the similitude of [Melchisedec|PN] there ariseth [another|QU] [priest|GP],
-Hebrews 7:16	[who|PR] is made, not after the law of a carnal commandment, but after the power of an [endless|T2] life.
-Hebrews 7:17	For [he|PR] testifieth, [Thou|GF] art a [priest|GP] [for|T2] [ever|T2] after the order of [Melchisedec|PN].
+Hebrews 7:16	[who|GS] is made, not after the law of a carnal commandment, but after the power of an [endless|T2] life.
+Hebrews 7:17	For [he|GF] testifieth, [Thou|GS] art a [priest|GP] [for|T2] [ever|T2] after the order of [Melchisedec|PN].
 Hebrews 7:18	For there is verily a disannulling of the commandment going [before|T2] for the weakness and unprofitableness thereof.
 Hebrews 7:19	For the law made nothing perfect, but the bringing in of a better hope did; by the which [we|PR] draw [nigh|L2] unto [God|GF].
-Hebrews 7:20	And inasmuch as not without an oath [he|PR] was made [priest|GP]:
-Hebrews 7:21	(for those [priests|GP] were made without an oath; but this with an oath by [him|PR] that said unto [him|PR], The [Lord|GF] sware and will not repent, [Thou|GF] art a [priest|GP] [for|T2] [ever|T2] after the order of [Melchisedec|PN]:)
+Hebrews 7:20	And inasmuch as not without an oath [he|GS] was made [priest|GP]:
+Hebrews 7:21	(for those [priests|GP] were made without an oath; but this with an oath by [him|GF] that said unto [him|GS], The [Lord|GF] sware and will not repent, [Thou|GS] art a [priest|GP] [for|T2] [ever|T2] after the order of [Melchisedec|PN]:)
 Hebrews 7:22	by [so|T2] [much|QU] was [Jesus|GS] made a surety of a better testament.
 Hebrews 7:23	And [they|PR] truly were [many|QU] [priests|GP], because [they|PR] were not suffered to continue by reason of death:
-Hebrews 7:24	but this [man|GP], because [he|GF] continueth [ever|T2], hath an unchangeable [priesthood|GP].
-Hebrews 7:25	Wherefore [he|GF] is able also to save [them|PR] to the [uttermost|L1] that come unto [God|GF] by [him|GF], seeing [he|GF] [ever|T2] liveth to make intercession for [them|PR].
-Hebrews 7:26	For such an [high priest|GP] became [us|PR], [who|GF] is holy, harmless, undefiled, separate from [sinners|GP], and made [higher|L1] than the [heavens|L1];
-Hebrews 7:27	[who|GF] needeth not [daily|T1], as those [high priests|GP], to offer up sacrifice, [first|NU] for [his|PR] own sins, and then for the [people’s|GP]: for this [he|GF] did [once|T2], [when|T2] [he|GF] offered up [himself|GF].
-Hebrews 7:28	For the law maketh [men|GP] [high priests|GP] which have infirmity; but the word of the oath, which was [since|T2] the law, maketh the [Son|GS], [who|GF] is consecrated for [evermore|T2].
-Hebrews 8:1	[Now|T2] of the things which [we|PR] have spoken this is the sum: [We|PR] have such an [high priest|GP], [who|GF] is set on the [right|L1] [hand|L2] of the [throne|L1] of the [Majesty|GF] in the [heavens|L1];
+Hebrews 7:24	but this [man|GP], because [he|GS] continueth [ever|T2], hath an unchangeable [priesthood|GP].
+Hebrews 7:25	Wherefore [he|GS] is able also to save [them|PR] to the [uttermost|L1] that come unto [God|GF] by [him|GS], seeing [he|GS] [ever|T2] liveth to make intercession for [them|PR].
+Hebrews 7:26	For such an [high priest|GP] became [us|PR], [who|GS] is holy, harmless, undefiled, separate from [sinners|GP], and made [higher|L1] than the [heavens|L1];
+Hebrews 7:27	[who|GS] needeth not [daily|T1], as those [high priests|GP], to offer up sacrifice, [first|NU] for [his|PR] own sins, and then for the [people’s|GP]: for this [he|GS] did [once|T2], [when|T2] [he|GS] offered up [himself|GS].
+Hebrews 7:28	For the law maketh [men|GP] [high priests|GP] which have infirmity; but the word of the oath, which was [since|T2] the law, maketh the [Son|GS], [who|GS] is consecrated for [evermore|T2].
+Hebrews 8:1	[Now|T2] of the things which [we|PR] have spoken this is the sum: [We|PR] have such an [high priest|GP], [who|GS] is set on the [right|L1] [hand|L2] of the [throne|L1] of the [Majesty|GF] in the [heavens|L1];
 Hebrews 8:2	a [minister|GP] of the [sanctuary|L1], and of the true [tabernacle|L1], which the [Lord|GF] pitched, and not [man|GP].
 Hebrews 8:3	For [every|QU] [high priest|GP] is ordained to offer gifts and sacrifices: wherefore it is of necessity that this [man|GP] have somewhat also to offer.
-Hebrews 8:4	For if [he|GF] were on [earth|L1], [he|GF] should not be a [priest|GP], seeing that there are [priests|GP] that offer gifts according to the law:
+Hebrews 8:4	For if [he|GS] were on [earth|L1], [he|GS] should not be a [priest|GP], seeing that there are [priests|GP] that offer gifts according to the law:
 Hebrews 8:5	[who|PR] serve unto the example and shadow of heavenly things, as [Moses|PN] was admonished of [God|GF] [when|T2] [he|PR] was about to make the [tabernacle|L1]: for, See, saith [he|GF], that [thou|PR] make [all|QU] things according to the pattern shewed to [thee|PR] in the [mount|L1].
-Hebrews 8:6	But [now|T2] hath [he|GF] obtained a [more|QU] excellent ministry, by how [much|QU] also [he|GF] is the [mediator|GP] of a better covenant, which was established upon better promises.
+Hebrews 8:6	But [now|T2] hath [he|GS] obtained a [more|QU] excellent ministry, by how [much|QU] also [he|GS] is the [mediator|GP] of a better covenant, which was established upon better promises.
 Hebrews 8:7	For if that [first|NU] covenant had been faultless, then should no [place|L1] have been sought for the [second|NU].
 Hebrews 8:8	For finding fault with [them|PR], [he|GF] saith, Behold, the [days|T1] come, saith the [LORD|GF], [when|T2] [I|GF] will make a [new|T2] covenant with the [house|GP] of [Israel|PP] and with the [house|GP] of [Judah|PP]:
 Hebrews 8:9	not according to the covenant that [I|GF] made with [their|PR] [fathers|GP] in the [day|T1] [when|T2] [I|GF] took [them|PR] by the hand to lead [them|PR] out of the [land|L1] of [Egypt|PP]; because [they|PR] continued not in [my|GF] covenant, and [I|GF] regarded [them|PR] not, saith the [LORD|GF].
@@ -30254,10 +30254,10 @@ Hebrews 9:8	the [Holy Ghost|HS] this signifying, that the way into the holiest o
 Hebrews 9:9	which was a figure for the [time|T1] then present, in which were offered [both|QU] gifts and sacrifices, that could not make [him|PR] that did the service perfect, as pertaining to the conscience;
 Hebrews 9:10	which stood [only|QU] in meats and drinks, and divers washings, and carnal ordinances, imposed on [them|PR] [until|T2] the [time|T1] of reformation.
 Hebrews 9:11	But [Christ|GS] being come an [high priest|GP] of good things to come, by a greater and [more|QU] perfect [tabernacle|L1], not made with hands, that is to say, not of this building;
-Hebrews 9:12	neither by the blood of [goats|BE] and [calves|BE], but by [his|GF] own blood [he|GF] entered in [once|T2] into the holy [place|L1], having obtained [eternal|T2] redemption for [us|PR].
+Hebrews 9:12	neither by the blood of [goats|BE] and [calves|BE], but by [his|GS] own blood [he|GS] entered in [once|T2] into the holy [place|L1], having obtained [eternal|T2] redemption for [us|PR].
 Hebrews 9:13	For if the blood of [bulls|BE] and of [goats|BE], and the ashes of an [heifer|BE] sprinkling the unclean, sanctifieth to the purifying of the flesh:
-Hebrews 9:14	how [much|QU] [more|QU] shall the blood of [Christ|GS], [who|GF] through the [eternal|T2] [Spirit|HS] offered [himself|GF] without spot to [God|GF], purge [your|PR] conscience from dead works to serve the [living God|GF]?
-Hebrews 9:15	And for this cause [he|GF] is the [mediator|GP] of the [new|T2] testament, that by means of death, for the redemption of the transgressions that were [under|L2] the [first|NU] testament, [they|PR] which are called might receive the promise of [eternal|T2] inheritance.
+Hebrews 9:14	how [much|QU] [more|QU] shall the blood of [Christ|GS], [who|GS] through the [eternal|T2] [Spirit|HS] offered [himself|GS] without spot to [God|GF], purge [your|PR] conscience from dead works to serve the [living God|GF]?
+Hebrews 9:15	And for this cause [he|GS] is the [mediator|GP] of the [new|T2] testament, that by means of death, for the redemption of the transgressions that were [under|L2] the [first|NU] testament, [they|PR] which are called might receive the promise of [eternal|T2] inheritance.
 Hebrews 9:16	For [where|L2] a testament is, there must also of necessity be the death of the [testator|GP].
 Hebrews 9:17	For a testament is of force [after|T2] [men|GP] are dead: otherwise it is of no strength at [all|QU] [while|T2] the [testator|GP] liveth.
 Hebrews 9:18	Whereupon neither the [first|NU] testament was dedicated without blood.
@@ -30267,30 +30267,30 @@ Hebrews 9:21	Moreover [he|PR] sprinkled with blood [both|QU] the [tabernacle|L1]
 Hebrews 9:22	And almost [all|QU] things are by the law purged with blood; and without shedding of blood is no remission.
 Hebrews 9:23	It was therefore necessary that the patterns of things in the [heavens|L1] should be purified with these; but the heavenly things [themselves|PR] with better sacrifices than these.
 Hebrews 9:24	For [Christ|GS] is not entered into the holy [places|L1] made with hands, which are the figures of the true; but into [heaven|L1] itself, [now|T2] to appear in the presence of [God|GF] for [us|PR]:
-Hebrews 9:25	nor yet that [he|GF] should offer [himself|GF] [often|T2], as the [high priest|GP] entereth into the holy [place|L1] [every|QU] [year|T1] with blood of [others|QU];
-Hebrews 9:26	for then must [he|GF] [often|T2] have suffered [since|T2] the foundation of the [world|L1]: but [now|T2] [once|T2] in the [end|T2] of the [world|L1] hath [he|GF] appeared to put away sin by the sacrifice of [himself|GF].
+Hebrews 9:25	nor yet that [he|GS] should offer [himself|GS] [often|T2], as the [high priest|GP] entereth into the holy [place|L1] [every|QU] [year|T1] with blood of [others|QU];
+Hebrews 9:26	for then must [he|GS] [often|T2] have suffered [since|T2] the foundation of the [world|L1]: but [now|T2] [once|T2] in the [end|T2] of the [world|L1] hath [he|GS] appeared to put away sin by the sacrifice of [himself|GS].
 Hebrews 9:27	And as it is appointed unto [men|GP] [once|T2] to die, but [after|T2] this the judgment:
-Hebrews 9:28	[so|T2] [Christ|GS] was [once|T2] offered to bear the sins of [many|QU]; and unto [them|PR] that look for [him|GF] shall [he|GF] appear the [2nd|NU] [time|T1] without sin unto salvation.
+Hebrews 9:28	[so|T2] [Christ|GS] was [once|T2] offered to bear the sins of [many|QU]; and unto [them|PR] that look for [him|GS] shall [he|GS] appear the [2nd|NU] [time|T1] without sin unto salvation.
 Hebrews 10:1	For the law having a shadow of good things to come, and not the very image of the things, can [never|T2] with those sacrifices which [they|PR] offered [year|T1] by [year|T1] [continually|T2] make the [comers|GP] thereunto perfect.
 Hebrews 10:2	For then would [they|PR] not have ceased to be offered? because that the [worshippers|GP] [once|T2] purged should have had [no|T2] [more|T2] conscience of sins.
 Hebrews 10:3	But in those sacrifices there is a remembrance [again|T2] made of sins [every|QU] [year|T1].
 Hebrews 10:4	For it is not possible that the blood of [bulls|BE] and of [goats|BE] should take away sins.
-Hebrews 10:5	Wherefore [when|T2] [he|GF] cometh into the [world|L1], [he|GF] saith, Sacrifice and offering [thou|GF] wouldest not, but a body hast [thou|GF] prepared [me|GF]:
+Hebrews 10:5	Wherefore [when|T2] [he|GS] cometh into the [world|L1], [he|GS] saith, Sacrifice and offering [thou|GF] wouldest not, but a body hast [thou|GF] prepared [me|GS]:
 Hebrews 10:6	in burnt offerings and sacrifices for sin [thou|GF] hast had no pleasure.
-Hebrews 10:7	[Then|T2] said [I|GF], Lo, [I|GF] come (in the volume of the book it is written of [me|GF],) to do [thy|GF] will, O [God|GF].
-Hebrews 10:8	Above [when|T2] [he|GF] said, Sacrifice and offering and burnt offerings and offering for sin [thou|GF] wouldest not, neither hadst pleasure [therein|L2]; which are offered by the law;
-Hebrews 10:9	[then|T2] said [he|GF], Lo, [I|GF] come to do [thy|GF] will, O [God|GF]. [He|GF] taketh away the [first|NU], that [he|GF] may establish the [second|NU].
+Hebrews 10:7	[Then|T2] said [I|GS], Lo, [I|GS] come (in the volume of the book it is written of [me|GS],) to do [thy|GF] will, O [God|GF].
+Hebrews 10:8	Above [when|T2] [he|GS] said, Sacrifice and offering and burnt offerings and offering for sin [thou|GF] wouldest not, neither hadst pleasure [therein|L2]; which are offered by the law;
+Hebrews 10:9	[then|T2] said [he|GS], Lo, [I|GS] come to do [thy|GF] will, O [God|GF]. [He|GS] taketh away the [first|NU], that [he|GS] may establish the [second|NU].
 Hebrews 10:10	By the which will [we|PR] are sanctified through the offering of the body of [Jesus|GS] [Christ|GS] [once|T2] for [all|QU].
 Hebrews 10:11	And [every|QU] [priest|GP] standeth [daily|T1] ministering and offering [oftentimes|T2] the same sacrifices, which can [never|T2] take away sins:
-Hebrews 10:12	but this [man|GP], [after|T2] [he|GF] had offered [one|QU] sacrifice for sins [for|T2] [ever|T2], sat down on the [right|L1] [hand|L2] of [God|GF];
-Hebrews 10:13	from [henceforth|T2] expecting [till|T2] [his|GF] [enemies|GP] be made [his|GF] footstool.
-Hebrews 10:14	For by [one|QU] offering [he|GF] hath perfected [for|T2] [ever|T2] [them|PR] that are sanctified.
-Hebrews 10:15	Whereof the [Holy Ghost|HS] also is a [witness|GP] to [us|PR]: for [after|T2] that [he|GF] had said [before|T2],
+Hebrews 10:12	but this [man|GP], [after|T2] [he|GS] had offered [one|QU] sacrifice for sins [for|T2] [ever|T2], sat down on the [right|L1] [hand|L2] of [God|GF];
+Hebrews 10:13	from [henceforth|T2] expecting [till|T2] [his|GS] [enemies|GP] be made [his|GS] footstool.
+Hebrews 10:14	For by [one|QU] offering [he|GS] hath perfected [for|T2] [ever|T2] [them|PR] that are sanctified.
+Hebrews 10:15	Whereof the [Holy Ghost|HS] also is a [witness|GP] to [us|PR]: for [after|T2] that [he|HS] had said [before|T2],
 Hebrews 10:16	This is the covenant that [I|GF] will make with [them|PR] [after|T2] those [days|T1], saith the [LORD|GF], [I|GF] will put [my|GF] laws into [their|PR] hearts, and in [their|PR] minds will [I|GF] write [them|PR];
 Hebrews 10:17	and [their|PR] sins and iniquities will [I|GF] remember [no|T2] [more|T2].
 Hebrews 10:18	[Now|T2] [where|L2] remission of these is, there is [no|T2] [more|T2] offering for sin.
 Hebrews 10:19	Having therefore, [brethren|GP], boldness to enter into the holiest by the blood of [Jesus|GS],
-Hebrews 10:20	by a [new|T2] and living way, which [he|GF] hath consecrated for [us|PR], through the veil, that is to say, [his|GF] flesh;
+Hebrews 10:20	by a [new|T2] and living way, which [he|GS] hath consecrated for [us|PR], through the veil, that is to say, [his|GS] flesh;
 Hebrews 10:21	and having an [high priest|GP] over the [house|L1] of [God|GF];
 Hebrews 10:22	let [us|PR] draw [near|L1] with a true heart in full assurance of faith, having [our|PR] hearts sprinkled from an evil conscience, and [our|PR] bodies washed with pure water.
 Hebrews 10:23	Let [us|PR] hold fast the profession of [our|PR] faith without wavering; (for [he|GF] is faithful that promised;)
@@ -30307,7 +30307,7 @@ Hebrews 10:33	partly, [whilst|T2] [ye|PR] were made a gazingstock [both|QU] by r
 Hebrews 10:34	For [ye|PR] had compassion of [me|PR] in [my|PR] bonds, and took joyfully the spoiling of [your|PR] goods, knowing in [yourselves|PR] that [ye|PR] have in [heaven|L1] a better and an enduring substance.
 Hebrews 10:35	Cast not away therefore [your|PR] confidence, which hath great recompence of reward.
 Hebrews 10:36	For [ye|PR] have need of patience, that, [after|T2] [ye|PR] have done the will of [God|GF], [ye|PR] might receive the promise.
-Hebrews 10:37	For yet a [little|QU] [while|T2], and [he|GF] that shall come will come, and will not tarry.
+Hebrews 10:37	For yet a [little|QU] [while|T2], and [he|GS] that shall come will come, and will not tarry.
 Hebrews 10:38	[Now|T2] the [just|GP] shall live by faith: but if any [man|GP] draw back, [my|GF] soul shall have no pleasure in [him|PR].
 Hebrews 10:39	But [we|PR] are not of [them|PR] [who|PR] draw back unto perdition; but of [them|PR] that believe to the saving of the soul.
 Hebrews 11:1	[Now|T2] faith is the substance of things hoped for, the evidence of things not seen.
@@ -30351,8 +30351,8 @@ Hebrews 11:38	(of [whom|PR] the [world|L1] was not worthy:) [they|PR] wandered i
 Hebrews 11:39	And these [all|QU], having obtained a good report through faith, received not the promise:
 Hebrews 11:40	[God|GF] having provided [some|QU] better thing for [us|PR], that [they|PR] without [us|PR] should not be made perfect.
 Hebrews 12:1	Wherefore seeing [we|PR] also are compassed [about|L2] with [so|T2] great a cloud of [witnesses|GP], let [us|PR] lay aside [every|QU] weight, and the sin which doth [so|T2] easily beset [us|PR], and let [us|PR] run with patience the race that is set [before|L2] [us|PR],
-Hebrews 12:2	looking unto [Jesus|GS] the [author|GS] and [finisher|GS] of [our|PR] faith; [who|GF] for the joy that was set [before|L2] [him|GF] endured the cross, despising the shame, and is set down at the [right|L1] [hand|L2] of the [throne|L1] of [God|GF].
-Hebrews 12:3	For consider [him|GF] that endured such contradiction of [sinners|GP] against [himself|GF], lest [ye|PR] be wearied and faint in [your|PR] minds.
+Hebrews 12:2	looking unto [Jesus|GS] the [author|GS] and [finisher|GS] of [our|PR] faith; [who|GS] for the joy that was set [before|L2] [him|GS] endured the cross, despising the shame, and is set down at the [right|L1] [hand|L2] of the [throne|L1] of [God|GF].
+Hebrews 12:3	For consider [him|GS] that endured such contradiction of [sinners|GP] against [himself|GS], lest [ye|PR] be wearied and faint in [your|PR] minds.
 Hebrews 12:4	[Ye|PR] have not yet resisted unto blood, striving against sin.
 Hebrews 12:5	And [ye|PR] have forgotten the exhortation which speaketh unto [you|PR] as unto [children|GP], [My|PR] [son|GP], despise not [thou|PR] the chastening of the [Lord|GF], nor faint [when|T2] [thou|PR] art rebuked of [him|GF]:
 Hebrews 12:6	for [whom|PR] the [Lord|GF] loveth [he|GF] chasteneth, and scourgeth [every|QU] [son|GP] [whom|PR] [he|GF] receiveth.
@@ -30390,10 +30390,10 @@ Hebrews 13:8	[Jesus|GS] [Christ|GS] the same [yesterday|T1], and to [day|T1], an
 Hebrews 13:9	Be not carried about with divers and strange doctrines. For it is a good thing that the heart be established with grace; not with meats, which have not profited [them|PR] that have been occupied [therein|L2].
 Hebrews 13:10	[We|PR] have an [altar|L1], whereof [they|PR] have no right to eat which serve the [tabernacle|L1].
 Hebrews 13:11	For the bodies of those [beasts|BE], [whose|PR] blood is brought into the [sanctuary|L1] by the [high priest|GP] for sin, are burned [without|L2] the [camp|L1].
-Hebrews 13:12	Wherefore [Jesus|GS] also, that [he|GF] might sanctify the [people|GP] with [his|GF] own blood, suffered [without|L2] the [gate|L1].
-Hebrews 13:13	Let [us|PR] go [forth|L2] therefore unto [him|GF] [without|L2] the [camp|L1], bearing [his|GF] reproach.
+Hebrews 13:12	Wherefore [Jesus|GS] also, that [he|GS] might sanctify the [people|GP] with [his|GS] own blood, suffered [without|L2] the [gate|L1].
+Hebrews 13:13	Let [us|PR] go [forth|L2] therefore unto [him|GS] [without|L2] the [camp|L1], bearing [his|GS] reproach.
 Hebrews 13:14	For [here|L2] have [we|PR] no continuing [city|L1], but [we|PR] seek [one|QU] to come.
-Hebrews 13:15	By [him|GF] therefore let [us|PR] offer the sacrifice of praise to [God|GF] [continually|T2], that is, the [fruit|PL] of [our|PR] lips giving thanks to [his|GF] name.
+Hebrews 13:15	By [him|GS] therefore let [us|PR] offer the sacrifice of praise to [God|GF] [continually|T2], that is, the [fruit|PL] of [our|PR] lips giving thanks to [his|GF] name.
 Hebrews 13:16	But to do good and to communicate forget not: for with such sacrifices [God|GF] is well pleased.
 Hebrews 13:17	Obey [them|PR] that have the rule over [you|PR], and submit [yourselves|PR]: for [they|PR] watch for [your|PR] souls, as [they|PR] that must give account, that [they|PR] may do it with joy, and not with grief: for that is unprofitable for [you|PR].
 Hebrews 13:18	Pray for [us|PR]: for [we|PR] trust [we|PR] have a good conscience, in [all|QU] things willing to live honestly.
@@ -30435,7 +30435,7 @@ James 2:1	[My|PR] [brethren|GP], have not the faith of [our|PR] [Lord|GF] [Jesus
 James 2:2	For if there come unto [your|PR] [assembly|GP] a [man|GP] with a gold ring, in goodly apparel, and there come in also a [poor|GP] [man|GP] in vile raiment;
 James 2:3	and [ye|PR] have respect to [him|PR] that weareth the gay clothing, and say unto [him|PR], Sit [thou|PR] [here|L2] in a good [place|L1]; and say to the [poor|GP], Stand [thou|PR] [there|L2], or sit [here|L2] [under|L2] [my|PR] footstool:
 James 2:4	are [ye|PR] not then partial in [yourselves|PR], and are become [judges|GP] of evil thoughts?
-James 2:5	Hearken, [my|PR] beloved [brethren|GP], Hath not [God|GF] chosen the [poor|GP] of this [world|L1] rich in faith, and [heirs|GP] of the kingdom which [he|PR] hath promised to [them|PR] that love [him|GF]?
+James 2:5	Hearken, [my|PR] beloved [brethren|GP], Hath not [God|GF] chosen the [poor|GP] of this [world|L1] rich in faith, and [heirs|GP] of the kingdom which [he|GF] hath promised to [them|PR] that love [him|GF]?
 James 2:6	But [ye|PR] have despised the [poor|GP]. Do not [rich|GP] [men|GP] oppress [you|PR], and draw [you|PR] [before|L2] the [judgment seats|L1]?
 James 2:7	Do not [they|PR] blaspheme that worthy name by the which [ye|PR] are called?
 James 2:8	If [ye|PR] fulfil the royal law according to the scripture, [Thou|PR] shalt love [thy|PR] [neighbour|GP] as [thyself|PR], [ye|PR] do well:
@@ -30486,7 +30486,7 @@ James 4:8	Draw [nigh|L2] to [God|GF], and [he|GF] will draw [nigh|L2] to [you|PR
 James 4:9	Be afflicted, and mourn, and weep: let [your|PR] laughter be turned to mourning, and [your|PR] joy to heaviness.
 James 4:10	Humble [yourselves|PR] in the sight of the [Lord|GF], and [he|GF] shall lift [you|PR] up.
 James 4:11	Speak not evil one of another, [brethren|GP]. [He|PR] that speaketh evil of [his|PR] [brother|GP], and judgeth [his|PR] [brother|GP], speaketh evil of the law, and judgeth the law: but if [thou|PR] judge the law, [thou|PR] art not a [doer|GP] of the law, but a [judge|GP].
-James 4:12	There is [one|QU] [lawgiver|GP], [who|PR] is able to save and to destroy: [who|PR] art [thou|PR] that judgest another?
+James 4:12	There is [one|QU] [lawgiver|GP], [who|GF] is able to save and to destroy: [who|PR] art [thou|PR] that judgest another?
 James 4:13	Go to [now|T2], [ye|PR] that say, To [day|T1] or [to morrow|T1] [we|PR] will go into such a [city|L1], and continue [there|L2] a [year|T1], and buy and sell, and get gain:
 James 4:14	whereas [ye|PR] know not what shall be on the [morrow|T1]. For what is [your|PR] life? It is even a vapour, that appeareth for a [little|QU] [time|T1], and then vanisheth away.
 James 4:15	For that [ye|PR] ought to say, If the [Lord|GF] will, [we|PR] shall live, and do this, or that.
@@ -30519,7 +30519,7 @@ James 5:20	let [him|PR] know, that [he|PR] which converteth the [sinner|GP] from
 1 Peter 1:5	[who|PR] are kept by the power of [God|GF] through faith unto salvation ready to be revealed in the last [time|T1].
 1 Peter 1:6	[Wherein|L2] [ye|PR] greatly rejoice, though [now|T2] for a [season|T2], if need be, [ye|PR] are in heaviness through [manifold|QU] temptations:
 1 Peter 1:7	that the trial of [your|PR] faith, being [much|QU] [more|QU] precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of [Jesus|GS] [Christ|GS]:
-1 Peter 1:8	[whom|GF] having not seen, [ye|PR] love; in [whom|GF], though [now|T2] [ye|PR] see [him|GF] not, yet believing, [ye|PR] rejoice with joy unspeakable and full of glory:
+1 Peter 1:8	[whom|GS] having not seen, [ye|PR] love; in [whom|GS], though [now|T2] [ye|PR] see [him|GS] not, yet believing, [ye|PR] rejoice with joy unspeakable and full of glory:
 1 Peter 1:9	receiving the end of [your|PR] faith, even the salvation of [your|PR] souls.
 1 Peter 1:10	Of which salvation the [prophets|GP] have inquired and searched diligently, [who|PR] prophesied of the grace that should come unto [you|PR]:
 1 Peter 1:11	searching what, or what manner of [time|T1] the [Spirit|HS] of [Christ|GS] which was in [them|PR] did signify, [when|T2] it testified [beforehand|T2] the sufferings of [Christ|GS], and the glory that should follow.
@@ -30531,8 +30531,8 @@ James 5:20	let [him|PR] know, that [he|PR] which converteth the [sinner|GP] from
 1 Peter 1:17	And if [ye|PR] call on the [Father|GF], [who|GF] without respect of [persons|GP] judgeth according to [every|QU] [man’s|GP] work, pass the [time|T1] of [your|PR] sojourning [here|L2] in fear:
 1 Peter 1:18	forasmuch as [ye|PR] know that [ye|PR] were not redeemed with corruptible things, as silver and gold, from [your|PR] vain conversation received by tradition from [your|PR] [fathers|GP];
 1 Peter 1:19	but with the precious blood of [Christ|GS], as of a [lamb|BE] without blemish and without spot:
-1 Peter 1:20	[who|GF] verily was foreordained [before|T2] the foundation of the [world|L1], but was manifest in these [last|QU] [times|T2] for [you|PR],
-1 Peter 1:21	[who|GF] by [him|GF] do believe in [God|GF], that raised [him|GF] up from the [dead|GP], and gave [him|GF] glory; that [your|PR] faith and hope might be in [God|GF].
+1 Peter 1:20	[who|GS] verily was foreordained [before|T2] the foundation of the [world|L1], but was manifest in these [last|QU] [times|T2] for [you|PR],
+1 Peter 1:21	[who|PR] by [him|GS] do believe in [God|GF], that raised [him|GS] up from the [dead|GP], and gave [him|GS] glory; that [your|PR] faith and hope might be in [God|GF].
 1 Peter 1:22	Seeing [ye|PR] have purified [your|PR] souls in obeying the truth through the [Spirit|HS] unto unfeigned love of the [brethren|GP], see that [ye|PR] love [one|GP] [another|GP] with a pure heart fervently:
 1 Peter 1:23	being born [again|T2], not of corruptible seed, but of incorruptible, by the word of [God|GF], which liveth and abideth [for|T2] [ever|T2].
 1 Peter 1:24	For [all|QU] flesh is as [grass|PL], and [all|QU] the glory of [man|GP] as the [flower|PL] of [grass|PL]. The [grass|PL] withereth, and the [flower|PL] thereof falleth away:
@@ -30540,10 +30540,10 @@ James 5:20	let [him|PR] know, that [he|PR] which converteth the [sinner|GP] from
 1 Peter 2:1	Wherefore laying aside [all|QU] malice, and [all|QU] guile, and hypocrisies, and envies, and [all|QU] evil speakings,
 1 Peter 2:2	as [newborn|GP] [babes|GP], desire the sincere milk of the word, that [ye|PR] may grow thereby:
 1 Peter 2:3	if [so|T2] be [ye|PR] have tasted that the [Lord|GF] is gracious.
-1 Peter 2:4	To [whom|GF] coming, as unto a living stone, disallowed indeed of [men|GP], but chosen of [God|GF], and precious,
+1 Peter 2:4	To [whom|GS] coming, as unto a living stone, disallowed indeed of [men|GP], but chosen of [God|GF], and precious,
 1 Peter 2:5	[ye|PR] also, as lively stones, are built up a spiritual [house|L1], an holy [priesthood|GP], to offer up spiritual sacrifices, acceptable to [God|GF] by [Jesus|GS] [Christ|GS].
-1 Peter 2:6	Wherefore also it is contained in the scripture, Behold, [I|GF] lay in [Sion|PP] a chief corner stone, elect, precious: and [he|PR] that believeth on [him|GF] shall not be confounded.
-1 Peter 2:7	Unto [you|PR] therefore which believe [he|GF] is precious: but unto [them|PR] which be disobedient, the stone which the [builders|GP] disallowed, the same is made the head of the corner,
+1 Peter 2:6	Wherefore also it is contained in the scripture, Behold, [I|GF] lay in [Sion|PP] a chief corner stone, elect, precious: and [he|PR] that believeth on [him|GS] shall not be confounded.
+1 Peter 2:7	Unto [you|PR] therefore which believe [he|GS] is precious: but unto [them|PR] which be disobedient, the stone which the [builders|GP] disallowed, the same is made the head of the corner,
 1 Peter 2:8	and a stone of stumbling, and a rock of offence, even to [them|PR] which stumble at the word, being disobedient: whereunto also [they|PR] were appointed.
 1 Peter 2:9	But [ye|PR] are a chosen [generation|GP], a royal [priesthood|GP], an holy [nation|GP], a peculiar [people|GP]; that [ye|PR] should shew forth the praises of [him|GF] [who|GF] hath called [you|PR] out of darkness into [his|GF] marvellous light:
 1 Peter 2:10	which in [time|T1] [past|T2] were not a [people|GP], but are [now|T2] the [people|GP] of [God|GF]: which had not obtained mercy, but [now|T2] have obtained mercy.
@@ -30557,10 +30557,10 @@ James 5:20	let [him|PR] know, that [he|PR] which converteth the [sinner|GP] from
 1 Peter 2:18	[Servants|PR], be subject to [your|PR] [masters|GP] with [all|QU] fear; not [only|QU] to the good and gentle, but also to the [froward|GP].
 1 Peter 2:19	For this is thankworthy, if a [man|GP] for conscience [toward|L2] [God|GF] endure grief, suffering wrongfully.
 1 Peter 2:20	For what glory is it, if, [when|T2] [ye|PR] be buffeted for [your|PR] faults, [ye|PR] shall take it patiently? but if, [when|T2] [ye|PR] do well, and suffer for it, [ye|PR] take it patiently, this is acceptable with [God|GF].
-1 Peter 2:21	For even hereunto were [ye|PR] called: because [Christ|GS] also suffered for [us|PR], leaving [us|PR] an example, that [ye|PR] should follow [his|GF] steps:
-1 Peter 2:22	[who|GF] did no sin, neither was guile found in [his|GF] mouth:
-1 Peter 2:23	[who|GF], [when|T2] [he|GF] was reviled, reviled not [again|T2]; [when|T2] [he|GF] suffered, [he|GF] threatened not; but committed [himself|GF] to [him|GF] that judgeth righteously:
-1 Peter 2:24	[who his|GF] own self bare [our|PR] sins in [his|GF] own body on the [tree|PL], that [we|PR], being dead to sins, should live unto righteousness: by [whose|GS] stripes [ye|PR] were healed.
+1 Peter 2:21	For even hereunto were [ye|PR] called: because [Christ|GS] also suffered for [us|PR], leaving [us|PR] an example, that [ye|PR] should follow [his|GS] steps:
+1 Peter 2:22	[who|GS] did no sin, neither was guile found in [his|GS] mouth:
+1 Peter 2:23	[who|GS], [when|T2] [he|GS] was reviled, reviled not [again|T2]; [when|T2] [he|GS] suffered, [he|GS] threatened not; but committed [himself|GS] to [him|GF] that judgeth righteously:
+1 Peter 2:24	[who his|GS] own self bare [our|PR] sins in [his|GS] own body on the [tree|PL], that [we|PR], being dead to sins, should live unto righteousness: by [whose|GS] stripes [ye|PR] were healed.
 1 Peter 2:25	For [ye|PR] were as [sheep|BE] going astray; but are [now|T2] returned unto the [Shepherd|GS] and [Bishop|GS] of [your|PR] souls.
 1 Peter 3:1	Likewise, [ye|PR] [wives|GP], be in subjection to [your|PR] own [husbands|GP]; that, if any obey not the word, [they|PR] also may without the word be won by the conversation of the [wives|GP];
 1 Peter 3:2	[while|T2] [they|PR] behold [your|PR] chaste conversation [coupled|QU] with fear.
@@ -30579,11 +30579,11 @@ James 5:20	let [him|PR] know, that [he|PR] which converteth the [sinner|GP] from
 1 Peter 3:15	but sanctify the [Lord|GF] [God|GF] in [your|PR] hearts: and be ready [always|T2] to give an answer to [every|QU] [man|GP] that asketh [you|PR] a reason of the hope that is in [you|PR] with meekness and fear:
 1 Peter 3:16	having a good conscience; that, whereas [they|PR] speak evil of [you|PR], as of [evildoers|GP], [they|PR] may be ashamed that falsely accuse [your|PR] good conversation in [Christ|GS].
 1 Peter 3:17	For it is better, if the will of [God|GF] be [so|T2], that [ye|PR] suffer for well doing, than for evil doing.
-1 Peter 3:18	For [Christ|GS] also hath [once|T2] suffered for sins, the [just|GP] for the [unjust|GP], that [he|GF] might bring [us|PR] to [God|GF], being put to death in the flesh, but quickened by the [Spirit|HS]:
-1 Peter 3:19	by which also [he|GF] went and preached unto the [spirits|GP] in [prison|L1];
+1 Peter 3:18	For [Christ|GS] also hath [once|T2] suffered for sins, the [just|GP] for the [unjust|GP], that [he|GS] might bring [us|PR] to [God|GF], being put to death in the flesh, but quickened by the [Spirit|HS]:
+1 Peter 3:19	by which also [he|GS] went and preached unto the [spirits|GP] in [prison|L1];
 1 Peter 3:20	which [sometime|T2] were disobedient, [when|T2] [once|T2] the longsuffering of [God|GF] waited in the [days|T1] of [Noah|PN], [while|T2] the [ark|L1] was a preparing, [wherein|L2] [few|QU], that is, [eight|NU] [souls|GP] were saved by water.
 1 Peter 3:21	The like figure whereunto even baptism doth also [now|T2] save [us|PR] (not the putting away of the filth of the flesh, but the answer of a good conscience [toward|L2] [God|GF],) by the resurrection of [Jesus|GS] [Christ|GS]:
-1 Peter 3:22	[who|GF] is gone into [heaven|L1], and is on the [right|L1] [hand|L2] of [God|GF]; [angels|AN] and [authorities|GP] and powers being made subject unto [him|GF].
+1 Peter 3:22	[who|GS] is gone into [heaven|L1], and is on the [right|L1] [hand|L2] of [God|GF]; [angels|AN] and [authorities|GP] and powers being made subject unto [him|GS].
 1 Peter 4:1	Forasmuch then as [Christ|GS] hath suffered for [us|PR] in the flesh, arm [yourselves|PR] likewise with the same mind: for [he|PR] that hath suffered in the flesh hath ceased from sin;
 1 Peter 4:2	that [he|PR] [no longer|T2] should live the [rest|QU] of [his|PR] [time|T1] in the flesh to the lusts of [men|GP], but to the will of [God|GF].
 1 Peter 4:3	For the [time|T1] [past|T2] of [our|PR] life may suffice [us|PR] to have wrought the will of the [Gentiles|PG], [when|T2] [we|PR] walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
@@ -30596,7 +30596,7 @@ James 5:20	let [him|PR] know, that [he|PR] which converteth the [sinner|GP] from
 1 Peter 4:10	As [every|QU] [man|GP] hath received the gift, even [so|T2] minister the same [one|GP] to [another|GP], as good [stewards|GP] of the [manifold|QU] grace of [God|GF].
 1 Peter 4:11	If any [man|GP] speak, let [him|PR] speak as the oracles of [God|GF]; if any [man|GP] minister, let [him|PR] do it as of the ability which [God|GF] giveth: that [God|GF] in [all|QU] things may be glorified through [Jesus|GS] [Christ|GS], to [whom|GF] be praise and dominion [for|T2] [ever|T2] and [ever|T2]. Amen.
 1 Peter 4:12	[Beloved|GP], think it not strange concerning the fiery trial which is to try [you|PR], as though some strange thing happened unto [you|PR]:
-1 Peter 4:13	but rejoice, inasmuch as [ye|PR] are [partakers|GP] of [Christ’s|GS] sufferings; that, [when|T2] [his|GF] glory shall be revealed, [ye|PR] may be glad also with [exceeding|QU] joy.
+1 Peter 4:13	but rejoice, inasmuch as [ye|PR] are [partakers|GP] of [Christ’s|GS] sufferings; that, [when|T2] [his|GS] glory shall be revealed, [ye|PR] may be glad also with [exceeding|QU] joy.
 1 Peter 4:14	If [ye|PR] be reproached for the name of [Christ|GS], happy are [ye|PR]; for the spirit of glory and of [God|GF] resteth upon [you|PR]: on [their|PR] part [he|GF] is evil spoken of, but on [your|PR] part [he|GF] is glorified.
 1 Peter 4:15	But let [none|QU] of [you|PR] suffer as a [murderer|GP], or as a [thief|GP], or as an [evildoer|GP], or as a [busybody|GP] in other [men’s|GP] matters.
 1 Peter 4:16	Yet if any [man|GP] suffer as a [Christian|PG], let [him|PR] not be ashamed; but let [him|PR] glorify [God|GF] on this behalf.
@@ -30632,9 +30632,9 @@ James 5:20	let [him|PR] know, that [he|PR] which converteth the [sinner|GP] from
 2 Peter 1:13	Yea, [I|PR] think it meet, [as long|T2] [as|T2] [I|PR] am in this [tabernacle|L1], to stir [you|PR] up by putting [you|PR] in remembrance;
 2 Peter 1:14	knowing that [shortly|T2] [I|PR] must put off this [my|PR] [tabernacle|L1], even as [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS] hath shewed [me|PR].
 2 Peter 1:15	Moreover [I|PR] will endeavour that [ye|PR] may be able [after|T2] [my|PR] decease to have these things [always|T2] in remembrance.
-2 Peter 1:16	For [we|PR] have not followed cunningly devised fables, [when|T2] [we|PR] made known unto [you|PR] the power and coming of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS], but were [eyewitnesses|GP] of [his|GF] majesty.
-2 Peter 1:17	For [he|GF] received from [God|GF] the [Father|GF] honour and glory, [when|T2] there came such a voice to [him|GF] from the excellent glory, This is [my|GF] beloved [Son|GS], in [whom|GF] [I|GF] am well pleased.
-2 Peter 1:18	And this voice which came from [heaven|L1] [we|PR] heard, [when|T2] [we|PR] were with [him|GF] in the holy [mount|L1].
+2 Peter 1:16	For [we|PR] have not followed cunningly devised fables, [when|T2] [we|PR] made known unto [you|PR] the power and coming of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS], but were [eyewitnesses|GP] of [his|GS] majesty.
+2 Peter 1:17	For [he|GS] received from [God|GF] the [Father|GF] honour and glory, [when|T2] there came such a voice to [him|GS] from the excellent glory, This is [my|GF] beloved [Son|GS], in [whom|GS] [I|GF] am well pleased.
+2 Peter 1:18	And this voice which came from [heaven|L1] [we|PR] heard, [when|T2] [we|PR] were with [him|GS] in the holy [mount|L1].
 2 Peter 1:19	[We|PR] have also a [more|QU] sure word of prophecy; whereunto [ye|PR] do well that [ye|PR] take heed, as unto a light that shineth in a dark [place|L1], [until|T2] the [day|T1] [dawn|T1], and the [day|T1] [star|L1] arise in [your|PR] hearts:
 2 Peter 1:20	knowing this [first|NU], that no prophecy of the scripture is of any private interpretation.
 2 Peter 1:21	For the prophecy came not in [old|T2] [time|T1] by the will of [man|GP]: but holy [men|GP] of [God|GF] spake as [they|PR] were moved by the [Holy Ghost|HS].
@@ -30663,7 +30663,7 @@ James 5:20	let [him|PR] know, that [he|PR] which converteth the [sinner|GP] from
 2 Peter 3:1	This [second|NU] epistle, [beloved|GP], [I|PR] [now|T2] write unto [you|PR]; in [both|QU] which [I|PR] stir up [your|PR] pure minds by way of remembrance:
 2 Peter 3:2	that [ye|PR] may be mindful of the words which were spoken [before|T2] by the holy [prophets|GP], and of the commandment of [us|PR] the [apostles|GP] of the [Lord|GF] and [Saviour|GF]:
 2 Peter 3:3	knowing this [first|NU], that there shall come in the last [days|T1] [scoffers|GP], walking after [their|PR] own lusts,
-2 Peter 3:4	and saying, Where is the promise of [his|PR] coming? for [since|T2] the [fathers|GP] fell asleep, [all|QU] things continue as [they|PR] were from the [beginning|T2] of the creation.
+2 Peter 3:4	and saying, Where is the promise of [his|GS] coming? for [since|T2] the [fathers|GP] fell asleep, [all|QU] things continue as [they|PR] were from the [beginning|T2] of the creation.
 2 Peter 3:5	For this [they|PR] willingly are ignorant of, that by the word of [God|GF] the [heavens|L1] were of [old|T2], and the [earth|L1] standing out of the water and in the water:
 2 Peter 3:6	whereby the [world|L1] that then was, being overflowed with water, perished:
 2 Peter 3:7	but the [heavens|L1] and the [earth|L1], which are [now|T2], by the same word are kept in store, reserved unto fire against the [day|T1] of judgment and perdition of ungodly [men|GP].
@@ -30677,7 +30677,7 @@ James 5:20	let [him|PR] know, that [he|PR] which converteth the [sinner|GP] from
 2 Peter 3:15	And account that the longsuffering of [our|PR] [Lord|GF] is salvation; even as [our|PR] beloved [brother|GP] [Paul|PN] also according to the wisdom given unto [him|PR] hath written unto [you|PR];
 2 Peter 3:16	as also in [all|QU] [his|PR] epistles, speaking in [them|PR] of these things; in which are [some|QU] things hard to be understood, which [they|PR] that are unlearned and unstable wrest, as [they|PR] do also the other scriptures, unto [their|PR] own destruction.
 2 Peter 3:17	[Ye|PR] therefore, [beloved|GP], seeing [ye|PR] know these things [before|T2], beware lest [ye|PR] also, being led away with the error of the [wicked|GP], fall from [your|PR] own stedfastness.
-2 Peter 3:18	But grow in grace, and in the knowledge of [our|PR] [Lord|GF] and [Saviour|GF] [Jesus|GS] [Christ|GS]. To [him|PR] be glory [both|QU] [now|T2] and [for|T2] [ever|T2]. Amen.
+2 Peter 3:18	But grow in grace, and in the knowledge of [our|PR] [Lord|GF] and [Saviour|GF] [Jesus|GS] [Christ|GS]. To [him|GS] be glory [both|QU] [now|T2] and [for|T2] [ever|T2]. Amen.
 1 John 1:1	That which was from the [beginning|T2], which [we|PR] have heard, which [we|PR] have seen with [our|PR] eyes, which [we|PR] have looked upon, and [our|PR] hands have handled, of the [Word|GS] of life;
 1 John 1:2	(for the life was manifested, and [we|PR] have seen it, and bear witness, and shew unto [you|PR] that [eternal|T2] life, which was with the [Father|GF], and was manifested unto [us|PR];)
 1 John 1:3	that which [we|PR] have seen and heard declare [we|PR] unto [you|PR], that [ye|PR] also may have fellowship with [us|PR]: and truly [our|PR] fellowship is with the [Father|GF], and with [his|GF] [Son|GS] [Jesus|GS] [Christ|GS].
@@ -30689,19 +30689,19 @@ James 5:20	let [him|PR] know, that [he|PR] which converteth the [sinner|GP] from
 1 John 1:9	If [we|PR] confess [our|PR] sins, [he|GF] is faithful and just to forgive [us|PR] [our|PR] sins, and to cleanse [us|PR] from [all|QU] unrighteousness.
 1 John 1:10	If [we|PR] say that [we|PR] have not sinned, [we|PR] make [him|GF] a [liar|GP], and [his|GF] word is not in [us|PR].
 1 John 2:1	[My|PR] little [children|GP], these things write [I|PR] unto [you|PR], that [ye|PR] sin not. And if any [man|GP] sin, [we|PR] have an [advocate|GP] with the [Father|GF], [Jesus|GS] [Christ|GS] the [righteous|GP]:
-1 John 2:2	and [he|GF] is the propitiation for [our|PR] sins: and not for [ours|PR] [only|QU], but also for the sins of the [whole|QU] [world|L1].
+1 John 2:2	and [he|GS] is the propitiation for [our|PR] sins: and not for [ours|PR] [only|QU], but also for the sins of the [whole|QU] [world|L1].
 1 John 2:3	And hereby [we|PR] do know that [we|PR] know [him|GF], if [we|PR] keep [his|GF] commandments.
 1 John 2:4	[He|PR] that saith, [I|PR] know [him|GF], and keepeth not [his|GF] commandments, is a [liar|GP], and the truth is not in [him|PR].
 1 John 2:5	But [whoso|PR] keepeth [his|GF] word, in [him|PR] verily is the love of [God|GF] perfected: hereby know [we|PR] that [we|PR] are in [him|GF].
-1 John 2:6	[He|PR] that saith [he|PR] abideth in [him|GF] ought [himself|PR] also [so|T2] to walk, even as [he|GF] walked.
+1 John 2:6	[He|PR] that saith [he|PR] abideth in [him|GF] ought [himself|PR] also [so|T2] to walk, even as [he|GS] walked.
 1 John 2:7	[Brethren|GP], [I|PR] write no [new|T2] commandment unto [you|PR], but an [old|T2] commandment which [ye|PR] had from the [beginning|T2]. The [old|T2] commandment is the word which [ye|PR] have heard from the [beginning|T2].
 1 John 2:8	[Again|T2], a [new|T2] commandment [I|PR] write unto [you|PR], which thing is true in [him|GF] and in [you|PR]: because the darkness is [past|T2], and the true light [now|T2] shineth.
 1 John 2:9	[He|PR] that saith [he|PR] is in the light, and hateth [his|PR] [brother|GP], is in darkness even [until|T2] [now|T2].
 1 John 2:10	[He|PR] that loveth [his|PR] [brother|GP] abideth in the light, and there is [none|QU] occasion of stumbling in [him|PR].
 1 John 2:11	But [he|PR] that hateth [his|PR] [brother|GP] is in darkness, and walketh in darkness, and knoweth not [whither|L2] [he|PR] goeth, because that darkness hath blinded [his|PR] eyes.
 1 John 2:12	[I|PR] write unto [you|PR], little [children|GP], because [your|PR] sins are forgiven [you|PR] for [his|GF] name’s sake.
-1 John 2:13	[I|PR] write unto [you|PR], [fathers|GP], because [ye|PR] have known [him|GF] that is from the [beginning|T2]. [I|PR] write unto [you|PR], [young men|GP], because [ye|PR] have overcome the wicked one. [I|PR] write unto [you|PR], little [children|GP], because [ye|PR] have known the [Father|GF].
-1 John 2:14	[I|PR] have written unto [you|PR], [fathers|GP], because [ye|PR] have known [him|GF] that is from the [beginning|T2]. [I|PR] have written unto [you|PR], [young men|GP], because [ye|PR] are strong, and the word of [God|GF] abideth in [you|PR], and [ye|PR] have overcome the wicked one.
+1 John 2:13	[I|PR] write unto [you|PR], [fathers|GP], because [ye|PR] have known [him|GS] that is from the [beginning|T2]. [I|PR] write unto [you|PR], [young men|GP], because [ye|PR] have overcome the wicked one. [I|PR] write unto [you|PR], little [children|GP], because [ye|PR] have known the [Father|GF].
+1 John 2:14	[I|PR] have written unto [you|PR], [fathers|GP], because [ye|PR] have known [him|GS] that is from the [beginning|T2]. [I|PR] have written unto [you|PR], [young men|GP], because [ye|PR] are strong, and the word of [God|GF] abideth in [you|PR], and [ye|PR] have overcome the wicked one.
 1 John 2:15	Love not the [world|L1], neither the things that are in the [world|L1]. If any [man|GP] love the [world|L1], the love of the [Father|GF] is not in [him|PR].
 1 John 2:16	For [all|QU] that is in the [world|L1], the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the [Father|GF], but is of the [world|L1].
 1 John 2:17	And the [world|L1] passeth away, and the lust thereof: but [he|PR] that doeth the will of [God|GF] abideth [for|T2] [ever|T2].
@@ -30712,19 +30712,19 @@ James 5:20	let [him|PR] know, that [he|PR] which converteth the [sinner|GP] from
 1 John 2:22	[Who|PR] is a [liar|GP] but [he|PR] that denieth that [Jesus|GS] is the [Christ|GS]? [He|PR] is [antichrist|DE], that denieth the [Father|GF] and the [Son|GS].
 1 John 2:23	[Whosoever|PR] denieth the [Son|GS], the same hath not the [Father|GF]: [but] [he|PR] that acknowledgeth the [Son|GS] hath the [Father|GF] also.
 1 John 2:24	Let that therefore abide in [you|PR], which [ye|PR] have heard from the [beginning|T2]. If that which [ye|PR] have heard from the [beginning|T2] shall remain in [you|PR], [ye|PR] also shall continue in the [Son|GS], and in the [Father|GF].
-1 John 2:25	And this is the promise that [he|PR] hath promised [us|PR], even [eternal|T2] life.
+1 John 2:25	And this is the promise that [he|GF] hath promised [us|PR], even [eternal|T2] life.
 1 John 2:26	These things have [I|PR] written unto [you|PR] concerning [them|PR] that seduce [you|PR].
 1 John 2:27	But the anointing which [ye|PR] have received of [him|GF] abideth in [you|PR], and [ye|PR] need not that any [man|GP] teach [you|PR]: but as the same anointing teacheth [you|PR] of [all|QU] things, and is truth, and is no lie, and even as it hath taught [you|PR], [ye|PR] shall abide in [him|GF].
-1 John 2:28	And [now|T2], little [children|GP], abide in [him|GF]; that, [when|T2] [he|GF] shall appear, [we|PR] may have confidence, and not be ashamed [before|L2] [him|GF] at [his|GF] coming.
+1 John 2:28	And [now|T2], little [children|GP], abide in [him|GF]; that, [when|T2] [he|GS] shall appear, [we|PR] may have confidence, and not be ashamed [before|L2] [him|GS] at [his|GS] coming.
 1 John 2:29	If [ye|PR] know that [he|GF] is righteous, [ye|PR] know that [every|QU] one that doeth righteousness is born of [him|GF].
 1 John 3:1	Behold, what manner of love the [Father|GF] hath bestowed upon [us|PR], that [we|PR] should be called the [sons|GP] of [God|GF]: therefore the [world|L1] knoweth [us|PR] not, because it knew [him|GF] not.
 1 John 3:2	[Beloved|GP], [now|T2] are [we|PR] the [sons|GP] of [God|GF], and it doth not yet appear what [we|PR] shall be: but [we|PR] know that, [when|T2] [he|GF] shall appear, [we|PR] shall be like [him|GF]; for [we|PR] shall see [him|GF] as [he|GF] is.
-1 John 3:3	And [every|QU] [man|GP] that hath this hope in [him|PR] purifieth [himself|PR], even as [he|GF] is pure.
+1 John 3:3	And [every|QU] [man|GP] that hath this hope in [him|GF] purifieth [himself|PR], even as [he|GS] is pure.
 1 John 3:4	[Whosoever|PR] committeth sin transgresseth also the law: for sin is the transgression of the law.
-1 John 3:5	And [ye|PR] know that [he|GF] was manifested to take away [our|PR] sins; and in [him|GF] is no sin.
+1 John 3:5	And [ye|PR] know that [he|GS] was manifested to take away [our|PR] sins; and in [him|GS] is no sin.
 1 John 3:6	[Whosoever|PR] abideth in [him|GF] sinneth not: [whosoever|PR] sinneth hath not seen [him|GF], neither known [him|GF].
-1 John 3:7	Little [children|GP], let no [man|GP] deceive [you|PR]: [he|PR] that doeth righteousness is righteous, even as [he|PR] is righteous.
-1 John 3:8	[He|PR] that committeth sin is of the [devil|DE]; for the [devil|DE] sinneth from the [beginning|T2]. For this purpose the [Son|GS] of [God|GF] was manifested, that [he|GF] might destroy the works of the [devil|DE].
+1 John 3:7	Little [children|GP], let no [man|GP] deceive [you|PR]: [he|PR] that doeth righteousness is righteous, even as [he|GS] is righteous.
+1 John 3:8	[He|PR] that committeth sin is of the [devil|DE]; for the [devil|DE] sinneth from the [beginning|T2]. For this purpose the [Son|GS] of [God|GF] was manifested, that [he|GS] might destroy the works of the [devil|DE].
 1 John 3:9	[Whosoever|PR] is born of [God|GF] doth not commit sin; for [his|GF] [seed|GP] remaineth in [him|PR]: and [he|PR] cannot sin, because [he|PR] is born of [God|GF].
 1 John 3:10	In this the [children|GP] of [God|GF] are manifest, and the [children|GP] of the [devil|DE]: [whosoever|PR] doeth not righteousness is not of [God|GF], neither [he|PR] that loveth not [his|PR] [brother|GP].
 1 John 3:11	For this is the message that [ye|PR] heard from the [beginning|T2], that [we|PR] should love one another.
@@ -30732,7 +30732,7 @@ James 5:20	let [him|PR] know, that [he|PR] which converteth the [sinner|GP] from
 1 John 3:13	Marvel not, [my|PR] [brethren|GP], if the [world|L1] hate [you|PR].
 1 John 3:14	[We|PR] know that [we|PR] have passed from death unto life, because [we|PR] love the [brethren|GP]. [He|PR] that loveth not [his|PR] [brother|GP] abideth in death.
 1 John 3:15	[Whosoever|PR] hateth [his|PR] [brother|GP] is a [murderer|GP]: and [ye|PR] know that no [murderer|GP] hath [eternal|T2] life abiding in [him|PR].
-1 John 3:16	Hereby perceive [we|PR] the love of [God|GF], because [he|GF] laid down [his|GF] life for [us|PR]: and [we|PR] ought to lay down [our|PR] lives for the [brethren|GP].
+1 John 3:16	Hereby perceive [we|PR] the love of [God|GF], because [he|GS] laid down [his|GS] life for [us|PR]: and [we|PR] ought to lay down [our|PR] lives for the [brethren|GP].
 1 John 3:17	But [whoso|PR] hath this [world’s|L1] good, and seeth [his|PR] [brother|GP] have need, and shutteth up [his|PR] bowels of compassion from [him|PR], how dwelleth the love of [God|GF] in [him|PR]?
 1 John 3:18	[My|PR] little [children|GP], let [us|PR] not love in word, neither in tongue; but in deed and in truth.
 1 John 3:19	And hereby [we|PR] know that [we|PR] are of the truth, and shall assure [our|PR] hearts [before|L2] [him|GF].
@@ -30749,7 +30749,7 @@ James 5:20	let [him|PR] know, that [he|PR] which converteth the [sinner|GP] from
 1 John 4:6	[We|PR] are of [God|GF]: [he|PR] that knoweth [God|GF] heareth [us|PR]; [he|PR] that is not of [God|GF] heareth not [us|PR]. Hereby know [we|PR] the spirit of truth, and the spirit of error.
 1 John 4:7	[Beloved|GP], let [us|PR] love one another: for love is of [God|GF]; and [every|QU] one that loveth is born of [God|GF], and knoweth [God|GF].
 1 John 4:8	[He|PR] that loveth not knoweth not [God|GF]; for [God|GF] is love.
-1 John 4:9	In this was manifested the love of [God|GF] [toward|L2] [us|PR], because that [God|GF] sent [his|GF] [only|QU] begotten [Son|GS] into the [world|L1], that [we|PR] might live through [him|GF].
+1 John 4:9	In this was manifested the love of [God|GF] [toward|L2] [us|PR], because that [God|GF] sent [his|GF] [only|QU] begotten [Son|GS] into the [world|L1], that [we|PR] might live through [him|GS].
 1 John 4:10	[Herein|L2] is love, not that [we|PR] loved [God|GF], but that [he|GF] loved [us|PR], and sent [his|GF] [Son|GS] to be the propitiation for [our|PR] sins.
 1 John 4:11	[Beloved|GP], if [God|GF] [so|T2] loved [us|PR], [we|PR] ought also to love one another.
 1 John 4:12	No [man|GP] hath seen [God|GF] at any [time|T1]. If [we|PR] love one another, [God|GF] dwelleth in [us|PR], and [his|GF] love is perfected in [us|PR].
@@ -30757,7 +30757,7 @@ James 5:20	let [him|PR] know, that [he|PR] which converteth the [sinner|GP] from
 1 John 4:14	And [we|PR] have seen and do testify that the [Father|GF] sent the [Son|GS] to be the [Saviour|GF] of the [world|L1].
 1 John 4:15	[Whosoever|PR] shall confess that [Jesus|GS] is the [Son|GS] of [God|GF], [God|GF] dwelleth in [him|PR], and [he|PR] in [God|GF].
 1 John 4:16	And [we|PR] have known and believed the love that [God|GF] hath to [us|PR]. [God|GF] is love; and [he|PR] that dwelleth in love dwelleth in [God|GF], and [God|GF] in [him|PR].
-1 John 4:17	[Herein|L2] is [our|PR] love made perfect, that [we|PR] may have boldness in the [day|T1] of judgment: because as [he|GF] is, [so|T2] are [we|PR] in this [world|L1].
+1 John 4:17	[Herein|L2] is [our|PR] love made perfect, that [we|PR] may have boldness in the [day|T1] of judgment: because as [he|GS] is, [so|T2] are [we|PR] in this [world|L1].
 1 John 4:18	There is no fear in love; but perfect love casteth out fear: because fear hath torment. [He|PR] that feareth is not made perfect in love.
 1 John 4:19	[We|PR] love [him|GF], because [he|GF] [first|NU] loved [us|PR].
 1 John 4:20	If a [man|GP] say, [I|PR] love [God|GF], and hateth [his|PR] [brother|GP], [he|PR] is a [liar|GP]: for [he|PR] that loveth not [his|PR] [brother|GP] [whom|PR] [he|PR] hath seen, how can [he|PR] love [God|GF] [whom|PR] [he|PR] hath not seen?
@@ -30767,7 +30767,7 @@ James 5:20	let [him|PR] know, that [he|PR] which converteth the [sinner|GP] from
 1 John 5:3	For this is the love of [God|GF], that [we|PR] keep [his|GF] commandments: and [his|GF] commandments are not grievous.
 1 John 5:4	For whatsoever is born of [God|GF] overcometh the [world|L1]: and this is the victory that overcometh the [world|L1], even [our|PR] faith.
 1 John 5:5	[Who|PR] is [he|PR] that overcometh the [world|L1], but [he|PR] that believeth that [Jesus|GS] is the [Son|GS] of [God|GF]?
-1 John 5:6	This is [he|GF] that came by water and blood, even [Jesus|GS] [Christ|GS]; not by water [only|QU], but by water and blood. And it is the [Spirit|HS] that beareth witness, because the [Spirit|HS] is truth.
+1 John 5:6	This is [he|GS] that came by water and blood, even [Jesus|GS] [Christ|GS]; not by water [only|QU], but by water and blood. And it is the [Spirit|HS] that beareth witness, because the [Spirit|HS] is truth.
 1 John 5:7	For there are [three|NU] that bear record in [heaven|L1], the [Father|GF], the [Word|GS], and the [Holy Ghost|HS]: and these [three|NU] are [one|QU].
 1 John 5:8	And there are [three|NU] that bear witness in [earth|L1], the [Spirit|HS], and the water, and the blood: and these [three|NU] agree in [one|QU].
 1 John 5:9	If [we|PR] receive the witness of [men|GP], the witness of [God|GF] is greater: for this is the witness of [God|GF] which [he|GF] hath testified of [his|GF] [Son|GS].
@@ -30802,7 +30802,7 @@ James 5:20	let [him|PR] know, that [he|PR] which converteth the [sinner|GP] from
 3 John 1:4	[I|PR] have no greater joy than to hear that [my|PR] [children|GP] walk in truth.
 3 John 1:5	[Beloved|GP], [thou|PR] doest faithfully whatsoever [thou|PR] doest to the [brethren|GP], and to [strangers|GP];
 3 John 1:6	which have borne witness of [thy|PR] charity [before|L2] the [church|GP]: [whom|PR] if [thou|PR] bring forward on [their|PR] journey after a godly sort, [thou|PR] shalt do well:
-3 John 1:7	because that for [his|PR] name’s sake [they|PR] went [forth|L2], taking nothing of the [Gentiles|PG].
+3 John 1:7	because that for [his|GS] name’s sake [they|PR] went [forth|L2], taking nothing of the [Gentiles|PG].
 3 John 1:8	[We|PR] therefore ought to receive such, that [we|PR] might be [fellowhelpers|GP] to the truth.
 3 John 1:9	[I|PR] wrote unto the [church|GP]: but [Diotrephes|PN], [who|PR] loveth to have the preeminence among [them|PR], receiveth [us|PR] not.
 3 John 1:10	Wherefore, if [I|PR] come, [I|PR] will remember [his|PR] deeds which [he|PR] doeth, prating against [us|PR] with malicious words: and not content therewith, neither doth [he|PR] [himself|PR] receive the [brethren|GP], and forbiddeth [them|PR] that would, and casteth [them|PR] out of the [church|GP].

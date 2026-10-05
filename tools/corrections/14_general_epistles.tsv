@@ -1,0 +1,51 @@
+# Pronoun referent fixes: James, 1-2 Peter, 1-3 John, Jude (Father vs Son). Only clear cases.
+James 2:5	he	1	PRONOUN	GOD_FATHER	God, who promised the kingdom
+James 4:12	who	1	PRONOUN	GOD_FATHER	the one lawgiver, God, able to save and destroy
+1 Peter 1:8	whom	*	GOD_FATHER	GOD_SON	Jesus Christ (1:7), loved though unseen
+1 Peter 1:8	him	1	GOD_FATHER	GOD_SON	Jesus Christ (1:7), not seen now
+1 Peter 1:20	who	1	GOD_FATHER	GOD_SON	Christ the lamb (1:19), foreordained and manifested
+1 Peter 1:21	who	1	GOD_FATHER	PRONOUN	believers ("you" 1:20) who believe in God
+1 Peter 1:21	him	*	GOD_FATHER	GOD_SON	Christ, raised and glorified by God
+1 Peter 2:4	whom	1	GOD_FATHER	GOD_SON	Christ the living stone
+1 Peter 2:6	him	1	GOD_FATHER	GOD_SON	Christ the chief corner stone, believed on
+1 Peter 2:7	he	1	GOD_FATHER	GOD_SON	Christ the stone, precious to believers
+1 Peter 2:21	his	1	GOD_FATHER	GOD_SON	Christ's steps
+1 Peter 2:22	who	1	GOD_FATHER	GOD_SON	Christ, who did no sin
+1 Peter 2:22	his	1	GOD_FATHER	GOD_SON	Christ's mouth
+1 Peter 2:23	who	1	GOD_FATHER	GOD_SON	Christ reviled and suffering
+1 Peter 2:23	he	*	GOD_FATHER	GOD_SON	Christ reviled and suffering
+1 Peter 2:23	himself	1	GOD_FATHER	GOD_SON	Christ committed himself to the Father
+1 Peter 2:24	who his	1	GOD_FATHER	GOD_SON	Christ bare our sins
+1 Peter 2:24	his	1	GOD_FATHER	GOD_SON	Christ's own body on the tree
+1 Peter 3:18	he	1	GOD_FATHER	GOD_SON	Christ suffered to bring us to God
+1 Peter 3:19	he	1	GOD_FATHER	GOD_SON	Christ went and preached
+1 Peter 3:22	who	1	GOD_FATHER	GOD_SON	Jesus Christ ascended to God's right hand
+1 Peter 3:22	him	1	GOD_FATHER	GOD_SON	Christ, angels subject to him
+1 Peter 4:13	his	1	GOD_FATHER	GOD_SON	Christ's glory revealed
+2 Peter 1:16	his	1	GOD_FATHER	GOD_SON	majesty of the Lord Jesus Christ
+2 Peter 1:17	he	1	GOD_FATHER	GOD_SON	Christ received honour from the Father
+2 Peter 1:17	him	1	GOD_FATHER	GOD_SON	voice came to Christ
+2 Peter 1:17	whom	1	GOD_FATHER	GOD_SON	the beloved Son in whom Father is pleased
+2 Peter 1:18	him	1	GOD_FATHER	GOD_SON	with Christ in the holy mount
+2 Peter 3:4	his	1	PRONOUN	GOD_SON	the Lord's (Christ's) coming, mocked by scoffers
+2 Peter 3:18	him	1	PRONOUN	GOD_SON	doxology to Lord and Saviour Jesus Christ
+1 John 2:2	he	1	GOD_FATHER	GOD_SON	Jesus Christ the advocate, the propitiation
+1 John 2:6	he	1	GOD_FATHER	GOD_SON	Christ (ekeinos), "as he walked"
+1 John 2:13	him	1	GOD_FATHER	GOD_SON	him that is from the beginning = the Word (1:1)
+1 John 2:14	him	1	GOD_FATHER	GOD_SON	him that is from the beginning = the Word (1:1)
+1 John 2:25	he	1	PRONOUN	GOD_FATHER	divine promiser of eternal life (Father/Son unclear; default GF)
+1 John 2:28	he	1	GOD_FATHER	GOD_SON	Christ's appearing
+1 John 2:28	him	2	GOD_FATHER	GOD_SON	before Christ at his coming
+1 John 2:28	his	1	GOD_FATHER	GOD_SON	Christ's coming (parousia)
+1 John 3:3	him	1	PRONOUN	GOD_FATHER	hope set on the divine one (Father/Son unclear; default GF)
+1 John 3:3	he	1	GOD_FATHER	GOD_SON	Christ (ekeinos), "as he is pure"
+1 John 3:5	he	1	GOD_FATHER	GOD_SON	Christ manifested to take away sins
+1 John 3:5	him	1	GOD_FATHER	GOD_SON	Christ, in him is no sin
+1 John 3:7	he	2	PRONOUN	GOD_SON	Christ (ekeinos), "as he is righteous"
+1 John 3:8	he	1	GOD_FATHER	GOD_SON	the Son of God destroys the devil's works
+1 John 3:16	he	1	GOD_FATHER	GOD_SON	Christ laid down his life for us
+1 John 3:16	his	1	GOD_FATHER	GOD_SON	Christ's life laid down
+1 John 4:9	him	1	GOD_FATHER	GOD_SON	the only begotten Son, live through him
+1 John 4:17	he	1	GOD_FATHER	GOD_SON	Christ (ekeinos), "as he is, so are we"
+1 John 5:6	he	1	GOD_FATHER	GOD_SON	Jesus Christ came by water and blood
+3 John 1:7	his	1	PRONOUN	GOD_SON	"the Name" = Christ's name, for which they went forth

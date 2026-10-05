@@ -237394,9 +237394,9 @@ Romans 1:1,Romans,1,1,Jesus,GOD_SON,narration,0,GOD_SON
 Romans 1:1,Romans,1,1,Christ,GOD_SON,narration,0,GOD_SON
 Romans 1:1,Romans,1,1,apostle,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 1:1,Romans,1,1,God,GOD_FATHER,narration,0,GOD_FATHER
-Romans 1:2,Romans,1,2,he,GOD_SON,narration,0,GOD_SON
+Romans 1:2,Romans,1,2,he,GOD_FATHER,narration,0,GOD_SON
 Romans 1:2,Romans,1,2,afore,GENERAL_TIME,narration,0,GENERAL_TIME
-Romans 1:2,Romans,1,2,his,GOD_SON,narration,0,GOD_SON
+Romans 1:2,Romans,1,2,his,GOD_FATHER,narration,0,GOD_SON
 Romans 1:2,Romans,1,2,prophets,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 1:3,Romans,1,3,his,GOD_FATHER,narration,0,GOD_SON
 Romans 1:3,Romans,1,3,Son,GOD_SON,narration,0,GOD_SON
@@ -237512,9 +237512,9 @@ Romans 1:19,Romans,1,19,God,GOD_FATHER,narration,0,GOD_FATHER
 Romans 1:19,Romans,1,19,them,PRONOUN,narration,0,PRONOUN
 Romans 1:19,Romans,1,19,God,GOD_FATHER,narration,0,GOD_FATHER
 Romans 1:19,Romans,1,19,them,PRONOUN,narration,0,PRONOUN
-Romans 1:20,Romans,1,20,him,GOD_SON,narration,0,GOD_SON
+Romans 1:20,Romans,1,20,him,GOD_FATHER,narration,0,GOD_SON
 Romans 1:20,Romans,1,20,world,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
-Romans 1:20,Romans,1,20,his,GOD_SON,narration,0,GOD_SON
+Romans 1:20,Romans,1,20,his,GOD_FATHER,narration,0,GOD_SON
 Romans 1:20,Romans,1,20,eternal,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 1:20,Romans,1,20,Godhead,GOD_FATHER,narration,0,GOD_FATHER
 Romans 1:20,Romans,1,20,so,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -237523,7 +237523,7 @@ Romans 1:21,Romans,1,21,when,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 1:21,Romans,1,21,they,PRONOUN,narration,0,PRONOUN
 Romans 1:21,Romans,1,21,God,GOD_FATHER,narration,0,GOD_FATHER
 Romans 1:21,Romans,1,21,they,PRONOUN,narration,0,PRONOUN
-Romans 1:21,Romans,1,21,him,GOD_SON,narration,0,GOD_SON
+Romans 1:21,Romans,1,21,him,GOD_FATHER,narration,0,GOD_SON
 Romans 1:21,Romans,1,21,God,GOD_FATHER,narration,0,GOD_FATHER
 Romans 1:21,Romans,1,21,their,PRONOUN,narration,0,PRONOUN
 Romans 1:21,Romans,1,21,their,PRONOUN,narration,0,PRONOUN
@@ -237546,7 +237546,7 @@ Romans 1:25,Romans,1,25,God,GOD_FATHER,narration,0,GOD_FATHER
 Romans 1:25,Romans,1,25,creature,ANIMAL,narration,0,ANIMAL
 Romans 1:25,Romans,1,25,more,QUANTITY,narration,0,QUANTITY
 Romans 1:25,Romans,1,25,Creator,GOD_FATHER,narration,0,GOD_FATHER
-Romans 1:25,Romans,1,25,who,GOD_SON,narration,0,GOD_SON
+Romans 1:25,Romans,1,25,who,GOD_FATHER,narration,0,GOD_SON
 Romans 1:25,Romans,1,25,for,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 1:25,Romans,1,25,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 1:26,Romans,1,26,God,GOD_FATHER,narration,0,GOD_FATHER
@@ -237608,7 +237608,7 @@ Romans 2:5,Romans,2,5,thy,PRONOUN,narration,0,PRONOUN
 Romans 2:5,Romans,2,5,thyself,PRONOUN,narration,0,PRONOUN
 Romans 2:5,Romans,2,5,day,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
 Romans 2:5,Romans,2,5,God,GOD_FATHER,narration,0,GOD_FATHER
-Romans 2:6,Romans,2,6,who,PRONOUN,narration,0,PRONOUN
+Romans 2:6,Romans,2,6,who,GOD_FATHER,narration,0,PRONOUN
 Romans 2:6,Romans,2,6,every,QUANTITY,narration,0,QUANTITY
 Romans 2:6,Romans,2,6,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 2:6,Romans,2,6,his,PRONOUN,narration,0,PRONOUN
@@ -237708,10 +237708,10 @@ Romans 3:4,Romans,3,4,God,GOD_FATHER,narration,0,GOD_FATHER
 Romans 3:4,Romans,3,4,every,QUANTITY,narration,0,QUANTITY
 Romans 3:4,Romans,3,4,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 3:4,Romans,3,4,liar,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Romans 3:4,Romans,3,4,thou,PRONOUN,quote,0,PRONOUN
-Romans 3:4,Romans,3,4,thy,PRONOUN,quote,0,PRONOUN
+Romans 3:4,Romans,3,4,thou,GOD_FATHER,quote,0,PRONOUN
+Romans 3:4,Romans,3,4,thy,GOD_FATHER,quote,0,PRONOUN
 Romans 3:4,Romans,3,4,when,GENERAL_TIME,quote,0,GENERAL_TIME
-Romans 3:4,Romans,3,4,thou,PRONOUN,quote,0,PRONOUN
+Romans 3:4,Romans,3,4,thou,GOD_FATHER,quote,0,PRONOUN
 Romans 3:5,Romans,3,5,our,PRONOUN,narration,0,PRONOUN
 Romans 3:5,Romans,3,5,God,GOD_FATHER,narration,0,GOD_FATHER
 Romans 3:5,Romans,3,5,we,PRONOUN,narration,0,PRONOUN
@@ -237794,9 +237794,9 @@ Romans 3:23,Romans,3,23,God,GOD_FATHER,narration,0,GOD_FATHER
 Romans 3:24,Romans,3,24,his,GOD_FATHER,narration,0,GOD_FATHER
 Romans 3:24,Romans,3,24,Christ,GOD_SON,narration,0,GOD_SON
 Romans 3:24,Romans,3,24,Jesus,GOD_SON,narration,0,GOD_SON
-Romans 3:25,Romans,3,25,whom,PRONOUN,narration,0,PRONOUN
+Romans 3:25,Romans,3,25,whom,GOD_SON,narration,0,PRONOUN
 Romans 3:25,Romans,3,25,God,GOD_FATHER,narration,0,GOD_FATHER
-Romans 3:25,Romans,3,25,his,GOD_FATHER,narration,0,GOD_FATHER
+Romans 3:25,Romans,3,25,his,GOD_SON,narration,0,GOD_FATHER
 Romans 3:25,Romans,3,25,his,GOD_FATHER,narration,0,GOD_FATHER
 Romans 3:25,Romans,3,25,past,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 3:25,Romans,3,25,God,GOD_FATHER,narration,0,GOD_FATHER
@@ -237836,7 +237836,7 @@ Romans 4:3,Romans,4,3,him,PRONOUN,quote,0,PRONOUN
 Romans 4:4,Romans,4,4,Now,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 4:4,Romans,4,4,him,PRONOUN,narration,0,PRONOUN
 Romans 4:5,Romans,4,5,him,PRONOUN,narration,0,PRONOUN
-Romans 4:5,Romans,4,5,him,PRONOUN,narration,0,PRONOUN
+Romans 4:5,Romans,4,5,him,GOD_FATHER,narration,0,PRONOUN
 Romans 4:5,Romans,4,5,his,PRONOUN,narration,0,PRONOUN
 Romans 4:6,Romans,4,6,David,PROPER_PERSON,narration,0,PROPER_PERSON
 Romans 4:6,Romans,4,6,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -237895,7 +237895,7 @@ Romans 4:17,Romans,4,17,many,QUANTITY,quote,0,QUANTITY
 Romans 4:17,Romans,4,17,nations,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Romans 4:17,Romans,4,17,before,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Romans 4:17,Romans,4,17,him,GOD_FATHER,narration,0,GOD_FATHER
-Romans 4:17,Romans,4,17,whom,PRONOUN,narration,0,PRONOUN
+Romans 4:17,Romans,4,17,whom,GOD_FATHER,narration,0,PRONOUN
 Romans 4:17,Romans,4,17,he,PRONOUN,narration,0,PRONOUN
 Romans 4:17,Romans,4,17,God,GOD_FATHER,narration,0,GOD_FATHER
 Romans 4:17,Romans,4,17,who,GOD_FATHER,narration,0,GOD_FATHER
@@ -237934,7 +237934,7 @@ Romans 4:24,Romans,4,24,Jesus,GOD_SON,narration,0,GOD_SON
 Romans 4:24,Romans,4,24,our,PRONOUN,narration,0,PRONOUN
 Romans 4:24,Romans,4,24,Lord,GOD_FATHER,narration,0,GOD_FATHER
 Romans 4:24,Romans,4,24,dead,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Romans 4:25,Romans,4,25,who,PRONOUN,narration,0,PRONOUN
+Romans 4:25,Romans,4,25,who,GOD_SON,narration,0,PRONOUN
 Romans 4:25,Romans,4,25,our,PRONOUN,narration,0,PRONOUN
 Romans 4:25,Romans,4,25,again,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 4:25,Romans,4,25,our,PRONOUN,narration,0,PRONOUN
@@ -237944,7 +237944,7 @@ Romans 5:1,Romans,5,1,our,PRONOUN,narration,0,PRONOUN
 Romans 5:1,Romans,5,1,Lord,GOD_FATHER,narration,0,GOD_FATHER
 Romans 5:1,Romans,5,1,Jesus,GOD_SON,narration,0,GOD_SON
 Romans 5:1,Romans,5,1,Christ,GOD_SON,narration,0,GOD_SON
-Romans 5:2,Romans,5,2,whom,GOD_FATHER,narration,0,GOD_FATHER
+Romans 5:2,Romans,5,2,whom,GOD_SON,narration,0,GOD_FATHER
 Romans 5:2,Romans,5,2,we,PRONOUN,narration,0,PRONOUN
 Romans 5:2,Romans,5,2,wherein,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Romans 5:2,Romans,5,2,we,PRONOUN,narration,0,PRONOUN
@@ -237976,9 +237976,9 @@ Romans 5:8,Romans,5,8,Christ,GOD_SON,narration,0,GOD_SON
 Romans 5:8,Romans,5,8,us,PRONOUN,narration,0,PRONOUN
 Romans 5:9,Romans,5,9,more,QUANTITY,narration,0,QUANTITY
 Romans 5:9,Romans,5,9,now,GENERAL_TIME,narration,0,GENERAL_TIME
-Romans 5:9,Romans,5,9,his,GOD_FATHER,narration,0,GOD_FATHER
+Romans 5:9,Romans,5,9,his,GOD_SON,narration,0,GOD_FATHER
 Romans 5:9,Romans,5,9,we,PRONOUN,narration,0,PRONOUN
-Romans 5:9,Romans,5,9,him,GOD_FATHER,narration,0,GOD_FATHER
+Romans 5:9,Romans,5,9,him,GOD_SON,narration,0,GOD_FATHER
 Romans 5:10,Romans,5,10,when,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 5:10,Romans,5,10,we,PRONOUN,narration,0,PRONOUN
 Romans 5:10,Romans,5,10,enemies,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -237989,7 +237989,7 @@ Romans 5:10,Romans,5,10,Son,GOD_SON,narration,0,GOD_SON
 Romans 5:10,Romans,5,10,much,QUANTITY,narration,0,QUANTITY
 Romans 5:10,Romans,5,10,more,QUANTITY,narration,0,QUANTITY
 Romans 5:10,Romans,5,10,we,PRONOUN,narration,0,PRONOUN
-Romans 5:10,Romans,5,10,his,GOD_FATHER,narration,0,GOD_FATHER
+Romans 5:10,Romans,5,10,his,GOD_SON,narration,0,GOD_FATHER
 Romans 5:11,Romans,5,11,only,QUANTITY,narration,0,QUANTITY
 Romans 5:11,Romans,5,11,so,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 5:11,Romans,5,11,we,PRONOUN,narration,0,PRONOUN
@@ -237998,7 +237998,7 @@ Romans 5:11,Romans,5,11,our,PRONOUN,narration,0,PRONOUN
 Romans 5:11,Romans,5,11,Lord,GOD_FATHER,narration,0,GOD_FATHER
 Romans 5:11,Romans,5,11,Jesus,GOD_SON,narration,0,GOD_SON
 Romans 5:11,Romans,5,11,Christ,GOD_SON,narration,0,GOD_SON
-Romans 5:11,Romans,5,11,whom,GOD_FATHER,narration,0,GOD_FATHER
+Romans 5:11,Romans,5,11,whom,GOD_SON,narration,0,GOD_FATHER
 Romans 5:11,Romans,5,11,we,PRONOUN,narration,0,PRONOUN
 Romans 5:11,Romans,5,11,now,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 5:12,Romans,5,12,one,QUANTITY,narration,0,QUANTITY
@@ -238016,7 +238016,7 @@ Romans 5:14,Romans,5,14,Moses,PROPER_PERSON,narration,0,PROPER_PERSON
 Romans 5:14,Romans,5,14,them,PRONOUN,narration,0,PRONOUN
 Romans 5:14,Romans,5,14,Adam’s,PROPER_PERSON,narration,0,PROPER_PERSON
 Romans 5:14,Romans,5,14,who,PRONOUN,narration,0,PRONOUN
-Romans 5:14,Romans,5,14,him,GOD_FATHER,narration,0,GOD_FATHER
+Romans 5:14,Romans,5,14,him,GOD_SON,narration,0,GOD_FATHER
 Romans 5:15,Romans,5,15,so,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 5:15,Romans,5,15,one,QUANTITY,narration,0,QUANTITY
 Romans 5:15,Romans,5,15,many,QUANTITY,narration,0,QUANTITY
@@ -238076,22 +238076,22 @@ Romans 6:3,Romans,6,3,many,QUANTITY,narration,0,QUANTITY
 Romans 6:3,Romans,6,3,us,PRONOUN,narration,0,PRONOUN
 Romans 6:3,Romans,6,3,Jesus,GOD_SON,narration,0,GOD_SON
 Romans 6:3,Romans,6,3,Christ,GOD_SON,narration,0,GOD_SON
-Romans 6:3,Romans,6,3,his,GOD_FATHER,narration,0,GOD_FATHER
+Romans 6:3,Romans,6,3,his,GOD_SON,narration,0,GOD_FATHER
 Romans 6:4,Romans,6,4,we,PRONOUN,narration,0,PRONOUN
-Romans 6:4,Romans,6,4,him,GOD_FATHER,narration,0,GOD_FATHER
+Romans 6:4,Romans,6,4,him,GOD_SON,narration,0,GOD_FATHER
 Romans 6:4,Romans,6,4,Christ,GOD_SON,narration,0,GOD_SON
 Romans 6:4,Romans,6,4,dead,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 6:4,Romans,6,4,Father,GOD_FATHER,narration,0,GOD_FATHER
 Romans 6:4,Romans,6,4,so,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 6:4,Romans,6,4,we,PRONOUN,narration,0,PRONOUN
 Romans 6:5,Romans,6,5,we,PRONOUN,narration,0,PRONOUN
-Romans 6:5,Romans,6,5,his,GOD_FATHER,narration,0,GOD_FATHER
+Romans 6:5,Romans,6,5,his,GOD_SON,narration,0,GOD_FATHER
 Romans 6:5,Romans,6,5,we,PRONOUN,narration,0,PRONOUN
-Romans 6:5,Romans,6,5,his,GOD_FATHER,narration,0,GOD_FATHER
+Romans 6:5,Romans,6,5,his,GOD_SON,narration,0,GOD_FATHER
 Romans 6:6,Romans,6,6,our,PRONOUN,narration,0,PRONOUN
 Romans 6:6,Romans,6,6,old,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 6:6,Romans,6,6,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Romans 6:6,Romans,6,6,him,GOD_FATHER,narration,0,GOD_FATHER
+Romans 6:6,Romans,6,6,him,GOD_SON,narration,0,GOD_FATHER
 Romans 6:6,Romans,6,6,henceforth,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 6:6,Romans,6,6,we,PRONOUN,narration,0,PRONOUN
 Romans 6:7,Romans,6,7,he,PRONOUN,narration,0,PRONOUN
@@ -238100,18 +238100,18 @@ Romans 6:8,Romans,6,8,we,PRONOUN,narration,0,PRONOUN
 Romans 6:8,Romans,6,8,Christ,GOD_SON,narration,0,GOD_SON
 Romans 6:8,Romans,6,8,we,PRONOUN,narration,0,PRONOUN
 Romans 6:8,Romans,6,8,we,PRONOUN,narration,0,PRONOUN
-Romans 6:8,Romans,6,8,him,GOD_FATHER,narration,0,GOD_FATHER
+Romans 6:8,Romans,6,8,him,GOD_SON,narration,0,GOD_FATHER
 Romans 6:9,Romans,6,9,Christ,GOD_SON,narration,0,GOD_SON
 Romans 6:9,Romans,6,9,dead,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 6:9,Romans,6,9,more,QUANTITY,narration,0,QUANTITY
 Romans 6:9,Romans,6,9,no,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 6:9,Romans,6,9,more,GENERAL_TIME,narration,0,GENERAL_TIME
-Romans 6:9,Romans,6,9,him,GOD_FATHER,narration,0,GOD_FATHER
-Romans 6:10,Romans,6,10,he,GOD_FATHER,narration,0,GOD_FATHER
-Romans 6:10,Romans,6,10,he,GOD_FATHER,narration,0,GOD_FATHER
+Romans 6:9,Romans,6,9,him,GOD_SON,narration,0,GOD_FATHER
+Romans 6:10,Romans,6,10,he,GOD_SON,narration,0,GOD_FATHER
+Romans 6:10,Romans,6,10,he,GOD_SON,narration,0,GOD_FATHER
 Romans 6:10,Romans,6,10,once,GENERAL_TIME,narration,0,GENERAL_TIME
-Romans 6:10,Romans,6,10,he,GOD_FATHER,narration,0,GOD_FATHER
-Romans 6:10,Romans,6,10,he,GOD_FATHER,narration,0,GOD_FATHER
+Romans 6:10,Romans,6,10,he,GOD_SON,narration,0,GOD_FATHER
+Romans 6:10,Romans,6,10,he,GOD_SON,narration,0,GOD_FATHER
 Romans 6:10,Romans,6,10,God,GOD_FATHER,narration,0,GOD_FATHER
 Romans 6:11,Romans,6,11,ye,PRONOUN,narration,0,PRONOUN
 Romans 6:11,Romans,6,11,yourselves,PRONOUN,narration,0,PRONOUN
@@ -238227,8 +238227,8 @@ Romans 7:4,Romans,7,4,brethren,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 7:4,Romans,7,4,ye,PRONOUN,narration,0,PRONOUN
 Romans 7:4,Romans,7,4,Christ,GOD_SON,narration,0,GOD_SON
 Romans 7:4,Romans,7,4,ye,PRONOUN,narration,0,PRONOUN
-Romans 7:4,Romans,7,4,him,GOD_FATHER,narration,0,GOD_FATHER
-Romans 7:4,Romans,7,4,who,GOD_FATHER,narration,0,GOD_FATHER
+Romans 7:4,Romans,7,4,him,GOD_SON,narration,0,GOD_FATHER
+Romans 7:4,Romans,7,4,who,GOD_SON,narration,0,GOD_FATHER
 Romans 7:4,Romans,7,4,dead,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 7:4,Romans,7,4,we,PRONOUN,narration,0,PRONOUN
 Romans 7:4,Romans,7,4,fruit,PLANT,narration,0,PLANT
@@ -238355,7 +238355,7 @@ Romans 8:9,Romans,8,9,Spirit,GOD_SPIRIT,narration,0,GOD_SPIRIT
 Romans 8:9,Romans,8,9,Christ,GOD_SON,narration,0,GOD_SON
 Romans 8:9,Romans,8,9,he,PRONOUN,narration,0,PRONOUN
 Romans 8:9,Romans,8,9,none,QUANTITY,narration,0,QUANTITY
-Romans 8:9,Romans,8,9,his,GOD_FATHER,narration,0,GOD_FATHER
+Romans 8:9,Romans,8,9,his,GOD_SON,narration,0,GOD_FATHER
 Romans 8:10,Romans,8,10,Christ,GOD_SON,narration,0,GOD_SON
 Romans 8:10,Romans,8,10,you,PRONOUN,narration,0,PRONOUN
 Romans 8:10,Romans,8,10,Spirit,GOD_SPIRIT,narration,0,GOD_SPIRIT
@@ -238405,7 +238405,7 @@ Romans 8:17,Romans,8,17,heirs,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 8:17,Romans,8,17,Christ,GOD_SON,narration,0,GOD_SON
 Romans 8:17,Romans,8,17,so,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 8:17,Romans,8,17,we,PRONOUN,narration,0,PRONOUN
-Romans 8:17,Romans,8,17,him,GOD_FATHER,narration,0,GOD_FATHER
+Romans 8:17,Romans,8,17,him,GOD_SON,narration,0,GOD_FATHER
 Romans 8:17,Romans,8,17,we,PRONOUN,narration,0,PRONOUN
 Romans 8:18,Romans,8,18,I,PRONOUN,narration,0,PRONOUN
 Romans 8:18,Romans,8,18,time,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
@@ -238414,8 +238414,8 @@ Romans 8:19,Romans,8,19,creature,ANIMAL,narration,0,ANIMAL
 Romans 8:19,Romans,8,19,sons,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 8:19,Romans,8,19,God,GOD_FATHER,narration,0,GOD_FATHER
 Romans 8:20,Romans,8,20,creature,ANIMAL,narration,0,ANIMAL
-Romans 8:20,Romans,8,20,him,PRONOUN,narration,0,PRONOUN
-Romans 8:20,Romans,8,20,who,PRONOUN,narration,0,PRONOUN
+Romans 8:20,Romans,8,20,him,GOD_FATHER,narration,0,PRONOUN
+Romans 8:20,Romans,8,20,who,GOD_FATHER,narration,0,PRONOUN
 Romans 8:21,Romans,8,21,creature,ANIMAL,narration,0,ANIMAL
 Romans 8:21,Romans,8,21,children,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 8:21,Romans,8,21,God,GOD_FATHER,narration,0,GOD_FATHER
@@ -238446,7 +238446,7 @@ Romans 8:26,Romans,8,26,Spirit,GOD_SPIRIT,narration,0,GOD_SPIRIT
 Romans 8:26,Romans,8,26,us,PRONOUN,narration,0,PRONOUN
 Romans 8:27,Romans,8,27,he,GOD_FATHER,narration,0,GOD_FATHER
 Romans 8:27,Romans,8,27,Spirit,GOD_SPIRIT,narration,0,GOD_SPIRIT
-Romans 8:27,Romans,8,27,he,GOD_FATHER,narration,0,GOD_FATHER
+Romans 8:27,Romans,8,27,he,GOD_SPIRIT,narration,0,GOD_FATHER
 Romans 8:27,Romans,8,27,saints,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 8:27,Romans,8,27,God,GOD_FATHER,narration,0,GOD_FATHER
 Romans 8:28,Romans,8,28,we,PRONOUN,narration,0,PRONOUN
@@ -238461,7 +238461,7 @@ Romans 8:29,Romans,8,29,he,GOD_FATHER,narration,0,GOD_FATHER
 Romans 8:29,Romans,8,29,he,GOD_FATHER,narration,0,GOD_FATHER
 Romans 8:29,Romans,8,29,his,GOD_FATHER,narration,0,GOD_FATHER
 Romans 8:29,Romans,8,29,Son,GOD_SON,narration,0,GOD_SON
-Romans 8:29,Romans,8,29,he,GOD_FATHER,narration,0,GOD_FATHER
+Romans 8:29,Romans,8,29,he,GOD_SON,narration,0,GOD_FATHER
 Romans 8:29,Romans,8,29,firstborn,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 8:29,Romans,8,29,many,QUANTITY,narration,0,QUANTITY
 Romans 8:29,Romans,8,29,brethren,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -238482,14 +238482,14 @@ Romans 8:31,Romans,8,31,God,GOD_FATHER,narration,0,GOD_FATHER
 Romans 8:31,Romans,8,31,us,PRONOUN,narration,0,PRONOUN
 Romans 8:31,Romans,8,31,who,PRONOUN,narration,0,PRONOUN
 Romans 8:31,Romans,8,31,us,PRONOUN,narration,0,PRONOUN
-Romans 8:32,Romans,8,32,He,PRONOUN,narration,0,PRONOUN
+Romans 8:32,Romans,8,32,He,GOD_FATHER,narration,0,PRONOUN
 Romans 8:32,Romans,8,32,his,GOD_FATHER,narration,0,GOD_FATHER
 Romans 8:32,Romans,8,32,Son,GOD_SON,narration,0,GOD_SON
-Romans 8:32,Romans,8,32,him,GOD_FATHER,narration,0,GOD_FATHER
+Romans 8:32,Romans,8,32,him,GOD_SON,narration,0,GOD_FATHER
 Romans 8:32,Romans,8,32,us,PRONOUN,narration,0,PRONOUN
 Romans 8:32,Romans,8,32,all,QUANTITY,narration,0,QUANTITY
 Romans 8:32,Romans,8,32,he,GOD_FATHER,narration,0,GOD_FATHER
-Romans 8:32,Romans,8,32,him,GOD_FATHER,narration,0,GOD_FATHER
+Romans 8:32,Romans,8,32,him,GOD_SON,narration,0,GOD_FATHER
 Romans 8:32,Romans,8,32,us,PRONOUN,narration,0,PRONOUN
 Romans 8:32,Romans,8,32,all,QUANTITY,narration,0,QUANTITY
 Romans 8:33,Romans,8,33,Who,PRONOUN,narration,0,PRONOUN
@@ -238500,21 +238500,21 @@ Romans 8:34,Romans,8,34,Who,PRONOUN,narration,0,PRONOUN
 Romans 8:34,Romans,8,34,he,PRONOUN,narration,0,PRONOUN
 Romans 8:34,Romans,8,34,Christ,GOD_SON,narration,0,GOD_SON
 Romans 8:34,Romans,8,34,again,GENERAL_TIME,narration,0,GENERAL_TIME
-Romans 8:34,Romans,8,34,who,GOD_FATHER,narration,0,GOD_FATHER
+Romans 8:34,Romans,8,34,who,GOD_SON,narration,0,GOD_FATHER
 Romans 8:34,Romans,8,34,right,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Romans 8:34,Romans,8,34,hand,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Romans 8:34,Romans,8,34,God,GOD_FATHER,narration,0,GOD_FATHER
-Romans 8:34,Romans,8,34,who,GOD_FATHER,narration,0,GOD_FATHER
+Romans 8:34,Romans,8,34,who,GOD_SON,narration,0,GOD_FATHER
 Romans 8:34,Romans,8,34,us,PRONOUN,narration,0,PRONOUN
 Romans 8:35,Romans,8,35,Who,PRONOUN,narration,0,PRONOUN
 Romans 8:35,Romans,8,35,us,PRONOUN,narration,0,PRONOUN
 Romans 8:35,Romans,8,35,Christ,GOD_SON,narration,0,GOD_SON
-Romans 8:36,Romans,8,36,thy,PRONOUN,quote,0,PRONOUN
-Romans 8:36,Romans,8,36,we,GOD_FATHER,quote,0,GOD_FATHER
+Romans 8:36,Romans,8,36,thy,GOD_FATHER,quote,0,PRONOUN
+Romans 8:36,Romans,8,36,we,PRONOUN,quote,0,GOD_FATHER
 Romans 8:36,Romans,8,36,all,QUANTITY,quote,0,QUANTITY
 Romans 8:36,Romans,8,36,day,SPECIFIC_TIME,quote,0,SPECIFIC_TIME
 Romans 8:36,Romans,8,36,long,GENERAL_TIME,quote,0,GENERAL_TIME
-Romans 8:36,Romans,8,36,we,GOD_FATHER,quote,0,GOD_FATHER
+Romans 8:36,Romans,8,36,we,PRONOUN,quote,0,GOD_FATHER
 Romans 8:36,Romans,8,36,sheep,ANIMAL,quote,0,ANIMAL
 Romans 8:37,Romans,8,37,all,QUANTITY,narration,0,QUANTITY
 Romans 8:37,Romans,8,37,we,PRONOUN,narration,0,PRONOUN
@@ -238557,7 +238557,7 @@ Romans 9:5,Romans,9,5,whose,PRONOUN,narration,0,PRONOUN
 Romans 9:5,Romans,9,5,fathers,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 9:5,Romans,9,5,whom,PRONOUN,narration,0,PRONOUN
 Romans 9:5,Romans,9,5,Christ,GOD_SON,narration,0,GOD_SON
-Romans 9:5,Romans,9,5,who,GOD_FATHER,narration,0,GOD_FATHER
+Romans 9:5,Romans,9,5,who,GOD_SON,narration,0,GOD_FATHER
 Romans 9:5,Romans,9,5,all,QUANTITY,narration,0,QUANTITY
 Romans 9:5,Romans,9,5,God,GOD_FATHER,narration,0,GOD_FATHER
 Romans 9:5,Romans,9,5,for,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -238710,7 +238710,7 @@ Romans 9:32,Romans,9,32,they,PRONOUN,narration,0,PRONOUN
 Romans 9:33,Romans,9,33,I,GOD_FATHER,quote,0,GOD_FATHER
 Romans 9:33,Romans,9,33,Sion,PROPER_PLACE,quote,0,PROPER_PLACE
 Romans 9:33,Romans,9,33,whosoever,PRONOUN,quote,0,PRONOUN
-Romans 9:33,Romans,9,33,him,GOD_FATHER,quote,0,GOD_FATHER
+Romans 9:33,Romans,9,33,him,GOD_SON,quote,0,GOD_FATHER
 Romans 10:1,Romans,10,1,Brethren,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 10:1,Romans,10,1,my,PRONOUN,narration,0,PRONOUN
 Romans 10:1,Romans,10,1,God,GOD_FATHER,narration,0,GOD_FATHER
@@ -238757,7 +238757,7 @@ Romans 10:9,Romans,10,9,dead,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 10:9,Romans,10,9,thou,PRONOUN,narration,0,PRONOUN
 Romans 10:10,Romans,10,10,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 10:11,Romans,10,11,Whosoever,PRONOUN,quote,0,PRONOUN
-Romans 10:11,Romans,10,11,him,GOD_FATHER,quote,0,GOD_FATHER
+Romans 10:11,Romans,10,11,him,GOD_SON,quote,0,GOD_FATHER
 Romans 10:12,Romans,10,12,Jew,PEOPLE_GROUP,narration,0,PEOPLE_GROUP
 Romans 10:12,Romans,10,12,Greek,PEOPLE_GROUP,narration,0,PEOPLE_GROUP
 Romans 10:12,Romans,10,12,Lord,GOD_FATHER,narration,0,GOD_FATHER
@@ -238768,11 +238768,11 @@ Romans 10:13,Romans,10,13,whosoever,PRONOUN,narration,0,PRONOUN
 Romans 10:13,Romans,10,13,Lord,GOD_FATHER,narration,0,GOD_FATHER
 Romans 10:14,Romans,10,14,they,PRONOUN,narration,0,PRONOUN
 Romans 10:14,Romans,10,14,him,GOD_FATHER,narration,0,GOD_FATHER
-Romans 10:14,Romans,10,14,whom,PRONOUN,narration,0,PRONOUN
+Romans 10:14,Romans,10,14,whom,GOD_FATHER,narration,0,PRONOUN
 Romans 10:14,Romans,10,14,they,PRONOUN,narration,0,PRONOUN
 Romans 10:14,Romans,10,14,they,PRONOUN,narration,0,PRONOUN
 Romans 10:14,Romans,10,14,him,GOD_FATHER,narration,0,GOD_FATHER
-Romans 10:14,Romans,10,14,whom,PRONOUN,narration,0,PRONOUN
+Romans 10:14,Romans,10,14,whom,GOD_FATHER,narration,0,PRONOUN
 Romans 10:14,Romans,10,14,they,PRONOUN,narration,0,PRONOUN
 Romans 10:14,Romans,10,14,they,PRONOUN,narration,0,PRONOUN
 Romans 10:14,Romans,10,14,preacher,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -238809,10 +238809,10 @@ Romans 10:20,Romans,10,20,Esaias,PROPER_PERSON,narration,0,PROPER_PERSON
 Romans 10:20,Romans,10,20,very,QUANTITY,narration,0,QUANTITY
 Romans 10:20,Romans,10,20,I,GOD_FATHER,quote,0,GOD_FATHER
 Romans 10:20,Romans,10,20,them,PRONOUN,quote,0,PRONOUN
-Romans 10:20,Romans,10,20,me,PRONOUN,quote,0,PRONOUN
+Romans 10:20,Romans,10,20,me,GOD_FATHER,quote,0,PRONOUN
 Romans 10:20,Romans,10,20,I,GOD_FATHER,quote,0,GOD_FATHER
 Romans 10:20,Romans,10,20,them,PRONOUN,quote,0,PRONOUN
-Romans 10:20,Romans,10,20,me,PRONOUN,quote,0,PRONOUN
+Romans 10:20,Romans,10,20,me,GOD_FATHER,quote,0,PRONOUN
 Romans 10:21,Romans,10,21,Israel,PEOPLE_GROUP,narration,0,PEOPLE_GROUP
 Romans 10:21,Romans,10,21,he,PRONOUN,narration,0,PRONOUN
 Romans 10:21,Romans,10,21,All,QUANTITY,quote,0,QUANTITY
@@ -238854,7 +238854,7 @@ Romans 11:3,Romans,11,3,my,PRONOUN,quote,0,PRONOUN
 Romans 11:4,Romans,11,4,God,GOD_FATHER,narration,0,GOD_FATHER
 Romans 11:4,Romans,11,4,him,PRONOUN,narration,0,PRONOUN
 Romans 11:4,Romans,11,4,I,GOD_FATHER,quote,0,GOD_FATHER
-Romans 11:4,Romans,11,4,myself,PRONOUN,quote,0,PRONOUN
+Romans 11:4,Romans,11,4,myself,GOD_FATHER,quote,0,PRONOUN
 Romans 11:4,Romans,11,4,"7,000",NUMBER,quote,0,NUMBER
 Romans 11:4,Romans,11,4,men,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Romans 11:4,Romans,11,4,who,PRONOUN,quote,0,PRONOUN
@@ -239251,7 +239251,7 @@ Romans 14:8,Romans,14,8,we,PRONOUN,narration,0,PRONOUN
 Romans 14:8,Romans,14,8,Lord’s,GOD_FATHER,narration,0,GOD_FATHER
 Romans 14:9,Romans,14,9,Christ,GOD_SON,narration,0,GOD_SON
 Romans 14:9,Romans,14,9,both,QUANTITY,narration,0,QUANTITY
-Romans 14:9,Romans,14,9,he,GOD_FATHER,narration,0,GOD_FATHER
+Romans 14:9,Romans,14,9,he,GOD_SON,narration,0,GOD_FATHER
 Romans 14:9,Romans,14,9,Lord,GOD_FATHER,narration,0,GOD_FATHER
 Romans 14:9,Romans,14,9,both,QUANTITY,narration,0,QUANTITY
 Romans 14:9,Romans,14,9,dead,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -239270,7 +239270,7 @@ Romans 14:10,Romans,14,10,Christ,GOD_SON,narration,0,GOD_SON
 Romans 14:11,Romans,14,11,I,GOD_FATHER,quote,0,GOD_FATHER
 Romans 14:11,Romans,14,11,LORD,GOD_FATHER,quote,0,GOD_FATHER
 Romans 14:11,Romans,14,11,every,QUANTITY,quote,0,QUANTITY
-Romans 14:11,Romans,14,11,me,PRONOUN,quote,0,PRONOUN
+Romans 14:11,Romans,14,11,me,GOD_FATHER,quote,0,PRONOUN
 Romans 14:11,Romans,14,11,every,QUANTITY,quote,0,QUANTITY
 Romans 14:11,Romans,14,11,God,GOD_FATHER,quote,0,GOD_FATHER
 Romans 14:12,Romans,14,12,every,QUANTITY,narration,0,QUANTITY
@@ -239332,10 +239332,10 @@ Romans 15:2,Romans,15,2,his,PRONOUN,narration,0,PRONOUN
 Romans 15:2,Romans,15,2,neighbour,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 15:2,Romans,15,2,his,PRONOUN,narration,0,PRONOUN
 Romans 15:3,Romans,15,3,Christ,GOD_SON,narration,0,GOD_SON
-Romans 15:3,Romans,15,3,himself,GOD_FATHER,narration,0,GOD_FATHER
+Romans 15:3,Romans,15,3,himself,GOD_SON,narration,0,GOD_FATHER
 Romans 15:3,Romans,15,3,them,PRONOUN,quote,0,PRONOUN
-Romans 15:3,Romans,15,3,thee,PRONOUN,quote,0,PRONOUN
-Romans 15:3,Romans,15,3,me,PRONOUN,quote,0,PRONOUN
+Romans 15:3,Romans,15,3,thee,GOD_FATHER,quote,0,PRONOUN
+Romans 15:3,Romans,15,3,me,GOD_SON,quote,0,PRONOUN
 Romans 15:4,Romans,15,4,aforetime,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 15:4,Romans,15,4,our,PRONOUN,narration,0,PRONOUN
 Romans 15:4,Romans,15,4,we,PRONOUN,narration,0,PRONOUN
@@ -239376,7 +239376,7 @@ Romans 15:10,Romans,15,10,again,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 15:10,Romans,15,10,he,PRONOUN,narration,0,PRONOUN
 Romans 15:10,Romans,15,10,ye,PRONOUN,quote,0,PRONOUN
 Romans 15:10,Romans,15,10,Gentiles,PEOPLE_GROUP,quote,0,PEOPLE_GROUP
-Romans 15:10,Romans,15,10,his,PRONOUN,quote,0,PRONOUN
+Romans 15:10,Romans,15,10,his,GOD_FATHER,quote,0,PRONOUN
 Romans 15:10,Romans,15,10,people,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Romans 15:11,Romans,15,11,again,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 15:11,Romans,15,11,Lord,GOD_FATHER,quote,0,GOD_FATHER
@@ -239391,9 +239391,9 @@ Romans 15:12,Romans,15,12,again,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 15:12,Romans,15,12,Esaias,PROPER_PERSON,narration,0,PROPER_PERSON
 Romans 15:12,Romans,15,12,root,PLANT,quote,0,PLANT
 Romans 15:12,Romans,15,12,Jesse,PROPER_PERSON,quote,0,PROPER_PERSON
-Romans 15:12,Romans,15,12,he,GOD_FATHER,quote,0,GOD_FATHER
+Romans 15:12,Romans,15,12,he,GOD_SON,quote,0,GOD_FATHER
 Romans 15:12,Romans,15,12,Gentiles,PEOPLE_GROUP,quote,0,PEOPLE_GROUP
-Romans 15:12,Romans,15,12,him,GOD_FATHER,quote,0,GOD_FATHER
+Romans 15:12,Romans,15,12,him,GOD_SON,quote,0,GOD_FATHER
 Romans 15:12,Romans,15,12,Gentiles,PEOPLE_GROUP,quote,0,PEOPLE_GROUP
 Romans 15:13,Romans,15,13,Now,GENERAL_TIME,narration,0,GENERAL_TIME
 Romans 15:13,Romans,15,13,God,GOD_FATHER,narration,0,GOD_FATHER
@@ -239450,7 +239450,7 @@ Romans 15:20,Romans,15,20,I,PRONOUN,narration,0,PRONOUN
 Romans 15:20,Romans,15,20,another,QUANTITY,narration,0,QUANTITY
 Romans 15:20,Romans,15,20,man’s,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Romans 15:21,Romans,15,21,whom,PRONOUN,quote,0,PRONOUN
-Romans 15:21,Romans,15,21,he,GOD_FATHER,quote,0,GOD_FATHER
+Romans 15:21,Romans,15,21,he,GOD_SON,quote,0,GOD_FATHER
 Romans 15:21,Romans,15,21,they,PRONOUN,quote,0,PRONOUN
 Romans 15:21,Romans,15,21,they,PRONOUN,quote,0,PRONOUN
 Romans 15:22,Romans,15,22,I,PRONOUN,narration,0,PRONOUN
@@ -239777,7 +239777,7 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 1:4,1 Corinthians,1,4,Christ,GOD_SON,narration,0,GOD_SON
 1 Corinthians 1:5,1 Corinthians,1,5,every,QUANTITY,narration,0,QUANTITY
 1 Corinthians 1:5,1 Corinthians,1,5,ye,PRONOUN,narration,0,PRONOUN
-1 Corinthians 1:5,1 Corinthians,1,5,him,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 1:5,1 Corinthians,1,5,him,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 1:5,1 Corinthians,1,5,all,QUANTITY,narration,0,QUANTITY
 1 Corinthians 1:5,1 Corinthians,1,5,all,QUANTITY,narration,0,QUANTITY
 1 Corinthians 1:6,1 Corinthians,1,6,Christ,GOD_SON,narration,0,GOD_SON
@@ -239789,7 +239789,7 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 1:7,1 Corinthians,1,7,Lord,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 1:7,1 Corinthians,1,7,Jesus,GOD_SON,narration,0,GOD_SON
 1 Corinthians 1:7,1 Corinthians,1,7,Christ,GOD_SON,narration,0,GOD_SON
-1 Corinthians 1:8,1 Corinthians,1,8,who,PRONOUN,narration,0,PRONOUN
+1 Corinthians 1:8,1 Corinthians,1,8,who,GOD_FATHER,narration,0,PRONOUN
 1 Corinthians 1:8,1 Corinthians,1,8,you,PRONOUN,narration,0,PRONOUN
 1 Corinthians 1:8,1 Corinthians,1,8,end,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 1:8,1 Corinthians,1,8,ye,PRONOUN,narration,0,PRONOUN
@@ -239799,7 +239799,7 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 1:8,1 Corinthians,1,8,Jesus,GOD_SON,narration,0,GOD_SON
 1 Corinthians 1:8,1 Corinthians,1,8,Christ,GOD_SON,narration,0,GOD_SON
 1 Corinthians 1:9,1 Corinthians,1,9,God,GOD_FATHER,narration,0,GOD_FATHER
-1 Corinthians 1:9,1 Corinthians,1,9,whom,PRONOUN,narration,0,PRONOUN
+1 Corinthians 1:9,1 Corinthians,1,9,whom,GOD_FATHER,narration,0,PRONOUN
 1 Corinthians 1:9,1 Corinthians,1,9,ye,PRONOUN,narration,0,PRONOUN
 1 Corinthians 1:9,1 Corinthians,1,9,his,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 1:9,1 Corinthians,1,9,Son,GOD_SON,narration,0,GOD_SON
@@ -239920,7 +239920,7 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 1:30,1 Corinthians,1,30,ye,PRONOUN,narration,0,PRONOUN
 1 Corinthians 1:30,1 Corinthians,1,30,Christ,GOD_SON,narration,0,GOD_SON
 1 Corinthians 1:30,1 Corinthians,1,30,Jesus,GOD_SON,narration,0,GOD_SON
-1 Corinthians 1:30,1 Corinthians,1,30,who,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 1:30,1 Corinthians,1,30,who,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 1:30,1 Corinthians,1,30,God,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 1:30,1 Corinthians,1,30,us,PRONOUN,narration,0,PRONOUN
 1 Corinthians 1:31,1 Corinthians,1,31,He,PRONOUN,quote,0,PRONOUN
@@ -239937,7 +239937,7 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 2:2,1 Corinthians,2,2,you,PRONOUN,narration,0,PRONOUN
 1 Corinthians 2:2,1 Corinthians,2,2,Jesus,GOD_SON,narration,0,GOD_SON
 1 Corinthians 2:2,1 Corinthians,2,2,Christ,GOD_SON,narration,0,GOD_SON
-1 Corinthians 2:2,1 Corinthians,2,2,him,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 2:2,1 Corinthians,2,2,him,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 2:3,1 Corinthians,2,3,I,PRONOUN,narration,0,PRONOUN
 1 Corinthians 2:3,1 Corinthians,2,3,you,PRONOUN,narration,0,PRONOUN
 1 Corinthians 2:3,1 Corinthians,2,3,much,QUANTITY,narration,0,QUANTITY
@@ -240161,14 +240161,14 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 4:4,1 Corinthians,4,4,I,PRONOUN,narration,0,PRONOUN
 1 Corinthians 4:4,1 Corinthians,4,4,myself,PRONOUN,narration,0,PRONOUN
 1 Corinthians 4:4,1 Corinthians,4,4,I,PRONOUN,narration,0,PRONOUN
-1 Corinthians 4:4,1 Corinthians,4,4,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 4:4,1 Corinthians,4,4,he,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 4:4,1 Corinthians,4,4,me,PRONOUN,narration,0,PRONOUN
 1 Corinthians 4:4,1 Corinthians,4,4,Lord,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 4:5,1 Corinthians,4,5,before,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 4:5,1 Corinthians,4,5,time,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
 1 Corinthians 4:5,1 Corinthians,4,5,until,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 4:5,1 Corinthians,4,5,Lord,GOD_FATHER,narration,0,GOD_FATHER
-1 Corinthians 4:5,1 Corinthians,4,5,who,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 4:5,1 Corinthians,4,5,who,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 4:5,1 Corinthians,4,5,both,QUANTITY,narration,0,QUANTITY
 1 Corinthians 4:5,1 Corinthians,4,5,every,QUANTITY,narration,0,QUANTITY
 1 Corinthians 4:5,1 Corinthians,4,5,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -240763,10 +240763,10 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 8:6,1 Corinthians,8,6,Lord,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 8:6,1 Corinthians,8,6,Jesus,GOD_SON,narration,0,GOD_SON
 1 Corinthians 8:6,1 Corinthians,8,6,Christ,GOD_SON,narration,0,GOD_SON
-1 Corinthians 8:6,1 Corinthians,8,6,whom,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 8:6,1 Corinthians,8,6,whom,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 8:6,1 Corinthians,8,6,all,QUANTITY,narration,0,QUANTITY
 1 Corinthians 8:6,1 Corinthians,8,6,we,PRONOUN,narration,0,PRONOUN
-1 Corinthians 8:6,1 Corinthians,8,6,him,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 8:6,1 Corinthians,8,6,him,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 8:7,1 Corinthians,8,7,every,QUANTITY,narration,0,QUANTITY
 1 Corinthians 8:7,1 Corinthians,8,7,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 Corinthians 8:7,1 Corinthians,8,7,some,QUANTITY,narration,0,QUANTITY
@@ -241033,7 +241033,7 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 10:13,1 Corinthians,10,13,you,PRONOUN,narration,0,PRONOUN
 1 Corinthians 10:13,1 Corinthians,10,13,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 Corinthians 10:13,1 Corinthians,10,13,God,GOD_FATHER,narration,0,GOD_FATHER
-1 Corinthians 10:13,1 Corinthians,10,13,who,PRONOUN,narration,0,PRONOUN
+1 Corinthians 10:13,1 Corinthians,10,13,who,GOD_FATHER,narration,0,PRONOUN
 1 Corinthians 10:13,1 Corinthians,10,13,you,PRONOUN,narration,0,PRONOUN
 1 Corinthians 10:13,1 Corinthians,10,13,ye,PRONOUN,narration,0,PRONOUN
 1 Corinthians 10:13,1 Corinthians,10,13,ye,PRONOUN,narration,0,PRONOUN
@@ -241258,17 +241258,17 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 11:23,1 Corinthians,11,23,Lord,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 11:23,1 Corinthians,11,23,Jesus,GOD_SON,narration,0,GOD_SON
 1 Corinthians 11:23,1 Corinthians,11,23,night,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
-1 Corinthians 11:23,1 Corinthians,11,23,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 11:23,1 Corinthians,11,23,he,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 11:24,1 Corinthians,11,24,when,GENERAL_TIME,narration,0,GENERAL_TIME
-1 Corinthians 11:24,1 Corinthians,11,24,he,GOD_FATHER,narration,0,GOD_FATHER
-1 Corinthians 11:24,1 Corinthians,11,24,he,GOD_FATHER,narration,0,GOD_FATHER
-1 Corinthians 11:24,1 Corinthians,11,24,my,GOD_FATHER,quote,1,GOD_FATHER
+1 Corinthians 11:24,1 Corinthians,11,24,he,GOD_SON,narration,0,GOD_FATHER
+1 Corinthians 11:24,1 Corinthians,11,24,he,GOD_SON,narration,0,GOD_FATHER
+1 Corinthians 11:24,1 Corinthians,11,24,my,GOD_SON,quote,1,GOD_FATHER
 1 Corinthians 11:24,1 Corinthians,11,24,you,PRONOUN,quote,1,PRONOUN
 1 Corinthians 11:24,1 Corinthians,11,24,me,GOD_SON,quote,1,GOD_SON
 1 Corinthians 11:25,1 Corinthians,11,25,After,GENERAL_TIME,narration,0,GENERAL_TIME
-1 Corinthians 11:25,1 Corinthians,11,25,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 11:25,1 Corinthians,11,25,he,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 11:25,1 Corinthians,11,25,when,GENERAL_TIME,narration,0,GENERAL_TIME
-1 Corinthians 11:25,1 Corinthians,11,25,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 11:25,1 Corinthians,11,25,he,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 11:25,1 Corinthians,11,25,new,GENERAL_TIME,quote,1,GENERAL_TIME
 1 Corinthians 11:25,1 Corinthians,11,25,my,GOD_SON,quote,1,GOD_SON
 1 Corinthians 11:25,1 Corinthians,11,25,ye,PRONOUN,quote,1,PRONOUN
@@ -241280,7 +241280,7 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 11:26,1 Corinthians,11,26,ye,PRONOUN,narration,0,PRONOUN
 1 Corinthians 11:26,1 Corinthians,11,26,Lord’s,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 11:26,1 Corinthians,11,26,till,GENERAL_TIME,narration,0,GENERAL_TIME
-1 Corinthians 11:26,1 Corinthians,11,26,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 11:26,1 Corinthians,11,26,he,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 11:27,1 Corinthians,11,27,whosoever,PRONOUN,narration,0,PRONOUN
 1 Corinthians 11:27,1 Corinthians,11,27,Lord,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 11:27,1 Corinthians,11,27,Lord,GOD_FATHER,narration,0,GOD_FATHER
@@ -241360,7 +241360,7 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 12:11,1 Corinthians,12,11,Spirit,GOD_SPIRIT,narration,0,GOD_SPIRIT
 1 Corinthians 12:11,1 Corinthians,12,11,every,QUANTITY,narration,0,QUANTITY
 1 Corinthians 12:11,1 Corinthians,12,11,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-1 Corinthians 12:11,1 Corinthians,12,11,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 12:11,1 Corinthians,12,11,he,GOD_SPIRIT,narration,0,GOD_FATHER
 1 Corinthians 12:12,1 Corinthians,12,12,one,QUANTITY,narration,0,QUANTITY
 1 Corinthians 12:12,1 Corinthians,12,12,many,QUANTITY,narration,0,QUANTITY
 1 Corinthians 12:12,1 Corinthians,12,12,all,QUANTITY,narration,0,QUANTITY
@@ -241718,16 +241718,16 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 15:3,1 Corinthians,15,3,I,PRONOUN,narration,0,PRONOUN
 1 Corinthians 15:3,1 Corinthians,15,3,Christ,GOD_SON,narration,0,GOD_SON
 1 Corinthians 15:3,1 Corinthians,15,3,our,PRONOUN,narration,0,PRONOUN
-1 Corinthians 15:4,1 Corinthians,15,4,he,GOD_FATHER,narration,0,GOD_FATHER
-1 Corinthians 15:4,1 Corinthians,15,4,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:4,1 Corinthians,15,4,he,GOD_SON,narration,0,GOD_FATHER
+1 Corinthians 15:4,1 Corinthians,15,4,he,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:4,1 Corinthians,15,4,again,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 15:4,1 Corinthians,15,4,3rd,NUMBER,narration,0,NUMBER
 1 Corinthians 15:4,1 Corinthians,15,4,day,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
-1 Corinthians 15:5,1 Corinthians,15,5,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:5,1 Corinthians,15,5,he,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:5,1 Corinthians,15,5,Cephas,PROPER_PERSON,narration,0,PROPER_PERSON
 1 Corinthians 15:5,1 Corinthians,15,5,12,NUMBER,narration,0,NUMBER
 1 Corinthians 15:6,1 Corinthians,15,6,after,GENERAL_TIME,narration,0,GENERAL_TIME
-1 Corinthians 15:6,1 Corinthians,15,6,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:6,1 Corinthians,15,6,he,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:6,1 Corinthians,15,6,above,QUANTITY,narration,0,QUANTITY
 1 Corinthians 15:6,1 Corinthians,15,6,500,NUMBER,narration,0,NUMBER
 1 Corinthians 15:6,1 Corinthians,15,6,brethren,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -241737,12 +241737,12 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 15:6,1 Corinthians,15,6,part,QUANTITY,narration,0,QUANTITY
 1 Corinthians 15:6,1 Corinthians,15,6,some,QUANTITY,narration,0,QUANTITY
 1 Corinthians 15:7,1 Corinthians,15,7,After,GENERAL_TIME,narration,0,GENERAL_TIME
-1 Corinthians 15:7,1 Corinthians,15,7,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:7,1 Corinthians,15,7,he,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:7,1 Corinthians,15,7,James,PROPER_PERSON,narration,0,PROPER_PERSON
 1 Corinthians 15:7,1 Corinthians,15,7,all,QUANTITY,narration,0,QUANTITY
 1 Corinthians 15:7,1 Corinthians,15,7,apostles,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 Corinthians 15:8,1 Corinthians,15,8,all,QUANTITY,narration,0,QUANTITY
-1 Corinthians 15:8,1 Corinthians,15,8,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:8,1 Corinthians,15,8,he,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:8,1 Corinthians,15,8,me,PRONOUN,narration,0,PRONOUN
 1 Corinthians 15:8,1 Corinthians,15,8,due,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 15:8,1 Corinthians,15,8,time,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
@@ -241773,7 +241773,7 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 15:11,1 Corinthians,15,11,ye,PRONOUN,narration,0,PRONOUN
 1 Corinthians 15:12,1 Corinthians,15,12,Now,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 15:12,1 Corinthians,15,12,Christ,GOD_SON,narration,0,GOD_SON
-1 Corinthians 15:12,1 Corinthians,15,12,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:12,1 Corinthians,15,12,he,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:12,1 Corinthians,15,12,dead,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 Corinthians 15:12,1 Corinthians,15,12,some,QUANTITY,narration,0,QUANTITY
 1 Corinthians 15:12,1 Corinthians,15,12,you,PRONOUN,narration,0,PRONOUN
@@ -241790,7 +241790,7 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 15:15,1 Corinthians,15,15,God,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 15:15,1 Corinthians,15,15,he,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 15:15,1 Corinthians,15,15,Christ,GOD_SON,narration,0,GOD_SON
-1 Corinthians 15:15,1 Corinthians,15,15,whom,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:15,1 Corinthians,15,15,whom,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:15,1 Corinthians,15,15,he,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 15:15,1 Corinthians,15,15,so,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 15:15,1 Corinthians,15,15,dead,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -241828,47 +241828,47 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 15:23,1 Corinthians,15,23,afterward,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 15:23,1 Corinthians,15,23,they,PRONOUN,narration,0,PRONOUN
 1 Corinthians 15:23,1 Corinthians,15,23,Christ’s,GOD_SON,narration,0,GOD_SON
-1 Corinthians 15:23,1 Corinthians,15,23,his,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:23,1 Corinthians,15,23,his,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:24,1 Corinthians,15,24,Then,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 15:24,1 Corinthians,15,24,end,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 15:24,1 Corinthians,15,24,when,GENERAL_TIME,narration,0,GENERAL_TIME
-1 Corinthians 15:24,1 Corinthians,15,24,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:24,1 Corinthians,15,24,he,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:24,1 Corinthians,15,24,God,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 15:24,1 Corinthians,15,24,Father,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 15:24,1 Corinthians,15,24,when,GENERAL_TIME,narration,0,GENERAL_TIME
-1 Corinthians 15:24,1 Corinthians,15,24,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:24,1 Corinthians,15,24,he,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:24,1 Corinthians,15,24,all,QUANTITY,narration,0,QUANTITY
 1 Corinthians 15:24,1 Corinthians,15,24,all,QUANTITY,narration,0,QUANTITY
-1 Corinthians 15:25,1 Corinthians,15,25,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:25,1 Corinthians,15,25,he,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:25,1 Corinthians,15,25,till,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 15:25,1 Corinthians,15,25,he,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 15:25,1 Corinthians,15,25,all,QUANTITY,narration,0,QUANTITY
 1 Corinthians 15:25,1 Corinthians,15,25,enemies,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 Corinthians 15:25,1 Corinthians,15,25,under,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
-1 Corinthians 15:25,1 Corinthians,15,25,his,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:25,1 Corinthians,15,25,his,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:26,1 Corinthians,15,26,enemy,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 Corinthians 15:27,1 Corinthians,15,27,he,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 15:27,1 Corinthians,15,27,all,QUANTITY,narration,0,QUANTITY
 1 Corinthians 15:27,1 Corinthians,15,27,under,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
-1 Corinthians 15:27,1 Corinthians,15,27,his,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:27,1 Corinthians,15,27,his,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:27,1 Corinthians,15,27,when,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 15:27,1 Corinthians,15,27,he,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 15:27,1 Corinthians,15,27,all,QUANTITY,narration,0,QUANTITY
 1 Corinthians 15:27,1 Corinthians,15,27,under,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
-1 Corinthians 15:27,1 Corinthians,15,27,him,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:27,1 Corinthians,15,27,him,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:27,1 Corinthians,15,27,he,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 15:27,1 Corinthians,15,27,all,QUANTITY,narration,0,QUANTITY
 1 Corinthians 15:27,1 Corinthians,15,27,under,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
-1 Corinthians 15:27,1 Corinthians,15,27,him,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:27,1 Corinthians,15,27,him,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:28,1 Corinthians,15,28,when,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Corinthians 15:28,1 Corinthians,15,28,all,QUANTITY,narration,0,QUANTITY
-1 Corinthians 15:28,1 Corinthians,15,28,him,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:28,1 Corinthians,15,28,him,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:28,1 Corinthians,15,28,Son,GOD_SON,narration,0,GOD_SON
-1 Corinthians 15:28,1 Corinthians,15,28,himself,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:28,1 Corinthians,15,28,himself,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:28,1 Corinthians,15,28,him,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 15:28,1 Corinthians,15,28,all,QUANTITY,narration,0,QUANTITY
 1 Corinthians 15:28,1 Corinthians,15,28,under,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
-1 Corinthians 15:28,1 Corinthians,15,28,him,GOD_FATHER,narration,0,GOD_FATHER
+1 Corinthians 15:28,1 Corinthians,15,28,him,GOD_SON,narration,0,GOD_FATHER
 1 Corinthians 15:28,1 Corinthians,15,28,God,GOD_FATHER,narration,0,GOD_FATHER
 1 Corinthians 15:28,1 Corinthians,15,28,all,QUANTITY,narration,0,QUANTITY
 1 Corinthians 15:28,1 Corinthians,15,28,all,QUANTITY,narration,0,QUANTITY
@@ -242286,17 +242286,17 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Corinthians 1:19,2 Corinthians,1,19,God,GOD_FATHER,narration,0,GOD_FATHER
 2 Corinthians 1:19,2 Corinthians,1,19,Jesus,GOD_SON,narration,0,GOD_SON
 2 Corinthians 1:19,2 Corinthians,1,19,Christ,GOD_SON,narration,0,GOD_SON
-2 Corinthians 1:19,2 Corinthians,1,19,who,GOD_FATHER,narration,0,GOD_FATHER
+2 Corinthians 1:19,2 Corinthians,1,19,who,GOD_SON,narration,0,GOD_FATHER
 2 Corinthians 1:19,2 Corinthians,1,19,you,PRONOUN,narration,0,PRONOUN
 2 Corinthians 1:19,2 Corinthians,1,19,us,PRONOUN,narration,0,PRONOUN
 2 Corinthians 1:19,2 Corinthians,1,19,me,PRONOUN,narration,0,PRONOUN
 2 Corinthians 1:19,2 Corinthians,1,19,Silvanus,PROPER_PERSON,narration,0,PROPER_PERSON
 2 Corinthians 1:19,2 Corinthians,1,19,Timotheus,PROPER_PERSON,narration,0,PROPER_PERSON
-2 Corinthians 1:19,2 Corinthians,1,19,him,GOD_FATHER,narration,0,GOD_FATHER
+2 Corinthians 1:19,2 Corinthians,1,19,him,GOD_SON,narration,0,GOD_FATHER
 2 Corinthians 1:20,2 Corinthians,1,20,all,QUANTITY,narration,0,QUANTITY
 2 Corinthians 1:20,2 Corinthians,1,20,God,GOD_FATHER,narration,0,GOD_FATHER
-2 Corinthians 1:20,2 Corinthians,1,20,him,GOD_FATHER,narration,0,GOD_FATHER
-2 Corinthians 1:20,2 Corinthians,1,20,him,GOD_FATHER,narration,0,GOD_FATHER
+2 Corinthians 1:20,2 Corinthians,1,20,him,GOD_SON,narration,0,GOD_FATHER
+2 Corinthians 1:20,2 Corinthians,1,20,him,GOD_SON,narration,0,GOD_FATHER
 2 Corinthians 1:20,2 Corinthians,1,20,God,GOD_FATHER,narration,0,GOD_FATHER
 2 Corinthians 1:20,2 Corinthians,1,20,us,PRONOUN,narration,0,PRONOUN
 2 Corinthians 1:21,2 Corinthians,1,21,Now,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -242518,7 +242518,7 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Corinthians 4:4,2 Corinthians,4,4,world,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 2 Corinthians 4:4,2 Corinthians,4,4,them,PRONOUN,narration,0,PRONOUN
 2 Corinthians 4:4,2 Corinthians,4,4,Christ,GOD_SON,narration,0,GOD_SON
-2 Corinthians 4:4,2 Corinthians,4,4,who,GOD_FATHER,narration,0,GOD_FATHER
+2 Corinthians 4:4,2 Corinthians,4,4,who,GOD_SON,narration,0,GOD_FATHER
 2 Corinthians 4:4,2 Corinthians,4,4,God,GOD_FATHER,narration,0,GOD_FATHER
 2 Corinthians 4:4,2 Corinthians,4,4,them,PRONOUN,narration,0,PRONOUN
 2 Corinthians 4:5,2 Corinthians,4,5,we,PRONOUN,narration,0,PRONOUN
@@ -242658,12 +242658,12 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Corinthians 5:14,2 Corinthians,5,14,one,QUANTITY,narration,0,QUANTITY
 2 Corinthians 5:14,2 Corinthians,5,14,all,QUANTITY,narration,0,QUANTITY
 2 Corinthians 5:14,2 Corinthians,5,14,all,QUANTITY,narration,0,QUANTITY
-2 Corinthians 5:15,2 Corinthians,5,15,he,GOD_FATHER,narration,0,GOD_FATHER
+2 Corinthians 5:15,2 Corinthians,5,15,he,GOD_SON,narration,0,GOD_FATHER
 2 Corinthians 5:15,2 Corinthians,5,15,all,QUANTITY,narration,0,QUANTITY
 2 Corinthians 5:15,2 Corinthians,5,15,they,PRONOUN,narration,0,PRONOUN
 2 Corinthians 5:15,2 Corinthians,5,15,henceforth,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Corinthians 5:15,2 Corinthians,5,15,themselves,PRONOUN,narration,0,PRONOUN
-2 Corinthians 5:15,2 Corinthians,5,15,him,GOD_FATHER,narration,0,GOD_FATHER
+2 Corinthians 5:15,2 Corinthians,5,15,him,GOD_SON,narration,0,GOD_FATHER
 2 Corinthians 5:15,2 Corinthians,5,15,them,PRONOUN,narration,0,PRONOUN
 2 Corinthians 5:15,2 Corinthians,5,15,again,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Corinthians 5:16,2 Corinthians,5,16,henceforth,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -242674,7 +242674,7 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Corinthians 5:16,2 Corinthians,5,16,now,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Corinthians 5:16,2 Corinthians,5,16,henceforth,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Corinthians 5:16,2 Corinthians,5,16,we,PRONOUN,narration,0,PRONOUN
-2 Corinthians 5:16,2 Corinthians,5,16,him,GOD_FATHER,narration,0,GOD_FATHER
+2 Corinthians 5:16,2 Corinthians,5,16,him,GOD_SON,narration,0,GOD_FATHER
 2 Corinthians 5:16,2 Corinthians,5,16,no,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Corinthians 5:16,2 Corinthians,5,16,more,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Corinthians 5:17,2 Corinthians,5,17,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -242713,12 +242713,12 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Corinthians 5:20,2 Corinthians,5,20,ye,PRONOUN,speech,0,PRONOUN
 2 Corinthians 5:20,2 Corinthians,5,20,God,GOD_FATHER,speech,0,GOD_FATHER
 2 Corinthians 5:21,2 Corinthians,5,21,he,GOD_FATHER,narration,0,GOD_FATHER
-2 Corinthians 5:21,2 Corinthians,5,21,him,GOD_FATHER,narration,0,GOD_FATHER
+2 Corinthians 5:21,2 Corinthians,5,21,him,GOD_SON,narration,0,GOD_FATHER
 2 Corinthians 5:21,2 Corinthians,5,21,us,PRONOUN,narration,0,PRONOUN
-2 Corinthians 5:21,2 Corinthians,5,21,who,GOD_FATHER,narration,0,GOD_FATHER
+2 Corinthians 5:21,2 Corinthians,5,21,who,GOD_SON,narration,0,GOD_FATHER
 2 Corinthians 5:21,2 Corinthians,5,21,we,PRONOUN,narration,0,PRONOUN
 2 Corinthians 5:21,2 Corinthians,5,21,God,GOD_FATHER,narration,0,GOD_FATHER
-2 Corinthians 5:21,2 Corinthians,5,21,him,GOD_FATHER,narration,0,GOD_FATHER
+2 Corinthians 5:21,2 Corinthians,5,21,him,GOD_SON,narration,0,GOD_FATHER
 2 Corinthians 6:1,2 Corinthians,6,1,We,PRONOUN,narration,0,PRONOUN
 2 Corinthians 6:1,2 Corinthians,6,1,workers,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 2 Corinthians 6:1,2 Corinthians,6,1,him,GOD_FATHER,narration,0,GOD_FATHER
@@ -242970,11 +242970,11 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Corinthians 8:9,2 Corinthians,8,9,Lord,GOD_FATHER,narration,0,GOD_FATHER
 2 Corinthians 8:9,2 Corinthians,8,9,Jesus,GOD_SON,narration,0,GOD_SON
 2 Corinthians 8:9,2 Corinthians,8,9,Christ,GOD_SON,narration,0,GOD_SON
-2 Corinthians 8:9,2 Corinthians,8,9,he,GOD_FATHER,narration,0,GOD_FATHER
+2 Corinthians 8:9,2 Corinthians,8,9,he,GOD_SON,narration,0,GOD_FATHER
 2 Corinthians 8:9,2 Corinthians,8,9,your,PRONOUN,narration,0,PRONOUN
-2 Corinthians 8:9,2 Corinthians,8,9,he,GOD_FATHER,narration,0,GOD_FATHER
+2 Corinthians 8:9,2 Corinthians,8,9,he,GOD_SON,narration,0,GOD_FATHER
 2 Corinthians 8:9,2 Corinthians,8,9,ye,PRONOUN,narration,0,PRONOUN
-2 Corinthians 8:9,2 Corinthians,8,9,his,GOD_FATHER,narration,0,GOD_FATHER
+2 Corinthians 8:9,2 Corinthians,8,9,his,GOD_SON,narration,0,GOD_FATHER
 2 Corinthians 8:10,2 Corinthians,8,10,herein,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 2 Corinthians 8:10,2 Corinthians,8,10,I,PRONOUN,narration,0,PRONOUN
 2 Corinthians 8:10,2 Corinthians,8,10,my,PRONOUN,narration,0,PRONOUN
@@ -243564,7 +243564,7 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Corinthians 12:8,2 Corinthians,12,8,Lord,GOD_FATHER,narration,0,GOD_FATHER
 2 Corinthians 12:8,2 Corinthians,12,8,thrice,NUMBER,narration,0,NUMBER
 2 Corinthians 12:8,2 Corinthians,12,8,me,PRONOUN,narration,0,PRONOUN
-2 Corinthians 12:9,2 Corinthians,12,9,he,PRONOUN,narration,0,PRONOUN
+2 Corinthians 12:9,2 Corinthians,12,9,he,GOD_SON,narration,0,PRONOUN
 2 Corinthians 12:9,2 Corinthians,12,9,me,PRONOUN,narration,0,PRONOUN
 2 Corinthians 12:9,2 Corinthians,12,9,My,GOD_SON,quote,1,GOD_SON
 2 Corinthians 12:9,2 Corinthians,12,9,thee,PRONOUN,quote,1,PRONOUN
@@ -243702,13 +243702,13 @@ Romans 16:27,Romans,16,27,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Corinthians 13:3,2 Corinthians,13,3,me,PRONOUN,narration,0,PRONOUN
 2 Corinthians 13:3,2 Corinthians,13,3,you,PRONOUN,narration,0,PRONOUN
 2 Corinthians 13:3,2 Corinthians,13,3,you,PRONOUN,narration,0,PRONOUN
-2 Corinthians 13:4,2 Corinthians,13,4,he,GOD_FATHER,narration,0,GOD_FATHER
-2 Corinthians 13:4,2 Corinthians,13,4,he,GOD_FATHER,narration,0,GOD_FATHER
+2 Corinthians 13:4,2 Corinthians,13,4,he,GOD_SON,narration,0,GOD_FATHER
+2 Corinthians 13:4,2 Corinthians,13,4,he,GOD_SON,narration,0,GOD_FATHER
 2 Corinthians 13:4,2 Corinthians,13,4,God,GOD_FATHER,narration,0,GOD_FATHER
 2 Corinthians 13:4,2 Corinthians,13,4,we,PRONOUN,narration,0,PRONOUN
-2 Corinthians 13:4,2 Corinthians,13,4,him,GOD_FATHER,narration,0,GOD_FATHER
+2 Corinthians 13:4,2 Corinthians,13,4,him,GOD_SON,narration,0,GOD_FATHER
 2 Corinthians 13:4,2 Corinthians,13,4,we,PRONOUN,narration,0,PRONOUN
-2 Corinthians 13:4,2 Corinthians,13,4,him,GOD_FATHER,narration,0,GOD_FATHER
+2 Corinthians 13:4,2 Corinthians,13,4,him,GOD_SON,narration,0,GOD_FATHER
 2 Corinthians 13:4,2 Corinthians,13,4,God,GOD_FATHER,narration,0,GOD_FATHER
 2 Corinthians 13:4,2 Corinthians,13,4,toward,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 2 Corinthians 13:4,2 Corinthians,13,4,you,PRONOUN,narration,0,PRONOUN
@@ -243768,7 +243768,7 @@ Galatians 1:1,Galatians,1,1,Christ,GOD_SON,narration,0,GOD_SON
 Galatians 1:1,Galatians,1,1,God,GOD_FATHER,narration,0,GOD_FATHER
 Galatians 1:1,Galatians,1,1,Father,GOD_FATHER,narration,0,GOD_FATHER
 Galatians 1:1,Galatians,1,1,who,GOD_FATHER,narration,0,GOD_FATHER
-Galatians 1:1,Galatians,1,1,him,GOD_FATHER,narration,0,GOD_FATHER
+Galatians 1:1,Galatians,1,1,him,GOD_SON,narration,0,GOD_FATHER
 Galatians 1:1,Galatians,1,1,dead,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Galatians 1:2,Galatians,1,2,all,QUANTITY,narration,0,QUANTITY
 Galatians 1:2,Galatians,1,2,brethren,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -243782,10 +243782,10 @@ Galatians 1:3,Galatians,1,3,our,PRONOUN,narration,0,PRONOUN
 Galatians 1:3,Galatians,1,3,Lord,GOD_FATHER,narration,0,GOD_FATHER
 Galatians 1:3,Galatians,1,3,Jesus,GOD_SON,narration,0,GOD_SON
 Galatians 1:3,Galatians,1,3,Christ,GOD_SON,narration,0,GOD_SON
-Galatians 1:4,Galatians,1,4,who,GOD_FATHER,narration,0,GOD_FATHER
-Galatians 1:4,Galatians,1,4,himself,GOD_FATHER,narration,0,GOD_FATHER
+Galatians 1:4,Galatians,1,4,who,GOD_SON,narration,0,GOD_FATHER
+Galatians 1:4,Galatians,1,4,himself,GOD_SON,narration,0,GOD_FATHER
 Galatians 1:4,Galatians,1,4,our,PRONOUN,narration,0,PRONOUN
-Galatians 1:4,Galatians,1,4,he,GOD_FATHER,narration,0,GOD_FATHER
+Galatians 1:4,Galatians,1,4,he,GOD_SON,narration,0,GOD_FATHER
 Galatians 1:4,Galatians,1,4,us,PRONOUN,narration,0,PRONOUN
 Galatians 1:4,Galatians,1,4,world,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Galatians 1:4,Galatians,1,4,God,GOD_FATHER,narration,0,GOD_FATHER
@@ -243876,7 +243876,7 @@ Galatians 1:16,Galatians,1,16,his,GOD_FATHER,narration,0,GOD_FATHER
 Galatians 1:16,Galatians,1,16,Son,GOD_SON,narration,0,GOD_SON
 Galatians 1:16,Galatians,1,16,me,PRONOUN,narration,0,PRONOUN
 Galatians 1:16,Galatians,1,16,I,PRONOUN,narration,0,PRONOUN
-Galatians 1:16,Galatians,1,16,him,GOD_FATHER,narration,0,GOD_FATHER
+Galatians 1:16,Galatians,1,16,him,GOD_SON,narration,0,GOD_FATHER
 Galatians 1:16,Galatians,1,16,heathen,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Galatians 1:16,Galatians,1,16,immediately,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
 Galatians 1:16,Galatians,1,16,I,PRONOUN,narration,0,PRONOUN
@@ -244082,9 +244082,9 @@ Galatians 2:20,Galatians,2,20,now,GENERAL_TIME,narration,0,GENERAL_TIME
 Galatians 2:20,Galatians,2,20,I,PRONOUN,narration,0,PRONOUN
 Galatians 2:20,Galatians,2,20,Son,GOD_SON,narration,0,GOD_SON
 Galatians 2:20,Galatians,2,20,God,GOD_FATHER,narration,0,GOD_FATHER
-Galatians 2:20,Galatians,2,20,who,GOD_FATHER,narration,0,GOD_FATHER
+Galatians 2:20,Galatians,2,20,who,GOD_SON,narration,0,GOD_FATHER
 Galatians 2:20,Galatians,2,20,me,PRONOUN,narration,0,PRONOUN
-Galatians 2:20,Galatians,2,20,himself,GOD_FATHER,narration,0,GOD_FATHER
+Galatians 2:20,Galatians,2,20,himself,GOD_SON,narration,0,GOD_FATHER
 Galatians 2:20,Galatians,2,20,me,PRONOUN,narration,0,PRONOUN
 Galatians 2:21,Galatians,2,21,I,PRONOUN,narration,0,PRONOUN
 Galatians 2:21,Galatians,2,21,God,GOD_FATHER,narration,0,GOD_FATHER
@@ -244164,7 +244164,7 @@ Galatians 3:16,Galatians,3,16,Now,GENERAL_TIME,narration,0,GENERAL_TIME
 Galatians 3:16,Galatians,3,16,Abraham,PROPER_PERSON,narration,0,PROPER_PERSON
 Galatians 3:16,Galatians,3,16,his,PRONOUN,narration,0,PRONOUN
 Galatians 3:16,Galatians,3,16,seed,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Galatians 3:16,Galatians,3,16,He,PRONOUN,narration,0,PRONOUN
+Galatians 3:16,Galatians,3,16,He,GOD_FATHER,narration,0,PRONOUN
 Galatians 3:16,Galatians,3,16,seeds,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Galatians 3:16,Galatians,3,16,many,QUANTITY,narration,0,QUANTITY
 Galatians 3:16,Galatians,3,16,one,QUANTITY,narration,0,QUANTITY
@@ -244186,7 +244186,7 @@ Galatians 3:18,Galatians,3,18,Abraham,PROPER_PERSON,narration,0,PROPER_PERSON
 Galatians 3:19,Galatians,3,19,added,QUANTITY,narration,0,QUANTITY
 Galatians 3:19,Galatians,3,19,till,GENERAL_TIME,narration,0,GENERAL_TIME
 Galatians 3:19,Galatians,3,19,seed,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Galatians 3:19,Galatians,3,19,whom,PRONOUN,narration,0,PRONOUN
+Galatians 3:19,Galatians,3,19,whom,GOD_SON,narration,0,PRONOUN
 Galatians 3:19,Galatians,3,19,angels,ANGELIC,narration,0,ANGELIC
 Galatians 3:19,Galatians,3,19,mediator,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Galatians 3:20,Galatians,3,20,Now,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -244603,7 +244603,7 @@ Galatians 6:14,Galatians,6,14,our,PRONOUN,narration,0,PRONOUN
 Galatians 6:14,Galatians,6,14,Lord,GOD_FATHER,narration,0,GOD_FATHER
 Galatians 6:14,Galatians,6,14,Jesus,GOD_SON,narration,0,GOD_SON
 Galatians 6:14,Galatians,6,14,Christ,GOD_SON,narration,0,GOD_SON
-Galatians 6:14,Galatians,6,14,whom,GOD_FATHER,narration,0,GOD_FATHER
+Galatians 6:14,Galatians,6,14,whom,GOD_SON,narration,0,GOD_FATHER
 Galatians 6:14,Galatians,6,14,world,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Galatians 6:14,Galatians,6,14,me,PRONOUN,narration,0,PRONOUN
 Galatians 6:14,Galatians,6,14,I,PRONOUN,narration,0,PRONOUN
@@ -244658,7 +244658,7 @@ Ephesians 1:3,Ephesians,1,3,places,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Ephesians 1:3,Ephesians,1,3,Christ,GOD_SON,narration,0,GOD_SON
 Ephesians 1:4,Ephesians,1,4,he,GOD_FATHER,narration,0,GOD_FATHER
 Ephesians 1:4,Ephesians,1,4,us,PRONOUN,narration,0,PRONOUN
-Ephesians 1:4,Ephesians,1,4,him,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 1:4,Ephesians,1,4,him,GOD_SON,narration,0,GOD_FATHER
 Ephesians 1:4,Ephesians,1,4,before,GENERAL_TIME,narration,0,GENERAL_TIME
 Ephesians 1:4,Ephesians,1,4,world,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Ephesians 1:4,Ephesians,1,4,we,PRONOUN,narration,0,PRONOUN
@@ -244675,9 +244675,9 @@ Ephesians 1:6,Ephesians,1,6,wherein,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Ephesians 1:6,Ephesians,1,6,he,GOD_FATHER,narration,0,GOD_FATHER
 Ephesians 1:6,Ephesians,1,6,us,PRONOUN,narration,0,PRONOUN
 Ephesians 1:6,Ephesians,1,6,beloved,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Ephesians 1:7,Ephesians,1,7,whom,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 1:7,Ephesians,1,7,whom,GOD_SON,narration,0,GOD_FATHER
 Ephesians 1:7,Ephesians,1,7,we,PRONOUN,narration,0,PRONOUN
-Ephesians 1:7,Ephesians,1,7,his,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 1:7,Ephesians,1,7,his,GOD_SON,narration,0,GOD_FATHER
 Ephesians 1:7,Ephesians,1,7,his,GOD_FATHER,narration,0,GOD_FATHER
 Ephesians 1:8,Ephesians,1,8,wherein,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Ephesians 1:8,Ephesians,1,8,he,GOD_FATHER,narration,0,GOD_FATHER
@@ -244697,9 +244697,9 @@ Ephesians 1:10,Ephesians,1,10,Christ,GOD_SON,narration,0,GOD_SON
 Ephesians 1:10,Ephesians,1,10,both,QUANTITY,narration,0,QUANTITY
 Ephesians 1:10,Ephesians,1,10,heaven,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Ephesians 1:10,Ephesians,1,10,earth,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
-Ephesians 1:10,Ephesians,1,10,him,GOD_FATHER,narration,0,GOD_FATHER
-Ephesians 1:11,Ephesians,1,11,whom,GOD_FATHER,narration,0,GOD_FATHER
-Ephesians 1:11,Ephesians,1,11,we,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 1:10,Ephesians,1,10,him,GOD_SON,narration,0,GOD_FATHER
+Ephesians 1:11,Ephesians,1,11,whom,GOD_SON,narration,0,GOD_FATHER
+Ephesians 1:11,Ephesians,1,11,we,PRONOUN,narration,0,GOD_FATHER
 Ephesians 1:11,Ephesians,1,11,him,GOD_FATHER,narration,0,GOD_FATHER
 Ephesians 1:11,Ephesians,1,11,who,GOD_FATHER,narration,0,GOD_FATHER
 Ephesians 1:11,Ephesians,1,11,all,QUANTITY,narration,0,QUANTITY
@@ -244709,12 +244709,12 @@ Ephesians 1:12,Ephesians,1,12,his,GOD_FATHER,narration,0,GOD_FATHER
 Ephesians 1:12,Ephesians,1,12,who,PRONOUN,narration,0,PRONOUN
 Ephesians 1:12,Ephesians,1,12,first,NUMBER,narration,0,NUMBER
 Ephesians 1:12,Ephesians,1,12,Christ,GOD_SON,narration,0,GOD_SON
-Ephesians 1:13,Ephesians,1,13,whom,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 1:13,Ephesians,1,13,whom,GOD_SON,narration,0,GOD_FATHER
 Ephesians 1:13,Ephesians,1,13,ye,PRONOUN,narration,0,PRONOUN
 Ephesians 1:13,Ephesians,1,13,after,GENERAL_TIME,narration,0,GENERAL_TIME
 Ephesians 1:13,Ephesians,1,13,ye,PRONOUN,narration,0,PRONOUN
 Ephesians 1:13,Ephesians,1,13,your,PRONOUN,narration,0,PRONOUN
-Ephesians 1:13,Ephesians,1,13,whom,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 1:13,Ephesians,1,13,whom,GOD_SON,narration,0,GOD_FATHER
 Ephesians 1:13,Ephesians,1,13,after,GENERAL_TIME,narration,0,GENERAL_TIME
 Ephesians 1:13,Ephesians,1,13,ye,PRONOUN,narration,0,PRONOUN
 Ephesians 1:13,Ephesians,1,13,ye,PRONOUN,narration,0,PRONOUN
@@ -244755,9 +244755,9 @@ Ephesians 1:20,Ephesians,1,20,he,GOD_FATHER,narration,0,GOD_FATHER
 Ephesians 1:20,Ephesians,1,20,Christ,GOD_SON,narration,0,GOD_SON
 Ephesians 1:20,Ephesians,1,20,when,GENERAL_TIME,narration,0,GENERAL_TIME
 Ephesians 1:20,Ephesians,1,20,he,GOD_FATHER,narration,0,GOD_FATHER
-Ephesians 1:20,Ephesians,1,20,him,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 1:20,Ephesians,1,20,him,GOD_SON,narration,0,GOD_FATHER
 Ephesians 1:20,Ephesians,1,20,dead,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Ephesians 1:20,Ephesians,1,20,him,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 1:20,Ephesians,1,20,him,GOD_SON,narration,0,GOD_FATHER
 Ephesians 1:20,Ephesians,1,20,his,GOD_FATHER,narration,0,GOD_FATHER
 Ephesians 1:20,Ephesians,1,20,right,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Ephesians 1:20,Ephesians,1,20,hand,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
@@ -244770,12 +244770,12 @@ Ephesians 1:21,Ephesians,1,21,only,QUANTITY,narration,0,QUANTITY
 Ephesians 1:21,Ephesians,1,21,world,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Ephesians 1:22,Ephesians,1,22,all,QUANTITY,narration,0,QUANTITY
 Ephesians 1:22,Ephesians,1,22,under,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
-Ephesians 1:22,Ephesians,1,22,his,GOD_FATHER,narration,0,GOD_FATHER
-Ephesians 1:22,Ephesians,1,22,him,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 1:22,Ephesians,1,22,his,GOD_SON,narration,0,GOD_FATHER
+Ephesians 1:22,Ephesians,1,22,him,GOD_SON,narration,0,GOD_FATHER
 Ephesians 1:22,Ephesians,1,22,all,QUANTITY,narration,0,QUANTITY
 Ephesians 1:22,Ephesians,1,22,church,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Ephesians 1:23,Ephesians,1,23,his,GOD_FATHER,narration,0,GOD_FATHER
-Ephesians 1:23,Ephesians,1,23,him,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 1:23,Ephesians,1,23,his,GOD_SON,narration,0,GOD_FATHER
+Ephesians 1:23,Ephesians,1,23,him,GOD_SON,narration,0,GOD_FATHER
 Ephesians 1:23,Ephesians,1,23,all,QUANTITY,narration,0,QUANTITY
 Ephesians 1:23,Ephesians,1,23,all,QUANTITY,narration,0,QUANTITY
 Ephesians 2:1,Ephesians,2,1,you,PRONOUN,narration,0,PRONOUN
@@ -244859,31 +244859,31 @@ Ephesians 2:13,Ephesians,2,13,far,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Ephesians 2:13,Ephesians,2,13,off,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Ephesians 2:13,Ephesians,2,13,nigh,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Ephesians 2:13,Ephesians,2,13,Christ,GOD_SON,narration,0,GOD_SON
-Ephesians 2:14,Ephesians,2,14,he,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 2:14,Ephesians,2,14,he,GOD_SON,narration,0,GOD_FATHER
 Ephesians 2:14,Ephesians,2,14,our,PRONOUN,narration,0,PRONOUN
-Ephesians 2:14,Ephesians,2,14,who,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 2:14,Ephesians,2,14,who,GOD_SON,narration,0,GOD_FATHER
 Ephesians 2:14,Ephesians,2,14,both,QUANTITY,narration,0,QUANTITY
 Ephesians 2:14,Ephesians,2,14,one,QUANTITY,narration,0,QUANTITY
 Ephesians 2:14,Ephesians,2,14,middle,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Ephesians 2:14,Ephesians,2,14,wall,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Ephesians 2:14,Ephesians,2,14,us,PRONOUN,narration,0,PRONOUN
-Ephesians 2:15,Ephesians,2,15,his,GOD_FATHER,narration,0,GOD_FATHER
-Ephesians 2:15,Ephesians,2,15,himself,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 2:15,Ephesians,2,15,his,GOD_SON,narration,0,GOD_FATHER
+Ephesians 2:15,Ephesians,2,15,himself,GOD_SON,narration,0,GOD_FATHER
 Ephesians 2:15,Ephesians,2,15,twain,NUMBER,narration,0,NUMBER
 Ephesians 2:15,Ephesians,2,15,one,QUANTITY,narration,0,QUANTITY
 Ephesians 2:15,Ephesians,2,15,new,GENERAL_TIME,narration,0,GENERAL_TIME
 Ephesians 2:15,Ephesians,2,15,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Ephesians 2:15,Ephesians,2,15,so,GENERAL_TIME,narration,0,GENERAL_TIME
-Ephesians 2:16,Ephesians,2,16,he,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 2:16,Ephesians,2,16,he,GOD_SON,narration,0,GOD_FATHER
 Ephesians 2:16,Ephesians,2,16,both,QUANTITY,narration,0,QUANTITY
-Ephesians 2:16,Ephesians,2,16,God,GOD_SON,narration,0,GOD_SON
+Ephesians 2:16,Ephesians,2,16,God,GOD_FATHER,narration,0,GOD_SON
 Ephesians 2:16,Ephesians,2,16,one,QUANTITY,narration,0,QUANTITY
 Ephesians 2:17,Ephesians,2,17,you,PRONOUN,narration,0,PRONOUN
 Ephesians 2:17,Ephesians,2,17,afar,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Ephesians 2:17,Ephesians,2,17,off,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Ephesians 2:17,Ephesians,2,17,them,PRONOUN,narration,0,PRONOUN
 Ephesians 2:17,Ephesians,2,17,nigh,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
-Ephesians 2:18,Ephesians,2,18,him,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 2:18,Ephesians,2,18,him,GOD_SON,narration,0,GOD_FATHER
 Ephesians 2:18,Ephesians,2,18,we,PRONOUN,narration,0,PRONOUN
 Ephesians 2:18,Ephesians,2,18,both,QUANTITY,narration,0,QUANTITY
 Ephesians 2:18,Ephesians,2,18,one,QUANTITY,narration,0,QUANTITY
@@ -244903,12 +244903,12 @@ Ephesians 2:20,Ephesians,2,20,apostles,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Ephesians 2:20,Ephesians,2,20,prophets,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Ephesians 2:20,Ephesians,2,20,Jesus,GOD_SON,narration,0,GOD_SON
 Ephesians 2:20,Ephesians,2,20,Christ,GOD_SON,narration,0,GOD_SON
-Ephesians 2:20,Ephesians,2,20,himself,GOD_FATHER,narration,0,GOD_FATHER
-Ephesians 2:21,Ephesians,2,21,whom,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 2:20,Ephesians,2,20,himself,GOD_SON,narration,0,GOD_FATHER
+Ephesians 2:21,Ephesians,2,21,whom,GOD_SON,narration,0,GOD_FATHER
 Ephesians 2:21,Ephesians,2,21,all,QUANTITY,narration,0,QUANTITY
 Ephesians 2:21,Ephesians,2,21,temple,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Ephesians 2:21,Ephesians,2,21,Lord,GOD_FATHER,narration,0,GOD_FATHER
-Ephesians 2:22,Ephesians,2,22,whom,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 2:22,Ephesians,2,22,whom,GOD_SON,narration,0,GOD_FATHER
 Ephesians 2:22,Ephesians,2,22,ye,PRONOUN,narration,0,PRONOUN
 Ephesians 2:22,Ephesians,2,22,habitation,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Ephesians 2:22,Ephesians,2,22,God,GOD_FATHER,narration,0,GOD_FATHER
@@ -244979,9 +244979,9 @@ Ephesians 3:11,Ephesians,3,11,Christ,GOD_SON,narration,0,GOD_SON
 Ephesians 3:11,Ephesians,3,11,Jesus,GOD_SON,narration,0,GOD_SON
 Ephesians 3:11,Ephesians,3,11,our,PRONOUN,narration,0,PRONOUN
 Ephesians 3:11,Ephesians,3,11,Lord,GOD_FATHER,narration,0,GOD_FATHER
-Ephesians 3:12,Ephesians,3,12,whom,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 3:12,Ephesians,3,12,whom,GOD_SON,narration,0,GOD_FATHER
 Ephesians 3:12,Ephesians,3,12,we,PRONOUN,narration,0,PRONOUN
-Ephesians 3:12,Ephesians,3,12,him,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 3:12,Ephesians,3,12,him,GOD_SON,narration,0,GOD_FATHER
 Ephesians 3:13,Ephesians,3,13,I,PRONOUN,narration,0,PRONOUN
 Ephesians 3:13,Ephesians,3,13,ye,PRONOUN,narration,0,PRONOUN
 Ephesians 3:13,Ephesians,3,13,my,PRONOUN,narration,0,PRONOUN
@@ -245070,27 +245070,27 @@ Ephesians 4:7,Ephesians,4,7,measure,MEASUREMENT,narration,0,MEASUREMENT
 Ephesians 4:7,Ephesians,4,7,Christ,GOD_SON,narration,0,GOD_SON
 Ephesians 4:8,Ephesians,4,8,he,GOD_FATHER,narration,0,GOD_FATHER
 Ephesians 4:8,Ephesians,4,8,When,GENERAL_TIME,quote,0,GENERAL_TIME
-Ephesians 4:8,Ephesians,4,8,he,GOD_FATHER,quote,0,GOD_FATHER
+Ephesians 4:8,Ephesians,4,8,he,GOD_SON,quote,0,GOD_FATHER
 Ephesians 4:8,Ephesians,4,8,up,GENERAL_PLACE_2,quote,0,GENERAL_PLACE_2
 Ephesians 4:8,Ephesians,4,8,high,GENERAL_PLACE_2,quote,0,GENERAL_PLACE_2
-Ephesians 4:8,Ephesians,4,8,he,GOD_FATHER,quote,0,GOD_FATHER
+Ephesians 4:8,Ephesians,4,8,he,GOD_SON,quote,0,GOD_FATHER
 Ephesians 4:8,Ephesians,4,8,men,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Ephesians 4:9,Ephesians,4,9,Now,GENERAL_TIME,narration,0,GENERAL_TIME
-Ephesians 4:9,Ephesians,4,9,he,GOD_FATHER,narration,0,GOD_FATHER
-Ephesians 4:9,Ephesians,4,9,he,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 4:9,Ephesians,4,9,he,GOD_SON,narration,0,GOD_FATHER
+Ephesians 4:9,Ephesians,4,9,he,GOD_SON,narration,0,GOD_FATHER
 Ephesians 4:9,Ephesians,4,9,first,NUMBER,narration,0,NUMBER
 Ephesians 4:9,Ephesians,4,9,lower,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Ephesians 4:9,Ephesians,4,9,parts,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Ephesians 4:9,Ephesians,4,9,earth,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
-Ephesians 4:10,Ephesians,4,10,He,PRONOUN,narration,0,PRONOUN
+Ephesians 4:10,Ephesians,4,10,He,GOD_SON,narration,0,PRONOUN
 Ephesians 4:10,Ephesians,4,10,up,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Ephesians 4:10,Ephesians,4,10,far,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Ephesians 4:10,Ephesians,4,10,above,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Ephesians 4:10,Ephesians,4,10,all,QUANTITY,narration,0,QUANTITY
 Ephesians 4:10,Ephesians,4,10,heavens,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
-Ephesians 4:10,Ephesians,4,10,he,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 4:10,Ephesians,4,10,he,GOD_SON,narration,0,GOD_FATHER
 Ephesians 4:10,Ephesians,4,10,all,QUANTITY,narration,0,QUANTITY
-Ephesians 4:11,Ephesians,4,11,he,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 4:11,Ephesians,4,11,he,GOD_SON,narration,0,GOD_FATHER
 Ephesians 4:11,Ephesians,4,11,some,QUANTITY,narration,0,QUANTITY
 Ephesians 4:11,Ephesians,4,11,apostles,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Ephesians 4:11,Ephesians,4,11,some,QUANTITY,narration,0,QUANTITY
@@ -245120,10 +245120,10 @@ Ephesians 4:14,Ephesians,4,14,fro,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Ephesians 4:14,Ephesians,4,14,every,QUANTITY,narration,0,QUANTITY
 Ephesians 4:14,Ephesians,4,14,men,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Ephesians 4:14,Ephesians,4,14,they,PRONOUN,narration,0,PRONOUN
-Ephesians 4:15,Ephesians,4,15,him,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 4:15,Ephesians,4,15,him,GOD_SON,narration,0,GOD_FATHER
 Ephesians 4:15,Ephesians,4,15,all,QUANTITY,narration,0,QUANTITY
 Ephesians 4:15,Ephesians,4,15,Christ,GOD_SON,narration,0,GOD_SON
-Ephesians 4:16,Ephesians,4,16,whom,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 4:16,Ephesians,4,16,whom,GOD_SON,narration,0,GOD_FATHER
 Ephesians 4:16,Ephesians,4,16,whole,QUANTITY,narration,0,QUANTITY
 Ephesians 4:16,Ephesians,4,16,every,QUANTITY,narration,0,QUANTITY
 Ephesians 4:16,Ephesians,4,16,measure,MEASUREMENT,narration,0,MEASUREMENT
@@ -245148,8 +245148,8 @@ Ephesians 4:20,Ephesians,4,20,so,GENERAL_TIME,narration,0,GENERAL_TIME
 Ephesians 4:20,Ephesians,4,20,Christ,GOD_SON,narration,0,GOD_SON
 Ephesians 4:21,Ephesians,4,21,so,GENERAL_TIME,narration,0,GENERAL_TIME
 Ephesians 4:21,Ephesians,4,21,ye,PRONOUN,narration,0,PRONOUN
-Ephesians 4:21,Ephesians,4,21,him,GOD_FATHER,narration,0,GOD_FATHER
-Ephesians 4:21,Ephesians,4,21,him,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 4:21,Ephesians,4,21,him,GOD_SON,narration,0,GOD_FATHER
+Ephesians 4:21,Ephesians,4,21,him,GOD_SON,narration,0,GOD_FATHER
 Ephesians 4:21,Ephesians,4,21,Jesus,GOD_SON,narration,0,GOD_SON
 Ephesians 4:22,Ephesians,4,22,ye,PRONOUN,narration,0,PRONOUN
 Ephesians 4:22,Ephesians,4,22,former,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -245197,7 +245197,7 @@ Ephesians 5:1,Ephesians,5,1,God,GOD_FATHER,narration,0,GOD_FATHER
 Ephesians 5:1,Ephesians,5,1,children,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Ephesians 5:2,Ephesians,5,2,Christ,GOD_SON,narration,0,GOD_SON
 Ephesians 5:2,Ephesians,5,2,us,PRONOUN,narration,0,PRONOUN
-Ephesians 5:2,Ephesians,5,2,himself,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 5:2,Ephesians,5,2,himself,GOD_SON,narration,0,GOD_FATHER
 Ephesians 5:2,Ephesians,5,2,us,PRONOUN,narration,0,PRONOUN
 Ephesians 5:2,Ephesians,5,2,God,GOD_FATHER,narration,0,GOD_FATHER
 Ephesians 5:3,Ephesians,5,3,all,QUANTITY,narration,0,QUANTITY
@@ -245268,7 +245268,7 @@ Ephesians 5:23,Ephesians,5,23,husband,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Ephesians 5:23,Ephesians,5,23,wife,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Ephesians 5:23,Ephesians,5,23,Christ,GOD_SON,narration,0,GOD_SON
 Ephesians 5:23,Ephesians,5,23,church,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Ephesians 5:23,Ephesians,5,23,he,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 5:23,Ephesians,5,23,he,GOD_SON,narration,0,GOD_FATHER
 Ephesians 5:23,Ephesians,5,23,saviour,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Ephesians 5:24,Ephesians,5,24,church,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Ephesians 5:24,Ephesians,5,24,Christ,GOD_SON,narration,0,GOD_SON
@@ -245282,10 +245282,10 @@ Ephesians 5:25,Ephesians,5,25,your,PRONOUN,narration,0,PRONOUN
 Ephesians 5:25,Ephesians,5,25,wives,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Ephesians 5:25,Ephesians,5,25,Christ,GOD_SON,narration,0,GOD_SON
 Ephesians 5:25,Ephesians,5,25,church,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Ephesians 5:25,Ephesians,5,25,himself,GOD_FATHER,narration,0,GOD_FATHER
-Ephesians 5:26,Ephesians,5,26,he,GOD_FATHER,narration,0,GOD_FATHER
-Ephesians 5:27,Ephesians,5,27,he,GOD_FATHER,narration,0,GOD_FATHER
-Ephesians 5:27,Ephesians,5,27,himself,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 5:25,Ephesians,5,25,himself,GOD_SON,narration,0,GOD_FATHER
+Ephesians 5:26,Ephesians,5,26,he,GOD_SON,narration,0,GOD_FATHER
+Ephesians 5:27,Ephesians,5,27,he,GOD_SON,narration,0,GOD_FATHER
+Ephesians 5:27,Ephesians,5,27,himself,GOD_SON,narration,0,GOD_FATHER
 Ephesians 5:27,Ephesians,5,27,church,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Ephesians 5:28,Ephesians,5,28,men,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Ephesians 5:28,Ephesians,5,28,their,PRONOUN,narration,0,PRONOUN
@@ -245301,9 +245301,9 @@ Ephesians 5:29,Ephesians,5,29,his,PRONOUN,narration,0,PRONOUN
 Ephesians 5:29,Ephesians,5,29,Lord,GOD_FATHER,narration,0,GOD_FATHER
 Ephesians 5:29,Ephesians,5,29,church,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Ephesians 5:30,Ephesians,5,30,we,PRONOUN,narration,0,PRONOUN
-Ephesians 5:30,Ephesians,5,30,his,GOD_FATHER,narration,0,GOD_FATHER
-Ephesians 5:30,Ephesians,5,30,his,GOD_FATHER,narration,0,GOD_FATHER
-Ephesians 5:30,Ephesians,5,30,his,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 5:30,Ephesians,5,30,his,GOD_SON,narration,0,GOD_FATHER
+Ephesians 5:30,Ephesians,5,30,his,GOD_SON,narration,0,GOD_FATHER
+Ephesians 5:30,Ephesians,5,30,his,GOD_SON,narration,0,GOD_FATHER
 Ephesians 5:31,Ephesians,5,31,man,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Ephesians 5:31,Ephesians,5,31,his,PRONOUN,quote,0,PRONOUN
 Ephesians 5:31,Ephesians,5,31,father,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
@@ -245367,7 +245367,7 @@ Ephesians 6:9,Ephesians,6,9,your,PRONOUN,narration,0,PRONOUN
 Ephesians 6:9,Ephesians,6,9,Master,GOD_SON,narration,0,GOD_SON
 Ephesians 6:9,Ephesians,6,9,heaven,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Ephesians 6:9,Ephesians,6,9,persons,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Ephesians 6:9,Ephesians,6,9,him,GOD_FATHER,narration,0,GOD_FATHER
+Ephesians 6:9,Ephesians,6,9,him,GOD_SON,narration,0,GOD_FATHER
 Ephesians 6:10,Ephesians,6,10,Finally,GENERAL_TIME,narration,0,GENERAL_TIME
 Ephesians 6:10,Ephesians,6,10,my,PRONOUN,narration,0,PRONOUN
 Ephesians 6:10,Ephesians,6,10,brethren,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -245601,8 +245601,8 @@ Philippians 1:28,Philippians,1,28,God,GOD_FATHER,narration,0,GOD_FATHER
 Philippians 1:29,Philippians,1,29,you,PRONOUN,narration,0,PRONOUN
 Philippians 1:29,Philippians,1,29,Christ,GOD_SON,narration,0,GOD_SON
 Philippians 1:29,Philippians,1,29,only,QUANTITY,narration,0,QUANTITY
-Philippians 1:29,Philippians,1,29,him,GOD_FATHER,narration,0,GOD_FATHER
-Philippians 1:29,Philippians,1,29,his,GOD_FATHER,narration,0,GOD_FATHER
+Philippians 1:29,Philippians,1,29,him,GOD_SON,narration,0,GOD_FATHER
+Philippians 1:29,Philippians,1,29,his,GOD_SON,narration,0,GOD_FATHER
 Philippians 1:30,Philippians,1,30,ye,PRONOUN,narration,0,PRONOUN
 Philippians 1:30,Philippians,1,30,me,PRONOUN,narration,0,PRONOUN
 Philippians 1:30,Philippians,1,30,now,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -245624,20 +245624,20 @@ Philippians 2:4,Philippians,2,4,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Philippians 2:5,Philippians,2,5,you,PRONOUN,narration,0,PRONOUN
 Philippians 2:5,Philippians,2,5,Christ,GOD_SON,narration,0,GOD_SON
 Philippians 2:5,Philippians,2,5,Jesus,GOD_SON,narration,0,GOD_SON
-Philippians 2:6,Philippians,2,6,who,GOD_FATHER,narration,0,GOD_FATHER
+Philippians 2:6,Philippians,2,6,who,GOD_SON,narration,0,GOD_FATHER
 Philippians 2:6,Philippians,2,6,God,GOD_FATHER,narration,0,GOD_FATHER
 Philippians 2:6,Philippians,2,6,equal,QUANTITY,narration,0,QUANTITY
 Philippians 2:6,Philippians,2,6,God,GOD_FATHER,narration,0,GOD_FATHER
-Philippians 2:7,Philippians,2,7,himself,GOD_FATHER,narration,0,GOD_FATHER
-Philippians 2:7,Philippians,2,7,him,GOD_FATHER,narration,0,GOD_FATHER
+Philippians 2:7,Philippians,2,7,himself,GOD_SON,narration,0,GOD_FATHER
+Philippians 2:7,Philippians,2,7,him,GOD_SON,narration,0,GOD_FATHER
 Philippians 2:7,Philippians,2,7,servant,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Philippians 2:7,Philippians,2,7,men,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Philippians 2:8,Philippians,2,8,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Philippians 2:8,Philippians,2,8,he,GOD_FATHER,narration,0,GOD_FATHER
-Philippians 2:8,Philippians,2,8,himself,GOD_FATHER,narration,0,GOD_FATHER
+Philippians 2:8,Philippians,2,8,he,GOD_SON,narration,0,GOD_FATHER
+Philippians 2:8,Philippians,2,8,himself,GOD_SON,narration,0,GOD_FATHER
 Philippians 2:9,Philippians,2,9,God,GOD_FATHER,narration,0,GOD_FATHER
-Philippians 2:9,Philippians,2,9,him,GOD_FATHER,narration,0,GOD_FATHER
-Philippians 2:9,Philippians,2,9,him,GOD_FATHER,narration,0,GOD_FATHER
+Philippians 2:9,Philippians,2,9,him,GOD_SON,narration,0,GOD_FATHER
+Philippians 2:9,Philippians,2,9,him,GOD_SON,narration,0,GOD_FATHER
 Philippians 2:9,Philippians,2,9,above,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Philippians 2:9,Philippians,2,9,every,QUANTITY,narration,0,QUANTITY
 Philippians 2:10,Philippians,2,10,Jesus,GOD_SON,narration,0,GOD_SON
@@ -245804,21 +245804,21 @@ Philippians 3:8,Philippians,3,8,Christ,GOD_SON,narration,0,GOD_SON
 Philippians 3:8,Philippians,3,8,Jesus,GOD_SON,narration,0,GOD_SON
 Philippians 3:8,Philippians,3,8,my,PRONOUN,narration,0,PRONOUN
 Philippians 3:8,Philippians,3,8,Lord,GOD_FATHER,narration,0,GOD_FATHER
-Philippians 3:8,Philippians,3,8,whom,GOD_FATHER,narration,0,GOD_FATHER
+Philippians 3:8,Philippians,3,8,whom,GOD_SON,narration,0,GOD_FATHER
 Philippians 3:8,Philippians,3,8,I,PRONOUN,narration,0,PRONOUN
 Philippians 3:8,Philippians,3,8,all,QUANTITY,narration,0,QUANTITY
 Philippians 3:8,Philippians,3,8,them,PRONOUN,narration,0,PRONOUN
 Philippians 3:8,Philippians,3,8,I,PRONOUN,narration,0,PRONOUN
 Philippians 3:8,Philippians,3,8,Christ,GOD_SON,narration,0,GOD_SON
-Philippians 3:9,Philippians,3,9,him,GOD_FATHER,narration,0,GOD_FATHER
+Philippians 3:9,Philippians,3,9,him,GOD_SON,narration,0,GOD_FATHER
 Philippians 3:9,Philippians,3,9,mine,PRONOUN,narration,0,PRONOUN
 Philippians 3:9,Philippians,3,9,Christ,GOD_SON,narration,0,GOD_SON
 Philippians 3:9,Philippians,3,9,God,GOD_FATHER,narration,0,GOD_FATHER
 Philippians 3:10,Philippians,3,10,I,PRONOUN,narration,0,PRONOUN
-Philippians 3:10,Philippians,3,10,him,GOD_FATHER,narration,0,GOD_FATHER
-Philippians 3:10,Philippians,3,10,his,GOD_FATHER,narration,0,GOD_FATHER
-Philippians 3:10,Philippians,3,10,his,GOD_FATHER,narration,0,GOD_FATHER
-Philippians 3:10,Philippians,3,10,his,GOD_FATHER,narration,0,GOD_FATHER
+Philippians 3:10,Philippians,3,10,him,GOD_SON,narration,0,GOD_FATHER
+Philippians 3:10,Philippians,3,10,his,GOD_SON,narration,0,GOD_FATHER
+Philippians 3:10,Philippians,3,10,his,GOD_SON,narration,0,GOD_FATHER
+Philippians 3:10,Philippians,3,10,his,GOD_SON,narration,0,GOD_FATHER
 Philippians 3:11,Philippians,3,11,I,PRONOUN,narration,0,PRONOUN
 Philippians 3:11,Philippians,3,11,dead,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Philippians 3:12,Philippians,3,12,I,PRONOUN,narration,0,PRONOUN
@@ -245887,10 +245887,10 @@ Philippians 3:20,Philippians,3,20,Jesus,GOD_SON,narration,0,GOD_SON
 Philippians 3:20,Philippians,3,20,Christ,GOD_SON,narration,0,GOD_SON
 Philippians 3:21,Philippians,3,21,who,GOD_SON,narration,0,GOD_SON
 Philippians 3:21,Philippians,3,21,our,PRONOUN,narration,0,PRONOUN
-Philippians 3:21,Philippians,3,21,his,GOD_FATHER,narration,0,GOD_FATHER
-Philippians 3:21,Philippians,3,21,he,GOD_FATHER,narration,0,GOD_FATHER
+Philippians 3:21,Philippians,3,21,his,GOD_SON,narration,0,GOD_FATHER
+Philippians 3:21,Philippians,3,21,he,GOD_SON,narration,0,GOD_FATHER
 Philippians 3:21,Philippians,3,21,all,QUANTITY,narration,0,QUANTITY
-Philippians 3:21,Philippians,3,21,himself,GOD_FATHER,narration,0,GOD_FATHER
+Philippians 3:21,Philippians,3,21,himself,GOD_SON,narration,0,GOD_FATHER
 Philippians 4:1,Philippians,4,1,my,PRONOUN,narration,0,PRONOUN
 Philippians 4:1,Philippians,4,1,brethren,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Philippians 4:1,Philippians,4,1,beloved,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -246107,44 +246107,44 @@ Colossians 1:13,Colossians,1,13,us,PRONOUN,narration,0,PRONOUN
 Colossians 1:13,Colossians,1,13,us,PRONOUN,narration,0,PRONOUN
 Colossians 1:13,Colossians,1,13,his,GOD_FATHER,narration,0,GOD_FATHER
 Colossians 1:13,Colossians,1,13,Son,GOD_SON,narration,0,GOD_SON
-Colossians 1:14,Colossians,1,14,whom,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 1:14,Colossians,1,14,whom,GOD_SON,narration,0,GOD_FATHER
 Colossians 1:14,Colossians,1,14,we,PRONOUN,narration,0,PRONOUN
-Colossians 1:14,Colossians,1,14,his,GOD_FATHER,narration,0,GOD_FATHER
-Colossians 1:15,Colossians,1,15,who,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 1:14,Colossians,1,14,his,GOD_SON,narration,0,GOD_FATHER
+Colossians 1:15,Colossians,1,15,who,GOD_SON,narration,0,GOD_FATHER
 Colossians 1:15,Colossians,1,15,God,GOD_FATHER,narration,0,GOD_FATHER
 Colossians 1:15,Colossians,1,15,firstborn,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Colossians 1:15,Colossians,1,15,every,QUANTITY,narration,0,QUANTITY
 Colossians 1:15,Colossians,1,15,creature,ANIMAL,narration,0,ANIMAL
-Colossians 1:16,Colossians,1,16,him,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 1:16,Colossians,1,16,him,GOD_SON,narration,0,GOD_FATHER
 Colossians 1:16,Colossians,1,16,all,QUANTITY,narration,0,QUANTITY
 Colossians 1:16,Colossians,1,16,heaven,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Colossians 1:16,Colossians,1,16,earth,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Colossians 1:16,Colossians,1,16,they,PRONOUN,narration,0,PRONOUN
 Colossians 1:16,Colossians,1,16,thrones,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Colossians 1:16,Colossians,1,16,all,QUANTITY,narration,0,QUANTITY
-Colossians 1:16,Colossians,1,16,him,GOD_FATHER,narration,0,GOD_FATHER
-Colossians 1:16,Colossians,1,16,him,GOD_FATHER,narration,0,GOD_FATHER
-Colossians 1:17,Colossians,1,17,he,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 1:16,Colossians,1,16,him,GOD_SON,narration,0,GOD_FATHER
+Colossians 1:16,Colossians,1,16,him,GOD_SON,narration,0,GOD_FATHER
+Colossians 1:17,Colossians,1,17,he,GOD_SON,narration,0,GOD_FATHER
 Colossians 1:17,Colossians,1,17,before,GENERAL_TIME,narration,0,GENERAL_TIME
 Colossians 1:17,Colossians,1,17,all,QUANTITY,narration,0,QUANTITY
-Colossians 1:17,Colossians,1,17,him,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 1:17,Colossians,1,17,him,GOD_SON,narration,0,GOD_FATHER
 Colossians 1:17,Colossians,1,17,all,QUANTITY,narration,0,QUANTITY
-Colossians 1:18,Colossians,1,18,he,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 1:18,Colossians,1,18,he,GOD_SON,narration,0,GOD_FATHER
 Colossians 1:18,Colossians,1,18,church,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Colossians 1:18,Colossians,1,18,who,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 1:18,Colossians,1,18,who,GOD_SON,narration,0,GOD_FATHER
 Colossians 1:18,Colossians,1,18,beginning,GENERAL_TIME,narration,0,GENERAL_TIME
 Colossians 1:18,Colossians,1,18,firstborn,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Colossians 1:18,Colossians,1,18,dead,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Colossians 1:18,Colossians,1,18,all,QUANTITY,narration,0,QUANTITY
-Colossians 1:18,Colossians,1,18,he,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 1:18,Colossians,1,18,he,GOD_SON,narration,0,GOD_FATHER
 Colossians 1:19,Colossians,1,19,Father,GOD_FATHER,narration,0,GOD_FATHER
-Colossians 1:19,Colossians,1,19,him,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 1:19,Colossians,1,19,him,GOD_SON,narration,0,GOD_FATHER
 Colossians 1:19,Colossians,1,19,all,QUANTITY,narration,0,QUANTITY
-Colossians 1:20,Colossians,1,20,his,GOD_FATHER,narration,0,GOD_FATHER
-Colossians 1:20,Colossians,1,20,him,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 1:20,Colossians,1,20,his,GOD_SON,narration,0,GOD_FATHER
+Colossians 1:20,Colossians,1,20,him,GOD_SON,narration,0,GOD_FATHER
 Colossians 1:20,Colossians,1,20,all,QUANTITY,narration,0,QUANTITY
 Colossians 1:20,Colossians,1,20,himself,GOD_FATHER,narration,0,GOD_FATHER
-Colossians 1:20,Colossians,1,20,him,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 1:20,Colossians,1,20,him,GOD_SON,narration,0,GOD_FATHER
 Colossians 1:20,Colossians,1,20,I,PRONOUN,narration,0,PRONOUN
 Colossians 1:20,Colossians,1,20,they,PRONOUN,narration,0,PRONOUN
 Colossians 1:20,Colossians,1,20,earth,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
@@ -246155,7 +246155,7 @@ Colossians 1:21,Colossians,1,21,enemies,GENERAL_PEOPLE,narration,0,GENERAL_PEOPL
 Colossians 1:21,Colossians,1,21,your,PRONOUN,narration,0,PRONOUN
 Colossians 1:21,Colossians,1,21,now,GENERAL_TIME,narration,0,GENERAL_TIME
 Colossians 1:21,Colossians,1,21,he,GOD_FATHER,narration,0,GOD_FATHER
-Colossians 1:22,Colossians,1,22,his,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 1:22,Colossians,1,22,his,GOD_SON,narration,0,GOD_FATHER
 Colossians 1:22,Colossians,1,22,you,PRONOUN,narration,0,PRONOUN
 Colossians 1:22,Colossians,1,22,his,GOD_FATHER,narration,0,GOD_FATHER
 Colossians 1:23,Colossians,1,23,ye,PRONOUN,narration,0,PRONOUN
@@ -246174,7 +246174,7 @@ Colossians 1:24,Colossians,1,24,you,PRONOUN,narration,0,PRONOUN
 Colossians 1:24,Colossians,1,24,behind,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Colossians 1:24,Colossians,1,24,Christ,GOD_SON,narration,0,GOD_SON
 Colossians 1:24,Colossians,1,24,my,PRONOUN,narration,0,PRONOUN
-Colossians 1:24,Colossians,1,24,his,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 1:24,Colossians,1,24,his,GOD_SON,narration,0,GOD_FATHER
 Colossians 1:24,Colossians,1,24,church,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Colossians 1:25,Colossians,1,25,I,PRONOUN,narration,0,PRONOUN
 Colossians 1:25,Colossians,1,25,minister,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -246192,7 +246192,7 @@ Colossians 1:27,Colossians,1,27,God,GOD_FATHER,narration,0,GOD_FATHER
 Colossians 1:27,Colossians,1,27,Gentiles,PEOPLE_GROUP,narration,0,PEOPLE_GROUP
 Colossians 1:27,Colossians,1,27,Christ,GOD_SON,narration,0,GOD_SON
 Colossians 1:27,Colossians,1,27,you,PRONOUN,narration,0,PRONOUN
-Colossians 1:28,Colossians,1,28,whom,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 1:28,Colossians,1,28,whom,GOD_SON,narration,0,GOD_FATHER
 Colossians 1:28,Colossians,1,28,we,PRONOUN,narration,0,PRONOUN
 Colossians 1:28,Colossians,1,28,every,QUANTITY,narration,0,QUANTITY
 Colossians 1:28,Colossians,1,28,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -246220,7 +246220,7 @@ Colossians 2:2,Colossians,2,2,all,QUANTITY,narration,0,QUANTITY
 Colossians 2:2,Colossians,2,2,God,GOD_FATHER,narration,0,GOD_FATHER
 Colossians 2:2,Colossians,2,2,Father,GOD_FATHER,narration,0,GOD_FATHER
 Colossians 2:2,Colossians,2,2,Christ,GOD_SON,narration,0,GOD_SON
-Colossians 2:3,Colossians,2,3,whom,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 2:3,Colossians,2,3,whom,GOD_SON,narration,0,GOD_FATHER
 Colossians 2:3,Colossians,2,3,all,QUANTITY,narration,0,QUANTITY
 Colossians 2:4,Colossians,2,4,I,PRONOUN,narration,0,PRONOUN
 Colossians 2:4,Colossians,2,4,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -246237,8 +246237,8 @@ Colossians 2:6,Colossians,2,6,Jesus,GOD_SON,narration,0,GOD_SON
 Colossians 2:6,Colossians,2,6,Lord,GOD_FATHER,narration,0,GOD_FATHER
 Colossians 2:6,Colossians,2,6,so,GENERAL_TIME,narration,0,GENERAL_TIME
 Colossians 2:6,Colossians,2,6,ye,PRONOUN,narration,0,PRONOUN
-Colossians 2:6,Colossians,2,6,him,GOD_FATHER,narration,0,GOD_FATHER
-Colossians 2:7,Colossians,2,7,him,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 2:6,Colossians,2,6,him,GOD_SON,narration,0,GOD_FATHER
+Colossians 2:7,Colossians,2,7,him,GOD_SON,narration,0,GOD_FATHER
 Colossians 2:7,Colossians,2,7,ye,PRONOUN,narration,0,PRONOUN
 Colossians 2:7,Colossians,2,7,therein,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Colossians 2:8,Colossians,2,8,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -246246,28 +246246,28 @@ Colossians 2:8,Colossians,2,8,you,PRONOUN,narration,0,PRONOUN
 Colossians 2:8,Colossians,2,8,men,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Colossians 2:8,Colossians,2,8,world,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Colossians 2:8,Colossians,2,8,Christ,GOD_SON,narration,0,GOD_SON
-Colossians 2:9,Colossians,2,9,him,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 2:9,Colossians,2,9,him,GOD_SON,narration,0,GOD_FATHER
 Colossians 2:9,Colossians,2,9,all,QUANTITY,narration,0,QUANTITY
 Colossians 2:9,Colossians,2,9,Godhead,GOD_FATHER,narration,0,GOD_FATHER
 Colossians 2:10,Colossians,2,10,ye,PRONOUN,narration,0,PRONOUN
-Colossians 2:10,Colossians,2,10,him,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 2:10,Colossians,2,10,him,GOD_SON,narration,0,GOD_FATHER
 Colossians 2:10,Colossians,2,10,all,QUANTITY,narration,0,QUANTITY
-Colossians 2:11,Colossians,2,11,whom,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 2:11,Colossians,2,11,whom,GOD_SON,narration,0,GOD_FATHER
 Colossians 2:11,Colossians,2,11,ye,PRONOUN,narration,0,PRONOUN
 Colossians 2:11,Colossians,2,11,Christ,GOD_SON,narration,0,GOD_SON
-Colossians 2:12,Colossians,2,12,him,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 2:12,Colossians,2,12,him,GOD_SON,narration,0,GOD_FATHER
 Colossians 2:12,Colossians,2,12,wherein,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Colossians 2:12,Colossians,2,12,ye,PRONOUN,narration,0,PRONOUN
-Colossians 2:12,Colossians,2,12,him,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 2:12,Colossians,2,12,him,GOD_SON,narration,0,GOD_FATHER
 Colossians 2:12,Colossians,2,12,God,GOD_FATHER,narration,0,GOD_FATHER
 Colossians 2:12,Colossians,2,12,who,GOD_FATHER,narration,0,GOD_FATHER
-Colossians 2:12,Colossians,2,12,him,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 2:12,Colossians,2,12,him,GOD_SON,narration,0,GOD_FATHER
 Colossians 2:12,Colossians,2,12,dead,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Colossians 2:13,Colossians,2,13,you,PRONOUN,narration,0,PRONOUN
 Colossians 2:13,Colossians,2,13,your,PRONOUN,narration,0,PRONOUN
 Colossians 2:13,Colossians,2,13,your,PRONOUN,narration,0,PRONOUN
 Colossians 2:13,Colossians,2,13,he,GOD_FATHER,narration,0,GOD_FATHER
-Colossians 2:13,Colossians,2,13,him,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 2:13,Colossians,2,13,him,GOD_SON,narration,0,GOD_FATHER
 Colossians 2:13,Colossians,2,13,you,PRONOUN,narration,0,PRONOUN
 Colossians 2:13,Colossians,2,13,all,QUANTITY,narration,0,QUANTITY
 Colossians 2:14,Colossians,2,14,us,PRONOUN,narration,0,PRONOUN
@@ -246318,10 +246318,10 @@ Colossians 3:3,Colossians,3,3,Christ,GOD_SON,narration,0,GOD_SON
 Colossians 3:3,Colossians,3,3,God,GOD_FATHER,narration,0,GOD_FATHER
 Colossians 3:4,Colossians,3,4,When,GENERAL_TIME,narration,0,GENERAL_TIME
 Colossians 3:4,Colossians,3,4,Christ,GOD_SON,narration,0,GOD_SON
-Colossians 3:4,Colossians,3,4,who,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 3:4,Colossians,3,4,who,GOD_SON,narration,0,GOD_FATHER
 Colossians 3:4,Colossians,3,4,our,PRONOUN,narration,0,PRONOUN
 Colossians 3:4,Colossians,3,4,ye,PRONOUN,narration,0,PRONOUN
-Colossians 3:4,Colossians,3,4,him,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 3:4,Colossians,3,4,him,GOD_SON,narration,0,GOD_FATHER
 Colossians 3:5,Colossians,3,5,your,PRONOUN,narration,0,PRONOUN
 Colossians 3:5,Colossians,3,5,earth,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Colossians 3:6,Colossians,3,6,God,GOD_FATHER,narration,0,GOD_FATHER
@@ -246377,7 +246377,7 @@ Colossians 3:17,Colossians,3,17,Lord,GOD_FATHER,narration,0,GOD_FATHER
 Colossians 3:17,Colossians,3,17,Jesus,GOD_SON,narration,0,GOD_SON
 Colossians 3:17,Colossians,3,17,God,GOD_FATHER,narration,0,GOD_FATHER
 Colossians 3:17,Colossians,3,17,Father,GOD_FATHER,narration,0,GOD_FATHER
-Colossians 3:17,Colossians,3,17,him,GOD_FATHER,narration,0,GOD_FATHER
+Colossians 3:17,Colossians,3,17,him,GOD_SON,narration,0,GOD_FATHER
 Colossians 3:18,Colossians,3,18,Wives,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Colossians 3:18,Colossians,3,18,yourselves,PRONOUN,narration,0,PRONOUN
 Colossians 3:18,Colossians,3,18,your,PRONOUN,narration,0,PRONOUN
@@ -248769,22 +248769,22 @@ Hebrews 1:2,Hebrews,1,2,days,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
 Hebrews 1:2,Hebrews,1,2,us,PRONOUN,narration,0,PRONOUN
 Hebrews 1:2,Hebrews,1,2,his,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 1:2,Hebrews,1,2,Son,GOD_SON,narration,0,GOD_SON
-Hebrews 1:2,Hebrews,1,2,whom,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 1:2,Hebrews,1,2,whom,GOD_SON,narration,0,GOD_FATHER
 Hebrews 1:2,Hebrews,1,2,he,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 1:2,Hebrews,1,2,heir,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 1:2,Hebrews,1,2,all,QUANTITY,narration,0,QUANTITY
-Hebrews 1:2,Hebrews,1,2,whom,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 1:2,Hebrews,1,2,whom,GOD_SON,narration,0,GOD_FATHER
 Hebrews 1:2,Hebrews,1,2,he,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 1:2,Hebrews,1,2,worlds,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
-Hebrews 1:3,Hebrews,1,3,who,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 1:3,Hebrews,1,3,who,GOD_SON,narration,0,GOD_FATHER
 Hebrews 1:3,Hebrews,1,3,his,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 1:3,Hebrews,1,3,his,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 1:3,Hebrews,1,3,person,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 1:3,Hebrews,1,3,all,QUANTITY,narration,0,QUANTITY
-Hebrews 1:3,Hebrews,1,3,his,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 1:3,Hebrews,1,3,his,GOD_SON,narration,0,GOD_FATHER
 Hebrews 1:3,Hebrews,1,3,when,GENERAL_TIME,narration,0,GENERAL_TIME
-Hebrews 1:3,Hebrews,1,3,he,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 1:3,Hebrews,1,3,himself,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 1:3,Hebrews,1,3,he,GOD_SON,narration,0,GOD_FATHER
+Hebrews 1:3,Hebrews,1,3,himself,GOD_SON,narration,0,GOD_FATHER
 Hebrews 1:3,Hebrews,1,3,our,PRONOUN,narration,0,PRONOUN
 Hebrews 1:3,Hebrews,1,3,right,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 1:3,Hebrews,1,3,hand,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
@@ -248793,24 +248793,24 @@ Hebrews 1:3,Hebrews,1,3,high,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Hebrews 1:4,Hebrews,1,4,so,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 1:4,Hebrews,1,4,much,QUANTITY,narration,0,QUANTITY
 Hebrews 1:4,Hebrews,1,4,angels,ANGELIC,narration,0,ANGELIC
-Hebrews 1:4,Hebrews,1,4,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 1:4,Hebrews,1,4,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 1:4,Hebrews,1,4,more,QUANTITY,narration,0,QUANTITY
 Hebrews 1:4,Hebrews,1,4,they,PRONOUN,narration,0,PRONOUN
 Hebrews 1:5,Hebrews,1,5,angels,ANGELIC,narration,0,ANGELIC
 Hebrews 1:5,Hebrews,1,5,he,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 1:5,Hebrews,1,5,time,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
-Hebrews 1:5,Hebrews,1,5,Thou,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:5,Hebrews,1,5,Thou,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:5,Hebrews,1,5,my,GOD_FATHER,quote,0,GOD_FATHER
 Hebrews 1:5,Hebrews,1,5,Son,GOD_SON,quote,0,GOD_SON
 Hebrews 1:5,Hebrews,1,5,this,GENERAL_TIME,quote,0,GENERAL_TIME
 Hebrews 1:5,Hebrews,1,5,day,SPECIFIC_TIME,quote,0,SPECIFIC_TIME
 Hebrews 1:5,Hebrews,1,5,I,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 1:5,Hebrews,1,5,thee,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:5,Hebrews,1,5,thee,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:5,Hebrews,1,5,again,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 1:5,Hebrews,1,5,I,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 1:5,Hebrews,1,5,him,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:5,Hebrews,1,5,him,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:5,Hebrews,1,5,Father,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 1:5,Hebrews,1,5,he,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:5,Hebrews,1,5,he,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:5,Hebrews,1,5,me,GOD_FATHER,quote,0,GOD_FATHER
 Hebrews 1:5,Hebrews,1,5,Son,GOD_SON,quote,0,GOD_SON
 Hebrews 1:6,Hebrews,1,6,again,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -248821,7 +248821,7 @@ Hebrews 1:6,Hebrews,1,6,he,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 1:6,Hebrews,1,6,all,QUANTITY,quote,0,QUANTITY
 Hebrews 1:6,Hebrews,1,6,angels,ANGELIC,quote,0,ANGELIC
 Hebrews 1:6,Hebrews,1,6,God,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 1:6,Hebrews,1,6,him,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:6,Hebrews,1,6,him,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:7,Hebrews,1,7,angels,ANGELIC,narration,0,ANGELIC
 Hebrews 1:7,Hebrews,1,7,he,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 1:7,Hebrews,1,7,Who,GOD_FATHER,quote,0,GOD_FATHER
@@ -248831,37 +248831,37 @@ Hebrews 1:7,Hebrews,1,7,his,GOD_FATHER,quote,0,GOD_FATHER
 Hebrews 1:7,Hebrews,1,7,ministers,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Hebrews 1:8,Hebrews,1,8,Son,GOD_SON,narration,0,GOD_SON
 Hebrews 1:8,Hebrews,1,8,he,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 1:8,Hebrews,1,8,Thy,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:8,Hebrews,1,8,Thy,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:8,Hebrews,1,8,throne,GENERAL_PLACE_1,quote,0,GENERAL_PLACE_1
 Hebrews 1:8,Hebrews,1,8,God,GOD_FATHER,quote,0,GOD_FATHER
 Hebrews 1:8,Hebrews,1,8,for,GENERAL_TIME,quote,0,GENERAL_TIME
 Hebrews 1:8,Hebrews,1,8,ever,GENERAL_TIME,quote,0,GENERAL_TIME
 Hebrews 1:8,Hebrews,1,8,ever,GENERAL_TIME,quote,0,GENERAL_TIME
-Hebrews 1:8,Hebrews,1,8,thy,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 1:9,Hebrews,1,9,Thou,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:8,Hebrews,1,8,thy,GOD_SON,quote,0,GOD_FATHER
+Hebrews 1:9,Hebrews,1,9,Thou,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:9,Hebrews,1,9,God,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 1:9,Hebrews,1,9,thy,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:9,Hebrews,1,9,thy,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:9,Hebrews,1,9,God,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 1:9,Hebrews,1,9,thee,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:9,Hebrews,1,9,thee,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:9,Hebrews,1,9,above,GENERAL_PLACE_2,quote,0,GENERAL_PLACE_2
-Hebrews 1:9,Hebrews,1,9,thy,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:9,Hebrews,1,9,thy,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:9,Hebrews,1,9,fellows,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
-Hebrews 1:10,Hebrews,1,10,Thou,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:10,Hebrews,1,10,Thou,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:10,Hebrews,1,10,Lord,GOD_FATHER,quote,0,GOD_FATHER
 Hebrews 1:10,Hebrews,1,10,beginning,GENERAL_TIME,quote,0,GENERAL_TIME
 Hebrews 1:10,Hebrews,1,10,earth,GENERAL_PLACE_1,quote,0,GENERAL_PLACE_1
 Hebrews 1:10,Hebrews,1,10,heavens,GENERAL_PLACE_1,quote,0,GENERAL_PLACE_1
-Hebrews 1:10,Hebrews,1,10,thine,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:10,Hebrews,1,10,thine,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:11,Hebrews,1,11,they,PRONOUN,quote,0,PRONOUN
-Hebrews 1:11,Hebrews,1,11,thou,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:11,Hebrews,1,11,thou,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:11,Hebrews,1,11,they,PRONOUN,quote,0,PRONOUN
 Hebrews 1:11,Hebrews,1,11,all,QUANTITY,quote,0,QUANTITY
 Hebrews 1:11,Hebrews,1,11,old,GENERAL_TIME,quote,0,GENERAL_TIME
-Hebrews 1:12,Hebrews,1,12,thou,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:12,Hebrews,1,12,thou,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:12,Hebrews,1,12,them,PRONOUN,quote,0,PRONOUN
 Hebrews 1:12,Hebrews,1,12,they,PRONOUN,quote,0,PRONOUN
-Hebrews 1:12,Hebrews,1,12,thou,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 1:12,Hebrews,1,12,thy,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:12,Hebrews,1,12,thou,GOD_SON,quote,0,GOD_FATHER
+Hebrews 1:12,Hebrews,1,12,thy,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:12,Hebrews,1,12,years,SPECIFIC_TIME,quote,0,SPECIFIC_TIME
 Hebrews 1:13,Hebrews,1,13,angels,ANGELIC,narration,0,ANGELIC
 Hebrews 1:13,Hebrews,1,13,he,GOD_FATHER,narration,0,GOD_FATHER
@@ -248871,9 +248871,9 @@ Hebrews 1:13,Hebrews,1,13,right,GENERAL_PLACE_1,quote,0,GENERAL_PLACE_1
 Hebrews 1:13,Hebrews,1,13,hand,GENERAL_PLACE_2,quote,0,GENERAL_PLACE_2
 Hebrews 1:13,Hebrews,1,13,until,GENERAL_TIME,quote,0,GENERAL_TIME
 Hebrews 1:13,Hebrews,1,13,I,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 1:13,Hebrews,1,13,thine,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:13,Hebrews,1,13,thine,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:13,Hebrews,1,13,enemies,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
-Hebrews 1:13,Hebrews,1,13,thy,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 1:13,Hebrews,1,13,thy,GOD_SON,quote,0,GOD_FATHER
 Hebrews 1:14,Hebrews,1,14,they,PRONOUN,narration,0,PRONOUN
 Hebrews 1:14,Hebrews,1,14,all,QUANTITY,narration,0,QUANTITY
 Hebrews 1:14,Hebrews,1,14,forth,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
@@ -248896,7 +248896,7 @@ Hebrews 2:3,Hebrews,2,3,began,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 2:3,Hebrews,2,3,Lord,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 2:3,Hebrews,2,3,us,PRONOUN,narration,0,PRONOUN
 Hebrews 2:3,Hebrews,2,3,them,PRONOUN,narration,0,PRONOUN
-Hebrews 2:3,Hebrews,2,3,him,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 2:3,Hebrews,2,3,him,GOD_SON,narration,0,GOD_FATHER
 Hebrews 2:4,Hebrews,2,4,God,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 2:4,Hebrews,2,4,them,PRONOUN,narration,0,PRONOUN
 Hebrews 2:4,Hebrews,2,4,both,QUANTITY,narration,0,QUANTITY
@@ -248939,10 +248939,10 @@ Hebrews 2:8,Hebrews,2,8,under,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Hebrews 2:8,Hebrews,2,8,him,PRONOUN,narration,0,PRONOUN
 Hebrews 2:9,Hebrews,2,9,we,PRONOUN,narration,0,PRONOUN
 Hebrews 2:9,Hebrews,2,9,Jesus,GOD_SON,narration,0,GOD_SON
-Hebrews 2:9,Hebrews,2,9,who,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 2:9,Hebrews,2,9,who,GOD_SON,narration,0,GOD_FATHER
 Hebrews 2:9,Hebrews,2,9,little,QUANTITY,narration,0,QUANTITY
 Hebrews 2:9,Hebrews,2,9,angels,ANGELIC,narration,0,ANGELIC
-Hebrews 2:9,Hebrews,2,9,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 2:9,Hebrews,2,9,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 2:9,Hebrews,2,9,God,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 2:9,Hebrews,2,9,every,QUANTITY,narration,0,QUANTITY
 Hebrews 2:9,Hebrews,2,9,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -248956,60 +248956,60 @@ Hebrews 2:10,Hebrews,2,10,sons,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 2:10,Hebrews,2,10,captain,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 2:10,Hebrews,2,10,their,PRONOUN,narration,0,PRONOUN
 Hebrews 2:11,Hebrews,2,11,both,QUANTITY,narration,0,QUANTITY
-Hebrews 2:11,Hebrews,2,11,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 2:11,Hebrews,2,11,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 2:11,Hebrews,2,11,they,PRONOUN,narration,0,PRONOUN
 Hebrews 2:11,Hebrews,2,11,who,PRONOUN,narration,0,PRONOUN
 Hebrews 2:11,Hebrews,2,11,all,QUANTITY,narration,0,QUANTITY
 Hebrews 2:11,Hebrews,2,11,one,QUANTITY,narration,0,QUANTITY
-Hebrews 2:11,Hebrews,2,11,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 2:11,Hebrews,2,11,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 2:11,Hebrews,2,11,them,PRONOUN,narration,0,PRONOUN
 Hebrews 2:11,Hebrews,2,11,brethren,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Hebrews 2:12,Hebrews,2,12,I,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 2:12,Hebrews,2,12,I,GOD_SON,quote,0,GOD_FATHER
 Hebrews 2:12,Hebrews,2,12,thy,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 2:12,Hebrews,2,12,my,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 2:12,Hebrews,2,12,my,GOD_SON,quote,0,GOD_FATHER
 Hebrews 2:12,Hebrews,2,12,brethren,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Hebrews 2:12,Hebrews,2,12,midst,GENERAL_PLACE_2,quote,0,GENERAL_PLACE_2
 Hebrews 2:12,Hebrews,2,12,church,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
-Hebrews 2:12,Hebrews,2,12,I,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 2:12,Hebrews,2,12,I,GOD_SON,quote,0,GOD_FATHER
 Hebrews 2:12,Hebrews,2,12,thee,GOD_FATHER,quote,0,GOD_FATHER
 Hebrews 2:13,Hebrews,2,13,again,GENERAL_TIME,narration,0,GENERAL_TIME
-Hebrews 2:13,Hebrews,2,13,I,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 2:13,Hebrews,2,13,my,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 2:13,Hebrews,2,13,I,GOD_SON,quote,0,GOD_FATHER
+Hebrews 2:13,Hebrews,2,13,my,GOD_SON,quote,0,GOD_FATHER
 Hebrews 2:13,Hebrews,2,13,him,GOD_FATHER,quote,0,GOD_FATHER
 Hebrews 2:13,Hebrews,2,13,again,GENERAL_TIME,narration,0,GENERAL_TIME
-Hebrews 2:13,Hebrews,2,13,I,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 2:13,Hebrews,2,13,I,GOD_SON,quote,0,GOD_FATHER
 Hebrews 2:13,Hebrews,2,13,children,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Hebrews 2:13,Hebrews,2,13,God,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 2:13,Hebrews,2,13,me,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 2:13,Hebrews,2,13,me,GOD_SON,quote,0,GOD_FATHER
 Hebrews 2:14,Hebrews,2,14,children,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 2:14,Hebrews,2,14,partakers,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Hebrews 2:14,Hebrews,2,14,he,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 2:14,Hebrews,2,14,himself,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 2:14,Hebrews,2,14,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 2:14,Hebrews,2,14,he,GOD_SON,narration,0,GOD_FATHER
+Hebrews 2:14,Hebrews,2,14,himself,GOD_SON,narration,0,GOD_FATHER
+Hebrews 2:14,Hebrews,2,14,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 2:14,Hebrews,2,14,him,PRONOUN,narration,0,PRONOUN
 Hebrews 2:14,Hebrews,2,14,devil,DEMONIC,narration,0,DEMONIC
 Hebrews 2:15,Hebrews,2,15,them,PRONOUN,narration,0,PRONOUN
 Hebrews 2:15,Hebrews,2,15,who,PRONOUN,narration,0,PRONOUN
 Hebrews 2:15,Hebrews,2,15,all,QUANTITY,narration,0,QUANTITY
 Hebrews 2:15,Hebrews,2,15,their,PRONOUN,narration,0,PRONOUN
-Hebrews 2:16,Hebrews,2,16,he,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 2:16,Hebrews,2,16,him,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 2:16,Hebrews,2,16,he,GOD_SON,narration,0,GOD_FATHER
+Hebrews 2:16,Hebrews,2,16,him,GOD_SON,narration,0,GOD_FATHER
 Hebrews 2:16,Hebrews,2,16,angels,ANGELIC,narration,0,ANGELIC
-Hebrews 2:16,Hebrews,2,16,he,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 2:16,Hebrews,2,16,him,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 2:16,Hebrews,2,16,he,GOD_SON,narration,0,GOD_FATHER
+Hebrews 2:16,Hebrews,2,16,him,GOD_SON,narration,0,GOD_FATHER
 Hebrews 2:16,Hebrews,2,16,seed,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 2:16,Hebrews,2,16,Abraham,PROPER_PERSON,narration,0,PROPER_PERSON
 Hebrews 2:17,Hebrews,2,17,all,QUANTITY,narration,0,QUANTITY
-Hebrews 2:17,Hebrews,2,17,him,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 2:17,Hebrews,2,17,his,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 2:17,Hebrews,2,17,him,GOD_SON,narration,0,GOD_FATHER
+Hebrews 2:17,Hebrews,2,17,his,GOD_SON,narration,0,GOD_FATHER
 Hebrews 2:17,Hebrews,2,17,brethren,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Hebrews 2:17,Hebrews,2,17,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 2:17,Hebrews,2,17,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 2:17,Hebrews,2,17,high priest,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 2:17,Hebrews,2,17,God,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 2:17,Hebrews,2,17,people,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Hebrews 2:18,Hebrews,2,18,he,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 2:18,Hebrews,2,18,himself,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 2:18,Hebrews,2,18,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 2:18,Hebrews,2,18,he,GOD_SON,narration,0,GOD_FATHER
+Hebrews 2:18,Hebrews,2,18,himself,GOD_SON,narration,0,GOD_FATHER
+Hebrews 2:18,Hebrews,2,18,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 2:18,Hebrews,2,18,them,PRONOUN,narration,0,PRONOUN
 Hebrews 3:1,Hebrews,3,1,brethren,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 3:1,Hebrews,3,1,partakers,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -249019,12 +249019,12 @@ Hebrews 3:1,Hebrews,3,1,Priest,GOD_SON,narration,0,GOD_SON
 Hebrews 3:1,Hebrews,3,1,our,PRONOUN,narration,0,PRONOUN
 Hebrews 3:1,Hebrews,3,1,Christ,GOD_SON,narration,0,GOD_SON
 Hebrews 3:1,Hebrews,3,1,Jesus,GOD_SON,narration,0,GOD_SON
-Hebrews 3:2,Hebrews,3,2,who,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 3:2,Hebrews,3,2,who,GOD_SON,narration,0,GOD_FATHER
 Hebrews 3:2,Hebrews,3,2,him,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 3:2,Hebrews,3,2,him,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 3:2,Hebrews,3,2,him,GOD_SON,narration,0,GOD_FATHER
 Hebrews 3:2,Hebrews,3,2,Moses,PROPER_PERSON,narration,0,PROPER_PERSON
 Hebrews 3:2,Hebrews,3,2,all,QUANTITY,narration,0,QUANTITY
-Hebrews 3:2,Hebrews,3,2,his,PRONOUN,narration,0,PRONOUN
+Hebrews 3:2,Hebrews,3,2,his,GOD_FATHER,narration,0,PRONOUN
 Hebrews 3:2,Hebrews,3,2,house,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 3:3,Hebrews,3,3,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 3:3,Hebrews,3,3,more,QUANTITY,narration,0,QUANTITY
@@ -249043,7 +249043,7 @@ Hebrews 3:4,Hebrews,3,4,all,QUANTITY,narration,0,QUANTITY
 Hebrews 3:4,Hebrews,3,4,God,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 3:5,Hebrews,3,5,Moses,PROPER_PERSON,narration,0,PROPER_PERSON
 Hebrews 3:5,Hebrews,3,5,all,QUANTITY,narration,0,QUANTITY
-Hebrews 3:5,Hebrews,3,5,his,PRONOUN,narration,0,PRONOUN
+Hebrews 3:5,Hebrews,3,5,his,GOD_FATHER,narration,0,PRONOUN
 Hebrews 3:5,Hebrews,3,5,house,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 3:5,Hebrews,3,5,servant,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 3:5,Hebrews,3,5,after,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -249051,7 +249051,7 @@ Hebrews 3:6,Hebrews,3,6,Christ,GOD_SON,narration,0,GOD_SON
 Hebrews 3:6,Hebrews,3,6,son,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 3:6,Hebrews,3,6,his,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 3:6,Hebrews,3,6,house,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
-Hebrews 3:6,Hebrews,3,6,whose,PRONOUN,narration,0,PRONOUN
+Hebrews 3:6,Hebrews,3,6,whose,GOD_FATHER,narration,0,PRONOUN
 Hebrews 3:6,Hebrews,3,6,house,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 3:6,Hebrews,3,6,we,PRONOUN,narration,0,PRONOUN
 Hebrews 3:6,Hebrews,3,6,we,PRONOUN,narration,0,PRONOUN
@@ -249181,7 +249181,7 @@ Hebrews 4:10,Hebrews,4,10,his,PRONOUN,narration,0,PRONOUN
 Hebrews 4:10,Hebrews,4,10,he,PRONOUN,narration,0,PRONOUN
 Hebrews 4:10,Hebrews,4,10,his,PRONOUN,narration,0,PRONOUN
 Hebrews 4:10,Hebrews,4,10,God,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 4:10,Hebrews,4,10,his,PRONOUN,narration,0,PRONOUN
+Hebrews 4:10,Hebrews,4,10,his,GOD_FATHER,narration,0,PRONOUN
 Hebrews 4:11,Hebrews,4,11,us,PRONOUN,narration,0,PRONOUN
 Hebrews 4:11,Hebrews,4,11,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 4:12,Hebrews,4,12,God,GOD_FATHER,narration,0,GOD_FATHER
@@ -249229,42 +249229,42 @@ Hebrews 5:4,Hebrews,5,4,he,PRONOUN,narration,0,PRONOUN
 Hebrews 5:4,Hebrews,5,4,God,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 5:4,Hebrews,5,4,Aaron,PROPER_PERSON,narration,0,PROPER_PERSON
 Hebrews 5:5,Hebrews,5,5,Christ,GOD_SON,narration,0,GOD_SON
-Hebrews 5:5,Hebrews,5,5,himself,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 5:5,Hebrews,5,5,himself,GOD_SON,narration,0,GOD_FATHER
 Hebrews 5:5,Hebrews,5,5,high priest,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 5:5,Hebrews,5,5,he,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 5:5,Hebrews,5,5,him,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 5:5,Hebrews,5,5,Thou,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 5:5,Hebrews,5,5,him,GOD_SON,narration,0,GOD_FATHER
+Hebrews 5:5,Hebrews,5,5,Thou,GOD_SON,quote,0,GOD_FATHER
 Hebrews 5:5,Hebrews,5,5,my,GOD_FATHER,quote,0,GOD_FATHER
 Hebrews 5:5,Hebrews,5,5,Son,GOD_SON,quote,0,GOD_SON
 Hebrews 5:5,Hebrews,5,5,day,SPECIFIC_TIME,quote,0,SPECIFIC_TIME
 Hebrews 5:5,Hebrews,5,5,I,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 5:5,Hebrews,5,5,thee,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 5:5,Hebrews,5,5,thee,GOD_SON,quote,0,GOD_FATHER
 Hebrews 5:6,Hebrews,5,6,he,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 5:6,Hebrews,5,6,another,QUANTITY,narration,0,QUANTITY
 Hebrews 5:6,Hebrews,5,6,place,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
-Hebrews 5:6,Hebrews,5,6,Thou,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 5:6,Hebrews,5,6,Thou,GOD_SON,quote,0,GOD_FATHER
 Hebrews 5:6,Hebrews,5,6,priest,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Hebrews 5:6,Hebrews,5,6,for,GENERAL_TIME,quote,0,GENERAL_TIME
 Hebrews 5:6,Hebrews,5,6,ever,GENERAL_TIME,quote,0,GENERAL_TIME
 Hebrews 5:6,Hebrews,5,6,Melchisedec,PROPER_PERSON,quote,0,PROPER_PERSON
 Hebrews 5:7,Hebrews,5,7,Who,GOD_SON,narration,0,GOD_SON
 Hebrews 5:7,Hebrews,5,7,days,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
-Hebrews 5:7,Hebrews,5,7,his,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 5:7,Hebrews,5,7,his,GOD_SON,narration,0,GOD_FATHER
 Hebrews 5:7,Hebrews,5,7,when,GENERAL_TIME,narration,0,GENERAL_TIME
-Hebrews 5:7,Hebrews,5,7,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 5:7,Hebrews,5,7,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 5:7,Hebrews,5,7,him,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 5:7,Hebrews,5,7,him,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 5:7,Hebrews,5,7,he,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 5:8,Hebrews,5,8,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 5:7,Hebrews,5,7,him,GOD_SON,narration,0,GOD_FATHER
+Hebrews 5:7,Hebrews,5,7,he,GOD_SON,narration,0,GOD_FATHER
+Hebrews 5:8,Hebrews,5,8,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 5:8,Hebrews,5,8,Son,GOD_SON,narration,0,GOD_SON
-Hebrews 5:8,Hebrews,5,8,he,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 5:8,Hebrews,5,8,he,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 5:9,Hebrews,5,9,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 5:8,Hebrews,5,8,he,GOD_SON,narration,0,GOD_FATHER
+Hebrews 5:8,Hebrews,5,8,he,GOD_SON,narration,0,GOD_FATHER
+Hebrews 5:9,Hebrews,5,9,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 5:9,Hebrews,5,9,author,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 5:9,Hebrews,5,9,eternal,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 5:9,Hebrews,5,9,all,QUANTITY,narration,0,QUANTITY
 Hebrews 5:9,Hebrews,5,9,them,PRONOUN,narration,0,PRONOUN
-Hebrews 5:9,Hebrews,5,9,him,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 5:9,Hebrews,5,9,him,GOD_SON,narration,0,GOD_FATHER
 Hebrews 5:10,Hebrews,5,10,God,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 5:10,Hebrews,5,10,high priest,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 5:10,Hebrews,5,10,Melchisedec,PROPER_PERSON,narration,0,PROPER_PERSON
@@ -249311,7 +249311,7 @@ Hebrews 6:6,Hebrews,6,6,they,PRONOUN,narration,0,PRONOUN
 Hebrews 6:6,Hebrews,6,6,themselves,PRONOUN,narration,0,PRONOUN
 Hebrews 6:6,Hebrews,6,6,Son,GOD_SON,narration,0,GOD_SON
 Hebrews 6:6,Hebrews,6,6,God,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 6:6,Hebrews,6,6,him,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 6:6,Hebrews,6,6,him,GOD_SON,narration,0,GOD_FATHER
 Hebrews 6:7,Hebrews,6,7,earth,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 6:7,Hebrews,6,7,oft,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 6:7,Hebrews,6,7,herbs,PLANT,narration,0,PLANT
@@ -249467,8 +249467,8 @@ Hebrews 7:11,Hebrews,7,11,priest,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 7:11,Hebrews,7,11,Melchisedec,PROPER_PERSON,narration,0,PROPER_PERSON
 Hebrews 7:11,Hebrews,7,11,Aaron,PROPER_PERSON,narration,0,PROPER_PERSON
 Hebrews 7:12,Hebrews,7,12,priesthood,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Hebrews 7:13,Hebrews,7,13,he,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 7:13,Hebrews,7,13,whom,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 7:13,Hebrews,7,13,he,GOD_SON,narration,0,GOD_FATHER
+Hebrews 7:13,Hebrews,7,13,whom,GOD_SON,narration,0,GOD_FATHER
 Hebrews 7:13,Hebrews,7,13,another,QUANTITY,narration,0,QUANTITY
 Hebrews 7:13,Hebrews,7,13,tribe,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 7:13,Hebrews,7,13,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -249484,10 +249484,10 @@ Hebrews 7:15,Hebrews,7,15,more,QUANTITY,narration,0,QUANTITY
 Hebrews 7:15,Hebrews,7,15,Melchisedec,PROPER_PERSON,narration,0,PROPER_PERSON
 Hebrews 7:15,Hebrews,7,15,another,QUANTITY,narration,0,QUANTITY
 Hebrews 7:15,Hebrews,7,15,priest,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Hebrews 7:16,Hebrews,7,16,who,PRONOUN,narration,0,PRONOUN
+Hebrews 7:16,Hebrews,7,16,who,GOD_SON,narration,0,PRONOUN
 Hebrews 7:16,Hebrews,7,16,endless,GENERAL_TIME,narration,0,GENERAL_TIME
-Hebrews 7:17,Hebrews,7,17,he,PRONOUN,narration,0,PRONOUN
-Hebrews 7:17,Hebrews,7,17,Thou,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 7:17,Hebrews,7,17,he,GOD_FATHER,narration,0,PRONOUN
+Hebrews 7:17,Hebrews,7,17,Thou,GOD_SON,quote,0,GOD_FATHER
 Hebrews 7:17,Hebrews,7,17,priest,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Hebrews 7:17,Hebrews,7,17,for,GENERAL_TIME,quote,0,GENERAL_TIME
 Hebrews 7:17,Hebrews,7,17,ever,GENERAL_TIME,quote,0,GENERAL_TIME
@@ -249496,13 +249496,13 @@ Hebrews 7:18,Hebrews,7,18,before,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 7:19,Hebrews,7,19,we,PRONOUN,narration,0,PRONOUN
 Hebrews 7:19,Hebrews,7,19,nigh,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Hebrews 7:19,Hebrews,7,19,God,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 7:20,Hebrews,7,20,he,PRONOUN,narration,0,PRONOUN
+Hebrews 7:20,Hebrews,7,20,he,GOD_SON,narration,0,PRONOUN
 Hebrews 7:20,Hebrews,7,20,priest,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 7:21,Hebrews,7,21,priests,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Hebrews 7:21,Hebrews,7,21,him,PRONOUN,narration,0,PRONOUN
-Hebrews 7:21,Hebrews,7,21,him,PRONOUN,narration,0,PRONOUN
+Hebrews 7:21,Hebrews,7,21,him,GOD_FATHER,narration,0,PRONOUN
+Hebrews 7:21,Hebrews,7,21,him,GOD_SON,narration,0,PRONOUN
 Hebrews 7:21,Hebrews,7,21,Lord,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 7:21,Hebrews,7,21,Thou,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 7:21,Hebrews,7,21,Thou,GOD_SON,quote,0,GOD_FATHER
 Hebrews 7:21,Hebrews,7,21,priest,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Hebrews 7:21,Hebrews,7,21,for,GENERAL_TIME,quote,0,GENERAL_TIME
 Hebrews 7:21,Hebrews,7,21,ever,GENERAL_TIME,quote,0,GENERAL_TIME
@@ -249515,45 +249515,45 @@ Hebrews 7:23,Hebrews,7,23,many,QUANTITY,narration,0,QUANTITY
 Hebrews 7:23,Hebrews,7,23,priests,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 7:23,Hebrews,7,23,they,PRONOUN,narration,0,PRONOUN
 Hebrews 7:24,Hebrews,7,24,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Hebrews 7:24,Hebrews,7,24,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 7:24,Hebrews,7,24,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 7:24,Hebrews,7,24,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 7:24,Hebrews,7,24,priesthood,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Hebrews 7:25,Hebrews,7,25,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 7:25,Hebrews,7,25,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 7:25,Hebrews,7,25,them,PRONOUN,narration,0,PRONOUN
 Hebrews 7:25,Hebrews,7,25,uttermost,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 7:25,Hebrews,7,25,God,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 7:25,Hebrews,7,25,him,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 7:25,Hebrews,7,25,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 7:25,Hebrews,7,25,him,GOD_SON,narration,0,GOD_FATHER
+Hebrews 7:25,Hebrews,7,25,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 7:25,Hebrews,7,25,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 7:25,Hebrews,7,25,them,PRONOUN,narration,0,PRONOUN
 Hebrews 7:26,Hebrews,7,26,high priest,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 7:26,Hebrews,7,26,us,PRONOUN,narration,0,PRONOUN
-Hebrews 7:26,Hebrews,7,26,who,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 7:26,Hebrews,7,26,who,GOD_SON,narration,0,GOD_FATHER
 Hebrews 7:26,Hebrews,7,26,sinners,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 7:26,Hebrews,7,26,higher,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 7:26,Hebrews,7,26,heavens,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
-Hebrews 7:27,Hebrews,7,27,who,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 7:27,Hebrews,7,27,who,GOD_SON,narration,0,GOD_FATHER
 Hebrews 7:27,Hebrews,7,27,daily,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
 Hebrews 7:27,Hebrews,7,27,high priests,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 7:27,Hebrews,7,27,first,NUMBER,narration,0,NUMBER
 Hebrews 7:27,Hebrews,7,27,his,PRONOUN,narration,0,PRONOUN
 Hebrews 7:27,Hebrews,7,27,people’s,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Hebrews 7:27,Hebrews,7,27,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 7:27,Hebrews,7,27,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 7:27,Hebrews,7,27,once,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 7:27,Hebrews,7,27,when,GENERAL_TIME,narration,0,GENERAL_TIME
-Hebrews 7:27,Hebrews,7,27,he,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 7:27,Hebrews,7,27,himself,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 7:27,Hebrews,7,27,he,GOD_SON,narration,0,GOD_FATHER
+Hebrews 7:27,Hebrews,7,27,himself,GOD_SON,narration,0,GOD_FATHER
 Hebrews 7:28,Hebrews,7,28,men,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 7:28,Hebrews,7,28,high priests,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 7:28,Hebrews,7,28,since,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 7:28,Hebrews,7,28,Son,GOD_SON,narration,0,GOD_SON
-Hebrews 7:28,Hebrews,7,28,who,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 7:28,Hebrews,7,28,who,GOD_SON,narration,0,GOD_FATHER
 Hebrews 7:28,Hebrews,7,28,evermore,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 8:1,Hebrews,8,1,Now,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 8:1,Hebrews,8,1,we,PRONOUN,narration,0,PRONOUN
 Hebrews 8:1,Hebrews,8,1,We,PRONOUN,narration,0,PRONOUN
 Hebrews 8:1,Hebrews,8,1,high priest,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Hebrews 8:1,Hebrews,8,1,who,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 8:1,Hebrews,8,1,who,GOD_SON,narration,0,GOD_FATHER
 Hebrews 8:1,Hebrews,8,1,right,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 8:1,Hebrews,8,1,hand,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Hebrews 8:1,Hebrews,8,1,throne,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
@@ -249567,9 +249567,9 @@ Hebrews 8:2,Hebrews,8,2,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 8:3,Hebrews,8,3,every,QUANTITY,narration,0,QUANTITY
 Hebrews 8:3,Hebrews,8,3,high priest,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 8:3,Hebrews,8,3,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Hebrews 8:4,Hebrews,8,4,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 8:4,Hebrews,8,4,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 8:4,Hebrews,8,4,earth,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
-Hebrews 8:4,Hebrews,8,4,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 8:4,Hebrews,8,4,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 8:4,Hebrews,8,4,priest,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 8:4,Hebrews,8,4,priests,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 8:5,Hebrews,8,5,who,PRONOUN,narration,0,PRONOUN
@@ -249584,10 +249584,10 @@ Hebrews 8:5,Hebrews,8,5,all,QUANTITY,quote,0,QUANTITY
 Hebrews 8:5,Hebrews,8,5,thee,PRONOUN,quote,0,PRONOUN
 Hebrews 8:5,Hebrews,8,5,mount,GENERAL_PLACE_1,quote,0,GENERAL_PLACE_1
 Hebrews 8:6,Hebrews,8,6,now,GENERAL_TIME,narration,0,GENERAL_TIME
-Hebrews 8:6,Hebrews,8,6,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 8:6,Hebrews,8,6,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 8:6,Hebrews,8,6,more,QUANTITY,narration,0,QUANTITY
 Hebrews 8:6,Hebrews,8,6,much,QUANTITY,narration,0,QUANTITY
-Hebrews 8:6,Hebrews,8,6,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 8:6,Hebrews,8,6,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 8:6,Hebrews,8,6,mediator,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 8:7,Hebrews,8,7,first,NUMBER,narration,0,NUMBER
 Hebrews 8:7,Hebrews,8,7,place,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
@@ -249713,8 +249713,8 @@ Hebrews 9:11,Hebrews,9,11,more,QUANTITY,narration,0,QUANTITY
 Hebrews 9:11,Hebrews,9,11,tabernacle,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 9:12,Hebrews,9,12,goats,ANIMAL,narration,0,ANIMAL
 Hebrews 9:12,Hebrews,9,12,calves,ANIMAL,narration,0,ANIMAL
-Hebrews 9:12,Hebrews,9,12,his,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 9:12,Hebrews,9,12,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 9:12,Hebrews,9,12,his,GOD_SON,narration,0,GOD_FATHER
+Hebrews 9:12,Hebrews,9,12,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 9:12,Hebrews,9,12,once,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 9:12,Hebrews,9,12,place,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 9:12,Hebrews,9,12,eternal,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -249725,14 +249725,14 @@ Hebrews 9:13,Hebrews,9,13,heifer,ANIMAL,narration,0,ANIMAL
 Hebrews 9:14,Hebrews,9,14,much,QUANTITY,narration,0,QUANTITY
 Hebrews 9:14,Hebrews,9,14,more,QUANTITY,narration,0,QUANTITY
 Hebrews 9:14,Hebrews,9,14,Christ,GOD_SON,narration,0,GOD_SON
-Hebrews 9:14,Hebrews,9,14,who,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 9:14,Hebrews,9,14,who,GOD_SON,narration,0,GOD_FATHER
 Hebrews 9:14,Hebrews,9,14,eternal,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 9:14,Hebrews,9,14,Spirit,GOD_SPIRIT,narration,0,GOD_SPIRIT
-Hebrews 9:14,Hebrews,9,14,himself,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 9:14,Hebrews,9,14,himself,GOD_SON,narration,0,GOD_FATHER
 Hebrews 9:14,Hebrews,9,14,God,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 9:14,Hebrews,9,14,your,PRONOUN,narration,0,PRONOUN
 Hebrews 9:14,Hebrews,9,14,living God,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 9:15,Hebrews,9,15,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 9:15,Hebrews,9,15,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 9:15,Hebrews,9,15,mediator,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 9:15,Hebrews,9,15,new,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 9:15,Hebrews,9,15,under,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
@@ -249774,15 +249774,15 @@ Hebrews 9:24,Hebrews,9,24,heaven,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 9:24,Hebrews,9,24,now,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 9:24,Hebrews,9,24,God,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 9:24,Hebrews,9,24,us,PRONOUN,narration,0,PRONOUN
-Hebrews 9:25,Hebrews,9,25,he,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 9:25,Hebrews,9,25,himself,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 9:25,Hebrews,9,25,he,GOD_SON,narration,0,GOD_FATHER
+Hebrews 9:25,Hebrews,9,25,himself,GOD_SON,narration,0,GOD_FATHER
 Hebrews 9:25,Hebrews,9,25,often,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 9:25,Hebrews,9,25,high priest,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 9:25,Hebrews,9,25,place,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 9:25,Hebrews,9,25,every,QUANTITY,narration,0,QUANTITY
 Hebrews 9:25,Hebrews,9,25,year,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
 Hebrews 9:25,Hebrews,9,25,others,QUANTITY,narration,0,QUANTITY
-Hebrews 9:26,Hebrews,9,26,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 9:26,Hebrews,9,26,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 9:26,Hebrews,9,26,often,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 9:26,Hebrews,9,26,since,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 9:26,Hebrews,9,26,world,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
@@ -249790,8 +249790,8 @@ Hebrews 9:26,Hebrews,9,26,now,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 9:26,Hebrews,9,26,once,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 9:26,Hebrews,9,26,end,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 9:26,Hebrews,9,26,world,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
-Hebrews 9:26,Hebrews,9,26,he,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 9:26,Hebrews,9,26,himself,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 9:26,Hebrews,9,26,he,GOD_SON,narration,0,GOD_FATHER
+Hebrews 9:26,Hebrews,9,26,himself,GOD_SON,narration,0,GOD_FATHER
 Hebrews 9:27,Hebrews,9,27,men,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 9:27,Hebrews,9,27,once,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 9:27,Hebrews,9,27,after,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -249800,8 +249800,8 @@ Hebrews 9:28,Hebrews,9,28,Christ,GOD_SON,narration,0,GOD_SON
 Hebrews 9:28,Hebrews,9,28,once,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 9:28,Hebrews,9,28,many,QUANTITY,narration,0,QUANTITY
 Hebrews 9:28,Hebrews,9,28,them,PRONOUN,narration,0,PRONOUN
-Hebrews 9:28,Hebrews,9,28,him,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 9:28,Hebrews,9,28,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 9:28,Hebrews,9,28,him,GOD_SON,narration,0,GOD_FATHER
+Hebrews 9:28,Hebrews,9,28,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 9:28,Hebrews,9,28,2nd,NUMBER,narration,0,NUMBER
 Hebrews 9:28,Hebrews,9,28,time,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
 Hebrews 10:1,Hebrews,10,1,never,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -249821,31 +249821,31 @@ Hebrews 10:3,Hebrews,10,3,year,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
 Hebrews 10:4,Hebrews,10,4,bulls,ANIMAL,narration,0,ANIMAL
 Hebrews 10:4,Hebrews,10,4,goats,ANIMAL,narration,0,ANIMAL
 Hebrews 10:5,Hebrews,10,5,when,GENERAL_TIME,narration,0,GENERAL_TIME
-Hebrews 10:5,Hebrews,10,5,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 10:5,Hebrews,10,5,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 10:5,Hebrews,10,5,world,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
-Hebrews 10:5,Hebrews,10,5,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 10:5,Hebrews,10,5,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 10:5,Hebrews,10,5,thou,GOD_FATHER,quote,0,GOD_FATHER
 Hebrews 10:5,Hebrews,10,5,thou,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 10:5,Hebrews,10,5,me,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 10:5,Hebrews,10,5,me,GOD_SON,quote,0,GOD_FATHER
 Hebrews 10:6,Hebrews,10,6,thou,GOD_FATHER,quote,0,GOD_FATHER
 Hebrews 10:7,Hebrews,10,7,Then,GENERAL_TIME,quote,0,GENERAL_TIME
-Hebrews 10:7,Hebrews,10,7,I,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 10:7,Hebrews,10,7,I,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 10:7,Hebrews,10,7,me,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 10:7,Hebrews,10,7,I,GOD_SON,quote,0,GOD_FATHER
+Hebrews 10:7,Hebrews,10,7,I,GOD_SON,quote,0,GOD_FATHER
+Hebrews 10:7,Hebrews,10,7,me,GOD_SON,quote,0,GOD_FATHER
 Hebrews 10:7,Hebrews,10,7,thy,GOD_FATHER,quote,0,GOD_FATHER
 Hebrews 10:7,Hebrews,10,7,God,GOD_FATHER,quote,0,GOD_FATHER
 Hebrews 10:8,Hebrews,10,8,when,GENERAL_TIME,narration,0,GENERAL_TIME
-Hebrews 10:8,Hebrews,10,8,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 10:8,Hebrews,10,8,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 10:8,Hebrews,10,8,thou,GOD_FATHER,quote,0,GOD_FATHER
 Hebrews 10:8,Hebrews,10,8,therein,GENERAL_PLACE_2,quote,0,GENERAL_PLACE_2
 Hebrews 10:9,Hebrews,10,9,then,GENERAL_TIME,narration,0,GENERAL_TIME
-Hebrews 10:9,Hebrews,10,9,he,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 10:9,Hebrews,10,9,I,GOD_FATHER,quote,0,GOD_FATHER
+Hebrews 10:9,Hebrews,10,9,he,GOD_SON,narration,0,GOD_FATHER
+Hebrews 10:9,Hebrews,10,9,I,GOD_SON,quote,0,GOD_FATHER
 Hebrews 10:9,Hebrews,10,9,thy,GOD_FATHER,quote,0,GOD_FATHER
 Hebrews 10:9,Hebrews,10,9,God,GOD_FATHER,quote,0,GOD_FATHER
-Hebrews 10:9,Hebrews,10,9,He,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 10:9,Hebrews,10,9,He,GOD_SON,narration,0,GOD_FATHER
 Hebrews 10:9,Hebrews,10,9,first,NUMBER,narration,0,NUMBER
-Hebrews 10:9,Hebrews,10,9,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 10:9,Hebrews,10,9,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 10:9,Hebrews,10,9,second,NUMBER,narration,0,NUMBER
 Hebrews 10:10,Hebrews,10,10,we,PRONOUN,narration,0,PRONOUN
 Hebrews 10:10,Hebrews,10,10,Jesus,GOD_SON,narration,0,GOD_SON
@@ -249859,7 +249859,7 @@ Hebrews 10:11,Hebrews,10,11,oftentimes,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 10:11,Hebrews,10,11,never,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 10:12,Hebrews,10,12,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 10:12,Hebrews,10,12,after,GENERAL_TIME,narration,0,GENERAL_TIME
-Hebrews 10:12,Hebrews,10,12,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 10:12,Hebrews,10,12,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 10:12,Hebrews,10,12,one,QUANTITY,narration,0,QUANTITY
 Hebrews 10:12,Hebrews,10,12,for,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 10:12,Hebrews,10,12,ever,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -249868,11 +249868,11 @@ Hebrews 10:12,Hebrews,10,12,hand,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Hebrews 10:12,Hebrews,10,12,God,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 10:13,Hebrews,10,13,henceforth,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 10:13,Hebrews,10,13,till,GENERAL_TIME,narration,0,GENERAL_TIME
-Hebrews 10:13,Hebrews,10,13,his,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 10:13,Hebrews,10,13,his,GOD_SON,narration,0,GOD_FATHER
 Hebrews 10:13,Hebrews,10,13,enemies,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Hebrews 10:13,Hebrews,10,13,his,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 10:13,Hebrews,10,13,his,GOD_SON,narration,0,GOD_FATHER
 Hebrews 10:14,Hebrews,10,14,one,QUANTITY,narration,0,QUANTITY
-Hebrews 10:14,Hebrews,10,14,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 10:14,Hebrews,10,14,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 10:14,Hebrews,10,14,for,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 10:14,Hebrews,10,14,ever,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 10:14,Hebrews,10,14,them,PRONOUN,narration,0,PRONOUN
@@ -249880,7 +249880,7 @@ Hebrews 10:15,Hebrews,10,15,Holy Ghost,GOD_SPIRIT,narration,0,GOD_SPIRIT
 Hebrews 10:15,Hebrews,10,15,witness,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 10:15,Hebrews,10,15,us,PRONOUN,narration,0,PRONOUN
 Hebrews 10:15,Hebrews,10,15,after,GENERAL_TIME,narration,0,GENERAL_TIME
-Hebrews 10:15,Hebrews,10,15,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 10:15,Hebrews,10,15,he,GOD_SPIRIT,narration,0,GOD_FATHER
 Hebrews 10:15,Hebrews,10,15,before,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 10:16,Hebrews,10,16,I,GOD_FATHER,quote,0,GOD_FATHER
 Hebrews 10:16,Hebrews,10,16,them,PRONOUN,quote,0,PRONOUN
@@ -249904,9 +249904,9 @@ Hebrews 10:18,Hebrews,10,18,more,GENERAL_TIME,narration,0,GENERAL_TIME
 Hebrews 10:19,Hebrews,10,19,brethren,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 10:19,Hebrews,10,19,Jesus,GOD_SON,narration,0,GOD_SON
 Hebrews 10:20,Hebrews,10,20,new,GENERAL_TIME,narration,0,GENERAL_TIME
-Hebrews 10:20,Hebrews,10,20,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 10:20,Hebrews,10,20,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 10:20,Hebrews,10,20,us,PRONOUN,narration,0,PRONOUN
-Hebrews 10:20,Hebrews,10,20,his,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 10:20,Hebrews,10,20,his,GOD_SON,narration,0,GOD_FATHER
 Hebrews 10:21,Hebrews,10,21,high priest,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Hebrews 10:21,Hebrews,10,21,house,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 10:21,Hebrews,10,21,God,GOD_FATHER,narration,0,GOD_FATHER
@@ -249984,7 +249984,7 @@ Hebrews 10:36,Hebrews,10,36,God,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 10:36,Hebrews,10,36,ye,PRONOUN,narration,0,PRONOUN
 Hebrews 10:37,Hebrews,10,37,little,QUANTITY,narration,0,QUANTITY
 Hebrews 10:37,Hebrews,10,37,while,GENERAL_TIME,narration,0,GENERAL_TIME
-Hebrews 10:37,Hebrews,10,37,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 10:37,Hebrews,10,37,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 10:38,Hebrews,10,38,Now,GENERAL_TIME,quote,0,GENERAL_TIME
 Hebrews 10:38,Hebrews,10,38,just,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Hebrews 10:38,Hebrews,10,38,man,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
@@ -250247,16 +250247,16 @@ Hebrews 12:2,Hebrews,12,2,Jesus,GOD_SON,narration,0,GOD_SON
 Hebrews 12:2,Hebrews,12,2,author,GOD_SON,narration,0,GOD_SON
 Hebrews 12:2,Hebrews,12,2,finisher,GOD_SON,narration,0,GOD_SON
 Hebrews 12:2,Hebrews,12,2,our,PRONOUN,narration,0,PRONOUN
-Hebrews 12:2,Hebrews,12,2,who,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 12:2,Hebrews,12,2,who,GOD_SON,narration,0,GOD_FATHER
 Hebrews 12:2,Hebrews,12,2,before,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
-Hebrews 12:2,Hebrews,12,2,him,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 12:2,Hebrews,12,2,him,GOD_SON,narration,0,GOD_FATHER
 Hebrews 12:2,Hebrews,12,2,right,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 12:2,Hebrews,12,2,hand,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Hebrews 12:2,Hebrews,12,2,throne,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 12:2,Hebrews,12,2,God,GOD_FATHER,narration,0,GOD_FATHER
-Hebrews 12:3,Hebrews,12,3,him,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 12:3,Hebrews,12,3,him,GOD_SON,narration,0,GOD_FATHER
 Hebrews 12:3,Hebrews,12,3,sinners,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Hebrews 12:3,Hebrews,12,3,himself,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 12:3,Hebrews,12,3,himself,GOD_SON,narration,0,GOD_FATHER
 Hebrews 12:3,Hebrews,12,3,ye,PRONOUN,narration,0,PRONOUN
 Hebrews 12:3,Hebrews,12,3,your,PRONOUN,narration,0,PRONOUN
 Hebrews 12:4,Hebrews,12,4,Ye,PRONOUN,narration,0,PRONOUN
@@ -250460,23 +250460,23 @@ Hebrews 13:11,Hebrews,13,11,high priest,GENERAL_PEOPLE,narration,0,GENERAL_PEOPL
 Hebrews 13:11,Hebrews,13,11,without,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Hebrews 13:11,Hebrews,13,11,camp,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 13:12,Hebrews,13,12,Jesus,GOD_SON,narration,0,GOD_SON
-Hebrews 13:12,Hebrews,13,12,he,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 13:12,Hebrews,13,12,he,GOD_SON,narration,0,GOD_FATHER
 Hebrews 13:12,Hebrews,13,12,people,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-Hebrews 13:12,Hebrews,13,12,his,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 13:12,Hebrews,13,12,his,GOD_SON,narration,0,GOD_FATHER
 Hebrews 13:12,Hebrews,13,12,without,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Hebrews 13:12,Hebrews,13,12,gate,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 13:13,Hebrews,13,13,us,PRONOUN,narration,0,PRONOUN
 Hebrews 13:13,Hebrews,13,13,forth,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
-Hebrews 13:13,Hebrews,13,13,him,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 13:13,Hebrews,13,13,him,GOD_SON,narration,0,GOD_FATHER
 Hebrews 13:13,Hebrews,13,13,without,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Hebrews 13:13,Hebrews,13,13,camp,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
-Hebrews 13:13,Hebrews,13,13,his,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 13:13,Hebrews,13,13,his,GOD_SON,narration,0,GOD_FATHER
 Hebrews 13:14,Hebrews,13,14,here,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 Hebrews 13:14,Hebrews,13,14,we,PRONOUN,narration,0,PRONOUN
 Hebrews 13:14,Hebrews,13,14,city,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Hebrews 13:14,Hebrews,13,14,we,PRONOUN,narration,0,PRONOUN
 Hebrews 13:14,Hebrews,13,14,one,QUANTITY,narration,0,QUANTITY
-Hebrews 13:15,Hebrews,13,15,him,GOD_FATHER,narration,0,GOD_FATHER
+Hebrews 13:15,Hebrews,13,15,him,GOD_SON,narration,0,GOD_FATHER
 Hebrews 13:15,Hebrews,13,15,us,PRONOUN,narration,0,PRONOUN
 Hebrews 13:15,Hebrews,13,15,God,GOD_FATHER,narration,0,GOD_FATHER
 Hebrews 13:15,Hebrews,13,15,continually,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -250708,7 +250708,7 @@ James 2:5,James,2,5,God,GOD_FATHER,narration,0,GOD_FATHER
 James 2:5,James,2,5,poor,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 James 2:5,James,2,5,world,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 James 2:5,James,2,5,heirs,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-James 2:5,James,2,5,he,PRONOUN,narration,0,PRONOUN
+James 2:5,James,2,5,he,GOD_FATHER,narration,0,PRONOUN
 James 2:5,James,2,5,them,PRONOUN,narration,0,PRONOUN
 James 2:5,James,2,5,him,GOD_FATHER,narration,0,GOD_FATHER
 James 2:6,James,2,6,ye,PRONOUN,narration,0,PRONOUN
@@ -250951,7 +250951,7 @@ James 4:11,James,4,11,doer,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 James 4:11,James,4,11,judge,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 James 4:12,James,4,12,one,QUANTITY,narration,0,QUANTITY
 James 4:12,James,4,12,lawgiver,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-James 4:12,James,4,12,who,PRONOUN,narration,0,PRONOUN
+James 4:12,James,4,12,who,GOD_FATHER,narration,0,PRONOUN
 James 4:12,James,4,12,who,PRONOUN,narration,0,PRONOUN
 James 4:12,James,4,12,thou,PRONOUN,narration,0,PRONOUN
 James 4:13,James,4,13,now,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -251142,12 +251142,12 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 Peter 1:7,1 Peter,1,7,more,QUANTITY,narration,0,QUANTITY
 1 Peter 1:7,1 Peter,1,7,Jesus,GOD_SON,narration,0,GOD_SON
 1 Peter 1:7,1 Peter,1,7,Christ,GOD_SON,narration,0,GOD_SON
-1 Peter 1:8,1 Peter,1,8,whom,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 1:8,1 Peter,1,8,whom,GOD_SON,narration,0,GOD_FATHER
 1 Peter 1:8,1 Peter,1,8,ye,PRONOUN,narration,0,PRONOUN
-1 Peter 1:8,1 Peter,1,8,whom,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 1:8,1 Peter,1,8,whom,GOD_SON,narration,0,GOD_FATHER
 1 Peter 1:8,1 Peter,1,8,now,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Peter 1:8,1 Peter,1,8,ye,PRONOUN,narration,0,PRONOUN
-1 Peter 1:8,1 Peter,1,8,him,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 1:8,1 Peter,1,8,him,GOD_SON,narration,0,GOD_FATHER
 1 Peter 1:8,1 Peter,1,8,ye,PRONOUN,narration,0,PRONOUN
 1 Peter 1:9,1 Peter,1,9,your,PRONOUN,narration,0,PRONOUN
 1 Peter 1:9,1 Peter,1,9,your,PRONOUN,narration,0,PRONOUN
@@ -251205,18 +251205,18 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 Peter 1:18,1 Peter,1,18,fathers,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 Peter 1:19,1 Peter,1,19,Christ,GOD_SON,narration,0,GOD_SON
 1 Peter 1:19,1 Peter,1,19,lamb,ANIMAL,narration,0,ANIMAL
-1 Peter 1:20,1 Peter,1,20,who,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 1:20,1 Peter,1,20,who,GOD_SON,narration,0,GOD_FATHER
 1 Peter 1:20,1 Peter,1,20,before,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Peter 1:20,1 Peter,1,20,world,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 1 Peter 1:20,1 Peter,1,20,last,QUANTITY,narration,0,QUANTITY
 1 Peter 1:20,1 Peter,1,20,times,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Peter 1:20,1 Peter,1,20,you,PRONOUN,narration,0,PRONOUN
-1 Peter 1:21,1 Peter,1,21,who,GOD_FATHER,narration,0,GOD_FATHER
-1 Peter 1:21,1 Peter,1,21,him,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 1:21,1 Peter,1,21,who,PRONOUN,narration,0,GOD_FATHER
+1 Peter 1:21,1 Peter,1,21,him,GOD_SON,narration,0,GOD_FATHER
 1 Peter 1:21,1 Peter,1,21,God,GOD_FATHER,narration,0,GOD_FATHER
-1 Peter 1:21,1 Peter,1,21,him,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 1:21,1 Peter,1,21,him,GOD_SON,narration,0,GOD_FATHER
 1 Peter 1:21,1 Peter,1,21,dead,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-1 Peter 1:21,1 Peter,1,21,him,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 1:21,1 Peter,1,21,him,GOD_SON,narration,0,GOD_FATHER
 1 Peter 1:21,1 Peter,1,21,your,PRONOUN,narration,0,PRONOUN
 1 Peter 1:21,1 Peter,1,21,God,GOD_FATHER,narration,0,GOD_FATHER
 1 Peter 1:22,1 Peter,1,22,ye,PRONOUN,narration,0,PRONOUN
@@ -251252,7 +251252,7 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 Peter 2:3,1 Peter,2,3,so,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Peter 2:3,1 Peter,2,3,ye,PRONOUN,narration,0,PRONOUN
 1 Peter 2:3,1 Peter,2,3,Lord,GOD_FATHER,narration,0,GOD_FATHER
-1 Peter 2:4,1 Peter,2,4,whom,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 2:4,1 Peter,2,4,whom,GOD_SON,narration,0,GOD_FATHER
 1 Peter 2:4,1 Peter,2,4,men,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 Peter 2:4,1 Peter,2,4,God,GOD_FATHER,narration,0,GOD_FATHER
 1 Peter 2:5,1 Peter,2,5,ye,PRONOUN,narration,0,PRONOUN
@@ -251264,9 +251264,9 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 Peter 2:6,1 Peter,2,6,I,GOD_FATHER,quote,0,GOD_FATHER
 1 Peter 2:6,1 Peter,2,6,Sion,PROPER_PLACE,quote,0,PROPER_PLACE
 1 Peter 2:6,1 Peter,2,6,he,PRONOUN,quote,0,PRONOUN
-1 Peter 2:6,1 Peter,2,6,him,GOD_FATHER,quote,0,GOD_FATHER
+1 Peter 2:6,1 Peter,2,6,him,GOD_SON,quote,0,GOD_FATHER
 1 Peter 2:7,1 Peter,2,7,you,PRONOUN,narration,0,PRONOUN
-1 Peter 2:7,1 Peter,2,7,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 2:7,1 Peter,2,7,he,GOD_SON,narration,0,GOD_FATHER
 1 Peter 2:7,1 Peter,2,7,them,PRONOUN,narration,0,PRONOUN
 1 Peter 2:7,1 Peter,2,7,builders,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 1 Peter 2:8,1 Peter,2,8,them,PRONOUN,narration,0,PRONOUN
@@ -251348,21 +251348,21 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 Peter 2:21,1 Peter,2,21,us,PRONOUN,narration,0,PRONOUN
 1 Peter 2:21,1 Peter,2,21,us,PRONOUN,narration,0,PRONOUN
 1 Peter 2:21,1 Peter,2,21,ye,PRONOUN,narration,0,PRONOUN
-1 Peter 2:21,1 Peter,2,21,his,GOD_FATHER,narration,0,GOD_FATHER
-1 Peter 2:22,1 Peter,2,22,who,GOD_FATHER,narration,0,GOD_FATHER
-1 Peter 2:22,1 Peter,2,22,his,GOD_FATHER,narration,0,GOD_FATHER
-1 Peter 2:23,1 Peter,2,23,who,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 2:21,1 Peter,2,21,his,GOD_SON,narration,0,GOD_FATHER
+1 Peter 2:22,1 Peter,2,22,who,GOD_SON,narration,0,GOD_FATHER
+1 Peter 2:22,1 Peter,2,22,his,GOD_SON,narration,0,GOD_FATHER
+1 Peter 2:23,1 Peter,2,23,who,GOD_SON,narration,0,GOD_FATHER
 1 Peter 2:23,1 Peter,2,23,when,GENERAL_TIME,narration,0,GENERAL_TIME
-1 Peter 2:23,1 Peter,2,23,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 2:23,1 Peter,2,23,he,GOD_SON,narration,0,GOD_FATHER
 1 Peter 2:23,1 Peter,2,23,again,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Peter 2:23,1 Peter,2,23,when,GENERAL_TIME,narration,0,GENERAL_TIME
-1 Peter 2:23,1 Peter,2,23,he,GOD_FATHER,narration,0,GOD_FATHER
-1 Peter 2:23,1 Peter,2,23,he,GOD_FATHER,narration,0,GOD_FATHER
-1 Peter 2:23,1 Peter,2,23,himself,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 2:23,1 Peter,2,23,he,GOD_SON,narration,0,GOD_FATHER
+1 Peter 2:23,1 Peter,2,23,he,GOD_SON,narration,0,GOD_FATHER
+1 Peter 2:23,1 Peter,2,23,himself,GOD_SON,narration,0,GOD_FATHER
 1 Peter 2:23,1 Peter,2,23,him,GOD_FATHER,narration,0,GOD_FATHER
-1 Peter 2:24,1 Peter,2,24,who his,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 2:24,1 Peter,2,24,who his,GOD_SON,narration,0,GOD_FATHER
 1 Peter 2:24,1 Peter,2,24,our,PRONOUN,narration,0,PRONOUN
-1 Peter 2:24,1 Peter,2,24,his,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 2:24,1 Peter,2,24,his,GOD_SON,narration,0,GOD_FATHER
 1 Peter 2:24,1 Peter,2,24,tree,PLANT,narration,0,PLANT
 1 Peter 2:24,1 Peter,2,24,we,PRONOUN,narration,0,PRONOUN
 1 Peter 2:24,1 Peter,2,24,whose,GOD_SON,narration,0,GOD_SON
@@ -251464,11 +251464,11 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 Peter 3:18,1 Peter,3,18,once,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Peter 3:18,1 Peter,3,18,just,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 Peter 3:18,1 Peter,3,18,unjust,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-1 Peter 3:18,1 Peter,3,18,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 3:18,1 Peter,3,18,he,GOD_SON,narration,0,GOD_FATHER
 1 Peter 3:18,1 Peter,3,18,us,PRONOUN,narration,0,PRONOUN
 1 Peter 3:18,1 Peter,3,18,God,GOD_FATHER,narration,0,GOD_FATHER
 1 Peter 3:18,1 Peter,3,18,Spirit,GOD_SPIRIT,narration,0,GOD_SPIRIT
-1 Peter 3:19,1 Peter,3,19,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 3:19,1 Peter,3,19,he,GOD_SON,narration,0,GOD_FATHER
 1 Peter 3:19,1 Peter,3,19,spirits,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 Peter 3:19,1 Peter,3,19,prison,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 1 Peter 3:20,1 Peter,3,20,sometime,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -251489,14 +251489,14 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 Peter 3:21,1 Peter,3,21,God,GOD_FATHER,narration,0,GOD_FATHER
 1 Peter 3:21,1 Peter,3,21,Jesus,GOD_SON,narration,0,GOD_SON
 1 Peter 3:21,1 Peter,3,21,Christ,GOD_SON,narration,0,GOD_SON
-1 Peter 3:22,1 Peter,3,22,who,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 3:22,1 Peter,3,22,who,GOD_SON,narration,0,GOD_FATHER
 1 Peter 3:22,1 Peter,3,22,heaven,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 1 Peter 3:22,1 Peter,3,22,right,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 1 Peter 3:22,1 Peter,3,22,hand,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 1 Peter 3:22,1 Peter,3,22,God,GOD_FATHER,narration,0,GOD_FATHER
 1 Peter 3:22,1 Peter,3,22,angels,ANGELIC,narration,0,ANGELIC
 1 Peter 3:22,1 Peter,3,22,authorities,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-1 Peter 3:22,1 Peter,3,22,him,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 3:22,1 Peter,3,22,him,GOD_SON,narration,0,GOD_FATHER
 1 Peter 4:1,1 Peter,4,1,Christ,GOD_SON,narration,0,GOD_SON
 1 Peter 4:1,1 Peter,4,1,us,PRONOUN,narration,0,PRONOUN
 1 Peter 4:1,1 Peter,4,1,yourselves,PRONOUN,narration,0,PRONOUN
@@ -251566,7 +251566,7 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 Peter 4:13,1 Peter,4,13,partakers,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 Peter 4:13,1 Peter,4,13,Christ’s,GOD_SON,narration,0,GOD_SON
 1 Peter 4:13,1 Peter,4,13,when,GENERAL_TIME,narration,0,GENERAL_TIME
-1 Peter 4:13,1 Peter,4,13,his,GOD_FATHER,narration,0,GOD_FATHER
+1 Peter 4:13,1 Peter,4,13,his,GOD_SON,narration,0,GOD_FATHER
 1 Peter 4:13,1 Peter,4,13,ye,PRONOUN,narration,0,PRONOUN
 1 Peter 4:13,1 Peter,4,13,exceeding,QUANTITY,narration,0,QUANTITY
 1 Peter 4:14,1 Peter,4,14,ye,PRONOUN,narration,0,PRONOUN
@@ -251795,21 +251795,21 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 2 Peter 1:16,2 Peter,1,16,Jesus,GOD_SON,narration,0,GOD_SON
 2 Peter 1:16,2 Peter,1,16,Christ,GOD_SON,narration,0,GOD_SON
 2 Peter 1:16,2 Peter,1,16,eyewitnesses,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-2 Peter 1:16,2 Peter,1,16,his,GOD_FATHER,narration,0,GOD_FATHER
-2 Peter 1:17,2 Peter,1,17,he,GOD_FATHER,narration,0,GOD_FATHER
+2 Peter 1:16,2 Peter,1,16,his,GOD_SON,narration,0,GOD_FATHER
+2 Peter 1:17,2 Peter,1,17,he,GOD_SON,narration,0,GOD_FATHER
 2 Peter 1:17,2 Peter,1,17,God,GOD_FATHER,narration,0,GOD_FATHER
 2 Peter 1:17,2 Peter,1,17,Father,GOD_FATHER,narration,0,GOD_FATHER
 2 Peter 1:17,2 Peter,1,17,when,GENERAL_TIME,narration,0,GENERAL_TIME
-2 Peter 1:17,2 Peter,1,17,him,GOD_FATHER,narration,0,GOD_FATHER
+2 Peter 1:17,2 Peter,1,17,him,GOD_SON,narration,0,GOD_FATHER
 2 Peter 1:17,2 Peter,1,17,my,GOD_FATHER,divine,0,GOD_FATHER
 2 Peter 1:17,2 Peter,1,17,Son,GOD_SON,divine,0,GOD_SON
-2 Peter 1:17,2 Peter,1,17,whom,GOD_FATHER,divine,0,GOD_FATHER
+2 Peter 1:17,2 Peter,1,17,whom,GOD_SON,divine,0,GOD_FATHER
 2 Peter 1:17,2 Peter,1,17,I,GOD_FATHER,divine,0,GOD_FATHER
 2 Peter 1:18,2 Peter,1,18,heaven,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 2 Peter 1:18,2 Peter,1,18,we,PRONOUN,narration,0,PRONOUN
 2 Peter 1:18,2 Peter,1,18,when,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Peter 1:18,2 Peter,1,18,we,PRONOUN,narration,0,PRONOUN
-2 Peter 1:18,2 Peter,1,18,him,GOD_FATHER,narration,0,GOD_FATHER
+2 Peter 1:18,2 Peter,1,18,him,GOD_SON,narration,0,GOD_FATHER
 2 Peter 1:18,2 Peter,1,18,mount,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 2 Peter 1:19,2 Peter,1,19,We,PRONOUN,narration,0,PRONOUN
 2 Peter 1:19,2 Peter,1,19,more,QUANTITY,narration,0,QUANTITY
@@ -251972,7 +251972,7 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 2 Peter 3:3,2 Peter,3,3,days,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
 2 Peter 3:3,2 Peter,3,3,scoffers,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 2 Peter 3:3,2 Peter,3,3,their,PRONOUN,narration,0,PRONOUN
-2 Peter 3:4,2 Peter,3,4,his,PRONOUN,speech,0,PRONOUN
+2 Peter 3:4,2 Peter,3,4,his,GOD_SON,speech,0,PRONOUN
 2 Peter 3:4,2 Peter,3,4,since,GENERAL_TIME,speech,0,GENERAL_TIME
 2 Peter 3:4,2 Peter,3,4,fathers,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 2 Peter 3:4,2 Peter,3,4,all,QUANTITY,speech,0,QUANTITY
@@ -252058,7 +252058,7 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 2 Peter 3:18,2 Peter,3,18,Saviour,GOD_FATHER,narration,0,GOD_FATHER
 2 Peter 3:18,2 Peter,3,18,Jesus,GOD_SON,narration,0,GOD_SON
 2 Peter 3:18,2 Peter,3,18,Christ,GOD_SON,narration,0,GOD_SON
-2 Peter 3:18,2 Peter,3,18,him,PRONOUN,narration,0,PRONOUN
+2 Peter 3:18,2 Peter,3,18,him,GOD_SON,narration,0,PRONOUN
 2 Peter 3:18,2 Peter,3,18,both,QUANTITY,narration,0,QUANTITY
 2 Peter 3:18,2 Peter,3,18,now,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Peter 3:18,2 Peter,3,18,for,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -252139,7 +252139,7 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 John 2:1,1 John,2,1,Jesus,GOD_SON,narration,0,GOD_SON
 1 John 2:1,1 John,2,1,Christ,GOD_SON,narration,0,GOD_SON
 1 John 2:1,1 John,2,1,righteous,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-1 John 2:2,1 John,2,2,he,GOD_FATHER,narration,0,GOD_FATHER
+1 John 2:2,1 John,2,2,he,GOD_SON,narration,0,GOD_FATHER
 1 John 2:2,1 John,2,2,our,PRONOUN,narration,0,PRONOUN
 1 John 2:2,1 John,2,2,ours,PRONOUN,narration,0,PRONOUN
 1 John 2:2,1 John,2,2,only,QUANTITY,narration,0,QUANTITY
@@ -252168,7 +252168,7 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 John 2:6,1 John,2,6,him,GOD_FATHER,narration,0,GOD_FATHER
 1 John 2:6,1 John,2,6,himself,PRONOUN,narration,0,PRONOUN
 1 John 2:6,1 John,2,6,so,GENERAL_TIME,narration,0,GENERAL_TIME
-1 John 2:6,1 John,2,6,he,GOD_FATHER,narration,0,GOD_FATHER
+1 John 2:6,1 John,2,6,he,GOD_SON,narration,0,GOD_FATHER
 1 John 2:7,1 John,2,7,Brethren,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 John 2:7,1 John,2,7,I,PRONOUN,narration,0,PRONOUN
 1 John 2:7,1 John,2,7,new,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -252214,7 +252214,7 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 John 2:13,1 John,2,13,you,PRONOUN,narration,0,PRONOUN
 1 John 2:13,1 John,2,13,fathers,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 John 2:13,1 John,2,13,ye,PRONOUN,narration,0,PRONOUN
-1 John 2:13,1 John,2,13,him,GOD_FATHER,narration,0,GOD_FATHER
+1 John 2:13,1 John,2,13,him,GOD_SON,narration,0,GOD_FATHER
 1 John 2:13,1 John,2,13,beginning,GENERAL_TIME,narration,0,GENERAL_TIME
 1 John 2:13,1 John,2,13,I,PRONOUN,narration,0,PRONOUN
 1 John 2:13,1 John,2,13,you,PRONOUN,narration,0,PRONOUN
@@ -252229,7 +252229,7 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 John 2:14,1 John,2,14,you,PRONOUN,narration,0,PRONOUN
 1 John 2:14,1 John,2,14,fathers,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 John 2:14,1 John,2,14,ye,PRONOUN,narration,0,PRONOUN
-1 John 2:14,1 John,2,14,him,GOD_FATHER,narration,0,GOD_FATHER
+1 John 2:14,1 John,2,14,him,GOD_SON,narration,0,GOD_FATHER
 1 John 2:14,1 John,2,14,beginning,GENERAL_TIME,narration,0,GENERAL_TIME
 1 John 2:14,1 John,2,14,I,PRONOUN,narration,0,PRONOUN
 1 John 2:14,1 John,2,14,you,PRONOUN,narration,0,PRONOUN
@@ -252307,7 +252307,7 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 John 2:24,1 John,2,24,ye,PRONOUN,narration,0,PRONOUN
 1 John 2:24,1 John,2,24,Son,GOD_SON,narration,0,GOD_SON
 1 John 2:24,1 John,2,24,Father,GOD_FATHER,narration,0,GOD_FATHER
-1 John 2:25,1 John,2,25,he,PRONOUN,narration,0,PRONOUN
+1 John 2:25,1 John,2,25,he,GOD_FATHER,narration,0,PRONOUN
 1 John 2:25,1 John,2,25,us,PRONOUN,narration,0,PRONOUN
 1 John 2:25,1 John,2,25,eternal,GENERAL_TIME,narration,0,GENERAL_TIME
 1 John 2:26,1 John,2,26,I,PRONOUN,narration,0,PRONOUN
@@ -252329,11 +252329,11 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 John 2:28,1 John,2,28,children,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 John 2:28,1 John,2,28,him,GOD_FATHER,narration,0,GOD_FATHER
 1 John 2:28,1 John,2,28,when,GENERAL_TIME,narration,0,GENERAL_TIME
-1 John 2:28,1 John,2,28,he,GOD_FATHER,narration,0,GOD_FATHER
+1 John 2:28,1 John,2,28,he,GOD_SON,narration,0,GOD_FATHER
 1 John 2:28,1 John,2,28,we,PRONOUN,narration,0,PRONOUN
 1 John 2:28,1 John,2,28,before,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
-1 John 2:28,1 John,2,28,him,GOD_FATHER,narration,0,GOD_FATHER
-1 John 2:28,1 John,2,28,his,GOD_FATHER,narration,0,GOD_FATHER
+1 John 2:28,1 John,2,28,him,GOD_SON,narration,0,GOD_FATHER
+1 John 2:28,1 John,2,28,his,GOD_SON,narration,0,GOD_FATHER
 1 John 2:29,1 John,2,29,ye,PRONOUN,narration,0,PRONOUN
 1 John 2:29,1 John,2,29,he,GOD_FATHER,narration,0,GOD_FATHER
 1 John 2:29,1 John,2,29,ye,PRONOUN,narration,0,PRONOUN
@@ -252363,14 +252363,14 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 John 3:2,1 John,3,2,he,GOD_FATHER,narration,0,GOD_FATHER
 1 John 3:3,1 John,3,3,every,QUANTITY,narration,0,QUANTITY
 1 John 3:3,1 John,3,3,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-1 John 3:3,1 John,3,3,him,PRONOUN,narration,0,PRONOUN
+1 John 3:3,1 John,3,3,him,GOD_FATHER,narration,0,PRONOUN
 1 John 3:3,1 John,3,3,himself,PRONOUN,narration,0,PRONOUN
-1 John 3:3,1 John,3,3,he,GOD_FATHER,narration,0,GOD_FATHER
+1 John 3:3,1 John,3,3,he,GOD_SON,narration,0,GOD_FATHER
 1 John 3:4,1 John,3,4,Whosoever,PRONOUN,narration,0,PRONOUN
 1 John 3:5,1 John,3,5,ye,PRONOUN,narration,0,PRONOUN
-1 John 3:5,1 John,3,5,he,GOD_FATHER,narration,0,GOD_FATHER
+1 John 3:5,1 John,3,5,he,GOD_SON,narration,0,GOD_FATHER
 1 John 3:5,1 John,3,5,our,PRONOUN,narration,0,PRONOUN
-1 John 3:5,1 John,3,5,him,GOD_FATHER,narration,0,GOD_FATHER
+1 John 3:5,1 John,3,5,him,GOD_SON,narration,0,GOD_FATHER
 1 John 3:6,1 John,3,6,Whosoever,PRONOUN,narration,0,PRONOUN
 1 John 3:6,1 John,3,6,him,GOD_FATHER,narration,0,GOD_FATHER
 1 John 3:6,1 John,3,6,whosoever,PRONOUN,narration,0,PRONOUN
@@ -252380,14 +252380,14 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 John 3:7,1 John,3,7,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 John 3:7,1 John,3,7,you,PRONOUN,narration,0,PRONOUN
 1 John 3:7,1 John,3,7,he,PRONOUN,narration,0,PRONOUN
-1 John 3:7,1 John,3,7,he,PRONOUN,narration,0,PRONOUN
+1 John 3:7,1 John,3,7,he,GOD_SON,narration,0,PRONOUN
 1 John 3:8,1 John,3,8,He,PRONOUN,narration,0,PRONOUN
 1 John 3:8,1 John,3,8,devil,DEMONIC,narration,0,DEMONIC
 1 John 3:8,1 John,3,8,devil,DEMONIC,narration,0,DEMONIC
 1 John 3:8,1 John,3,8,beginning,GENERAL_TIME,narration,0,GENERAL_TIME
 1 John 3:8,1 John,3,8,Son,GOD_SON,narration,0,GOD_SON
 1 John 3:8,1 John,3,8,God,GOD_FATHER,narration,0,GOD_FATHER
-1 John 3:8,1 John,3,8,he,GOD_FATHER,narration,0,GOD_FATHER
+1 John 3:8,1 John,3,8,he,GOD_SON,narration,0,GOD_FATHER
 1 John 3:8,1 John,3,8,devil,DEMONIC,narration,0,DEMONIC
 1 John 3:9,1 John,3,9,Whosoever,PRONOUN,narration,0,PRONOUN
 1 John 3:9,1 John,3,9,God,GOD_FATHER,narration,0,GOD_FATHER
@@ -252439,8 +252439,8 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 John 3:15,1 John,3,15,him,PRONOUN,narration,0,PRONOUN
 1 John 3:16,1 John,3,16,we,PRONOUN,narration,0,PRONOUN
 1 John 3:16,1 John,3,16,God,GOD_FATHER,narration,0,GOD_FATHER
-1 John 3:16,1 John,3,16,he,GOD_FATHER,narration,0,GOD_FATHER
-1 John 3:16,1 John,3,16,his,GOD_FATHER,narration,0,GOD_FATHER
+1 John 3:16,1 John,3,16,he,GOD_SON,narration,0,GOD_FATHER
+1 John 3:16,1 John,3,16,his,GOD_SON,narration,0,GOD_FATHER
 1 John 3:16,1 John,3,16,us,PRONOUN,narration,0,PRONOUN
 1 John 3:16,1 John,3,16,we,PRONOUN,narration,0,PRONOUN
 1 John 3:16,1 John,3,16,our,PRONOUN,narration,0,PRONOUN
@@ -252561,7 +252561,7 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 John 4:9,1 John,4,9,Son,GOD_SON,narration,0,GOD_SON
 1 John 4:9,1 John,4,9,world,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 1 John 4:9,1 John,4,9,we,PRONOUN,narration,0,PRONOUN
-1 John 4:9,1 John,4,9,him,GOD_FATHER,narration,0,GOD_FATHER
+1 John 4:9,1 John,4,9,him,GOD_SON,narration,0,GOD_FATHER
 1 John 4:10,1 John,4,10,Herein,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 1 John 4:10,1 John,4,10,we,PRONOUN,narration,0,PRONOUN
 1 John 4:10,1 John,4,10,God,GOD_FATHER,narration,0,GOD_FATHER
@@ -252617,7 +252617,7 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 John 4:17,1 John,4,17,our,PRONOUN,narration,0,PRONOUN
 1 John 4:17,1 John,4,17,we,PRONOUN,narration,0,PRONOUN
 1 John 4:17,1 John,4,17,day,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
-1 John 4:17,1 John,4,17,he,GOD_FATHER,narration,0,GOD_FATHER
+1 John 4:17,1 John,4,17,he,GOD_SON,narration,0,GOD_FATHER
 1 John 4:17,1 John,4,17,so,GENERAL_TIME,narration,0,GENERAL_TIME
 1 John 4:17,1 John,4,17,we,PRONOUN,narration,0,PRONOUN
 1 John 4:17,1 John,4,17,world,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
@@ -252681,7 +252681,7 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 1 John 5:5,1 John,5,5,Jesus,GOD_SON,narration,0,GOD_SON
 1 John 5:5,1 John,5,5,Son,GOD_SON,narration,0,GOD_SON
 1 John 5:5,1 John,5,5,God,GOD_FATHER,narration,0,GOD_FATHER
-1 John 5:6,1 John,5,6,he,GOD_FATHER,narration,0,GOD_FATHER
+1 John 5:6,1 John,5,6,he,GOD_SON,narration,0,GOD_FATHER
 1 John 5:6,1 John,5,6,Jesus,GOD_SON,narration,0,GOD_SON
 1 John 5:6,1 John,5,6,Christ,GOD_SON,narration,0,GOD_SON
 1 John 5:6,1 John,5,6,only,QUANTITY,narration,0,QUANTITY
@@ -252905,7 +252905,7 @@ James 5:20,James,5,20,multitude,QUANTITY,narration,0,QUANTITY
 3 John 1:6,3 John,1,6,thou,PRONOUN,narration,0,PRONOUN
 3 John 1:6,3 John,1,6,their,PRONOUN,narration,0,PRONOUN
 3 John 1:6,3 John,1,6,thou,PRONOUN,narration,0,PRONOUN
-3 John 1:7,3 John,1,7,his,PRONOUN,narration,0,PRONOUN
+3 John 1:7,3 John,1,7,his,GOD_SON,narration,0,PRONOUN
 3 John 1:7,3 John,1,7,they,PRONOUN,narration,0,PRONOUN
 3 John 1:7,3 John,1,7,forth,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 3 John 1:7,3 John,1,7,Gentiles,PEOPLE_GROUP,narration,0,PEOPLE_GROUP

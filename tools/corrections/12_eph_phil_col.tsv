@@ -1,0 +1,81 @@
+# Pronoun referent fixes: Ephesians, Philippians, Colossians (Father vs Son). Only clear cases.
+Ephesians 1:4	him	1	GOD_FATHER	GOD_SON	in him = in Christ (1:3)
+Ephesians 1:7	whom	1	GOD_FATHER	GOD_SON	the Son, the beloved (1:6)
+Ephesians 1:7	his	1	GOD_FATHER	GOD_SON	his blood: Christ's blood
+Ephesians 1:10	him	1	GOD_FATHER	GOD_SON	even in him = in Christ
+Ephesians 1:11	whom	1	GOD_FATHER	GOD_SON	in whom = Christ (1:10)
+Ephesians 1:11	we	1	GOD_FATHER	PRONOUN	believers, human pronoun
+Ephesians 1:13	whom	*	GOD_FATHER	GOD_SON	in whom = Christ (1:12)
+Ephesians 1:20	him	*	GOD_FATHER	GOD_SON	Christ raised and seated by the Father
+Ephesians 1:22	his	1	GOD_FATHER	GOD_SON	all things under Christ's feet
+Ephesians 1:22	him	1	GOD_FATHER	GOD_SON	Christ given as head over all
+Ephesians 1:23	his	1	GOD_FATHER	GOD_SON	the church is Christ's body
+Ephesians 1:23	him	1	GOD_FATHER	GOD_SON	fulness of Christ who fills all (cf 4:10)
+Ephesians 2:14	he	1	GOD_FATHER	GOD_SON	Christ is our peace (2:13)
+Ephesians 2:14	who	1	GOD_FATHER	GOD_SON	Christ made both one
+Ephesians 2:15	his	1	GOD_FATHER	GOD_SON	Christ's flesh
+Ephesians 2:15	himself	1	GOD_FATHER	GOD_SON	Christ makes one new man in himself
+Ephesians 2:16	he	1	GOD_FATHER	GOD_SON	Christ reconciles both unto God
+Ephesians 2:18	him	1	GOD_FATHER	GOD_SON	through Christ we have access to the Father
+Ephesians 2:20	himself	1	GOD_FATHER	GOD_SON	Jesus Christ himself
+Ephesians 2:21	whom	1	GOD_FATHER	GOD_SON	Christ the corner stone
+Ephesians 2:22	whom	1	GOD_FATHER	GOD_SON	in Christ (2:20-21)
+Ephesians 3:12	whom	1	GOD_FATHER	GOD_SON	Christ Jesus our Lord (3:11)
+Ephesians 3:12	him	1	GOD_FATHER	GOD_SON	faith of Christ
+Ephesians 4:8	he	2	GOD_FATHER	GOD_SON	Christ ascended (4:7, 4:9-10)
+Ephesians 4:8	he	3	GOD_FATHER	GOD_SON	Christ led captivity captive
+Ephesians 4:9	he	*	GOD_FATHER	GOD_SON	Christ ascended and descended
+Ephesians 4:10	He	1	PRONOUN	GOD_SON	Christ who descended and ascended
+Ephesians 4:10	he	1	GOD_FATHER	GOD_SON	Christ fills all things
+Ephesians 4:11	he	1	GOD_FATHER	GOD_SON	Christ gave gifts (4:7-8)
+Ephesians 4:15	him	1	GOD_FATHER	GOD_SON	grow into him, even Christ
+Ephesians 4:16	whom	1	GOD_FATHER	GOD_SON	Christ the head (4:15)
+Ephesians 4:21	him	*	GOD_FATHER	GOD_SON	ye heard Christ and were taught by him (4:20)
+Ephesians 5:2	himself	1	GOD_FATHER	GOD_SON	Christ gave himself for us
+Ephesians 5:23	he	1	GOD_FATHER	GOD_SON	Christ the saviour of the body
+Ephesians 5:25	himself	1	GOD_FATHER	GOD_SON	Christ gave himself for the church
+Ephesians 5:26	he	1	GOD_FATHER	GOD_SON	Christ sanctifies the church
+Ephesians 5:27	he	1	GOD_FATHER	GOD_SON	Christ presents the church
+Ephesians 5:27	himself	1	GOD_FATHER	GOD_SON	Christ presents it to himself
+Ephesians 5:30	his	*	GOD_FATHER	GOD_SON	members of Christ's body (5:29, 5:32)
+Ephesians 6:9	him	1	GOD_FATHER	GOD_SON	your Master in heaven (Christ, 6:5-8)
+Philippians 1:29	him	1	GOD_FATHER	GOD_SON	believe on Christ
+Philippians 1:29	his	1	GOD_FATHER	GOD_SON	suffer for Christ's sake
+Philippians 2:6	who	1	GOD_FATHER	GOD_SON	Christ Jesus (2:5)
+Philippians 2:7	himself	1	GOD_FATHER	GOD_SON	Christ emptied himself
+Philippians 2:7	him	1	GOD_FATHER	GOD_SON	Christ took the form of a servant
+Philippians 2:8	he	1	GOD_FATHER	GOD_SON	Christ humbled himself
+Philippians 2:8	himself	1	GOD_FATHER	GOD_SON	Christ humbled himself
+Philippians 2:9	him	*	GOD_FATHER	GOD_SON	the Son, exalted by God
+Philippians 3:8	whom	1	GOD_FATHER	GOD_SON	Christ Jesus my Lord
+Philippians 3:9	him	1	GOD_FATHER	GOD_SON	found in Christ
+Philippians 3:10	him	1	GOD_FATHER	GOD_SON	know Christ
+Philippians 3:10	his	*	GOD_FATHER	GOD_SON	Christ's resurrection, sufferings, death
+Philippians 3:21	his	1	GOD_FATHER	GOD_SON	Christ's glorious body
+Philippians 3:21	he	1	GOD_FATHER	GOD_SON	the Saviour Jesus Christ (3:20)
+Philippians 3:21	himself	1	GOD_FATHER	GOD_SON	Christ subdues all things to himself
+Colossians 1:14	whom	1	GOD_FATHER	GOD_SON	his dear Son (1:13)
+Colossians 1:14	his	1	GOD_FATHER	GOD_SON	the Son's blood
+Colossians 1:15	who	1	GOD_FATHER	GOD_SON	the Son, image of the invisible God
+Colossians 1:16	him	*	GOD_FATHER	GOD_SON	the Son, agent and goal of creation
+Colossians 1:17	he	1	GOD_FATHER	GOD_SON	the Son is before all things
+Colossians 1:17	him	1	GOD_FATHER	GOD_SON	by the Son all things consist
+Colossians 1:18	he	*	GOD_FATHER	GOD_SON	the Son, head of the church
+Colossians 1:18	who	1	GOD_FATHER	GOD_SON	the Son, firstborn from the dead
+Colossians 1:19	him	1	GOD_FATHER	GOD_SON	fulness dwells in the Son
+Colossians 1:20	his	1	GOD_FATHER	GOD_SON	blood of Christ's cross
+Colossians 1:20	him	*	GOD_FATHER	GOD_SON	by the Son the Father reconciles
+Colossians 1:22	his	1	GOD_FATHER	GOD_SON	body of Christ's flesh
+Colossians 1:24	his	1	GOD_FATHER	GOD_SON	Christ's body, the church
+Colossians 1:28	whom	1	GOD_FATHER	GOD_SON	Christ whom we preach (1:27)
+Colossians 2:3	whom	1	GOD_FATHER	GOD_SON	in Christ are hid all treasures (2:2)
+Colossians 2:6	him	1	GOD_FATHER	GOD_SON	walk in Christ Jesus the Lord
+Colossians 2:7	him	1	GOD_FATHER	GOD_SON	rooted in Christ
+Colossians 2:9	him	1	GOD_FATHER	GOD_SON	fulness of the Godhead in Christ
+Colossians 2:10	him	1	GOD_FATHER	GOD_SON	complete in Christ, the head
+Colossians 2:11	whom	1	GOD_FATHER	GOD_SON	in Christ circumcised
+Colossians 2:12	him	*	GOD_FATHER	GOD_SON	buried and risen with Christ; God raised him
+Colossians 2:13	him	1	GOD_FATHER	GOD_SON	quickened together with Christ
+Colossians 3:4	who	1	GOD_FATHER	GOD_SON	Christ who is our life
+Colossians 3:4	him	1	GOD_FATHER	GOD_SON	appear with Christ in glory
+Colossians 3:17	him	1	GOD_FATHER	GOD_SON	thanks to the Father by the Lord Jesus

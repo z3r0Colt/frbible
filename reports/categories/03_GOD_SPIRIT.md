@@ -1,10 +1,10 @@
 # God the Spirit  `GOD_SPIRIT`  (#5a278c)
 
 - Legend examples (from the PDF's Color Code page): Spirit, Holy Ghost, Comforter, Holy Spirit
-- Occurrences: **281** across **253** verses (0.8% of all verses)
-- Distinct terms: **9**
+- Occurrences: **284** across **253** verses (0.8% of all verses)
+- Distinct terms: **10**
 - Occurrences inside words of Christ (red letter): 42
-- Voice layer of occurrences: narration 181, speech 87, divine 7, quote 3, speech2 2, emphasis 1
+- Voice layer of occurrences: narration 184, speech 87, divine 7, quote 3, speech2 2, emphasis 1
 
 Each term is listed with how many times it carries this color, what share of all
 its colored uses this is, how often the same word is left uncolored, and every verse.
@@ -18,6 +18,7 @@ its colored uses this is, how often the same word is left uncolored, and every v
 | spirit | 5 | 98% | 313 | DEMONIC 3, GOD_SON 1 |
 | Comforter | 4 | 50% | 0 | GENERAL_PEOPLE 4 |
 | Spirits | 4 | 44% | 25 | DEMONIC 4, GENERAL_PEOPLE 1 |
+| he | 3 | 0% | 1 | PRONOUN 7242, GOD_FATHER 1808, GOD_SON 1339 |
 | of | 3 | 6% | 34424 | GENERAL_TIME 43, GENERAL_PLACE_1 1 |
 | truth | 3 | 75% | 231 | GOD_SON 1 |
 | Holy Spirit | 1 | 100% | - |  |
@@ -39,6 +40,9 @@ John 14:16, 26; 15:26; 16:7
 
 ### Spirits (4)
 Rev 1:4; 3:1; 4:5; 5:6
+
+### he (3)
+Rom 8:27 | 1Cor 12:11 | Heb 10:15
 
 ### of (3)
 John 14:17; 15:26; 16:13
