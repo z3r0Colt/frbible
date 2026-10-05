@@ -13,23 +13,23 @@ meaning 'in this way'). Words never colored are not listed.
 | to | 484 | 12971 | 4% | GENERAL_TIME 459, GENERAL_PLACE_2 25 |
 | that | 3 | 12865 | 0% | GENERAL_TIME 2, GOD_FATHER 1 |
 | in | 63 | 12532 | 1% | GENERAL_TIME 59, GENERAL_PLACE_2 4 |
-| he | 10392 | 1 | 100% | PRONOUN 7242, GOD_FATHER 1808, GOD_SON 1339, GOD_SPIRIT 3 |
+| he | 10392 | 1 | 100% | PRONOUN 7240, GOD_FATHER 1835, GOD_SON 1313, GOD_SPIRIT 4 |
 | for | 388 | 8597 | 4% | GENERAL_TIME 388 |
-| i | 8849 | 1 | 100% | PRONOUN 4997, GOD_FATHER 3092, GOD_SON 760 |
-| his | 8476 | 0 | 100% | PRONOUN 6555, GOD_FATHER 1364, GOD_SON 557 |
+| i | 8849 | 1 | 100% | PRONOUN 4988, GOD_FATHER 3098, GOD_SON 762, GOD_SPIRIT 1 |
+| his | 8476 | 0 | 100% | PRONOUN 6554, GOD_FATHER 1366, GOD_SON 556 |
 | a | 19 | 8179 | 0% | QUANTITY 19 |
 | lord | 7830 | 0 | 100% | GOD_FATHER 7569, GENERAL_PEOPLE 249, GOD_SON 12 |
 | they | 7375 | 2 | 100% | PRONOUN 7373, GOD_FATHER 2 |
 | be | 1 | 7011 | 0% | GENERAL_TIME 1 |
-| him | 6666 | 1 | 100% | PRONOUN 4883, GOD_SON 1192, GOD_FATHER 591 |
+| him | 6666 | 1 | 100% | PRONOUN 4884, GOD_SON 1191, GOD_FATHER 591 |
 | not | 1 | 6596 | 0% | GENERAL_TIME 1 |
 | them | 6429 | 0 | 100% | PRONOUN 6425, GOD_FATHER 4 |
 | all | 5535 | 86 | 98% | QUANTITY 5534, GENERAL_PEOPLE 1 |
-| thou | 5474 | 0 | 100% | PRONOUN 4220, GOD_FATHER 993, GOD_SON 261 |
-| thy | 4602 | 0 | 100% | PRONOUN 3406, GOD_FATHER 1091, GOD_SON 105 |
+| thou | 5474 | 0 | 100% | PRONOUN 4220, GOD_FATHER 1000, GOD_SON 254 |
+| thy | 4602 | 0 | 100% | PRONOUN 3406, GOD_FATHER 1099, GOD_SON 97 |
 | god | 4407 | 1 | 100% | GOD_FATHER 4356, DEMONIC 51 |
-| my | 4358 | 0 | 100% | PRONOUN 2936, GOD_FATHER 1148, GOD_SON 274 |
-| me | 4085 | 2 | 100% | PRONOUN 3070, GOD_FATHER 590, GOD_SON 425 |
+| my | 4358 | 0 | 100% | PRONOUN 2927, GOD_FATHER 1151, GOD_SON 280 |
+| me | 4085 | 2 | 100% | PRONOUN 3067, GOD_FATHER 590, GOD_SON 427, GOD_SPIRIT 1 |
 | ye | 3983 | 1 | 100% | PRONOUN 3980, GOD_FATHER 3 |
 | their | 3932 | 0 | 100% | PRONOUN 3932 |
 | thee | 3827 | 0 | 100% | PRONOUN 3219, GOD_FATHER 487, GOD_SON 121 |
@@ -85,10 +85,10 @@ meaning 'in this way'). Words never colored are not listed.
 | earth | 986 | 1 | 100% | GENERAL_PLACE_1 985, PROPER_PLACE 1 |
 | jesus | 982 | 0 | 100% | GOD_SON 978, PROPER_PERSON 3, DEMONIC 1 |
 | she | 967 | 4 | 100% | PRONOUN 967 |
-| who | 969 | 0 | 100% | PRONOUN 788, GOD_FATHER 129, GOD_SON 52 |
+| who | 969 | 0 | 100% | PRONOUN 788, GOD_FATHER 125, GOD_SON 56 |
 | father | 954 | 0 | 100% | GENERAL_PEOPLE 699, GOD_FATHER 255 |
 | great | 88 | 857 | 9% | QUANTITY 73, GENERAL_PEOPLE 4, ANIMAL 3, DEMONIC 3, GENERAL_PLACE_1 2, GOD_FATHER 1, GENERAL_TIME 1, GOD_SON 1 |
-| thine | 937 | 0 | 100% | PRONOUN 749, GOD_FATHER 168, GOD_SON 20 |
+| thine | 937 | 0 | 100% | PRONOUN 749, GOD_FATHER 171, GOD_SON 17 |
 | any | 141 | 776 | 15% | GENERAL_TIME 96, QUANTITY 45 |
 | away | 142 | 774 | 16% | GENERAL_PLACE_2 142 |
 | among | 19 | 897 | 2% | GENERAL_PLACE_2 19 |
@@ -100,7 +100,7 @@ meaning 'in this way'). Words never colored are not listed.
 | moses | 848 | 0 | 100% | PROPER_PERSON 848 |
 | judah | 813 | 0 | 100% | PROPER_PLACE 694, PEOPLE_GROUP 70, PROPER_PERSON 49 |
 | jerusalem | 811 | 0 | 100% | PROPER_PLACE 810, PEOPLE_GROUP 1 |
-| whom | 762 | 1 | 100% | PRONOUN 642, GOD_SON 73, GOD_FATHER 47 |
+| whom | 762 | 1 | 100% | PRONOUN 643, GOD_SON 70, GOD_FATHER 48, GOD_SPIRIT 1 |
 | pass | 463 | 256 | 64% | GENERAL_TIME 463 |
 | good | 2 | 715 | 0% | GENERAL_TIME 2 |
 | place | 697 | 5 | 99% | GENERAL_PLACE_1 695, GENERAL_PLACE_2 1, QUANTITY 1 |
@@ -123,7 +123,7 @@ meaning 'in this way'). Words never colored are not listed.
 | fathers | 549 | 0 | 100% | GENERAL_PEOPLE 549 |
 | how | 61 | 482 | 11% | GENERAL_TIME 61 |
 | years | 539 | 0 | 100% | SPECIFIC_TIME 539 |
-| himself | 528 | 0 | 100% | PRONOUN 411, GOD_SON 69, GOD_FATHER 48 |
+| himself | 528 | 0 | 100% | PRONOUN 411, GOD_SON 74, GOD_FATHER 43 |
 | off | 81 | 426 | 16% | GENERAL_PLACE_1 76, GENERAL_PLACE_2 5 |
 | spirit | 179 | 313 | 36% | GOD_SPIRIT 175, DEMONIC 3, GOD_SON 1 |
 | servant | 491 | 0 | 100% | GENERAL_PEOPLE 491 |
@@ -179,7 +179,7 @@ meaning 'in this way'). Words never colored are not listed.
 | same | 9 | 323 | 3% | GENERAL_TIME 6, QUANTITY 3 |
 | tabernacle | 324 | 4 | 99% | GENERAL_PLACE_1 323, PROPER_PLACE 1 |
 | aaron | 318 | 0 | 100% | PROPER_PERSON 313, PEOPLE_GROUP 5 |
-| whose | 314 | 0 | 100% | PRONOUN 276, GOD_FATHER 26, GOD_SON 12 |
+| whose | 314 | 0 | 100% | PRONOUN 276, GOD_FATHER 27, GOD_SON 11 |
 | night | 307 | 0 | 100% | SPECIFIC_TIME 305, ANIMAL 2 |
 | daughter | 307 | 0 | 100% | GENERAL_PEOPLE 307 |
 | wilderness | 305 | 0 | 100% | GENERAL_PLACE_1 305 |

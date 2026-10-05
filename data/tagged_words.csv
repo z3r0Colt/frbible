@@ -229470,7 +229470,7 @@ Acts 1:7,Acts,1,7,you,PRONOUN,speech,1,PRONOUN
 Acts 1:7,Acts,1,7,times,GENERAL_TIME,speech,1,GENERAL_TIME
 Acts 1:7,Acts,1,7,seasons,GENERAL_TIME,speech,1,GENERAL_TIME
 Acts 1:7,Acts,1,7,Father,GOD_FATHER,speech,1,GOD_FATHER
-Acts 1:7,Acts,1,7,his,GOD_SON,speech,1,GOD_SON
+Acts 1:7,Acts,1,7,his,GOD_FATHER,speech,1,GOD_SON
 Acts 1:8,Acts,1,8,ye,PRONOUN,speech,1,PRONOUN
 Acts 1:8,Acts,1,8,after,GENERAL_TIME,speech,1,GENERAL_TIME
 Acts 1:8,Acts,1,8,Holy Ghost,GOD_SPIRIT,speech,1,GOD_SPIRIT
@@ -229806,30 +229806,30 @@ Acts 2:24,Acts,2,24,God,GOD_FATHER,speech,0,GOD_FATHER
 Acts 2:24,Acts,2,24,he,GOD_SON,speech,0,GOD_SON
 Acts 2:25,Acts,2,25,David,PROPER_PERSON,speech,0,PROPER_PERSON
 Acts 2:25,Acts,2,25,him,GOD_SON,speech,0,GOD_SON
-Acts 2:25,Acts,2,25,I,PRONOUN,quote,0,PRONOUN
+Acts 2:25,Acts,2,25,I,GOD_SON,quote,0,PRONOUN
 Acts 2:25,Acts,2,25,Lord,GOD_FATHER,quote,0,GOD_FATHER
 Acts 2:25,Acts,2,25,always,GENERAL_TIME,quote,0,GENERAL_TIME
 Acts 2:25,Acts,2,25,before,GENERAL_PLACE_2,quote,0,GENERAL_PLACE_2
-Acts 2:25,Acts,2,25,my,PRONOUN,quote,0,PRONOUN
-Acts 2:25,Acts,2,25,he,GOD_SON,quote,0,GOD_SON
-Acts 2:25,Acts,2,25,my,PRONOUN,quote,0,PRONOUN
+Acts 2:25,Acts,2,25,my,GOD_SON,quote,0,PRONOUN
+Acts 2:25,Acts,2,25,he,GOD_FATHER,quote,0,GOD_SON
+Acts 2:25,Acts,2,25,my,GOD_SON,quote,0,PRONOUN
 Acts 2:25,Acts,2,25,right,GENERAL_PLACE_1,quote,0,GENERAL_PLACE_1
-Acts 2:25,Acts,2,25,I,PRONOUN,quote,0,PRONOUN
-Acts 2:26,Acts,2,26,my,PRONOUN,quote,0,PRONOUN
-Acts 2:26,Acts,2,26,my,PRONOUN,quote,0,PRONOUN
-Acts 2:26,Acts,2,26,my,PRONOUN,quote,0,PRONOUN
-Acts 2:27,Acts,2,27,thou,GOD_SON,quote,0,GOD_SON
-Acts 2:27,Acts,2,27,my,PRONOUN,quote,0,PRONOUN
+Acts 2:25,Acts,2,25,I,GOD_SON,quote,0,PRONOUN
+Acts 2:26,Acts,2,26,my,GOD_SON,quote,0,PRONOUN
+Acts 2:26,Acts,2,26,my,GOD_SON,quote,0,PRONOUN
+Acts 2:26,Acts,2,26,my,GOD_SON,quote,0,PRONOUN
+Acts 2:27,Acts,2,27,thou,GOD_FATHER,quote,0,GOD_SON
+Acts 2:27,Acts,2,27,my,GOD_SON,quote,0,PRONOUN
 Acts 2:27,Acts,2,27,hell,GENERAL_PLACE_1,quote,0,GENERAL_PLACE_1
-Acts 2:27,Acts,2,27,thou,GOD_SON,quote,0,GOD_SON
-Acts 2:27,Acts,2,27,thine,GOD_SON,quote,0,GOD_SON
+Acts 2:27,Acts,2,27,thou,GOD_FATHER,quote,0,GOD_SON
+Acts 2:27,Acts,2,27,thine,GOD_FATHER,quote,0,GOD_SON
 Acts 2:27,Acts,2,27,Holy One,GOD_FATHER,quote,0,GOD_FATHER
-Acts 2:28,Acts,2,28,Thou,GOD_SON,quote,0,GOD_SON
-Acts 2:28,Acts,2,28,me,PRONOUN,quote,0,PRONOUN
+Acts 2:28,Acts,2,28,Thou,GOD_FATHER,quote,0,GOD_SON
+Acts 2:28,Acts,2,28,me,GOD_SON,quote,0,PRONOUN
 Acts 2:28,Acts,2,28,ways,GENERAL_PLACE_1,quote,0,GENERAL_PLACE_1
-Acts 2:28,Acts,2,28,thou,GOD_SON,quote,0,GOD_SON
-Acts 2:28,Acts,2,28,me,PRONOUN,quote,0,PRONOUN
-Acts 2:28,Acts,2,28,thy,GOD_SON,quote,0,GOD_SON
+Acts 2:28,Acts,2,28,thou,GOD_FATHER,quote,0,GOD_SON
+Acts 2:28,Acts,2,28,me,GOD_SON,quote,0,PRONOUN
+Acts 2:28,Acts,2,28,thy,GOD_FATHER,quote,0,GOD_SON
 Acts 2:29,Acts,2,29,Men,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 2:29,Acts,2,29,brethren,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 2:29,Acts,2,29,me,PRONOUN,speech,0,PRONOUN
@@ -229877,10 +229877,10 @@ Acts 2:34,Acts,2,34,LORD,GOD_FATHER,quote,0,GOD_FATHER
 Acts 2:34,Acts,2,34,my,PRONOUN,quote,0,PRONOUN
 Acts 2:34,Acts,2,34,Lord,GOD_FATHER,quote,0,GOD_FATHER
 Acts 2:34,Acts,2,34,thou,GOD_SON,quote,0,GOD_SON
-Acts 2:34,Acts,2,34,my,PRONOUN,quote,0,PRONOUN
+Acts 2:34,Acts,2,34,my,GOD_FATHER,quote,0,PRONOUN
 Acts 2:34,Acts,2,34,right,GENERAL_PLACE_1,quote,0,GENERAL_PLACE_1
 Acts 2:35,Acts,2,35,until,GENERAL_TIME,quote,0,GENERAL_TIME
-Acts 2:35,Acts,2,35,I,PRONOUN,quote,0,PRONOUN
+Acts 2:35,Acts,2,35,I,GOD_FATHER,quote,0,PRONOUN
 Acts 2:35,Acts,2,35,thy,GOD_SON,quote,0,GOD_SON
 Acts 2:35,Acts,2,35,foes,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Acts 2:35,Acts,2,35,thy,GOD_SON,quote,0,GOD_SON
@@ -230094,17 +230094,17 @@ Acts 3:17,Acts,3,17,rulers,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 3:18,Acts,3,18,God,GOD_FATHER,speech,0,GOD_FATHER
 Acts 3:18,Acts,3,18,before,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 3:18,Acts,3,18,all,QUANTITY,speech,0,QUANTITY
-Acts 3:18,Acts,3,18,his,GOD_SON,speech,0,GOD_SON
+Acts 3:18,Acts,3,18,his,GOD_FATHER,speech,0,GOD_SON
 Acts 3:18,Acts,3,18,prophets,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 3:18,Acts,3,18,Christ,GOD_SON,speech,0,GOD_SON
-Acts 3:18,Acts,3,18,he,GOD_SON,speech,0,GOD_SON
+Acts 3:18,Acts,3,18,he,GOD_FATHER,speech,0,GOD_SON
 Acts 3:18,Acts,3,18,so,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 3:19,Acts,3,19,ye,PRONOUN,speech,0,PRONOUN
 Acts 3:19,Acts,3,19,your,PRONOUN,speech,0,PRONOUN
 Acts 3:19,Acts,3,19,when,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 3:19,Acts,3,19,times,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 3:19,Acts,3,19,Lord,GOD_FATHER,speech,0,GOD_FATHER
-Acts 3:20,Acts,3,20,he,GOD_SON,speech,0,GOD_SON
+Acts 3:20,Acts,3,20,he,GOD_FATHER,speech,0,GOD_SON
 Acts 3:20,Acts,3,20,Jesus,GOD_SON,speech,0,GOD_SON
 Acts 3:20,Acts,3,20,Christ,GOD_SON,speech,0,GOD_SON
 Acts 3:20,Acts,3,20,before,GENERAL_TIME,speech,0,GENERAL_TIME
@@ -230116,7 +230116,7 @@ Acts 3:21,Acts,3,21,times,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 3:21,Acts,3,21,all,QUANTITY,speech,0,QUANTITY
 Acts 3:21,Acts,3,21,God,GOD_FATHER,speech,0,GOD_FATHER
 Acts 3:21,Acts,3,21,all,QUANTITY,speech,0,QUANTITY
-Acts 3:21,Acts,3,21,his,GOD_SON,speech,0,GOD_SON
+Acts 3:21,Acts,3,21,his,GOD_FATHER,speech,0,GOD_SON
 Acts 3:21,Acts,3,21,prophets,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 3:21,Acts,3,21,since,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 3:21,Acts,3,21,world,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
@@ -230336,15 +230336,15 @@ Acts 4:24,Acts,4,24,their,PRONOUN,narration,0,PRONOUN
 Acts 4:24,Acts,4,24,God,GOD_FATHER,narration,0,GOD_FATHER
 Acts 4:24,Acts,4,24,one,QUANTITY,narration,0,QUANTITY
 Acts 4:24,Acts,4,24,Lord,GOD_FATHER,speech,0,GOD_FATHER
-Acts 4:24,Acts,4,24,thou,GOD_SON,speech,0,GOD_SON
+Acts 4:24,Acts,4,24,thou,GOD_FATHER,speech,0,GOD_SON
 Acts 4:24,Acts,4,24,God,GOD_FATHER,speech,0,GOD_FATHER
 Acts 4:24,Acts,4,24,heaven,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 4:24,Acts,4,24,earth,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 4:24,Acts,4,24,sea,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 4:24,Acts,4,24,all,QUANTITY,speech,0,QUANTITY
 Acts 4:24,Acts,4,24,them,PRONOUN,speech,0,PRONOUN
-Acts 4:25,Acts,4,25,who,GOD_SON,speech,0,GOD_SON
-Acts 4:25,Acts,4,25,thy,GOD_SON,speech,0,GOD_SON
+Acts 4:25,Acts,4,25,who,GOD_FATHER,speech,0,GOD_SON
+Acts 4:25,Acts,4,25,thy,GOD_FATHER,speech,0,GOD_SON
 Acts 4:25,Acts,4,25,servant,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 4:25,Acts,4,25,David,PROPER_PERSON,speech,0,PROPER_PERSON
 Acts 4:25,Acts,4,25,heathen,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
@@ -230353,13 +230353,13 @@ Acts 4:26,Acts,4,26,kings,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Acts 4:26,Acts,4,26,earth,GENERAL_PLACE_1,quote,0,GENERAL_PLACE_1
 Acts 4:26,Acts,4,26,rulers,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Acts 4:26,Acts,4,26,Lord,GOD_FATHER,quote,0,GOD_FATHER
-Acts 4:26,Acts,4,26,his,GOD_SON,quote,0,GOD_SON
+Acts 4:26,Acts,4,26,his,GOD_FATHER,quote,0,GOD_SON
 Acts 4:26,Acts,4,26,Christ,GOD_SON,quote,0,GOD_SON
-Acts 4:27,Acts,4,27,thy,GOD_SON,speech,0,GOD_SON
+Acts 4:27,Acts,4,27,thy,GOD_FATHER,speech,0,GOD_SON
 Acts 4:27,Acts,4,27,holy child,GOD_SON,speech,0,GOD_SON
 Acts 4:27,Acts,4,27,Jesus,GOD_SON,speech,0,GOD_SON
 Acts 4:27,Acts,4,27,whom,GOD_SON,speech,0,GOD_SON
-Acts 4:27,Acts,4,27,thou,GOD_SON,speech,0,GOD_SON
+Acts 4:27,Acts,4,27,thou,GOD_FATHER,speech,0,GOD_SON
 Acts 4:27,Acts,4,27,both,QUANTITY,speech,0,QUANTITY
 Acts 4:27,Acts,4,27,Herod,PROPER_PERSON,speech,0,PROPER_PERSON
 Acts 4:27,Acts,4,27,Pontius,PROPER_PERSON,speech,0,PROPER_PERSON
@@ -230367,19 +230367,19 @@ Acts 4:27,Acts,4,27,Pilate,PROPER_PERSON,speech,0,PROPER_PERSON
 Acts 4:27,Acts,4,27,Gentiles,PEOPLE_GROUP,speech,0,PEOPLE_GROUP
 Acts 4:27,Acts,4,27,people,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 4:27,Acts,4,27,Israel,PROPER_PLACE,speech,0,PROPER_PLACE
-Acts 4:28,Acts,4,28,thy,GOD_SON,speech,0,GOD_SON
-Acts 4:28,Acts,4,28,thy,GOD_SON,speech,0,GOD_SON
+Acts 4:28,Acts,4,28,thy,GOD_FATHER,speech,0,GOD_SON
+Acts 4:28,Acts,4,28,thy,GOD_FATHER,speech,0,GOD_SON
 Acts 4:28,Acts,4,28,before,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 4:29,Acts,4,29,now,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 4:29,Acts,4,29,Lord,GOD_FATHER,speech,0,GOD_FATHER
 Acts 4:29,Acts,4,29,their,PRONOUN,speech,0,PRONOUN
-Acts 4:29,Acts,4,29,thy,GOD_SON,speech,0,GOD_SON
+Acts 4:29,Acts,4,29,thy,GOD_FATHER,speech,0,GOD_SON
 Acts 4:29,Acts,4,29,servants,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 4:29,Acts,4,29,all,QUANTITY,speech,0,QUANTITY
 Acts 4:29,Acts,4,29,they,PRONOUN,speech,0,PRONOUN
-Acts 4:29,Acts,4,29,thy,GOD_SON,speech,0,GOD_SON
-Acts 4:30,Acts,4,30,thine,GOD_SON,speech,0,GOD_SON
-Acts 4:30,Acts,4,30,thy,GOD_SON,speech,0,GOD_SON
+Acts 4:29,Acts,4,29,thy,GOD_FATHER,speech,0,GOD_SON
+Acts 4:30,Acts,4,30,thine,GOD_FATHER,speech,0,GOD_SON
+Acts 4:30,Acts,4,30,thy,GOD_FATHER,speech,0,GOD_SON
 Acts 4:30,Acts,4,30,holy child,GOD_SON,speech,0,GOD_SON
 Acts 4:30,Acts,4,30,Jesus,GOD_SON,speech,0,GOD_SON
 Acts 4:31,Acts,4,31,when,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -230649,7 +230649,7 @@ Acts 5:30,Acts,5,30,ye,PRONOUN,speech,0,PRONOUN
 Acts 5:30,Acts,5,30,tree,PLANT,speech,0,PLANT
 Acts 5:31,Acts,5,31,Him,GOD_SON,speech,0,GOD_SON
 Acts 5:31,Acts,5,31,God,GOD_FATHER,speech,0,GOD_FATHER
-Acts 5:31,Acts,5,31,his,GOD_SON,speech,0,GOD_SON
+Acts 5:31,Acts,5,31,his,GOD_FATHER,speech,0,GOD_SON
 Acts 5:31,Acts,5,31,right,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 5:31,Acts,5,31,Prince,GOD_SON,speech,0,GOD_SON
 Acts 5:31,Acts,5,31,Saviour,GOD_FATHER,speech,0,GOD_FATHER
@@ -230659,10 +230659,10 @@ Acts 5:32,Acts,5,32,his,GOD_SON,speech,0,GOD_SON
 Acts 5:32,Acts,5,32,witnesses,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 5:32,Acts,5,32,so,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 5:32,Acts,5,32,Holy Ghost,GOD_SPIRIT,speech,0,GOD_SPIRIT
-Acts 5:32,Acts,5,32,whom,GOD_SON,speech,0,GOD_SON
+Acts 5:32,Acts,5,32,whom,GOD_SPIRIT,speech,0,GOD_SON
 Acts 5:32,Acts,5,32,God,GOD_FATHER,speech,0,GOD_FATHER
 Acts 5:32,Acts,5,32,them,PRONOUN,speech,0,PRONOUN
-Acts 5:32,Acts,5,32,him,GOD_SON,speech,0,GOD_SON
+Acts 5:32,Acts,5,32,him,GOD_FATHER,speech,0,GOD_SON
 Acts 5:33,Acts,5,33,When,GENERAL_TIME,narration,0,GENERAL_TIME
 Acts 5:33,Acts,5,33,they,PRONOUN,narration,0,PRONOUN
 Acts 5:33,Acts,5,33,they,PRONOUN,narration,0,PRONOUN
@@ -230883,20 +230883,20 @@ Acts 7:4,Acts,7,4,thence,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 7:4,Acts,7,4,when,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 7:4,Acts,7,4,his,PRONOUN,speech,0,PRONOUN
 Acts 7:4,Acts,7,4,father,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
-Acts 7:4,Acts,7,4,he,PRONOUN,speech,0,PRONOUN
+Acts 7:4,Acts,7,4,he,GOD_FATHER,speech,0,PRONOUN
 Acts 7:4,Acts,7,4,him,PRONOUN,speech,0,PRONOUN
 Acts 7:4,Acts,7,4,land,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 7:4,Acts,7,4,wherein,GENERAL_PLACE_2,speech,0,GENERAL_PLACE_2
 Acts 7:4,Acts,7,4,ye,PRONOUN,speech,0,PRONOUN
 Acts 7:4,Acts,7,4,now,GENERAL_TIME,speech,0,GENERAL_TIME
-Acts 7:5,Acts,7,5,he,GOD_SON,speech,0,GOD_SON
+Acts 7:5,Acts,7,5,he,GOD_FATHER,speech,0,GOD_SON
 Acts 7:5,Acts,7,5,him,PRONOUN,speech,0,PRONOUN
 Acts 7:5,Acts,7,5,none,QUANTITY,speech,0,QUANTITY
 Acts 7:5,Acts,7,5,so,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 7:5,Acts,7,5,much,QUANTITY,speech,0,QUANTITY
 Acts 7:5,Acts,7,5,his,PRONOUN,speech,0,PRONOUN
-Acts 7:5,Acts,7,5,he,GOD_SON,speech,0,GOD_SON
-Acts 7:5,Acts,7,5,he,GOD_SON,speech,0,GOD_SON
+Acts 7:5,Acts,7,5,he,GOD_FATHER,speech,0,GOD_SON
+Acts 7:5,Acts,7,5,he,GOD_FATHER,speech,0,GOD_SON
 Acts 7:5,Acts,7,5,him,PRONOUN,speech,0,PRONOUN
 Acts 7:5,Acts,7,5,his,PRONOUN,speech,0,PRONOUN
 Acts 7:5,Acts,7,5,seed,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
@@ -230922,9 +230922,9 @@ Acts 7:7,Acts,7,7,God,GOD_FATHER,speech,0,GOD_FATHER
 Acts 7:7,Acts,7,7,after,GENERAL_TIME,divine,0,GENERAL_TIME
 Acts 7:7,Acts,7,7,they,PRONOUN,divine,0,PRONOUN
 Acts 7:7,Acts,7,7,forth,GENERAL_PLACE_2,divine,0,GENERAL_PLACE_2
-Acts 7:7,Acts,7,7,me,PRONOUN,divine,0,PRONOUN
+Acts 7:7,Acts,7,7,me,GOD_FATHER,divine,0,PRONOUN
 Acts 7:7,Acts,7,7,place,GENERAL_PLACE_1,divine,0,GENERAL_PLACE_1
-Acts 7:8,Acts,7,8,he,GOD_SON,speech,0,GOD_SON
+Acts 7:8,Acts,7,8,he,GOD_FATHER,speech,0,GOD_SON
 Acts 7:8,Acts,7,8,him,PRONOUN,speech,0,PRONOUN
 Acts 7:8,Acts,7,8,so,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 7:8,Acts,7,8,Abraham,PROPER_PERSON,speech,0,PROPER_PERSON
@@ -231263,7 +231263,7 @@ Acts 7:44,Acts,7,44,Our,PRONOUN,speech,0,PRONOUN
 Acts 7:44,Acts,7,44,fathers,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 7:44,Acts,7,44,tabernacle,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 7:44,Acts,7,44,wilderness,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
-Acts 7:44,Acts,7,44,he,PRONOUN,speech,0,PRONOUN
+Acts 7:44,Acts,7,44,he,GOD_FATHER,speech,0,PRONOUN
 Acts 7:44,Acts,7,44,Moses,PROPER_PERSON,speech,0,PROPER_PERSON
 Acts 7:44,Acts,7,44,he,PRONOUN,speech,0,PRONOUN
 Acts 7:44,Acts,7,44,he,PRONOUN,speech,0,PRONOUN
@@ -231286,7 +231286,7 @@ Acts 7:46,Acts,7,46,tabernacle,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 7:46,Acts,7,46,God,GOD_FATHER,speech,0,GOD_FATHER
 Acts 7:46,Acts,7,46,Jacob,PROPER_PERSON,speech,0,PROPER_PERSON
 Acts 7:47,Acts,7,47,Solomon,PROPER_PERSON,speech,0,PROPER_PERSON
-Acts 7:47,Acts,7,47,him,GOD_SON,speech,0,GOD_SON
+Acts 7:47,Acts,7,47,him,GOD_FATHER,speech,0,GOD_SON
 Acts 7:47,Acts,7,47,house,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 7:48,Acts,7,48,most high,GOD_FATHER,speech,0,GOD_FATHER
 Acts 7:48,Acts,7,48,temples,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
@@ -231471,7 +231471,7 @@ Acts 8:15,Acts,8,15,them,PRONOUN,narration,0,PRONOUN
 Acts 8:15,Acts,8,15,they,PRONOUN,narration,0,PRONOUN
 Acts 8:15,Acts,8,15,Holy Ghost,GOD_SPIRIT,narration,0,GOD_SPIRIT
 Acts 8:16,Acts,8,16,yet,GENERAL_TIME,narration,0,GENERAL_TIME
-Acts 8:16,Acts,8,16,he,PRONOUN,narration,0,PRONOUN
+Acts 8:16,Acts,8,16,he,GOD_SPIRIT,narration,0,PRONOUN
 Acts 8:16,Acts,8,16,none,QUANTITY,narration,0,QUANTITY
 Acts 8:16,Acts,8,16,them,PRONOUN,narration,0,PRONOUN
 Acts 8:16,Acts,8,16,only,QUANTITY,narration,0,QUANTITY
@@ -232297,8 +232297,8 @@ Acts 10:34,Acts,10,34,persons,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 10:35,Acts,10,35,every,QUANTITY,speech,0,QUANTITY
 Acts 10:35,Acts,10,35,nation,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 10:35,Acts,10,35,he,PRONOUN,speech,0,PRONOUN
-Acts 10:35,Acts,10,35,him,GOD_SON,speech,0,GOD_SON
-Acts 10:35,Acts,10,35,him,GOD_SON,speech,0,GOD_SON
+Acts 10:35,Acts,10,35,him,GOD_FATHER,speech,0,GOD_SON
+Acts 10:35,Acts,10,35,him,GOD_FATHER,speech,0,GOD_SON
 Acts 10:36,Acts,10,36,God,GOD_FATHER,speech,0,GOD_FATHER
 Acts 10:36,Acts,10,36,children,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 10:36,Acts,10,36,Israel,PEOPLE_GROUP,speech,0,PEOPLE_GROUP
@@ -232497,7 +232497,7 @@ Acts 11:16,Acts,11,16,ye,PRONOUN,speech,1,PRONOUN
 Acts 11:16,Acts,11,16,Holy Ghost,GOD_SPIRIT,speech,1,GOD_SPIRIT
 Acts 11:17,Acts,11,17,God,GOD_FATHER,speech,0,GOD_FATHER
 Acts 11:17,Acts,11,17,them,PRONOUN,speech,0,PRONOUN
-Acts 11:17,Acts,11,17,he,GOD_SON,speech,0,GOD_SON
+Acts 11:17,Acts,11,17,he,GOD_FATHER,speech,0,GOD_SON
 Acts 11:17,Acts,11,17,us,PRONOUN,speech,0,PRONOUN
 Acts 11:17,Acts,11,17,who,PRONOUN,speech,0,PRONOUN
 Acts 11:17,Acts,11,17,Lord,GOD_FATHER,speech,0,GOD_FATHER
@@ -232718,7 +232718,7 @@ Acts 12:11,Acts,12,11,he,PRONOUN,narration,0,PRONOUN
 Acts 12:11,Acts,12,11,Now,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 12:11,Acts,12,11,I,PRONOUN,speech,0,PRONOUN
 Acts 12:11,Acts,12,11,Lord,GOD_FATHER,speech,0,GOD_FATHER
-Acts 12:11,Acts,12,11,his,GOD_SON,speech,0,GOD_SON
+Acts 12:11,Acts,12,11,his,GOD_FATHER,speech,0,GOD_SON
 Acts 12:11,Acts,12,11,angel,ANGELIC,speech,0,ANGELIC
 Acts 12:11,Acts,12,11,me,PRONOUN,speech,0,PRONOUN
 Acts 12:11,Acts,12,11,Herod,PROPER_PERSON,speech,0,PROPER_PERSON
@@ -232859,10 +232859,10 @@ Acts 13:1,Acts,13,1,Saul,PROPER_PERSON,narration,0,PROPER_PERSON
 Acts 13:2,Acts,13,2,they,PRONOUN,narration,0,PRONOUN
 Acts 13:2,Acts,13,2,Lord,GOD_FATHER,narration,0,GOD_FATHER
 Acts 13:2,Acts,13,2,Holy Ghost,GOD_SPIRIT,narration,0,GOD_SPIRIT
-Acts 13:2,Acts,13,2,me,GOD_FATHER,divine,0,GOD_FATHER
+Acts 13:2,Acts,13,2,me,GOD_SPIRIT,divine,0,GOD_FATHER
 Acts 13:2,Acts,13,2,Barnabas,PROPER_PERSON,divine,0,PROPER_PERSON
 Acts 13:2,Acts,13,2,Saul,PROPER_PERSON,divine,0,PROPER_PERSON
-Acts 13:2,Acts,13,2,I,GOD_FATHER,divine,0,GOD_FATHER
+Acts 13:2,Acts,13,2,I,GOD_SPIRIT,divine,0,GOD_FATHER
 Acts 13:2,Acts,13,2,them,PRONOUN,divine,0,PRONOUN
 Acts 13:3,Acts,13,3,when,GENERAL_TIME,narration,0,GENERAL_TIME
 Acts 13:3,Acts,13,3,they,PRONOUN,narration,0,PRONOUN
@@ -232996,26 +232996,26 @@ Acts 13:17,Acts,13,17,strangers,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 13:17,Acts,13,17,land,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 13:17,Acts,13,17,Egypt,PROPER_PLACE,speech,0,PROPER_PLACE
 Acts 13:17,Acts,13,17,high,GENERAL_PLACE_2,speech,0,GENERAL_PLACE_2
-Acts 13:17,Acts,13,17,he,GOD_SON,speech,0,GOD_SON
+Acts 13:17,Acts,13,17,he,GOD_FATHER,speech,0,GOD_SON
 Acts 13:17,Acts,13,17,them,PRONOUN,speech,0,PRONOUN
 Acts 13:18,Acts,13,18,time,SPECIFIC_TIME,speech,0,SPECIFIC_TIME
 Acts 13:18,Acts,13,18,40,NUMBER,speech,0,NUMBER
 Acts 13:18,Acts,13,18,years,SPECIFIC_TIME,speech,0,SPECIFIC_TIME
-Acts 13:18,Acts,13,18,he,GOD_SON,speech,0,GOD_SON
+Acts 13:18,Acts,13,18,he,GOD_FATHER,speech,0,GOD_SON
 Acts 13:18,Acts,13,18,their,PRONOUN,speech,0,PRONOUN
 Acts 13:18,Acts,13,18,wilderness,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 13:19,Acts,13,19,when,GENERAL_TIME,speech,0,GENERAL_TIME
-Acts 13:19,Acts,13,19,he,GOD_SON,speech,0,GOD_SON
+Acts 13:19,Acts,13,19,he,GOD_FATHER,speech,0,GOD_SON
 Acts 13:19,Acts,13,19,seven,NUMBER,speech,0,NUMBER
 Acts 13:19,Acts,13,19,nations,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 13:19,Acts,13,19,land,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 13:19,Acts,13,19,Chanaan,PROPER_PLACE,speech,0,PROPER_PLACE
-Acts 13:19,Acts,13,19,he,GOD_SON,speech,0,GOD_SON
+Acts 13:19,Acts,13,19,he,GOD_FATHER,speech,0,GOD_SON
 Acts 13:19,Acts,13,19,their,PRONOUN,speech,0,PRONOUN
 Acts 13:19,Acts,13,19,land,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 13:19,Acts,13,19,them,PRONOUN,speech,0,PRONOUN
 Acts 13:20,Acts,13,20,after,GENERAL_TIME,speech,0,GENERAL_TIME
-Acts 13:20,Acts,13,20,he,GOD_SON,speech,0,GOD_SON
+Acts 13:20,Acts,13,20,he,GOD_FATHER,speech,0,GOD_SON
 Acts 13:20,Acts,13,20,them,PRONOUN,speech,0,PRONOUN
 Acts 13:20,Acts,13,20,judges,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 13:20,Acts,13,20,space,GENERAL_TIME,speech,0,GENERAL_TIME
@@ -233039,15 +233039,15 @@ Acts 13:21,Acts,13,21,space,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 13:21,Acts,13,21,40,NUMBER,speech,0,NUMBER
 Acts 13:21,Acts,13,21,years,SPECIFIC_TIME,speech,0,SPECIFIC_TIME
 Acts 13:22,Acts,13,22,when,GENERAL_TIME,speech,0,GENERAL_TIME
-Acts 13:22,Acts,13,22,he,GOD_SON,speech,0,GOD_SON
+Acts 13:22,Acts,13,22,he,GOD_FATHER,speech,0,GOD_SON
 Acts 13:22,Acts,13,22,him,PRONOUN,speech,0,PRONOUN
-Acts 13:22,Acts,13,22,he,GOD_SON,speech,0,GOD_SON
+Acts 13:22,Acts,13,22,he,GOD_FATHER,speech,0,GOD_SON
 Acts 13:22,Acts,13,22,them,PRONOUN,speech,0,PRONOUN
 Acts 13:22,Acts,13,22,David,PROPER_PERSON,speech,0,PROPER_PERSON
 Acts 13:22,Acts,13,22,their,PRONOUN,speech,0,PRONOUN
 Acts 13:22,Acts,13,22,king,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 13:22,Acts,13,22,whom,PRONOUN,speech,0,PRONOUN
-Acts 13:22,Acts,13,22,he,GOD_SON,speech,0,GOD_SON
+Acts 13:22,Acts,13,22,he,GOD_FATHER,speech,0,GOD_SON
 Acts 13:22,Acts,13,22,I,GOD_FATHER,divine,0,GOD_FATHER
 Acts 13:22,Acts,13,22,David,PROPER_PERSON,divine,0,PROPER_PERSON
 Acts 13:22,Acts,13,22,son,GENERAL_PEOPLE,divine,0,GENERAL_PEOPLE
@@ -233059,7 +233059,7 @@ Acts 13:22,Acts,13,22,my,GOD_FATHER,divine,0,GOD_FATHER
 Acts 13:23,Acts,13,23,man’s,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 13:23,Acts,13,23,seed,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 13:23,Acts,13,23,God,GOD_FATHER,speech,0,GOD_FATHER
-Acts 13:23,Acts,13,23,his,GOD_SON,speech,0,GOD_SON
+Acts 13:23,Acts,13,23,his,GOD_FATHER,speech,0,GOD_SON
 Acts 13:23,Acts,13,23,Israel,PROPER_PLACE,speech,0,PROPER_PLACE
 Acts 13:23,Acts,13,23,Saviour,GOD_FATHER,speech,0,GOD_FATHER
 Acts 13:23,Acts,13,23,Jesus,GOD_SON,speech,0,GOD_SON
@@ -233142,31 +233142,31 @@ Acts 13:33,Acts,13,33,God,GOD_FATHER,speech,0,GOD_FATHER
 Acts 13:33,Acts,13,33,us,PRONOUN,speech,0,PRONOUN
 Acts 13:33,Acts,13,33,their,PRONOUN,speech,0,PRONOUN
 Acts 13:33,Acts,13,33,children,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
-Acts 13:33,Acts,13,33,he,GOD_SON,speech,0,GOD_SON
+Acts 13:33,Acts,13,33,he,GOD_FATHER,speech,0,GOD_SON
 Acts 13:33,Acts,13,33,Jesus,GOD_SON,speech,0,GOD_SON
 Acts 13:33,Acts,13,33,again,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 13:33,Acts,13,33,second,NUMBER,speech,0,NUMBER
 Acts 13:33,Acts,13,33,Thou,GOD_SON,quote,0,GOD_SON
-Acts 13:33,Acts,13,33,my,PRONOUN,quote,0,PRONOUN
+Acts 13:33,Acts,13,33,my,GOD_FATHER,quote,0,PRONOUN
 Acts 13:33,Acts,13,33,Son,GOD_SON,quote,0,GOD_SON
 Acts 13:33,Acts,13,33,this,GENERAL_TIME,quote,0,GENERAL_TIME
 Acts 13:33,Acts,13,33,day,SPECIFIC_TIME,quote,0,SPECIFIC_TIME
-Acts 13:33,Acts,13,33,I,PRONOUN,quote,0,PRONOUN
+Acts 13:33,Acts,13,33,I,GOD_FATHER,quote,0,PRONOUN
 Acts 13:33,Acts,13,33,thee,GOD_SON,quote,0,GOD_SON
-Acts 13:34,Acts,13,34,he,GOD_SON,speech,0,GOD_SON
+Acts 13:34,Acts,13,34,he,GOD_FATHER,speech,0,GOD_SON
 Acts 13:34,Acts,13,34,him,GOD_SON,speech,0,GOD_SON
 Acts 13:34,Acts,13,34,dead,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 13:34,Acts,13,34,now,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 13:34,Acts,13,34,no,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 13:34,Acts,13,34,more,GENERAL_TIME,speech,0,GENERAL_TIME
-Acts 13:34,Acts,13,34,he,GOD_SON,speech,0,GOD_SON
-Acts 13:34,Acts,13,34,I,PRONOUN,quote,0,PRONOUN
+Acts 13:34,Acts,13,34,he,GOD_FATHER,speech,0,GOD_SON
+Acts 13:34,Acts,13,34,I,GOD_FATHER,quote,0,PRONOUN
 Acts 13:34,Acts,13,34,you,PRONOUN,quote,0,PRONOUN
 Acts 13:34,Acts,13,34,David,PROPER_PERSON,quote,0,PROPER_PERSON
 Acts 13:35,Acts,13,35,he,PRONOUN,speech,0,PRONOUN
 Acts 13:35,Acts,13,35,another,QUANTITY,speech,0,QUANTITY
-Acts 13:35,Acts,13,35,Thou,GOD_SON,quote,0,GOD_SON
-Acts 13:35,Acts,13,35,thine,GOD_SON,quote,0,GOD_SON
+Acts 13:35,Acts,13,35,Thou,GOD_FATHER,quote,0,GOD_SON
+Acts 13:35,Acts,13,35,thine,GOD_FATHER,quote,0,GOD_SON
 Acts 13:35,Acts,13,35,Holy One,GOD_FATHER,quote,0,GOD_FATHER
 Acts 13:36,Acts,13,36,David,PROPER_PERSON,speech,0,PROPER_PERSON
 Acts 13:36,Acts,13,36,after,GENERAL_TIME,speech,0,GENERAL_TIME
@@ -233194,7 +233194,7 @@ Acts 13:40,Acts,13,40,you,PRONOUN,speech,0,PRONOUN
 Acts 13:40,Acts,13,40,prophets,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 13:41,Acts,13,41,ye,PRONOUN,quote,0,PRONOUN
 Acts 13:41,Acts,13,41,despisers,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
-Acts 13:41,Acts,13,41,I,PRONOUN,quote,0,PRONOUN
+Acts 13:41,Acts,13,41,I,GOD_FATHER,quote,0,PRONOUN
 Acts 13:41,Acts,13,41,your,PRONOUN,quote,0,PRONOUN
 Acts 13:41,Acts,13,41,days,SPECIFIC_TIME,quote,0,SPECIFIC_TIME
 Acts 13:41,Acts,13,41,ye,PRONOUN,quote,0,PRONOUN
@@ -233390,9 +233390,9 @@ Acts 14:16,Acts,14,16,all,QUANTITY,speech,0,QUANTITY
 Acts 14:16,Acts,14,16,nations,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 14:16,Acts,14,16,their,PRONOUN,speech,0,PRONOUN
 Acts 14:16,Acts,14,16,ways,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
-Acts 14:17,Acts,14,17,he,GOD_SON,speech,0,GOD_SON
-Acts 14:17,Acts,14,17,himself,GOD_SON,speech,0,GOD_SON
-Acts 14:17,Acts,14,17,he,GOD_SON,speech,0,GOD_SON
+Acts 14:17,Acts,14,17,he,GOD_FATHER,speech,0,GOD_SON
+Acts 14:17,Acts,14,17,himself,GOD_FATHER,speech,0,GOD_SON
+Acts 14:17,Acts,14,17,he,GOD_FATHER,speech,0,GOD_SON
 Acts 14:17,Acts,14,17,us,PRONOUN,speech,0,PRONOUN
 Acts 14:17,Acts,14,17,heaven,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 14:17,Acts,14,17,seasons,GENERAL_TIME,speech,0,GENERAL_TIME
@@ -233473,7 +233473,7 @@ Acts 14:27,Acts,14,27,they,PRONOUN,narration,0,PRONOUN
 Acts 14:27,Acts,14,27,all,QUANTITY,narration,0,QUANTITY
 Acts 14:27,Acts,14,27,God,GOD_FATHER,narration,0,GOD_FATHER
 Acts 14:27,Acts,14,27,them,PRONOUN,narration,0,PRONOUN
-Acts 14:27,Acts,14,27,he,GOD_SON,narration,0,GOD_SON
+Acts 14:27,Acts,14,27,he,GOD_FATHER,narration,0,GOD_SON
 Acts 14:27,Acts,14,27,door,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 Acts 14:27,Acts,14,27,Gentiles,PEOPLE_GROUP,narration,0,PEOPLE_GROUP
 Acts 14:28,Acts,14,28,there,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
@@ -233546,7 +233546,7 @@ Acts 15:8,Acts,15,8,God,GOD_FATHER,speech,0,GOD_FATHER
 Acts 15:8,Acts,15,8,them,PRONOUN,speech,0,PRONOUN
 Acts 15:8,Acts,15,8,them,PRONOUN,speech,0,PRONOUN
 Acts 15:8,Acts,15,8,Holy Ghost,GOD_SPIRIT,speech,0,GOD_SPIRIT
-Acts 15:8,Acts,15,8,he,GOD_SON,speech,0,GOD_SON
+Acts 15:8,Acts,15,8,he,GOD_FATHER,speech,0,GOD_SON
 Acts 15:8,Acts,15,8,us,PRONOUN,speech,0,PRONOUN
 Acts 15:9,Acts,15,9,us,PRONOUN,speech,0,PRONOUN
 Acts 15:9,Acts,15,9,them,PRONOUN,speech,0,PRONOUN
@@ -233585,29 +233585,29 @@ Acts 15:14,Acts,15,14,first,NUMBER,speech,0,NUMBER
 Acts 15:14,Acts,15,14,Gentiles,PEOPLE_GROUP,speech,0,PEOPLE_GROUP
 Acts 15:14,Acts,15,14,them,PRONOUN,speech,0,PRONOUN
 Acts 15:14,Acts,15,14,people,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
-Acts 15:14,Acts,15,14,his,GOD_SON,speech,0,GOD_SON
+Acts 15:14,Acts,15,14,his,GOD_FATHER,speech,0,GOD_SON
 Acts 15:15,Acts,15,15,prophets,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 15:16,Acts,15,16,After,GENERAL_TIME,quote,0,GENERAL_TIME
-Acts 15:16,Acts,15,16,I,PRONOUN,quote,0,PRONOUN
+Acts 15:16,Acts,15,16,I,GOD_FATHER,quote,0,PRONOUN
 Acts 15:16,Acts,15,16,again,GENERAL_TIME,quote,0,GENERAL_TIME
 Acts 15:16,Acts,15,16,tabernacle,GENERAL_PLACE_1,quote,0,GENERAL_PLACE_1
 Acts 15:16,Acts,15,16,David,PROPER_PERSON,quote,0,PROPER_PERSON
-Acts 15:16,Acts,15,16,I,PRONOUN,quote,0,PRONOUN
+Acts 15:16,Acts,15,16,I,GOD_FATHER,quote,0,PRONOUN
 Acts 15:16,Acts,15,16,again,GENERAL_TIME,quote,0,GENERAL_TIME
 Acts 15:16,Acts,15,16,ruins,GENERAL_PLACE_1,quote,0,GENERAL_PLACE_1
-Acts 15:16,Acts,15,16,I,PRONOUN,quote,0,PRONOUN
+Acts 15:16,Acts,15,16,I,GOD_FATHER,quote,0,PRONOUN
 Acts 15:17,Acts,15,17,men,GENERAL_PEOPLE,quote,0,GENERAL_PEOPLE
 Acts 15:17,Acts,15,17,Lord,GOD_FATHER,quote,0,GOD_FATHER
 Acts 15:17,Acts,15,17,all,QUANTITY,quote,0,QUANTITY
 Acts 15:17,Acts,15,17,Gentiles,PEOPLE_GROUP,quote,0,PEOPLE_GROUP
-Acts 15:17,Acts,15,17,whom,GOD_SON,quote,0,GOD_SON
-Acts 15:17,Acts,15,17,my,PRONOUN,quote,0,PRONOUN
+Acts 15:17,Acts,15,17,whom,PRONOUN,quote,0,GOD_SON
+Acts 15:17,Acts,15,17,my,GOD_FATHER,quote,0,PRONOUN
 Acts 15:17,Acts,15,17,LORD,GOD_FATHER,quote,0,GOD_FATHER
-Acts 15:17,Acts,15,17,who,GOD_SON,quote,0,GOD_SON
+Acts 15:17,Acts,15,17,who,GOD_FATHER,quote,0,GOD_SON
 Acts 15:17,Acts,15,17,all,QUANTITY,quote,0,QUANTITY
 Acts 15:18,Acts,15,18,God,GOD_FATHER,speech,0,GOD_FATHER
 Acts 15:18,Acts,15,18,all,QUANTITY,speech,0,QUANTITY
-Acts 15:18,Acts,15,18,his,GOD_SON,speech,0,GOD_SON
+Acts 15:18,Acts,15,18,his,GOD_FATHER,speech,0,GOD_SON
 Acts 15:18,Acts,15,18,beginning,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 15:18,Acts,15,18,world,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 15:19,Acts,15,19,my,PRONOUN,speech,0,PRONOUN
@@ -233625,7 +233625,7 @@ Acts 15:21,Acts,15,21,time,SPECIFIC_TIME,speech,0,SPECIFIC_TIME
 Acts 15:21,Acts,15,21,every,QUANTITY,speech,0,QUANTITY
 Acts 15:21,Acts,15,21,city,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 15:21,Acts,15,21,them,PRONOUN,speech,0,PRONOUN
-Acts 15:21,Acts,15,21,him,GOD_SON,speech,0,GOD_SON
+Acts 15:21,Acts,15,21,him,PRONOUN,speech,0,GOD_SON
 Acts 15:21,Acts,15,21,synagogues,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 15:21,Acts,15,21,every,QUANTITY,speech,0,QUANTITY
 Acts 15:21,Acts,15,21,sabbath,SPECIFIC_TIME,speech,0,SPECIFIC_TIME
@@ -234268,23 +234268,23 @@ Acts 17:23,Acts,17,23,I,PRONOUN,speech,0,PRONOUN
 Acts 17:23,Acts,17,23,your,PRONOUN,speech,0,PRONOUN
 Acts 17:23,Acts,17,23,I,PRONOUN,speech,0,PRONOUN
 Acts 17:23,Acts,17,23,altar,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
-Acts 17:23,Acts,17,23,Whom,GOD_SON,speech,0,GOD_SON
+Acts 17:23,Acts,17,23,Whom,GOD_FATHER,speech,0,GOD_SON
 Acts 17:23,Acts,17,23,ye,PRONOUN,speech,0,PRONOUN
-Acts 17:23,Acts,17,23,him,GOD_SON,speech,0,GOD_SON
+Acts 17:23,Acts,17,23,him,GOD_FATHER,speech,0,GOD_SON
 Acts 17:23,Acts,17,23,I,PRONOUN,speech,0,PRONOUN
 Acts 17:23,Acts,17,23,you,PRONOUN,speech,0,PRONOUN
 Acts 17:24,Acts,17,24,God,GOD_FATHER,speech,0,GOD_FATHER
 Acts 17:24,Acts,17,24,world,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 17:24,Acts,17,24,all,QUANTITY,speech,0,QUANTITY
 Acts 17:24,Acts,17,24,therein,GENERAL_PLACE_2,speech,0,GENERAL_PLACE_2
-Acts 17:24,Acts,17,24,he,GOD_SON,speech,0,GOD_SON
+Acts 17:24,Acts,17,24,he,GOD_FATHER,speech,0,GOD_SON
 Acts 17:24,Acts,17,24,Lord,GOD_FATHER,speech,0,GOD_FATHER
 Acts 17:24,Acts,17,24,heaven,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 17:24,Acts,17,24,earth,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 17:24,Acts,17,24,temples,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 17:25,Acts,17,25,men’s,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
-Acts 17:25,Acts,17,25,he,GOD_SON,speech,0,GOD_SON
-Acts 17:25,Acts,17,25,he,GOD_SON,speech,0,GOD_SON
+Acts 17:25,Acts,17,25,he,GOD_FATHER,speech,0,GOD_SON
+Acts 17:25,Acts,17,25,he,GOD_FATHER,speech,0,GOD_SON
 Acts 17:25,Acts,17,25,all,QUANTITY,speech,0,QUANTITY
 Acts 17:25,Acts,17,25,all,QUANTITY,speech,0,QUANTITY
 Acts 17:26,Acts,17,26,one,QUANTITY,speech,0,QUANTITY
@@ -234300,19 +234300,19 @@ Acts 17:26,Acts,17,26,habitation,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 17:27,Acts,17,27,they,PRONOUN,speech,0,PRONOUN
 Acts 17:27,Acts,17,27,Lord,GOD_FATHER,speech,0,GOD_FATHER
 Acts 17:27,Acts,17,27,they,PRONOUN,speech,0,PRONOUN
-Acts 17:27,Acts,17,27,him,GOD_SON,speech,0,GOD_SON
-Acts 17:27,Acts,17,27,him,GOD_SON,speech,0,GOD_SON
-Acts 17:27,Acts,17,27,he,GOD_SON,speech,0,GOD_SON
+Acts 17:27,Acts,17,27,him,GOD_FATHER,speech,0,GOD_SON
+Acts 17:27,Acts,17,27,him,GOD_FATHER,speech,0,GOD_SON
+Acts 17:27,Acts,17,27,he,GOD_FATHER,speech,0,GOD_SON
 Acts 17:27,Acts,17,27,far,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 17:27,Acts,17,27,every,QUANTITY,speech,0,QUANTITY
 Acts 17:27,Acts,17,27,us,PRONOUN,speech,0,PRONOUN
-Acts 17:28,Acts,17,28,him,GOD_SON,speech,0,GOD_SON
+Acts 17:28,Acts,17,28,him,GOD_FATHER,speech,0,GOD_SON
 Acts 17:28,Acts,17,28,we,PRONOUN,speech,0,PRONOUN
 Acts 17:28,Acts,17,28,our,PRONOUN,speech,0,PRONOUN
 Acts 17:28,Acts,17,28,your,PRONOUN,speech,0,PRONOUN
 Acts 17:28,Acts,17,28,poets,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 17:28,Acts,17,28,we,PRONOUN,speech2,0,PRONOUN
-Acts 17:28,Acts,17,28,his,GOD_SON,speech2,0,GOD_SON
+Acts 17:28,Acts,17,28,his,GOD_FATHER,speech2,0,GOD_SON
 Acts 17:28,Acts,17,28,offspring,GENERAL_PEOPLE,speech2,0,GENERAL_PEOPLE
 Acts 17:29,Acts,17,29,we,PRONOUN,speech,0,PRONOUN
 Acts 17:29,Acts,17,29,offspring,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
@@ -234326,17 +234326,17 @@ Acts 17:30,Acts,17,30,now,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 17:30,Acts,17,30,all,QUANTITY,speech,0,QUANTITY
 Acts 17:30,Acts,17,30,men,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 17:30,Acts,17,30,where,GENERAL_PLACE_2,speech,0,GENERAL_PLACE_2
-Acts 17:31,Acts,17,31,he,GOD_SON,speech,0,GOD_SON
+Acts 17:31,Acts,17,31,he,GOD_FATHER,speech,0,GOD_SON
 Acts 17:31,Acts,17,31,day,SPECIFIC_TIME,speech,0,SPECIFIC_TIME
-Acts 17:31,Acts,17,31,he,GOD_SON,speech,0,GOD_SON
+Acts 17:31,Acts,17,31,he,GOD_FATHER,speech,0,GOD_SON
 Acts 17:31,Acts,17,31,world,GENERAL_PLACE_1,speech,0,GENERAL_PLACE_1
 Acts 17:31,Acts,17,31,man,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 17:31,Acts,17,31,whom,GOD_SON,speech,0,GOD_SON
-Acts 17:31,Acts,17,31,he,GOD_SON,speech,0,GOD_SON
-Acts 17:31,Acts,17,31,he,GOD_SON,speech,0,GOD_SON
+Acts 17:31,Acts,17,31,he,GOD_FATHER,speech,0,GOD_SON
+Acts 17:31,Acts,17,31,he,GOD_FATHER,speech,0,GOD_SON
 Acts 17:31,Acts,17,31,all,QUANTITY,speech,0,QUANTITY
 Acts 17:31,Acts,17,31,men,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
-Acts 17:31,Acts,17,31,he,GOD_SON,speech,0,GOD_SON
+Acts 17:31,Acts,17,31,he,GOD_FATHER,speech,0,GOD_SON
 Acts 17:31,Acts,17,31,him,GOD_SON,speech,0,GOD_SON
 Acts 17:31,Acts,17,31,dead,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 17:32,Acts,17,32,when,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -234622,7 +234622,7 @@ Acts 19:4,Acts,19,4,people,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 19:4,Acts,19,4,they,PRONOUN,speech,0,PRONOUN
 Acts 19:4,Acts,19,4,him,GOD_SON,speech,0,GOD_SON
 Acts 19:4,Acts,19,4,after,GENERAL_TIME,speech,0,GENERAL_TIME
-Acts 19:4,Acts,19,4,him,GOD_SON,speech,0,GOD_SON
+Acts 19:4,Acts,19,4,him,PRONOUN,speech,0,GOD_SON
 Acts 19:4,Acts,19,4,Christ,GOD_SON,speech,0,GOD_SON
 Acts 19:4,Acts,19,4,Jesus,GOD_SON,speech,0,GOD_SON
 Acts 19:5,Acts,19,5,When,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -235143,7 +235143,7 @@ Acts 20:32,Acts,20,32,brethren,GENERAL_PEOPLE,speech,0,GENERAL_PEOPLE
 Acts 20:32,Acts,20,32,I,PRONOUN,speech,0,PRONOUN
 Acts 20:32,Acts,20,32,you,PRONOUN,speech,0,PRONOUN
 Acts 20:32,Acts,20,32,God,GOD_FATHER,speech,0,GOD_FATHER
-Acts 20:32,Acts,20,32,his,GOD_SON,speech,0,GOD_SON
+Acts 20:32,Acts,20,32,his,GOD_FATHER,speech,0,GOD_SON
 Acts 20:32,Acts,20,32,you,PRONOUN,speech,0,PRONOUN
 Acts 20:32,Acts,20,32,you,PRONOUN,speech,0,PRONOUN
 Acts 20:32,Acts,20,32,all,QUANTITY,speech,0,QUANTITY
@@ -235660,7 +235660,7 @@ Acts 22:14,Acts,22,14,our,PRONOUN,speech2,0,PRONOUN
 Acts 22:14,Acts,22,14,fathers,GENERAL_PEOPLE,speech2,0,GENERAL_PEOPLE
 Acts 22:14,Acts,22,14,thee,PRONOUN,speech2,0,PRONOUN
 Acts 22:14,Acts,22,14,thou,PRONOUN,speech2,0,PRONOUN
-Acts 22:14,Acts,22,14,his,GOD_SON,speech2,0,GOD_SON
+Acts 22:14,Acts,22,14,his,GOD_FATHER,speech2,0,GOD_SON
 Acts 22:14,Acts,22,14,Just One,GOD_FATHER,speech2,0,GOD_FATHER
 Acts 22:14,Acts,22,14,his,GOD_SON,speech2,0,GOD_SON
 Acts 22:15,Acts,22,15,thou,PRONOUN,speech2,0,PRONOUN
@@ -236978,9 +236978,9 @@ Acts 27:23,Acts,27,23,this,GENERAL_TIME,speech,0,GENERAL_TIME
 Acts 27:23,Acts,27,23,night,SPECIFIC_TIME,speech,0,SPECIFIC_TIME
 Acts 27:23,Acts,27,23,angel,ANGELIC,speech,0,ANGELIC
 Acts 27:23,Acts,27,23,God,GOD_FATHER,speech,0,GOD_FATHER
-Acts 27:23,Acts,27,23,whose,GOD_SON,speech,0,GOD_SON
+Acts 27:23,Acts,27,23,whose,GOD_FATHER,speech,0,GOD_SON
 Acts 27:23,Acts,27,23,I,PRONOUN,speech,0,PRONOUN
-Acts 27:23,Acts,27,23,whom,GOD_SON,speech,0,GOD_SON
+Acts 27:23,Acts,27,23,whom,GOD_FATHER,speech,0,GOD_SON
 Acts 27:23,Acts,27,23,I,PRONOUN,speech,0,PRONOUN
 Acts 27:24,Acts,27,24,Paul,PROPER_PERSON,speech2,0,PROPER_PERSON
 Acts 27:24,Acts,27,24,thou,PRONOUN,speech2,0,PRONOUN
@@ -246606,7 +246606,7 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 1 Thessalonians 1:10,1 Thessalonians,1,10,his,GOD_FATHER,narration,0,GOD_FATHER
 1 Thessalonians 1:10,1 Thessalonians,1,10,Son,GOD_SON,narration,0,GOD_SON
 1 Thessalonians 1:10,1 Thessalonians,1,10,heaven,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
-1 Thessalonians 1:10,1 Thessalonians,1,10,whom,GOD_FATHER,narration,0,GOD_FATHER
+1 Thessalonians 1:10,1 Thessalonians,1,10,whom,GOD_SON,narration,0,GOD_FATHER
 1 Thessalonians 1:10,1 Thessalonians,1,10,he,GOD_FATHER,narration,0,GOD_FATHER
 1 Thessalonians 1:10,1 Thessalonians,1,10,dead,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 Thessalonians 1:10,1 Thessalonians,1,10,Jesus,GOD_SON,narration,0,GOD_SON
@@ -246751,7 +246751,7 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 1 Thessalonians 2:19,1 Thessalonians,2,19,Lord,GOD_FATHER,narration,0,GOD_FATHER
 1 Thessalonians 2:19,1 Thessalonians,2,19,Jesus,GOD_SON,narration,0,GOD_SON
 1 Thessalonians 2:19,1 Thessalonians,2,19,Christ,GOD_SON,narration,0,GOD_SON
-1 Thessalonians 2:19,1 Thessalonians,2,19,his,GOD_FATHER,narration,0,GOD_FATHER
+1 Thessalonians 2:19,1 Thessalonians,2,19,his,GOD_SON,narration,0,GOD_FATHER
 1 Thessalonians 2:20,1 Thessalonians,2,20,ye,PRONOUN,narration,0,PRONOUN
 1 Thessalonians 2:20,1 Thessalonians,2,20,our,PRONOUN,narration,0,PRONOUN
 1 Thessalonians 3:1,1 Thessalonians,3,1,when,GENERAL_TIME,narration,0,GENERAL_TIME
@@ -246862,7 +246862,7 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 1 Thessalonians 3:13,1 Thessalonians,3,13,Jesus,GOD_SON,narration,0,GOD_SON
 1 Thessalonians 3:13,1 Thessalonians,3,13,Christ,GOD_SON,narration,0,GOD_SON
 1 Thessalonians 3:13,1 Thessalonians,3,13,all,QUANTITY,narration,0,QUANTITY
-1 Thessalonians 3:13,1 Thessalonians,3,13,his,GOD_FATHER,narration,0,GOD_FATHER
+1 Thessalonians 3:13,1 Thessalonians,3,13,his,GOD_SON,narration,0,GOD_FATHER
 1 Thessalonians 3:13,1 Thessalonians,3,13,saints,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 Thessalonians 4:1,1 Thessalonians,4,1,we,PRONOUN,narration,0,PRONOUN
 1 Thessalonians 4:1,1 Thessalonians,4,1,you,PRONOUN,narration,0,PRONOUN
@@ -246950,7 +246950,7 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 1 Thessalonians 4:14,1 Thessalonians,4,14,them,PRONOUN,narration,0,PRONOUN
 1 Thessalonians 4:14,1 Thessalonians,4,14,Jesus,GOD_SON,narration,0,GOD_SON
 1 Thessalonians 4:14,1 Thessalonians,4,14,God,GOD_FATHER,narration,0,GOD_FATHER
-1 Thessalonians 4:14,1 Thessalonians,4,14,him,GOD_FATHER,narration,0,GOD_FATHER
+1 Thessalonians 4:14,1 Thessalonians,4,14,him,GOD_SON,narration,0,GOD_FATHER
 1 Thessalonians 4:15,1 Thessalonians,4,15,we,PRONOUN,narration,0,PRONOUN
 1 Thessalonians 4:15,1 Thessalonians,4,15,you,PRONOUN,narration,0,PRONOUN
 1 Thessalonians 4:15,1 Thessalonians,4,15,Lord,GOD_FATHER,narration,0,GOD_FATHER
@@ -246958,7 +246958,7 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 1 Thessalonians 4:15,1 Thessalonians,4,15,Lord,GOD_FATHER,narration,0,GOD_FATHER
 1 Thessalonians 4:15,1 Thessalonians,4,15,them,PRONOUN,narration,0,PRONOUN
 1 Thessalonians 4:16,1 Thessalonians,4,16,Lord,GOD_FATHER,narration,0,GOD_FATHER
-1 Thessalonians 4:16,1 Thessalonians,4,16,himself,GOD_FATHER,narration,0,GOD_FATHER
+1 Thessalonians 4:16,1 Thessalonians,4,16,himself,GOD_SON,narration,0,GOD_FATHER
 1 Thessalonians 4:16,1 Thessalonians,4,16,heaven,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
 1 Thessalonians 4:16,1 Thessalonians,4,16,archangel,ANGELIC,narration,0,ANGELIC
 1 Thessalonians 4:16,1 Thessalonians,4,16,God,GOD_FATHER,narration,0,GOD_FATHER
@@ -247019,11 +247019,11 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 1 Thessalonians 5:9,1 Thessalonians,5,9,Lord,GOD_FATHER,narration,0,GOD_FATHER
 1 Thessalonians 5:9,1 Thessalonians,5,9,Jesus,GOD_SON,narration,0,GOD_SON
 1 Thessalonians 5:9,1 Thessalonians,5,9,Christ,GOD_SON,narration,0,GOD_SON
-1 Thessalonians 5:10,1 Thessalonians,5,10,who,GOD_FATHER,narration,0,GOD_FATHER
+1 Thessalonians 5:10,1 Thessalonians,5,10,who,GOD_SON,narration,0,GOD_FATHER
 1 Thessalonians 5:10,1 Thessalonians,5,10,us,PRONOUN,narration,0,PRONOUN
 1 Thessalonians 5:10,1 Thessalonians,5,10,we,PRONOUN,narration,0,PRONOUN
 1 Thessalonians 5:10,1 Thessalonians,5,10,we,PRONOUN,narration,0,PRONOUN
-1 Thessalonians 5:10,1 Thessalonians,5,10,him,GOD_FATHER,narration,0,GOD_FATHER
+1 Thessalonians 5:10,1 Thessalonians,5,10,him,GOD_SON,narration,0,GOD_FATHER
 1 Thessalonians 5:11,1 Thessalonians,5,11,yourselves,PRONOUN,narration,0,PRONOUN
 1 Thessalonians 5:11,1 Thessalonians,5,11,ye,PRONOUN,narration,0,PRONOUN
 1 Thessalonians 5:12,1 Thessalonians,5,12,we,PRONOUN,narration,0,PRONOUN
@@ -247144,7 +247144,7 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 2 Thessalonians 1:7,2 Thessalonians,1,7,Lord,GOD_FATHER,narration,0,GOD_FATHER
 2 Thessalonians 1:7,2 Thessalonians,1,7,Jesus,GOD_SON,narration,0,GOD_SON
 2 Thessalonians 1:7,2 Thessalonians,1,7,heaven,GENERAL_PLACE_1,narration,0,GENERAL_PLACE_1
-2 Thessalonians 1:7,2 Thessalonians,1,7,his,GOD_FATHER,narration,0,GOD_FATHER
+2 Thessalonians 1:7,2 Thessalonians,1,7,his,GOD_SON,narration,0,GOD_FATHER
 2 Thessalonians 1:7,2 Thessalonians,1,7,angels,ANGELIC,narration,0,ANGELIC
 2 Thessalonians 1:8,2 Thessalonians,1,8,them,PRONOUN,narration,0,PRONOUN
 2 Thessalonians 1:8,2 Thessalonians,1,8,God,GOD_FATHER,narration,0,GOD_FATHER
@@ -247155,10 +247155,10 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 2 Thessalonians 1:9,2 Thessalonians,1,9,who,PRONOUN,narration,0,PRONOUN
 2 Thessalonians 1:9,2 Thessalonians,1,9,everlasting,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Thessalonians 1:9,2 Thessalonians,1,9,Lord,GOD_FATHER,narration,0,GOD_FATHER
-2 Thessalonians 1:9,2 Thessalonians,1,9,his,GOD_FATHER,narration,0,GOD_FATHER
+2 Thessalonians 1:9,2 Thessalonians,1,9,his,GOD_SON,narration,0,GOD_FATHER
 2 Thessalonians 1:10,2 Thessalonians,1,10,when,GENERAL_TIME,narration,0,GENERAL_TIME
-2 Thessalonians 1:10,2 Thessalonians,1,10,he,GOD_FATHER,narration,0,GOD_FATHER
-2 Thessalonians 1:10,2 Thessalonians,1,10,his,GOD_FATHER,narration,0,GOD_FATHER
+2 Thessalonians 1:10,2 Thessalonians,1,10,he,GOD_SON,narration,0,GOD_FATHER
+2 Thessalonians 1:10,2 Thessalonians,1,10,his,GOD_SON,narration,0,GOD_FATHER
 2 Thessalonians 1:10,2 Thessalonians,1,10,saints,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 2 Thessalonians 1:10,2 Thessalonians,1,10,all,QUANTITY,narration,0,QUANTITY
 2 Thessalonians 1:10,2 Thessalonians,1,10,them,PRONOUN,narration,0,PRONOUN
@@ -247179,7 +247179,7 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 2 Thessalonians 1:12,2 Thessalonians,1,12,Christ,GOD_SON,narration,0,GOD_SON
 2 Thessalonians 1:12,2 Thessalonians,1,12,you,PRONOUN,narration,0,PRONOUN
 2 Thessalonians 1:12,2 Thessalonians,1,12,ye,PRONOUN,narration,0,PRONOUN
-2 Thessalonians 1:12,2 Thessalonians,1,12,him,GOD_FATHER,narration,0,GOD_FATHER
+2 Thessalonians 1:12,2 Thessalonians,1,12,him,GOD_SON,narration,0,GOD_FATHER
 2 Thessalonians 1:12,2 Thessalonians,1,12,our,PRONOUN,narration,0,PRONOUN
 2 Thessalonians 1:12,2 Thessalonians,1,12,God,GOD_FATHER,narration,0,GOD_FATHER
 2 Thessalonians 1:12,2 Thessalonians,1,12,Lord,GOD_FATHER,narration,0,GOD_FATHER
@@ -247194,7 +247194,7 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 2 Thessalonians 2:1,2 Thessalonians,2,1,Jesus,GOD_SON,narration,0,GOD_SON
 2 Thessalonians 2:1,2 Thessalonians,2,1,Christ,GOD_SON,narration,0,GOD_SON
 2 Thessalonians 2:1,2 Thessalonians,2,1,our,PRONOUN,narration,0,PRONOUN
-2 Thessalonians 2:1,2 Thessalonians,2,1,him,GOD_FATHER,narration,0,GOD_FATHER
+2 Thessalonians 2:1,2 Thessalonians,2,1,him,GOD_SON,narration,0,GOD_FATHER
 2 Thessalonians 2:2,2 Thessalonians,2,2,ye,PRONOUN,narration,0,PRONOUN
 2 Thessalonians 2:2,2 Thessalonians,2,2,soon,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Thessalonians 2:2,2 Thessalonians,2,2,us,PRONOUN,narration,0,PRONOUN
@@ -247227,8 +247227,8 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 2 Thessalonians 2:5,2 Thessalonians,2,5,you,PRONOUN,narration,0,PRONOUN
 2 Thessalonians 2:6,2 Thessalonians,2,6,now,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Thessalonians 2:6,2 Thessalonians,2,6,ye,PRONOUN,narration,0,PRONOUN
-2 Thessalonians 2:6,2 Thessalonians,2,6,he,GOD_FATHER,narration,0,GOD_FATHER
-2 Thessalonians 2:6,2 Thessalonians,2,6,his,GOD_FATHER,narration,0,GOD_FATHER
+2 Thessalonians 2:6,2 Thessalonians,2,6,he,PRONOUN,narration,0,GOD_FATHER
+2 Thessalonians 2:6,2 Thessalonians,2,6,his,PRONOUN,narration,0,GOD_FATHER
 2 Thessalonians 2:6,2 Thessalonians,2,6,time,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
 2 Thessalonians 2:7,2 Thessalonians,2,7,already,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Thessalonians 2:7,2 Thessalonians,2,7,only,QUANTITY,narration,0,QUANTITY
@@ -247240,8 +247240,8 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 2 Thessalonians 2:8,2 Thessalonians,2,8,Wicked,DEMONIC,narration,0,DEMONIC
 2 Thessalonians 2:8,2 Thessalonians,2,8,whom,PRONOUN,narration,0,PRONOUN
 2 Thessalonians 2:8,2 Thessalonians,2,8,Lord,GOD_FATHER,narration,0,GOD_FATHER
-2 Thessalonians 2:8,2 Thessalonians,2,8,his,PRONOUN,narration,0,PRONOUN
-2 Thessalonians 2:8,2 Thessalonians,2,8,his,PRONOUN,narration,0,PRONOUN
+2 Thessalonians 2:8,2 Thessalonians,2,8,his,GOD_SON,narration,0,PRONOUN
+2 Thessalonians 2:8,2 Thessalonians,2,8,his,GOD_SON,narration,0,PRONOUN
 2 Thessalonians 2:9,2 Thessalonians,2,9,him,PRONOUN,narration,0,PRONOUN
 2 Thessalonians 2:9,2 Thessalonians,2,9,whose,PRONOUN,narration,0,PRONOUN
 2 Thessalonians 2:9,2 Thessalonians,2,9,Satan,DEMONIC,narration,0,DEMONIC
@@ -247281,7 +247281,7 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 2 Thessalonians 2:16,2 Thessalonians,2,16,Lord,GOD_FATHER,narration,0,GOD_FATHER
 2 Thessalonians 2:16,2 Thessalonians,2,16,Jesus,GOD_SON,narration,0,GOD_SON
 2 Thessalonians 2:16,2 Thessalonians,2,16,Christ,GOD_SON,narration,0,GOD_SON
-2 Thessalonians 2:16,2 Thessalonians,2,16,himself,GOD_FATHER,narration,0,GOD_FATHER
+2 Thessalonians 2:16,2 Thessalonians,2,16,himself,GOD_SON,narration,0,GOD_FATHER
 2 Thessalonians 2:16,2 Thessalonians,2,16,God,GOD_FATHER,narration,0,GOD_FATHER
 2 Thessalonians 2:16,2 Thessalonians,2,16,our,PRONOUN,narration,0,PRONOUN
 2 Thessalonians 2:16,2 Thessalonians,2,16,Father,GOD_FATHER,narration,0,GOD_FATHER
@@ -247460,9 +247460,9 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 1 Timothy 1:12,1 Timothy,1,12,Jesus,GOD_SON,narration,0,GOD_SON
 1 Timothy 1:12,1 Timothy,1,12,our,PRONOUN,narration,0,PRONOUN
 1 Timothy 1:12,1 Timothy,1,12,Lord,GOD_FATHER,narration,0,GOD_FATHER
-1 Timothy 1:12,1 Timothy,1,12,who,GOD_FATHER,narration,0,GOD_FATHER
+1 Timothy 1:12,1 Timothy,1,12,who,GOD_SON,narration,0,GOD_FATHER
 1 Timothy 1:12,1 Timothy,1,12,me,PRONOUN,narration,0,PRONOUN
-1 Timothy 1:12,1 Timothy,1,12,he,GOD_FATHER,narration,0,GOD_FATHER
+1 Timothy 1:12,1 Timothy,1,12,he,GOD_SON,narration,0,GOD_FATHER
 1 Timothy 1:12,1 Timothy,1,12,me,PRONOUN,narration,0,PRONOUN
 1 Timothy 1:12,1 Timothy,1,12,me,PRONOUN,narration,0,PRONOUN
 1 Timothy 1:13,1 Timothy,1,13,who,PRONOUN,narration,0,PRONOUN
@@ -247492,7 +247492,7 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 1 Timothy 1:16,1 Timothy,1,16,all,QUANTITY,narration,0,QUANTITY
 1 Timothy 1:16,1 Timothy,1,16,them,PRONOUN,narration,0,PRONOUN
 1 Timothy 1:16,1 Timothy,1,16,hereafter,GENERAL_TIME,narration,0,GENERAL_TIME
-1 Timothy 1:16,1 Timothy,1,16,him,GOD_FATHER,narration,0,GOD_FATHER
+1 Timothy 1:16,1 Timothy,1,16,him,GOD_SON,narration,0,GOD_FATHER
 1 Timothy 1:16,1 Timothy,1,16,everlasting,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Timothy 1:17,1 Timothy,1,17,Now,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Timothy 1:17,1 Timothy,1,17,King,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -247542,8 +247542,8 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 1 Timothy 2:5,1 Timothy,2,5,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 1 Timothy 2:5,1 Timothy,2,5,Christ,GOD_SON,narration,0,GOD_SON
 1 Timothy 2:5,1 Timothy,2,5,Jesus,GOD_SON,narration,0,GOD_SON
-1 Timothy 2:6,1 Timothy,2,6,who,GOD_FATHER,narration,0,GOD_FATHER
-1 Timothy 2:6,1 Timothy,2,6,himself,GOD_FATHER,narration,0,GOD_FATHER
+1 Timothy 2:6,1 Timothy,2,6,who,GOD_SON,narration,0,GOD_FATHER
+1 Timothy 2:6,1 Timothy,2,6,himself,GOD_SON,narration,0,GOD_FATHER
 1 Timothy 2:6,1 Timothy,2,6,all,QUANTITY,narration,0,QUANTITY
 1 Timothy 2:6,1 Timothy,2,6,due,GENERAL_TIME,narration,0,GENERAL_TIME
 1 Timothy 2:6,1 Timothy,2,6,time,SPECIFIC_TIME,narration,0,SPECIFIC_TIME
@@ -247891,7 +247891,7 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 1 Timothy 6:13,1 Timothy,6,13,before,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 1 Timothy 6:13,1 Timothy,6,13,Christ,GOD_SON,narration,0,GOD_SON
 1 Timothy 6:13,1 Timothy,6,13,Jesus,GOD_SON,narration,0,GOD_SON
-1 Timothy 6:13,1 Timothy,6,13,who,GOD_FATHER,narration,0,GOD_FATHER
+1 Timothy 6:13,1 Timothy,6,13,who,GOD_SON,narration,0,GOD_FATHER
 1 Timothy 6:13,1 Timothy,6,13,before,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
 1 Timothy 6:13,1 Timothy,6,13,Pontius,PROPER_PERSON,narration,0,PROPER_PERSON
 1 Timothy 6:13,1 Timothy,6,13,Pilate,PROPER_PERSON,narration,0,PROPER_PERSON
@@ -247990,7 +247990,7 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 2 Timothy 1:8,2 Timothy,1,8,our,PRONOUN,narration,0,PRONOUN
 2 Timothy 1:8,2 Timothy,1,8,Lord,GOD_FATHER,narration,0,GOD_FATHER
 2 Timothy 1:8,2 Timothy,1,8,me,PRONOUN,narration,0,PRONOUN
-2 Timothy 1:8,2 Timothy,1,8,his,GOD_FATHER,narration,0,GOD_FATHER
+2 Timothy 1:8,2 Timothy,1,8,his,GOD_SON,narration,0,GOD_FATHER
 2 Timothy 1:8,2 Timothy,1,8,prisoner,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 2 Timothy 1:8,2 Timothy,1,8,thou,PRONOUN,narration,0,PRONOUN
 2 Timothy 1:8,2 Timothy,1,8,partaker,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -248011,7 +248011,7 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 2 Timothy 1:10,2 Timothy,1,10,Saviour,GOD_FATHER,narration,0,GOD_FATHER
 2 Timothy 1:10,2 Timothy,1,10,Jesus,GOD_SON,narration,0,GOD_SON
 2 Timothy 1:10,2 Timothy,1,10,Christ,GOD_SON,narration,0,GOD_SON
-2 Timothy 1:10,2 Timothy,1,10,who,GOD_FATHER,narration,0,GOD_FATHER
+2 Timothy 1:10,2 Timothy,1,10,who,GOD_SON,narration,0,GOD_FATHER
 2 Timothy 1:11,2 Timothy,1,11,I,PRONOUN,narration,0,PRONOUN
 2 Timothy 1:11,2 Timothy,1,11,preacher,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 2 Timothy 1:11,2 Timothy,1,11,apostle,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -248117,20 +248117,20 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 2 Timothy 2:10,2 Timothy,2,10,Christ,GOD_SON,narration,0,GOD_SON
 2 Timothy 2:10,2 Timothy,2,10,Jesus,GOD_SON,narration,0,GOD_SON
 2 Timothy 2:11,2 Timothy,2,11,we,PRONOUN,narration,0,PRONOUN
-2 Timothy 2:11,2 Timothy,2,11,him,GOD_FATHER,narration,0,GOD_FATHER
+2 Timothy 2:11,2 Timothy,2,11,him,GOD_SON,narration,0,GOD_FATHER
 2 Timothy 2:11,2 Timothy,2,11,we,PRONOUN,narration,0,PRONOUN
-2 Timothy 2:11,2 Timothy,2,11,him,GOD_FATHER,narration,0,GOD_FATHER
+2 Timothy 2:11,2 Timothy,2,11,him,GOD_SON,narration,0,GOD_FATHER
 2 Timothy 2:12,2 Timothy,2,12,we,PRONOUN,narration,0,PRONOUN
 2 Timothy 2:12,2 Timothy,2,12,we,PRONOUN,narration,0,PRONOUN
-2 Timothy 2:12,2 Timothy,2,12,him,GOD_FATHER,narration,0,GOD_FATHER
+2 Timothy 2:12,2 Timothy,2,12,him,GOD_SON,narration,0,GOD_FATHER
 2 Timothy 2:12,2 Timothy,2,12,we,PRONOUN,narration,0,PRONOUN
-2 Timothy 2:12,2 Timothy,2,12,him,GOD_FATHER,narration,0,GOD_FATHER
-2 Timothy 2:12,2 Timothy,2,12,he,GOD_FATHER,narration,0,GOD_FATHER
+2 Timothy 2:12,2 Timothy,2,12,him,GOD_SON,narration,0,GOD_FATHER
+2 Timothy 2:12,2 Timothy,2,12,he,GOD_SON,narration,0,GOD_FATHER
 2 Timothy 2:12,2 Timothy,2,12,us,PRONOUN,narration,0,PRONOUN
 2 Timothy 2:13,2 Timothy,2,13,we,PRONOUN,narration,0,PRONOUN
-2 Timothy 2:13,2 Timothy,2,13,he,GOD_FATHER,narration,0,GOD_FATHER
-2 Timothy 2:13,2 Timothy,2,13,he,GOD_FATHER,narration,0,GOD_FATHER
-2 Timothy 2:13,2 Timothy,2,13,himself,GOD_FATHER,narration,0,GOD_FATHER
+2 Timothy 2:13,2 Timothy,2,13,he,GOD_SON,narration,0,GOD_FATHER
+2 Timothy 2:13,2 Timothy,2,13,he,GOD_SON,narration,0,GOD_FATHER
+2 Timothy 2:13,2 Timothy,2,13,himself,GOD_SON,narration,0,GOD_FATHER
 2 Timothy 2:14,2 Timothy,2,14,them,PRONOUN,narration,0,PRONOUN
 2 Timothy 2:14,2 Timothy,2,14,them,PRONOUN,narration,0,PRONOUN
 2 Timothy 2:14,2 Timothy,2,14,before,GENERAL_PLACE_2,narration,0,GENERAL_PLACE_2
@@ -248254,11 +248254,11 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 2 Timothy 4:1,2 Timothy,4,1,Lord,GOD_FATHER,narration,0,GOD_FATHER
 2 Timothy 4:1,2 Timothy,4,1,Jesus,GOD_SON,narration,0,GOD_SON
 2 Timothy 4:1,2 Timothy,4,1,Christ,GOD_SON,narration,0,GOD_SON
-2 Timothy 4:1,2 Timothy,4,1,who,GOD_FATHER,narration,0,GOD_FATHER
+2 Timothy 4:1,2 Timothy,4,1,who,GOD_SON,narration,0,GOD_FATHER
 2 Timothy 4:1,2 Timothy,4,1,quick,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 2 Timothy 4:1,2 Timothy,4,1,dead,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
-2 Timothy 4:1,2 Timothy,4,1,his,GOD_FATHER,narration,0,GOD_FATHER
-2 Timothy 4:1,2 Timothy,4,1,his,GOD_FATHER,narration,0,GOD_FATHER
+2 Timothy 4:1,2 Timothy,4,1,his,GOD_SON,narration,0,GOD_FATHER
+2 Timothy 4:1,2 Timothy,4,1,his,GOD_SON,narration,0,GOD_FATHER
 2 Timothy 4:2,2 Timothy,4,2,season,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Timothy 4:2,2 Timothy,4,2,season,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Timothy 4:2,2 Timothy,4,2,all,QUANTITY,narration,0,QUANTITY
@@ -248293,7 +248293,7 @@ Colossians 4:18,Colossians,4,18,you,PRONOUN,emphasis,0,PRONOUN
 2 Timothy 4:8,2 Timothy,4,8,only,QUANTITY,narration,0,QUANTITY
 2 Timothy 4:8,2 Timothy,4,8,all,QUANTITY,narration,0,QUANTITY
 2 Timothy 4:8,2 Timothy,4,8,them,PRONOUN,narration,0,PRONOUN
-2 Timothy 4:8,2 Timothy,4,8,his,GOD_FATHER,narration,0,GOD_FATHER
+2 Timothy 4:8,2 Timothy,4,8,his,GOD_SON,narration,0,GOD_FATHER
 2 Timothy 4:9,2 Timothy,4,9,thy,PRONOUN,narration,0,PRONOUN
 2 Timothy 4:9,2 Timothy,4,9,shortly,GENERAL_TIME,narration,0,GENERAL_TIME
 2 Timothy 4:9,2 Timothy,4,9,me,PRONOUN,narration,0,PRONOUN
@@ -248466,7 +248466,7 @@ Titus 1:16,Titus,1,16,They,PRONOUN,narration,0,PRONOUN
 Titus 1:16,Titus,1,16,they,PRONOUN,narration,0,PRONOUN
 Titus 1:16,Titus,1,16,God,GOD_FATHER,narration,0,GOD_FATHER
 Titus 1:16,Titus,1,16,they,PRONOUN,narration,0,PRONOUN
-Titus 1:16,Titus,1,16,him,PRONOUN,narration,0,PRONOUN
+Titus 1:16,Titus,1,16,him,GOD_FATHER,narration,0,PRONOUN
 Titus 1:16,Titus,1,16,every,QUANTITY,narration,0,QUANTITY
 Titus 2:1,Titus,2,1,thou,PRONOUN,narration,0,PRONOUN
 Titus 2:2,Titus,2,2,aged,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
@@ -248519,12 +248519,12 @@ Titus 2:13,Titus,2,13,Saviour,GOD_FATHER,narration,0,GOD_FATHER
 Titus 2:13,Titus,2,13,Jesus,GOD_SON,narration,0,GOD_SON
 Titus 2:13,Titus,2,13,Christ,GOD_SON,narration,0,GOD_SON
 Titus 2:14,Titus,2,14,who,GOD_SON,narration,0,GOD_SON
-Titus 2:14,Titus,2,14,himself,GOD_FATHER,narration,0,GOD_FATHER
+Titus 2:14,Titus,2,14,himself,GOD_SON,narration,0,GOD_FATHER
 Titus 2:14,Titus,2,14,us,PRONOUN,narration,0,PRONOUN
-Titus 2:14,Titus,2,14,he,GOD_FATHER,narration,0,GOD_FATHER
+Titus 2:14,Titus,2,14,he,GOD_SON,narration,0,GOD_FATHER
 Titus 2:14,Titus,2,14,us,PRONOUN,narration,0,PRONOUN
 Titus 2:14,Titus,2,14,all,QUANTITY,narration,0,QUANTITY
-Titus 2:14,Titus,2,14,himself,GOD_FATHER,narration,0,GOD_FATHER
+Titus 2:14,Titus,2,14,himself,GOD_SON,narration,0,GOD_FATHER
 Titus 2:14,Titus,2,14,people,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE
 Titus 2:15,Titus,2,15,all,QUANTITY,narration,0,QUANTITY
 Titus 2:15,Titus,2,15,man,GENERAL_PEOPLE,narration,0,GENERAL_PEOPLE

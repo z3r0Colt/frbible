@@ -27067,7 +27067,7 @@ Acts 1:3	to [whom|PR] also [he|GS] shewed [himself|GS] alive [after|T2] [his|GS]
 Acts 1:4	and, being assembled together with [them|PR], commanded [them|PR] that [they|PR] should not depart from [Jerusalem|PP], «but wait for the promise of the [Father|GF], which, »saith [he|GS], «[ye|PR] have heard of [me|GS]. »
 Acts 1:5	«For [John|PN] truly baptized with water; but [ye|PR] shall be baptized with the [Holy Ghost|HS] not [many|QU] [days|T1] hence. »
 Acts 1:6	[When|T2] [they|PR] therefore were come together, [they|PR] asked of [him|GS], saying, [Lord|GS], wilt [thou|GS] at this [time|T1] restore [again|T2] the kingdom to [Israel|PP]?
-Acts 1:7	And [he|GS] said unto [them|PR], «It is not for [you|PR] to know the [times|T2] or the [seasons|T2], which the [Father|GF] hath put in [his|GS] own power. »
+Acts 1:7	And [he|GS] said unto [them|PR], «It is not for [you|PR] to know the [times|T2] or the [seasons|T2], which the [Father|GF] hath put in [his|GF] own power. »
 Acts 1:8	«But [ye|PR] shall receive power, [after|T2] that the [Holy Ghost|HS] is come upon [you|PR]: and [ye|PR] shall be [witnesses|GP] unto [me|GS] [both|QU] in [Jerusalem|PP], and in [all|QU] [Judæa|PP], and in [Samaria|PP], and unto the [uttermost|L1] part of the [earth|L1]. »
 Acts 1:9	And [when|T2] [he|GS] had spoken these things, [while|T2] [they|PR] beheld, [he|GS] was taken [up|L2]; and a [cloud|L1] received [him|GS] out of [their|PR] sight.
 Acts 1:10	And [while|T2] [they|PR] looked stedfastly [toward|L2] [heaven|L1] as [he|GS] went [up|L2], behold, [two|NU] [men|GP] stood by [them|PR] in white apparel;
@@ -27111,17 +27111,17 @@ Acts 2:21	and it shall [come to pass|T2], that [whosoever|PR] shall call on the 
 Acts 2:22	[Ye|PR] [men|GP] of [Israel|PP], hear these words; [Jesus|GS] of [Nazareth|PP], a [man|GP] approved of [God|GF] among [you|PR] by miracles and wonders and signs, which [God|GF] did by [him|GS] in the [midst|L2] of [you|PR], as [ye|PR] [yourselves|PR] also know:
 Acts 2:23	[him|GS], being delivered by the determinate counsel and foreknowledge of [God|GF], [ye|PR] have taken, and by wicked hands have crucified and slain:
 Acts 2:24	[whom|GS] [God|GF] hath raised up, having loosed the pains of death: because it was not possible that [he|GS] should be holden of it.
-Acts 2:25	For [David|PN] speaketh concerning [him|GS], [I|PR] foresaw the [Lord|GF] [always|T2] [before|L2] [my|PR] face, for [he|GS] is on [my|PR] [right|L1] hand, that [I|PR] should not be moved:
-Acts 2:26	therefore did [my|PR] heart rejoice, and [my|PR] tongue was glad; moreover also [my|PR] flesh shall rest in hope:
-Acts 2:27	because [thou|GS] wilt not leave [my|PR] soul in [hell|L1], neither wilt [thou|GS] suffer [thine|GS] [Holy One|GF] to see corruption.
-Acts 2:28	[Thou|GS] hast made known to [me|PR] the [ways|L1] of life; [thou|GS] shalt make [me|PR] full of joy with [thy|GS] countenance.
+Acts 2:25	For [David|PN] speaketh concerning [him|GS], [I|GS] foresaw the [Lord|GF] [always|T2] [before|L2] [my|GS] face, for [he|GF] is on [my|GS] [right|L1] hand, that [I|GS] should not be moved:
+Acts 2:26	therefore did [my|GS] heart rejoice, and [my|GS] tongue was glad; moreover also [my|GS] flesh shall rest in hope:
+Acts 2:27	because [thou|GF] wilt not leave [my|GS] soul in [hell|L1], neither wilt [thou|GF] suffer [thine|GF] [Holy One|GF] to see corruption.
+Acts 2:28	[Thou|GF] hast made known to [me|GS] the [ways|L1] of life; [thou|GF] shalt make [me|GS] full of joy with [thy|GF] countenance.
 Acts 2:29	[Men|GP] and [brethren|GP], let [me|PR] freely speak unto [you|PR] of the [patriarch|GP] [David|PN], that [he|PR] is [both|QU] dead and buried, and [his|PR] [sepulchre|L1] is with [us|PR] unto [this|T2] [day|T1].
 Acts 2:30	Therefore being a [prophet|GP], and knowing that [God|GF] had sworn with an oath to [him|PR], that of the fruit of [his|PR] loins, according to the flesh, [he|GF] would raise up [Christ|GS] to sit on [his|PR] [throne|L1];
 Acts 2:31	[he|PR] seeing this [before|T2] spake of the resurrection of [Christ|GS], that [his|GS] soul was not left in [hell|L1], neither [his|GS] flesh did see corruption.
 Acts 2:32	This [Jesus|GS] hath [God|GF] raised up, whereof [we|PR] [all|QU] are [witnesses|GP].
 Acts 2:33	Therefore being by the [right|L1] hand of [God|GF] exalted, and having received of the [Father|GF] the promise of the [Holy Ghost|HS], [he|GS] hath shed forth this, which [ye|PR] [now|T2] see and hear.
-Acts 2:34	For [David|PN] is not ascended into the [heavens|L1]: but [he|PR] saith [himself|PR], The [LORD|GF] said unto [my|PR] [Lord|GF], Sit [thou|GS] on [my|PR] [right|L1] hand,
-Acts 2:35	[until|T2] [I|PR] make [thy|GS] [foes|GP] [thy|GS] footstool.
+Acts 2:34	For [David|PN] is not ascended into the [heavens|L1]: but [he|PR] saith [himself|PR], The [LORD|GF] said unto [my|PR] [Lord|GF], Sit [thou|GS] on [my|GF] [right|L1] hand,
+Acts 2:35	[until|T2] [I|GF] make [thy|GS] [foes|GP] [thy|GS] footstool.
 Acts 2:36	Therefore let [all|QU] the [house|L1] of [Israel|PP] know assuredly, that [God|GF] hath made that same [Jesus|GS], [whom|GS] [ye|PR] have crucified, [both|QU] [Lord|GF] and [Christ|GS].
 Acts 2:37	[Now|T2] [when|T2] [they|PR] heard this, [they|PR] were pricked in [their|PR] heart, and said unto [Peter|PN] and to the rest of the [apostles|GP], [Men|GP] and [brethren|GP], what shall [we|PR] do?
 Acts 2:38	[Then|T2] [Peter|PN] said unto [them|PR], Repent, and be baptized [every|QU] one of [you|PR] in the name of [Jesus|GS] [Christ|GS] for the remission of sins, and [ye|PR] shall receive the gift of the [Holy Ghost|HS].
@@ -27151,10 +27151,10 @@ Acts 3:14	But [ye|PR] denied the [Holy One|GF] and the [Just|GS], and desired a 
 Acts 3:15	and killed the [Prince of life|GS], [whom|GS] [God|GF] hath raised from the [dead|GP]; whereof [we|PR] are [witnesses|GP].
 Acts 3:16	And [his|GS] name through faith in [his|GS] name hath made this [man|GP] strong, [whom|PR] [ye|PR] see and know: yea, the faith which is by [him|GS] hath given [him|PR] this perfect soundness in the presence of [you|PR] [all|QU].
 Acts 3:17	And [now|T2], [brethren|GP], [I|PR] wot that through ignorance [ye|PR] did it, as did also [your|PR] [rulers|GP].
-Acts 3:18	But those things, which [God|GF] [before|T2] had shewed by the mouth of [all|QU] [his|GS] [prophets|GP], that [Christ|GS] should suffer, [he|GS] hath [so|T2] fulfilled.
+Acts 3:18	But those things, which [God|GF] [before|T2] had shewed by the mouth of [all|QU] [his|GF] [prophets|GP], that [Christ|GS] should suffer, [he|GF] hath [so|T2] fulfilled.
 Acts 3:19	Repent [ye|PR] therefore, and be converted, that [your|PR] sins may be blotted out, [when|T2] the [times|T2] of refreshing shall come from the presence of the [Lord|GF];
-Acts 3:20	and [he|GS] shall send [Jesus|GS] [Christ|GS], which [before|T2] was preached unto [you|PR]:
-Acts 3:21	[whom|GS] the [heaven|L1] must receive [until|T2] the [times|T2] of restitution of [all|QU] things, which [God|GF] hath spoken by the mouth of [all|QU] [his|GS] holy [prophets|GP] [since|T2] the [world|L1] [began|T2].
+Acts 3:20	and [he|GF] shall send [Jesus|GS] [Christ|GS], which [before|T2] was preached unto [you|PR]:
+Acts 3:21	[whom|GS] the [heaven|L1] must receive [until|T2] the [times|T2] of restitution of [all|QU] things, which [God|GF] hath spoken by the mouth of [all|QU] [his|GF] holy [prophets|GP] [since|T2] the [world|L1] [began|T2].
 Acts 3:22	For [Moses|PN] truly said unto the [fathers|GP], A [prophet|GS] shall the [Lord|GF] [your|PR] [God|GF] raise up unto [you|PR] of [your|PR] [brethren|GP], like unto [me|PR]; [him|GS] shall [ye|PR] hear in [all|QU] things whatsoever [he|GS] shall say unto [you|PR].
 Acts 3:23	And it [shall come to pass|T2], that [every|QU] soul, which will not hear that [prophet|GS], shall be destroyed from among the [people|GP].
 Acts 3:24	Yea, and [all|QU] the [prophets|GP] from [Samuel|PN] and those that follow [after|T2], as [many|QU] as have spoken, have likewise foretold of these [days|T1].
@@ -27183,13 +27183,13 @@ Acts 4:20	For [we|PR] cannot but speak the things which [we|PR] have seen and he
 Acts 4:21	So [when|T2] [they|PR] had further threatened [them|PR], [they|PR] let [them|PR] go, finding nothing how [they|PR] might punish [them|PR], because of the [people|GP]: for [all|QU] [men|GP] glorified [God|GF] for that which was done.
 Acts 4:22	For the [man|GP] was [above|QU] [40|NU] [years|T1] [old|T2], on [whom|PR] this miracle of healing was shewed.
 Acts 4:23	And being let go, [they|PR] went to [their|PR] own [company|GP], and reported [all|QU] that the [chief priests|GP] and [elders|GP] had said unto [them|PR].
-Acts 4:24	And [when|T2] [they|PR] heard that, [they|PR] lifted up [their|PR] voice to [God|GF] with [one|QU] accord, and said, [Lord|GF], [thou|GS] art [God|GF], which hast made [heaven|L1], and [earth|L1], and the [sea|L1], and [all|QU] that in [them|PR] is:
-Acts 4:25	[who|GS] by the mouth of [thy|GS] [servant|GP] [David|PN] hast said, Why did the [heathen|GP] rage, and the [people|GP] imagine vain things?
-Acts 4:26	The [kings|GP] of the [earth|L1] stood up, and the [rulers|GP] were gathered together against the [Lord|GF], and against [his|GS] [Christ|GS].
-Acts 4:27	For of a truth against [thy|GS] [holy child|GS] [Jesus|GS], [whom|GS] [thou|GS] hast anointed, [both|QU] [Herod|PN], and [Pontius|PN] [Pilate|PN], with the [Gentiles|PG], and the [people|GP] of [Israel|PP], were gathered together,
-Acts 4:28	for to do whatsoever [thy|GS] hand and [thy|GS] counsel determined [before|T2] to be done.
-Acts 4:29	And [now|T2], [Lord|GF], behold [their|PR] threatenings: and grant unto [thy|GS] [servants|GP], that with [all|QU] boldness [they|PR] may speak [thy|GS] word,
-Acts 4:30	by stretching forth [thine|GS] hand to heal; and that signs and wonders may be done by the name of [thy|GS] [holy child|GS] [Jesus|GS].
+Acts 4:24	And [when|T2] [they|PR] heard that, [they|PR] lifted up [their|PR] voice to [God|GF] with [one|QU] accord, and said, [Lord|GF], [thou|GF] art [God|GF], which hast made [heaven|L1], and [earth|L1], and the [sea|L1], and [all|QU] that in [them|PR] is:
+Acts 4:25	[who|GF] by the mouth of [thy|GF] [servant|GP] [David|PN] hast said, Why did the [heathen|GP] rage, and the [people|GP] imagine vain things?
+Acts 4:26	The [kings|GP] of the [earth|L1] stood up, and the [rulers|GP] were gathered together against the [Lord|GF], and against [his|GF] [Christ|GS].
+Acts 4:27	For of a truth against [thy|GF] [holy child|GS] [Jesus|GS], [whom|GS] [thou|GF] hast anointed, [both|QU] [Herod|PN], and [Pontius|PN] [Pilate|PN], with the [Gentiles|PG], and the [people|GP] of [Israel|PP], were gathered together,
+Acts 4:28	for to do whatsoever [thy|GF] hand and [thy|GF] counsel determined [before|T2] to be done.
+Acts 4:29	And [now|T2], [Lord|GF], behold [their|PR] threatenings: and grant unto [thy|GF] [servants|GP], that with [all|QU] boldness [they|PR] may speak [thy|GF] word,
+Acts 4:30	by stretching forth [thine|GF] hand to heal; and that signs and wonders may be done by the name of [thy|GF] [holy child|GS] [Jesus|GS].
 Acts 4:31	And [when|T2] [they|PR] had prayed, the [place|L1] was shaken [where|L2] [they|PR] were assembled together; and [they|PR] were [all|QU] filled with the [Holy Ghost|HS], and [they|PR] spake the word of [God|GF] with boldness.
 Acts 4:32	And the [multitude|QU] of [them|PR] that believed were of [one|QU] heart and of [one|QU] [soul|GP]: neither said any of [them|PR] that ought of the things which [he|PR] possessed was [his|PR] own; but [they|PR] had [all|QU] things common.
 Acts 4:33	And with great power gave the [apostles|GP] witness of the resurrection of the [Lord|GF] [Jesus|GS]: and great grace was upon [them|PR] [all|QU].
@@ -27227,8 +27227,8 @@ Acts 5:27	And [when|T2] [they|PR] had brought [them|PR], [they|PR] set [them|PR]
 Acts 5:28	saying, Did not [we|PR] straitly command [you|PR] that [ye|PR] should not teach in this name? and, behold, [ye|PR] have filled [Jerusalem|PP] with [your|PR] doctrine, and intend to bring this [man’s|GP] blood upon [us|PR].
 Acts 5:29	[Then|T2] [Peter|PN] and the other [apostles|GP] answered and said, [We|PR] ought to obey [God|GF] rather than [men|GP].
 Acts 5:30	The [God|GF] of [our|PR] [fathers|GP] raised up [Jesus|GS], [whom|GS] [ye|PR] slew and hanged on a [tree|PL].
-Acts 5:31	[Him|GS] hath [God|GF] exalted with [his|GS] [right|L1] hand to be a [Prince|GS] and a [Saviour|GF], for to give repentance to [Israel|PP], and forgiveness of sins.
-Acts 5:32	And [we|PR] are [his|GS] [witnesses|GP] of these things; and [so|T2] is also the [Holy Ghost|HS], [whom|GS] [God|GF] hath given to [them|PR] that obey [him|GS].
+Acts 5:31	[Him|GS] hath [God|GF] exalted with [his|GF] [right|L1] hand to be a [Prince|GS] and a [Saviour|GF], for to give repentance to [Israel|PP], and forgiveness of sins.
+Acts 5:32	And [we|PR] are [his|GS] [witnesses|GP] of these things; and [so|T2] is also the [Holy Ghost|HS], [whom|HS] [God|GF] hath given to [them|PR] that obey [him|GF].
 Acts 5:33	[When|T2] [they|PR] heard that, [they|PR] were cut to the heart, and took counsel to slay [them|PR].
 Acts 5:34	[Then|T2] stood there up one in the [council|GP], a [Pharisee|PG], named [Gamaliel|PN], a [doctor|GP] of the law, had in reputation among [all|QU] the [people|GP], and commanded to put the [apostles|GP] [forth|L2] a [little|QU] [space|L2];
 Acts 5:35	and said unto [them|PR], [Ye|PR] [men|GP] of [Israel|PP], take heed to [yourselves|PR] what [ye|PR] intend to do as touching these [men|GP].
@@ -27257,11 +27257,11 @@ Acts 6:15	And [all|QU] that sat in the [council|GP], looking stedfastly on [him|
 Acts 7:1	[Then|T2] said the [high priest|GP], Are these things [so|T2]?
 Acts 7:2	And [he|PR] said, [Men|GP], [brethren|GP], and [fathers|GP], hearken; The [God|GF] [of glory|GF] appeared unto [our|PR] [father|GP] [Abraham|PN], [when|T2] [he|PR] was in [Mesopotamia|PP], [before|T2] [he|PR] dwelt in [Charran|PP],
 Acts 7:3	and said unto [him|PR], Get [thee|PR] out of [thy|PR] [country|L1], and from [thy|PR] [kindred|GP], and come into the [land|L1] which [I|GF] shall shew [thee|PR].
-Acts 7:4	[Then|T2] came [he|PR] out of the [land|L1] of the [Chaldæans|PG], and dwelt in [Charran|PP]: and from [thence|L1], [when|T2] [his|PR] [father|GP] was dead, [he|PR] removed [him|PR] into this [land|L1], [wherein|L2] [ye|PR] [now|T2] dwell.
-Acts 7:5	And [he|GS] gave [him|PR] [none|QU] inheritance in it, no, not [so|T2] [much|QU] as to set [his|PR] foot on: yet [he|GS] promised that [he|GS] would give it to [him|PR] for a possession, and to [his|PR] [seed|GP] [after|T2] [him|PR], [when|T2] as yet [he|PR] had no [child|GP].
+Acts 7:4	[Then|T2] came [he|PR] out of the [land|L1] of the [Chaldæans|PG], and dwelt in [Charran|PP]: and from [thence|L1], [when|T2] [his|PR] [father|GP] was dead, [he|GF] removed [him|PR] into this [land|L1], [wherein|L2] [ye|PR] [now|T2] dwell.
+Acts 7:5	And [he|GF] gave [him|PR] [none|QU] inheritance in it, no, not [so|T2] [much|QU] as to set [his|PR] foot on: yet [he|GF] promised that [he|GF] would give it to [him|PR] for a possession, and to [his|PR] [seed|GP] [after|T2] [him|PR], [when|T2] as yet [he|PR] had no [child|GP].
 Acts 7:6	And [God|GF] spake on this wise, That [his|PR] [seed|GP] should sojourn in a strange [land|L1]; and that [they|PR] should bring [them|PR] into bondage, and entreat [them|PR] evil [400|NU] [years|T1].
-Acts 7:7	And the [nation|GP] to [whom|PR] [they|PR] shall be in bondage will [I|GF] judge, said [God|GF]: and [after|T2] that shall [they|PR] come [forth|L2], and serve [me|PR] in this [place|L1].
-Acts 7:8	And [he|GS] gave [him|PR] the covenant of circumcision: and [so|T2] [Abraham|PN] begat [Isaac|PN], and circumcised [him|PR] the [8th|NU] [day|T1]; and [Isaac|PN] begat [Jacob|PN]; and [Jacob|PN] begat the [12|NU] [patriarchs|GP].
+Acts 7:7	And the [nation|GP] to [whom|PR] [they|PR] shall be in bondage will [I|GF] judge, said [God|GF]: and [after|T2] that shall [they|PR] come [forth|L2], and serve [me|GF] in this [place|L1].
+Acts 7:8	And [he|GF] gave [him|PR] the covenant of circumcision: and [so|T2] [Abraham|PN] begat [Isaac|PN], and circumcised [him|PR] the [8th|NU] [day|T1]; and [Isaac|PN] begat [Jacob|PN]; and [Jacob|PN] begat the [12|NU] [patriarchs|GP].
 Acts 7:9	And the [patriarchs|GP], moved with envy, sold [Joseph|PN] into [Egypt|PP]: but [God|GF] was with [him|PR],
 Acts 7:10	and delivered [him|PR] out of [all|QU] [his|PR] afflictions, and gave [him|PR] favour and wisdom in the sight of [Pharaoh|PN] [king|GP] of [Egypt|PP]; and [he|PR] made [him|PR] [governor|GP] over [Egypt|PP] and [all|QU] [his|PR] [house|GP].
 Acts 7:11	[Now|T2] there came a dearth [over|L2] [all|QU] the [land|L1] of [Egypt|PP] and [Chanaan|PP], and great affliction: and [our|PR] [fathers|GP] found no sustenance.
@@ -27297,10 +27297,10 @@ Acts 7:40	saying unto [Aaron|PN], Make [us|PR] [gods|DE] to go [before|L2] [us|P
 Acts 7:41	And [they|PR] made a [calf|BE] [in|T2] [those|T2] [days|T1], and offered sacrifice unto the [idol|DE], and rejoiced in the works of [their|PR] own hands.
 Acts 7:42	[Then|T2] [God|GF] turned, and gave [them|PR] up to worship the host of [heaven|L1]; as it is written in the book of the [prophets|GP], O [ye|PR] [house|GP] of [Israel|PP], have [ye|PR] offered to [me|GF] slain [beasts|BE] and sacrifices by the [space|T2] of [40|NU] [years|T1] in the [wilderness|L1]?
 Acts 7:43	Yea, [ye|PR] took up the [tabernacle|L1] of [Moloch|DE], and the [star|L1] of [your|PR] [god|DE] [Remphan|DE], figures which [ye|PR] made to worship [them|PR]: and [I|GF] will carry [you|PR] away [beyond|L2] [Babylon|PP].
-Acts 7:44	[Our|PR] [fathers|GP] had the [tabernacle|L1] of witness in the [wilderness|L1], as [he|PR] had appointed, speaking unto [Moses|PN], that [he|PR] should make it according to the fashion that [he|PR] had seen.
+Acts 7:44	[Our|PR] [fathers|GP] had the [tabernacle|L1] of witness in the [wilderness|L1], as [he|GF] had appointed, speaking unto [Moses|PN], that [he|PR] should make it according to the fashion that [he|PR] had seen.
 Acts 7:45	Which also [our|PR] [fathers|GP] that came [after|T2] brought in with [Jesus|PN] into the possession of the [Gentiles|PG], [whom|PR] [God|GF] drave out [before|L2] the face of [our|PR] [fathers|GP], unto the [days|T1] of [David|PN];
 Acts 7:46	[who|PR] found favour [before|L2] [God|GF], and desired to find a [tabernacle|L1] for the [God|GF] of [Jacob|PN].
-Acts 7:47	But [Solomon|PN] built [him|GS] an [house|L1].
+Acts 7:47	But [Solomon|PN] built [him|GF] an [house|L1].
 Acts 7:48	Howbeit the [most high|GF] dwelleth not in [temples|L1] made with hands; as saith the [prophet|GP],
 Acts 7:49	[Heaven|L1] is [my|GF] [throne|L1], and [earth|L1] is [my|GF] footstool: what [house|L1] will [ye|PR] build [me|GF]? saith the [LORD|GF]: or what is the [place|L1] of [my|GF] rest?
 Acts 7:50	Hath not [my|GF] hand made [all|QU] these things?
@@ -27329,7 +27329,7 @@ Acts 8:12	But [when|T2] [they|PR] believed [Philip|PN] preaching the things conc
 Acts 8:13	[Then|T2] [Simon|PN] [himself|PR] believed also: and [when|T2] [he|PR] was baptized, [he|PR] continued with [Philip|PN], and wondered, beholding the miracles and signs which were done.
 Acts 8:14	[Now|T2] [when|T2] the [apostles|GP] which were at [Jerusalem|PP] heard that [Samaria|PP] had received the word of [God|GF], [they|PR] sent unto [them|PR] [Peter|PN] and [John|PN]:
 Acts 8:15	[who|PR], [when|T2] [they|PR] were come [down|L2], prayed for [them|PR], that [they|PR] might receive the [Holy Ghost|HS]:
-Acts 8:16	(for as [yet|T2] [he|PR] was fallen upon [none|QU] of [them|PR]: [only|QU] [they|PR] were baptized in the name of the [Lord|GF] [Jesus|GS].)
+Acts 8:16	(for as [yet|T2] [he|HS] was fallen upon [none|QU] of [them|PR]: [only|QU] [they|PR] were baptized in the name of the [Lord|GF] [Jesus|GS].)
 Acts 8:17	[Then|T2] laid [they|PR] [their|PR] hands on [them|PR], and [they|PR] received the [Holy Ghost|HS].
 Acts 8:18	And [when|T2] [Simon|PN] saw that through laying on of the [apostles|GP]’ hands the [Holy Ghost|HS] was given, [he|PR] offered [them|PR] money,
 Acts 8:19	saying, Give [me|PR] also this power, that on [whomsoever|PR] [I|PR] lay hands, [he|PR] may receive the [Holy Ghost|HS].
@@ -27431,7 +27431,7 @@ Acts 10:31	and said, [Cornelius|PN], [thy|PR] prayer is heard, and [thine|PR] al
 Acts 10:32	Send therefore to [Joppa|PP], and call [hither|L2] [Simon|PN], [whose|PR] surname is [Peter|PN]; [he|PR] is lodged in the [house|L1] of one [Simon|PN] a [tanner|GP] by the [sea|L1] [side|L2]: [who|PR], [when|T2] [he|PR] cometh, shall speak unto [thee|PR].
 Acts 10:33	[Immediately|T2] therefore [I|PR] sent to [thee|PR]; and [thou|PR] hast well done that [thou|PR] art come. [Now|T2] therefore are [we|PR] [all|QU] [here|L2] present [before|L2] [God|GF], to hear [all|QU] things that are commanded [thee|PR] of [God|GF].
 Acts 10:34	[Then|T2] [Peter|PN] opened [his|PR] mouth, and said, Of a truth [I|PR] perceive that [God|GF] is no [respecter|GP] of [persons|GP]:
-Acts 10:35	but in [every|QU] [nation|GP] [he|PR] that feareth [him|GS], and worketh righteousness, is accepted with [him|GS].
+Acts 10:35	but in [every|QU] [nation|GP] [he|PR] that feareth [him|GF], and worketh righteousness, is accepted with [him|GF].
 Acts 10:36	The word which [God|GF] sent unto the [children|GP] of [Israel|PG], preaching peace by [Jesus|GS] [Christ|GS]: ([he|GS] is [Lord|GF] of [all|QU]:)
 Acts 10:37	that word, [I|PR] say, [ye|PR] know, which was published [throughout|L2] [all|QU] [Judæa|PP], and [began|T2] from [Galilee|PP], [after|T2] the baptism which [John|PN] preached;
 Acts 10:38	how [God|GF] anointed [Jesus|GS] of [Nazareth|PP] with the [Holy Ghost|HS] and with power: [who|GS] went about doing good, and healing [all|QU] that were oppressed of the [devil|DE]; for [God|GF] was with [him|GS].
@@ -27461,7 +27461,7 @@ Acts 11:13	and [he|PR] shewed [us|PR] how [he|PR] had seen an [angel|AN] in [his
 Acts 11:14	[who|PR] shall tell [thee|PR] words, whereby [thou|PR] and [all|QU] [thy|PR] [house|GP] shall be saved.
 Acts 11:15	And as [I|PR] [began|T2] to speak, the [Holy Ghost|HS] fell on [them|PR], as on [us|PR] at the [beginning|T2].
 Acts 11:16	[Then|T2] remembered [I|PR] the word of the [Lord|GF], how that [he|GS] said, «[John|PN] indeed baptized with water; but [ye|PR] shall be baptized with the [Holy Ghost|HS]. »
-Acts 11:17	Forasmuch then as [God|GF] gave [them|PR] the like gift as [he|GS] did unto [us|PR], [who|PR] believed on the [Lord|GF] [Jesus|GS] [Christ|GS]; what was [I|PR], that [I|PR] could withstand [God|GF]?
+Acts 11:17	Forasmuch then as [God|GF] gave [them|PR] the like gift as [he|GF] did unto [us|PR], [who|PR] believed on the [Lord|GF] [Jesus|GS] [Christ|GS]; what was [I|PR], that [I|PR] could withstand [God|GF]?
 Acts 11:18	[When|T2] [they|PR] heard these things, [they|PR] held [their|PR] peace, and glorified [God|GF], saying, Then hath [God|GF] also to the [Gentiles|PG] granted repentance unto life.
 Acts 11:19	[Now|T2] [they|PR] which were scattered [abroad|L2] upon the persecution that arose about [Stephen|PN] travelled as [far|L1] as [Phenice|PP], and [Cyprus|PP], and [Antioch|PP], preaching the word to [none|QU] but unto the [Jews|PG] [only|QU].
 Acts 11:20	And [some|QU] of [them|PR] were [men|GP] of [Cyprus|PP] and [Cyrene|PP], which, [when|T2] [they|PR] were come to [Antioch|PP], spake unto the [Grecians|PG], preaching the [Lord|GF] [Jesus|GS].
@@ -27485,7 +27485,7 @@ Acts 12:7	And, behold, the [angel|AN] of the [Lord|GF] came upon [him|PR], and a
 Acts 12:8	And the [angel|AN] said unto [him|PR], Gird [thyself|PR], and bind on [thy|PR] sandals. And [so|T2] [he|PR] did. And [he|PR] saith unto [him|PR], Cast [thy|PR] garment about [thee|PR], and follow [me|PR].
 Acts 12:9	And [he|PR] went out, and followed [him|PR]; and wist not that it was true which was done by the [angel|AN]; but thought [he|PR] saw a vision.
 Acts 12:10	[When|T2] [they|PR] were [past|T2] the [first|NU] and the [second|NU] ward, [they|PR] came unto the iron [gate|L1] that leadeth unto the [city|L1]; which opened to [them|PR] of [his|PR] own accord: and [they|PR] went out, and passed on [through|L2] [one|QU] [street|L1]; and [forthwith|T2] the [angel|AN] departed from [him|PR].
-Acts 12:11	And [when|T2] [Peter|PN] was come to [himself|PR], [he|PR] said, [Now|T2] [I|PR] know of a surety, that the [Lord|GF] hath sent [his|GS] [angel|AN], and hath delivered [me|PR] out of the hand of [Herod|PN], and from [all|QU] the expectation of the [people|GP] of the [Jews|PG].
+Acts 12:11	And [when|T2] [Peter|PN] was come to [himself|PR], [he|PR] said, [Now|T2] [I|PR] know of a surety, that the [Lord|GF] hath sent [his|GF] [angel|AN], and hath delivered [me|PR] out of the hand of [Herod|PN], and from [all|QU] the expectation of the [people|GP] of the [Jews|PG].
 Acts 12:12	And [when|T2] [he|PR] had considered the thing, [he|PR] came to the [house|L1] of [Mary|PN] the [mother|GP] of [John|PN], [whose|PR] surname was [Mark|PN]; [where|L2] [many|QU] were gathered together praying.
 Acts 12:13	And [as|T2] [Peter|PN] knocked at the [door|L1] of the [gate|L1], a [damsel|GP] came to hearken, named [Rhoda|PN].
 Acts 12:14	And [when|T2] [she|PR] knew [Peter’s|PN] voice, [she|PR] opened not the [gate|L1] for gladness, but ran in, and told how [Peter|PN] stood [before|L2] the [gate|L1].
@@ -27501,7 +27501,7 @@ Acts 12:23	And [immediately|T1] the [angel|AN] of the [Lord|GF] smote [him|PR], 
 Acts 12:24	But the word of [God|GF] grew and [multiplied|QU].
 Acts 12:25	And [Barnabas|PN] and [Saul|PN] returned from [Jerusalem|PP], [when|T2] [they|PR] had fulfilled [their|PR] ministry, and took with [them|PR] [John|PN], [whose|PR] surname was [Mark|PN].
 Acts 13:1	[Now|T2] there were in the [church|GP] that was at [Antioch|PP] certain [prophets|GP] and [teachers|GP]; as [Barnabas|PN], and [Simeon|PN] that was called [Niger|PN], and [Lucius|PN] of [Cyrene|PP], and [Manaen|PN], which had been brought up with [Herod|PN] the [tetrarch|GP], and [Saul|PN].
-Acts 13:2	As [they|PR] ministered to the [Lord|GF], and fasted, the [Holy Ghost|HS] said, Separate [me|GF] [Barnabas|PN] and [Saul|PN] for the work whereunto [I|GF] have called [them|PR].
+Acts 13:2	As [they|PR] ministered to the [Lord|GF], and fasted, the [Holy Ghost|HS] said, Separate [me|HS] [Barnabas|PN] and [Saul|PN] for the work whereunto [I|HS] have called [them|PR].
 Acts 13:3	And [when|T2] [they|PR] had fasted and prayed, and laid [their|PR] hands on [them|PR], [they|PR] sent [them|PR] away.
 Acts 13:4	So [they|PR], being sent [forth|L2] by the [Holy Ghost|HS], departed unto [Seleucia|PP]; and from [thence|L1] [they|PR] sailed to [Cyprus|PP].
 Acts 13:5	And [when|T2] [they|PR] were at [Salamis|PP], [they|PR] preached the word of [God|GF] in the [synagogues|L1] of the [Jews|PG]: and [they|PR] had also [John|PN] to [their|PR] [minister|GP].
@@ -27516,13 +27516,13 @@ Acts 13:13	[Now|T2] [when|T2] [Paul|PN] and [his|PR] company loosed from [Paphos
 Acts 13:14	But [when|T2] [they|PR] departed from [Perga|PP], [they|PR] came to [Antioch|PP] in [Pisidia|PP], and went into the [synagogue|L1] on the [sabbath|T1] [day|T1], and sat down.
 Acts 13:15	And [after|T2] the reading of the law and the [prophets|GP] the [rulers|GP] of the [synagogue|L1] sent unto [them|PR], saying, [Ye|PR] [men|GP] and [brethren|GP], if [ye|PR] have any word of exhortation for the [people|GP], say on.
 Acts 13:16	[Then|T2] [Paul|PN] stood up, and beckoning with [his|PR] hand said, [Men|GP] of [Israel|PP], and [ye|PR] that fear [God|GF], give audience.
-Acts 13:17	The [God|GF] of this [people|GP] of [Israel|PP] chose [our|PR] [fathers|GP], and exalted the [people|GP] [when|T2] [they|PR] dwelt as [strangers|GP] in the [land|L1] of [Egypt|PP], and with an [high|L2] arm brought [he|GS] [them|PR] out of it.
-Acts 13:18	And about the [time|T1] of [40|NU] [years|T1] suffered [he|GS] [their|PR] manners in the [wilderness|L1].
-Acts 13:19	And [when|T2] [he|GS] had destroyed [seven|NU] [nations|GP] in the [land|L1] of [Chanaan|PP], [he|GS] divided [their|PR] [land|L1] to [them|PR] by lot.
-Acts 13:20	And [after|T2] that [he|GS] gave unto [them|PR] [judges|GP] about the [space|T2] of [450|NU] [years|T1], [until|T2] [Samuel|PN] the [prophet|GP].
+Acts 13:17	The [God|GF] of this [people|GP] of [Israel|PP] chose [our|PR] [fathers|GP], and exalted the [people|GP] [when|T2] [they|PR] dwelt as [strangers|GP] in the [land|L1] of [Egypt|PP], and with an [high|L2] arm brought [he|GF] [them|PR] out of it.
+Acts 13:18	And about the [time|T1] of [40|NU] [years|T1] suffered [he|GF] [their|PR] manners in the [wilderness|L1].
+Acts 13:19	And [when|T2] [he|GF] had destroyed [seven|NU] [nations|GP] in the [land|L1] of [Chanaan|PP], [he|GF] divided [their|PR] [land|L1] to [them|PR] by lot.
+Acts 13:20	And [after|T2] that [he|GF] gave unto [them|PR] [judges|GP] about the [space|T2] of [450|NU] [years|T1], [until|T2] [Samuel|PN] the [prophet|GP].
 Acts 13:21	And [afterward|T2] [they|PR] desired a [king|GP]: and [God|GF] gave unto [them|PR] [Saul|PN] the [son|GP] of [Cis|PN], a [man|GP] of the [tribe|GP] of [Benjamin|PG], by the [space|T2] of [40|NU] [years|T1].
-Acts 13:22	And [when|T2] [he|GS] had removed [him|PR], [he|GS] raised up unto [them|PR] [David|PN] to be [their|PR] [king|GP]; to [whom|PR] also [he|GS] gave testimony, and said, [I|GF] have found [David|PN] the [son|GP] of [Jesse|PN], a [man|GP] after [mine|GF] own heart, which shall fulfil [all|QU] [my|GF] will.
-Acts 13:23	Of this [man’s|GP] [seed|GP] hath [God|GF] according to [his|GS] promise raised unto [Israel|PP] a [Saviour|GF], [Jesus|GS]:
+Acts 13:22	And [when|T2] [he|GF] had removed [him|PR], [he|GF] raised up unto [them|PR] [David|PN] to be [their|PR] [king|GP]; to [whom|PR] also [he|GF] gave testimony, and said, [I|GF] have found [David|PN] the [son|GP] of [Jesse|PN], a [man|GP] after [mine|GF] own heart, which shall fulfil [all|QU] [my|GF] will.
+Acts 13:23	Of this [man’s|GP] [seed|GP] hath [God|GF] according to [his|GF] promise raised unto [Israel|PP] a [Saviour|GF], [Jesus|GS]:
 Acts 13:24	[when|T2] [John|PN] had [first|NU] preached [before|T2] [his|GS] coming the baptism of repentance to [all|QU] the [people|GP] of [Israel|PP].
 Acts 13:25	And as [John|PN] fulfilled [his|PR] course, [he|PR] said, [Whom|PR] think [ye|PR] that [I|PR] am? [I|PR] am not [he|GS]. But, behold, there cometh one [after|T2] [me|PR], [whose|GS] shoes of [his|GS] feet [I|PR] am not worthy to loose.
 Acts 13:26	[Men|GP] and [brethren|GP], [children|GP] of the stock of [Abraham|PN], and [whosoever|PR] among [you|PR] feareth [God|GF], to [you|PR] is the word of this salvation sent.
@@ -27532,15 +27532,15 @@ Acts 13:29	And [when|T2] [they|PR] had fulfilled [all|QU] that was written of [h
 Acts 13:30	But [God|GF] raised [him|GS] from the [dead|GP]:
 Acts 13:31	and [he|GS] was seen [many|QU] [days|T1] of [them|PR] which came [up|L2] with [him|GS] from [Galilee|PP] to [Jerusalem|PP], [who|PR] are [his|GS] [witnesses|GP] unto the [people|GP].
 Acts 13:32	And [we|PR] declare unto [you|PR] glad tidings, how that the promise which was made unto the [fathers|GP],
-Acts 13:33	[God|GF] hath fulfilled the same unto [us|PR] [their|PR] [children|GP], in that [he|GS] hath raised up [Jesus|GS] [again|T2]; as it is also written in the [second|NU] psalm, [Thou|GS] art [my|PR] [Son|GS], [this|T2] [day|T1] have [I|PR] begotten [thee|GS].
-Acts 13:34	And as concerning that [he|GS] raised [him|GS] up from the [dead|GP], [now|T2] [no|T2] [more|T2] to return to corruption, [he|GS] said on this wise, [I|PR] will give [you|PR] the sure mercies of [David|PN].
-Acts 13:35	Wherefore [he|PR] saith also in [another|QU] psalm, [Thou|GS] shalt not suffer [thine|GS] [Holy One|GF] to see corruption.
+Acts 13:33	[God|GF] hath fulfilled the same unto [us|PR] [their|PR] [children|GP], in that [he|GF] hath raised up [Jesus|GS] [again|T2]; as it is also written in the [second|NU] psalm, [Thou|GS] art [my|GF] [Son|GS], [this|T2] [day|T1] have [I|GF] begotten [thee|GS].
+Acts 13:34	And as concerning that [he|GF] raised [him|GS] up from the [dead|GP], [now|T2] [no|T2] [more|T2] to return to corruption, [he|GF] said on this wise, [I|GF] will give [you|PR] the sure mercies of [David|PN].
+Acts 13:35	Wherefore [he|PR] saith also in [another|QU] psalm, [Thou|GF] shalt not suffer [thine|GF] [Holy One|GF] to see corruption.
 Acts 13:36	For [David|PN], [after|T2] [he|PR] had served [his|PR] own [generation|T2] by the will of [God|GF], fell on sleep, and was laid unto [his|PR] [fathers|GP], and saw corruption:
 Acts 13:37	but [he|GS], [whom|GS] [God|GF] raised [again|T2], saw no corruption.
 Acts 13:38	Be it known unto [you|PR] therefore, [men|GP] and [brethren|GP], that through this [man|GP] is preached unto [you|PR] the forgiveness of sins:
 Acts 13:39	and by [him|GS] [all|QU] that believe are justified from [all|QU] things, from which [ye|PR] could not be justified by the law of [Moses|PN].
 Acts 13:40	Beware therefore, lest that come upon [you|PR], which is spoken of in the [prophets|GP];
-Acts 13:41	Behold, [ye|PR] [despisers|GP], and wonder, and perish: for [I|PR] work a work in [your|PR] [days|T1], a work which [ye|PR] shall in no wise believe, though a [man|GP] declare it unto [you|PR].
+Acts 13:41	Behold, [ye|PR] [despisers|GP], and wonder, and perish: for [I|GF] work a work in [your|PR] [days|T1], a work which [ye|PR] shall in no wise believe, though a [man|GP] declare it unto [you|PR].
 Acts 13:42	And [when|T2] the [Jews|PG] were gone out of the [synagogue|L1], the [Gentiles|PG] besought that these words might be preached to [them|PR] the [next|T2] [sabbath|T1].
 Acts 13:43	[Now|T2] [when|T2] the [congregation|GP] was broken up, [many|QU] of the [Jews|PG] and religious [proselytes|GP] followed [Paul|PN] and [Barnabas|PN]: [who|PR], speaking to [them|PR], persuaded [them|PR] to continue in the grace of [God|GF].
 Acts 13:44	And the [next|T2] [sabbath|T1] [day|T1] came almost the [whole|QU] [city|L1] together to hear the word of [God|GF].
@@ -27568,7 +27568,7 @@ Acts 14:13	[Then|T2] the [priest|GP] of [Jupiter|PN], which was [before|L2] [the
 Acts 14:14	Which [when|T2] the [apostles|GP], [Barnabas|PN] and [Paul|PN], heard of, [they|PR] rent [their|PR] clothes, and ran in among the [people|GP], crying out,
 Acts 14:15	and saying, [Sirs|GP], why do [ye|PR] these things? [We|PR] also are [men|GP] of like passions with [you|PR], and preach unto [you|PR] that [ye|PR] should turn from these vanities unto the [living God|GF], which made [heaven|L1], and [earth|L1], and the [sea|L1], and [all|QU] things that are [therein|L2]:
 Acts 14:16	[who|GF] in [times|T2] [past|T2] suffered [all|QU] [nations|GP] to walk in [their|PR] own [ways|L1].
-Acts 14:17	Nevertheless [he|GS] left not [himself|GS] without witness, in that [he|GS] did good, and gave [us|PR] rain from [heaven|L1], and fruitful [seasons|T2], filling [our|PR] hearts with food and gladness.
+Acts 14:17	Nevertheless [he|GF] left not [himself|GF] without witness, in that [he|GF] did good, and gave [us|PR] rain from [heaven|L1], and fruitful [seasons|T2], filling [our|PR] hearts with food and gladness.
 Acts 14:18	And with these sayings scarce restrained [they|PR] the [people|GP], that [they|PR] had not done sacrifice unto [them|PR].
 Acts 14:19	And there came [thither|L2] certain [Jews|PG] from [Antioch|PP] and [Iconium|PP], [who|PR] persuaded the [people|GP], and, having stoned [Paul|PN], drew [him|PR] out of the [city|L1], supposing [he|PR] had been dead.
 Acts 14:20	Howbeit, [as|T2] the [disciples|GP] stood [round|L2] [about|L2] [him|PR], [he|PR] rose up, and came into the [city|L1]: and the [next|T2] [day|T1] [he|PR] departed with [Barnabas|PN] to [Derbe|PP].
@@ -27578,7 +27578,7 @@ Acts 14:23	And [when|T2] [they|PR] had ordained [them|PR] [elders|GP] in [every|
 Acts 14:24	And [after|T2] [they|PR] had passed [throughout|L2] [Pisidia|PP], [they|PR] came to [Pamphylia|PP].
 Acts 14:25	And [when|T2] [they|PR] had preached the word in [Perga|PP], [they|PR] went [down|L2] into [Attalia|PP]:
 Acts 14:26	and [thence|L1] sailed to [Antioch|PP], from [whence|L2] [they|PR] had been recommended to the grace of [God|GF] for the work which [they|PR] fulfilled.
-Acts 14:27	And [when|T2] [they|PR] were come, and had gathered the [church|GP] together, [they|PR] rehearsed [all|QU] that [God|GF] had done with [them|PR], and how [he|GS] had opened the [door|L1] of faith unto the [Gentiles|PG].
+Acts 14:27	And [when|T2] [they|PR] were come, and had gathered the [church|GP] together, [they|PR] rehearsed [all|QU] that [God|GF] had done with [them|PR], and how [he|GF] had opened the [door|L1] of faith unto the [Gentiles|PG].
 Acts 14:28	And [there|L2] [they|PR] abode [long|T2] [time|T1] with the [disciples|GP].
 Acts 15:1	And certain [men|GP] which came [down|L2] from [Judæa|PP] taught the [brethren|GP], and said, Except [ye|PR] be circumcised after the manner of [Moses|PN], [ye|PR] cannot be saved.
 Acts 15:2	[When|T2] therefore [Paul|PN] and [Barnabas|PN] had no small dissension and disputation with [them|PR], [they|PR] determined that [Paul|PN] and [Barnabas|PN], and certain other of [them|PR], should go [up|L2] to [Jerusalem|PP] unto the [apostles|GP] and [elders|GP] about this question.
@@ -27587,20 +27587,20 @@ Acts 15:4	And [when|T2] [they|PR] were come to [Jerusalem|PP], [they|PR] were re
 Acts 15:5	But there rose up certain of the [sect|GP] of the [Pharisees|PG] which believed, saying, That it was needful to circumcise [them|PR], and to command [them|PR] to keep the law of [Moses|PN].
 Acts 15:6	And the [apostles|GP] and [elders|GP] came together for to consider of this matter.
 Acts 15:7	And [when|T2] there had been [much|QU] disputing, [Peter|PN] rose up, and said unto [them|PR], [Men|GP] and [brethren|GP], [ye|PR] know how that a [good|T2] [while|T2] [ago|T2] [God|GF] made choice among [us|PR], that the [Gentiles|PG] by [my|PR] mouth should hear the word of the gospel, and believe.
-Acts 15:8	And [God|GF], which knoweth the hearts, bare [them|PR] witness, giving [them|PR] the [Holy Ghost|HS], even as [he|GS] did unto [us|PR];
+Acts 15:8	And [God|GF], which knoweth the hearts, bare [them|PR] witness, giving [them|PR] the [Holy Ghost|HS], even as [he|GF] did unto [us|PR];
 Acts 15:9	And put no difference between [us|PR] and [them|PR], purifying [their|PR] hearts by faith.
 Acts 15:10	[Now|T2] therefore why tempt [ye|PR] [God|GF], to put a yoke upon the neck of the [disciples|GP], which neither [our|PR] [fathers|GP] nor [we|PR] were able to bear?
 Acts 15:11	But [we|PR] believe that through the grace of the [Lord|GF] [Jesus|GS] [Christ|GS] [we|PR] shall be saved, even as [they|PR].
 Acts 15:12	[Then|T2] [all|QU] the [multitude|GP] kept silence, and gave audience to [Barnabas|PN] and [Paul|PN], declaring what miracles and wonders [God|GF] had wrought among the [Gentiles|PG] by [them|PR].
 Acts 15:13	And [after|T2] [they|PR] had held [their|PR] peace, [James|PN] answered, saying, [Men|GP] and [brethren|GP], hearken unto [me|PR]:
-Acts 15:14	[Simeon|PN] hath declared how [God|GF] at the [first|NU] did visit the [Gentiles|PG], to take out of [them|PR] a [people|GP] for [his|GS] name.
+Acts 15:14	[Simeon|PN] hath declared how [God|GF] at the [first|NU] did visit the [Gentiles|PG], to take out of [them|PR] a [people|GP] for [his|GF] name.
 Acts 15:15	And to this agree the words of the [prophets|GP]; as it is written,
-Acts 15:16	[After|T2] this [I|PR] will return, and will build [again|T2] the [tabernacle|L1] of [David|PN], which is fallen down; and [I|PR] will build [again|T2] the [ruins|L1] thereof, and [I|PR] will set it up:
-Acts 15:17	that the residue of [men|GP] might seek after the [Lord|GF], and [all|QU] the [Gentiles|PG], upon [whom|GS] [my|PR] name is called, saith the [LORD|GF], [who|GS] doeth [all|QU] these things.
-Acts 15:18	Known unto [God|GF] are [all|QU] [his|GS] works from the [beginning|T2] of the [world|L1].
+Acts 15:16	[After|T2] this [I|GF] will return, and will build [again|T2] the [tabernacle|L1] of [David|PN], which is fallen down; and [I|GF] will build [again|T2] the [ruins|L1] thereof, and [I|GF] will set it up:
+Acts 15:17	that the residue of [men|GP] might seek after the [Lord|GF], and [all|QU] the [Gentiles|PG], upon [whom|PR] [my|GF] name is called, saith the [LORD|GF], [who|GF] doeth [all|QU] these things.
+Acts 15:18	Known unto [God|GF] are [all|QU] [his|GF] works from the [beginning|T2] of the [world|L1].
 Acts 15:19	Wherefore [my|PR] sentence is, that [we|PR] trouble not [them|PR], which from among the [Gentiles|PG] are turned to [God|GF]:
 Acts 15:20	but that [we|PR] write unto [them|PR], that [they|PR] abstain from pollutions of [idols|DE], and from fornication, and from things strangled, and from blood.
-Acts 15:21	For [Moses|PN] of [old|T2] [time|T1] hath in [every|QU] [city|L1] [them|PR] that preach [him|GS], being read in the [synagogues|L1] [every|QU] [sabbath|T1] [day|T1].
+Acts 15:21	For [Moses|PN] of [old|T2] [time|T1] hath in [every|QU] [city|L1] [them|PR] that preach [him|PR], being read in the [synagogues|L1] [every|QU] [sabbath|T1] [day|T1].
 Acts 15:22	[Then|T2] pleased it the [apostles|GP] and [elders|GP], with the [whole|QU] [church|GP], to send chosen [men|GP] of [their|PR] own company to [Antioch|PP] with [Paul|PN] and [Barnabas|PN]; namely, [Judas|PN] surnamed [Barsabas|PN], and [Silas|PN], chief [men|GP] among the [brethren|GP]:
 Acts 15:23	and [they|PR] wrote letters by [them|PR] after this manner; The [apostles|GP] and [elders|GP] and [brethren|GP] send greeting unto the [brethren|GP] which are of the [Gentiles|PG] in [Antioch|PP] and [Syria|PP] and [Cilicia|PP]:
 Acts 15:24	Forasmuch as [we|PR] have heard, that certain which went out from [us|PR] have troubled [you|PR] with words, subverting [your|PR] souls, saying, [Ye|PR] must be circumcised, and keep the law: to [whom|PR] [we|PR] gave no such commandment:
@@ -27683,15 +27683,15 @@ Acts 17:19	And [they|PR] took [him|PR], and brought [him|PR] unto [Areopagus|PP]
 Acts 17:20	For [thou|PR] bringest certain strange things to [our|PR] ears: [we|PR] would know therefore what these things mean.
 Acts 17:21	(For [all|QU] the [Athenians|PG] and [strangers|GP] which were [there|L2] spent [their|PR] [time|T1] in nothing else, but either to tell, or to hear [some|QU] [new|T2] thing.)
 Acts 17:22	[Then|T2] [Paul|PN] stood in the [midst|L2] of [Mars|PP]’ [hill|PP], and said, [Ye|PR] [men|GP] of [Athens|PP], [I|PR] perceive that in [all|QU] things [ye|PR] are [too|QU] superstitious.
-Acts 17:23	For as [I|PR] passed by, and beheld [your|PR] devotions, [I|PR] found an [altar|L1] with this inscription, TO THE UNKNOWN GOD. [Whom|GS] therefore [ye|PR] ignorantly worship, [him|GS] declare [I|PR] unto [you|PR].
-Acts 17:24	[God|GF] that made the [world|L1] and [all|QU] things [therein|L2], seeing that [he|GS] is [Lord|GF] of [heaven|L1] and [earth|L1], dwelleth not in [temples|L1] made with hands;
-Acts 17:25	neither is worshipped with [men’s|GP] hands, as though [he|GS] needed any thing, seeing [he|GS] giveth to [all|QU] life, and breath, and [all|QU] things;
+Acts 17:23	For as [I|PR] passed by, and beheld [your|PR] devotions, [I|PR] found an [altar|L1] with this inscription, TO THE UNKNOWN GOD. [Whom|GF] therefore [ye|PR] ignorantly worship, [him|GF] declare [I|PR] unto [you|PR].
+Acts 17:24	[God|GF] that made the [world|L1] and [all|QU] things [therein|L2], seeing that [he|GF] is [Lord|GF] of [heaven|L1] and [earth|L1], dwelleth not in [temples|L1] made with hands;
+Acts 17:25	neither is worshipped with [men’s|GP] hands, as though [he|GF] needed any thing, seeing [he|GF] giveth to [all|QU] life, and breath, and [all|QU] things;
 Acts 17:26	and hath made of [one|QU] blood [all|QU] [nations|GP] of [men|GP] for to dwell on [all|QU] the face of the [earth|L1], and hath determined the [times|T2] [before|T2] appointed, and the bounds of [their|PR] [habitation|L1];
-Acts 17:27	that [they|PR] should seek the [Lord|GF], if haply [they|PR] might feel after [him|GS], and find [him|GS], though [he|GS] be not [far|L1] from [every|QU] one of [us|PR]:
-Acts 17:28	for in [him|GS] [we|PR] live, and move, and have [our|PR] being; as certain also of [your|PR] own [poets|GP] have said, For [we|PR] are also [his|GS] [offspring|GP].
+Acts 17:27	that [they|PR] should seek the [Lord|GF], if haply [they|PR] might feel after [him|GF], and find [him|GF], though [he|GF] be not [far|L1] from [every|QU] one of [us|PR]:
+Acts 17:28	for in [him|GF] [we|PR] live, and move, and have [our|PR] being; as certain also of [your|PR] own [poets|GP] have said, For [we|PR] are also [his|GF] [offspring|GP].
 Acts 17:29	Forasmuch then as [we|PR] are the [offspring|GP] of [God|GF], [we|PR] ought not to think that the [Godhead|GF] is like unto gold, or silver, or stone, graven by art and [man’s|GP] device.
 Acts 17:30	And the [times|T2] of this ignorance [God|GF] winked at; but [now|T2] commandeth [all|QU] [men|GP] every [where|L2] to repent:
-Acts 17:31	because [he|GS] hath appointed a [day|T1], in the which [he|GS] will judge the [world|L1] in righteousness by that [man|GP] [whom|GS] [he|GS] hath ordained; whereof [he|GS] hath given assurance unto [all|QU] [men|GP], in that [he|GS] hath raised [him|GS] from the [dead|GP].
+Acts 17:31	because [he|GF] hath appointed a [day|T1], in the which [he|GF] will judge the [world|L1] in righteousness by that [man|GP] [whom|GS] [he|GF] hath ordained; whereof [he|GF] hath given assurance unto [all|QU] [men|GP], in that [he|GF] hath raised [him|GS] from the [dead|GP].
 Acts 17:32	And [when|T2] [they|PR] heard of the resurrection of the [dead|GP], [some|GP] mocked: and [others|GP] said, [We|PR] will hear [thee|PR] [again|T2] of this matter.
 Acts 17:33	So [Paul|PN] departed from among [them|PR].
 Acts 17:34	Howbeit [certain|GP] [men|GP] clave unto [him|PR], and believed: among the which was [Dionysius|PN] the [Areopagite|PG], and a [woman|GP] named [Damaris|PN], and others with [them|PR].
@@ -27726,7 +27726,7 @@ Acts 18:28	for [he|PR] mightily convinced the [Jews|PG], and that publickly, she
 Acts 19:1	And it [came|T2] [to|T2] [pass|T2], that, [while|T2] [Apollos|PN] was at [Corinth|PP], [Paul|PN] having passed [through|L2] the [upper|L1] [coasts|L1] came to [Ephesus|PP]: and finding certain [disciples|GP],
 Acts 19:2	[he|PR] said unto [them|PR], Have [ye|PR] received the [Holy Ghost|HS] [since|T2] [ye|PR] believed? And [they|PR] said unto [him|PR], [We|PR] have not [so|T2] [much|QU] as heard whether there be any [Holy Ghost|HS].
 Acts 19:3	And [he|PR] said unto [them|PR], Unto what then were [ye|PR] baptized? And [they|PR] said, Unto [John’s|PN] baptism.
-Acts 19:4	[Then|T2] said [Paul|PN], [John|PN] verily baptized with the baptism of repentance, saying unto the [people|GP], that [they|PR] should believe on [him|GS] which should come [after|T2] [him|GS], that is, on [Christ|GS] [Jesus|GS].
+Acts 19:4	[Then|T2] said [Paul|PN], [John|PN] verily baptized with the baptism of repentance, saying unto the [people|GP], that [they|PR] should believe on [him|GS] which should come [after|T2] [him|PR], that is, on [Christ|GS] [Jesus|GS].
 Acts 19:5	[When|T2] [they|PR] heard this, [they|PR] were baptized in the name of the [Lord|GF] [Jesus|GS].
 Acts 19:6	And [when|T2] [Paul|PN] had laid [his|PR] hands upon [them|PR], the [Holy Ghost|HS] came on [them|PR]; and [they|PR] spake with tongues, and prophesied.
 Acts 19:7	And [all|QU] the [men|GP] were about [12|NU].
@@ -27795,7 +27795,7 @@ Acts 20:28	Take heed therefore unto [yourselves|PR], and to [all|QU] the [flock|
 Acts 20:29	For [I|PR] know this, that [after|T2] [my|PR] departing shall grievous [wolves|GP] enter in among [you|PR], not sparing the [flock|GP].
 Acts 20:30	Also of [your|PR] own selves shall [men|GP] arise, speaking perverse things, to draw away [disciples|GP] after [them|PR].
 Acts 20:31	Therefore watch, and remember, that by the [space|T2] of [3|NU] [years|T1] [I|PR] ceased not to warn [every|QU] one [night|T1] and [day|T1] with tears.
-Acts 20:32	And [now|T2], [brethren|GP], [I|PR] commend [you|PR] to [God|GF], and to the word of [his|GS] grace, which is able to build [you|PR] up, and to give [you|PR] an inheritance among [all|QU] [them|PR] which are sanctified.
+Acts 20:32	And [now|T2], [brethren|GP], [I|PR] commend [you|PR] to [God|GF], and to the word of [his|GF] grace, which is able to build [you|PR] up, and to give [you|PR] an inheritance among [all|QU] [them|PR] which are sanctified.
 Acts 20:33	[I|PR] have coveted no [man’s|GP] silver, or gold, or apparel.
 Acts 20:34	Yea, [ye|PR] [yourselves|PR] know, that these hands have ministered unto [my|PR] necessities, and to [them|PR] that were with [me|PR].
 Acts 20:35	[I|PR] have shewed [you|PR] [all|QU] things, how that [so|T2] labouring [ye|PR] ought to support the weak, and to remember the words of the [Lord|GF] [Jesus|GS], how «[he|GS]» said, «It is [more|QU] blessed to give than to receive. »
@@ -27855,7 +27855,7 @@ Acts 22:10	And [I|PR] said, What shall [I|PR] do, [Lord|GF]? And the [Lord|GF] s
 Acts 22:11	And [when|T2] [I|PR] could not see for the glory of that light, being led by the hand of [them|PR] that were with [me|PR], [I|PR] came into [Damascus|PP].
 Acts 22:12	And one [Ananias|PN], a devout [man|GP] according to the law, having a good report of [all|QU] the [Jews|PG] which dwelt [there|L2],
 Acts 22:13	came unto [me|PR], and stood, and said unto [me|PR], [Brother|GP] [Saul|PN], receive [thy|PR] sight. And the [same|T2] [hour|T1] [I|PR] looked up upon [him|PR].
-Acts 22:14	And [he|PR] said, The [God|GF] of [our|PR] [fathers|GP] hath chosen [thee|PR], that [thou|PR] shouldest know [his|GS] will, and see that [Just One|GF], and shouldest hear the voice of [his|GS] mouth.
+Acts 22:14	And [he|PR] said, The [God|GF] of [our|PR] [fathers|GP] hath chosen [thee|PR], that [thou|PR] shouldest know [his|GF] will, and see that [Just One|GF], and shouldest hear the voice of [his|GS] mouth.
 Acts 22:15	For [thou|PR] shalt be [his|GS] [witness|GP] unto [all|QU] [men|GP] of what [thou|PR] hast seen and heard.
 Acts 22:16	And [now|T2] why tarriest [thou|PR]? arise, and be baptized, and wash away [thy|PR] sins, calling on the name of the [Lord|GF].
 Acts 22:17	And it [came|T2] [to|T2] [pass|T2], that, [when|T2] [I|PR] was come [again|T2] to [Jerusalem|PP], even [while|T2] [I|PR] prayed in the [temple|L1], [I|PR] was in a trance;
@@ -28015,7 +28015,7 @@ Acts 27:19	and the [3rd|NU] [day|T1] [we|PR] cast out with [our|PR] own hands th
 Acts 27:20	And [when|T2] neither [sun|L1] nor [stars|L1] in [many|QU] [days|T1] appeared, and no small tempest lay on [us|PR], [all|QU] hope that [we|PR] should be saved was then taken away.
 Acts 27:21	But [after|T2] [long|T2] abstinence [Paul|PN] stood forth in the [midst|L2] of [them|PR], and said, [Sirs|GP], [ye|PR] should have hearkened unto [me|PR], and not have loosed from [Crete|PP], and to have gained this harm and loss.
 Acts 27:22	And [now|T2] [I|PR] exhort [you|PR] to be of good cheer: for there shall be no loss of any [man’s|GP] life among [you|PR], but of the [ship|L1].
-Acts 27:23	For there stood by [me|PR] [this|T2] [night|T1] the [angel|AN] of [God|GF], [whose|GS] [I|PR] am, and [whom|GS] [I|PR] serve,
+Acts 27:23	For there stood by [me|PR] [this|T2] [night|T1] the [angel|AN] of [God|GF], [whose|GF] [I|PR] am, and [whom|GF] [I|PR] serve,
 Acts 27:24	saying, Fear not, [Paul|PN]; [thou|PR] must be brought [before|L2] [Cæsar|PN]: and, lo, [God|GF] hath given [thee|PR] [all|QU] [them|PR] that sail with [thee|PR].
 Acts 27:25	Wherefore, [sirs|GP], be of good cheer: for [I|PR] believe [God|GF], that it shall be even as it was told [me|PR].
 Acts 27:26	Howbeit [we|PR] must be cast upon a certain [island|L1].
@@ -29707,7 +29707,7 @@ Colossians 4:18	The salutation by the hand of [me|PR] [Paul|PN]. Remember [my|PR
 1 Thessalonians 1:7	[so|T2] that [ye|PR] were ensamples to [all|QU] that believe in [Macedonia|PP] and [Achaia|PP].
 1 Thessalonians 1:8	For from [you|PR] sounded out the word of the [Lord|GF] not [only|QU] in [Macedonia|PP] and [Achaia|PP], but also in [every|QU] [place|L1] [your|PR] faith to [God|GF]-ward is spread [abroad|L2]; [so|T2] that [we|PR] need not to speak any thing.
 1 Thessalonians 1:9	For [they|PR] [themselves|PR] shew of [us|PR] what manner of entering in [we|PR] had unto [you|PR], and how [ye|PR] turned to [God|GF] from [idols|DE] to serve the living and true [God|GF];
-1 Thessalonians 1:10	and to wait for [his|GF] [Son|GS] from [heaven|L1], [whom|GF] [he|GF] raised from the [dead|GP], even [Jesus|GS], which delivered [us|PR] from the wrath to come.
+1 Thessalonians 1:10	and to wait for [his|GF] [Son|GS] from [heaven|L1], [whom|GS] [he|GF] raised from the [dead|GP], even [Jesus|GS], which delivered [us|PR] from the wrath to come.
 1 Thessalonians 2:1	For [yourselves|PR], [brethren|GP], know [our|PR] entrance in unto [you|PR], that it was not in vain:
 1 Thessalonians 2:2	but even [after|T2] that [we|PR] had suffered [before|T2], and were shamefully entreated, as [ye|PR] know, at [Philippi|PP], [we|PR] were bold in [our|PR] [God|GF] to speak unto [you|PR] the gospel of [God|GF] with [much|QU] contention.
 1 Thessalonians 2:3	For [our|PR] exhortation was not of deceit, nor of uncleanness, nor in guile:
@@ -29726,7 +29726,7 @@ Colossians 4:18	The salutation by the hand of [me|PR] [Paul|PN]. Remember [my|PR
 1 Thessalonians 2:16	forbidding [us|PR] to speak to the [Gentiles|PG] that [they|PR] might be saved, to fill up [their|PR] sins [alway|T2]: for the wrath is come upon [them|PR] to the [uttermost|L1].
 1 Thessalonians 2:17	But [we|PR], [brethren|GP], being taken from [you|PR] for a short [time|T1] in presence, not in heart, endeavoured the [more|QU] [abundantly|QU] to see [your|PR] face with great desire.
 1 Thessalonians 2:18	Wherefore [we|PR] would have come unto [you|PR], even [I|PR] [Paul|PN], [once|T2] and [again|T2]; but [Satan|DE] hindered [us|PR].
-1 Thessalonians 2:19	For what is [our|PR] hope, or joy, or crown of rejoicing? Are not even [ye|PR] in the presence of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS] at [his|GF] coming?
+1 Thessalonians 2:19	For what is [our|PR] hope, or joy, or crown of rejoicing? Are not even [ye|PR] in the presence of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS] at [his|GS] coming?
 1 Thessalonians 2:20	For [ye|PR] are [our|PR] glory and joy.
 1 Thessalonians 3:1	Wherefore [when|T2] [we|PR] could no longer forbear, [we|PR] thought it good to be left at [Athens|PP] alone;
 1 Thessalonians 3:2	and sent [Timotheus|PN], [our|PR] [brother|GP], and [minister|GP] of [God|GF], and [our|PR] [fellowlabourer|GP] in the gospel of [Christ|GS], to establish [you|PR], and to comfort [you|PR] concerning [your|PR] faith:
@@ -29740,7 +29740,7 @@ Colossians 4:18	The salutation by the hand of [me|PR] [Paul|PN]. Remember [my|PR
 1 Thessalonians 3:10	[night|T1] and [day|T1] praying [exceedingly|QU] that [we|PR] might see [your|PR] face, and might perfect that which is lacking in [your|PR] faith?
 1 Thessalonians 3:11	[Now|T2] [God|GF] [himself|GF] and [our|PR] [Father|GF], and [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS], direct [our|PR] way unto [you|PR].
 1 Thessalonians 3:12	And the [Lord|GF] make [you|PR] to [increase|QU] and abound in love one [toward|L2] another, and [toward|L2] [all|QU] [men|GP], even as [we|PR] do [toward|L2] [you|PR]:
-1 Thessalonians 3:13	to the end [he|GF] may stablish [your|PR] hearts unblameable in holiness [before|L2] [God|GF], even [our|PR] [Father|GF], at the coming of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS] with [all|QU] [his|GF] [saints|GP].
+1 Thessalonians 3:13	to the end [he|GF] may stablish [your|PR] hearts unblameable in holiness [before|L2] [God|GF], even [our|PR] [Father|GF], at the coming of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS] with [all|QU] [his|GS] [saints|GP].
 1 Thessalonians 4:1	Furthermore then [we|PR] beseech [you|PR], [brethren|GP], and exhort [you|PR] by the [Lord|GF] [Jesus|GS], that as [ye|PR] have received of [us|PR] how [ye|PR] ought to walk and to please [God|GF], [so|T2] [ye|PR] would abound [more|QU] and [more|QU].
 1 Thessalonians 4:2	For [ye|PR] know what commandments [we|PR] gave [you|PR] by the [Lord|GF] [Jesus|GS].
 1 Thessalonians 4:3	For this is the will of [God|GF], even [your|PR] sanctification, that [ye|PR] should abstain from fornication:
@@ -29754,9 +29754,9 @@ Colossians 4:18	The salutation by the hand of [me|PR] [Paul|PN]. Remember [my|PR
 1 Thessalonians 4:11	and that [ye|PR] study to be quiet, and to do [your|PR] own business, and to work with [your|PR] own hands, as [we|PR] commanded [you|PR];
 1 Thessalonians 4:12	that [ye|PR] may walk honestly [toward|L2] [them|PR] that are [without|L2], and that [ye|PR] may have lack of nothing.
 1 Thessalonians 4:13	But [I|PR] would not have [you|PR] to be ignorant, [brethren|GP], concerning [them|PR] which are asleep, that [ye|PR] sorrow not, even as others which have no hope.
-1 Thessalonians 4:14	For if [we|PR] believe that [Jesus|GS] died and rose [again|T2], even [so|T2] [them|PR] also which sleep in [Jesus|GS] will [God|GF] bring with [him|GF].
+1 Thessalonians 4:14	For if [we|PR] believe that [Jesus|GS] died and rose [again|T2], even [so|T2] [them|PR] also which sleep in [Jesus|GS] will [God|GF] bring with [him|GS].
 1 Thessalonians 4:15	For this [we|PR] say unto [you|PR] by the word of the [Lord|GF], that [we|PR] which are alive and remain unto the coming of the [Lord|GF] shall not prevent [them|PR] which are asleep.
-1 Thessalonians 4:16	For the [Lord|GF] [himself|GF] shall descend from [heaven|L1] with a shout, with the voice of the [archangel|AN], and with the trump of [God|GF]: and the [dead|GP] in [Christ|GS] shall rise [first|NU]:
+1 Thessalonians 4:16	For the [Lord|GF] [himself|GS] shall descend from [heaven|L1] with a shout, with the voice of the [archangel|AN], and with the trump of [God|GF]: and the [dead|GP] in [Christ|GS] shall rise [first|NU]:
 1 Thessalonians 4:17	[then|T2] [we|PR] which are alive and remain shall be caught up together with [them|PR] in the [clouds|L1], to meet the [Lord|GF] in the air: and [so|T2] shall [we|PR] [ever|T2] be with the [Lord|GF].
 1 Thessalonians 4:18	Wherefore comfort one another with these words.
 1 Thessalonians 5:1	But of the [times|T2] and the [seasons|T2], [brethren|GP], [ye|PR] have no need that [I|PR] write unto [you|PR].
@@ -29768,7 +29768,7 @@ Colossians 4:18	The salutation by the hand of [me|PR] [Paul|PN]. Remember [my|PR
 1 Thessalonians 5:7	For [they|PR] that sleep sleep in the [night|T1]; and [they|PR] that be drunken are drunken in the [night|T1].
 1 Thessalonians 5:8	But let [us|PR], [who|PR] are of the [day|T1], be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.
 1 Thessalonians 5:9	For [God|GF] hath not appointed [us|PR] to wrath, but to obtain salvation by [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS],
-1 Thessalonians 5:10	[who|GF] died for [us|PR], that, whether [we|PR] wake or sleep, [we|PR] should live together with [him|GF].
+1 Thessalonians 5:10	[who|GS] died for [us|PR], that, whether [we|PR] wake or sleep, [we|PR] should live together with [him|GS].
 1 Thessalonians 5:11	Wherefore comfort [yourselves|PR] together, and edify one another, even as also [ye|PR] do.
 1 Thessalonians 5:12	And [we|PR] beseech [you|PR], [brethren|GP], to know [them|PR] which labour among [you|PR], and are over [you|PR] in the [Lord|GF], and admonish [you|PR];
 1 Thessalonians 5:13	and to esteem [them|PR] [very|QU] highly in love for [their|PR] work’s sake. And be at peace among [yourselves|PR].
@@ -29793,20 +29793,20 @@ Colossians 4:18	The salutation by the hand of [me|PR] [Paul|PN]. Remember [my|PR
 2 Thessalonians 1:4	[so|T2] that [we|PR] [ourselves|PR] glory in [you|PR] in the [churches|GP] of [God|GF] for [your|PR] patience and faith in [all|QU] [your|PR] persecutions and tribulations that [ye|PR] endure:
 2 Thessalonians 1:5	which is a manifest token of the righteous judgment of [God|GF], that [ye|PR] may be counted worthy of the kingdom of [God|GF], for which [ye|PR] also suffer:
 2 Thessalonians 1:6	seeing it is a righteous thing with [God|GF] to recompense tribulation to [them|PR] that trouble [you|PR];
-2 Thessalonians 1:7	and to [you|PR] [who|PR] are troubled rest with [us|PR], [when|T2] the [Lord|GF] [Jesus|GS] shall be revealed from [heaven|L1] with [his|GF] mighty [angels|AN],
+2 Thessalonians 1:7	and to [you|PR] [who|PR] are troubled rest with [us|PR], [when|T2] the [Lord|GF] [Jesus|GS] shall be revealed from [heaven|L1] with [his|GS] mighty [angels|AN],
 2 Thessalonians 1:8	in flaming fire taking vengeance on [them|PR] that know not [God|GF], and that obey not the gospel of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS]:
-2 Thessalonians 1:9	[who|PR] shall be punished with [everlasting|T2] destruction from the presence of the [Lord|GF], and from the glory of [his|GF] power;
-2 Thessalonians 1:10	[when|T2] [he|GF] shall come to be glorified in [his|GF] [saints|GP], and to be admired in [all|QU] [them|PR] that believe (because [our|PR] testimony among [you|PR] was believed) in that [day|T1].
+2 Thessalonians 1:9	[who|PR] shall be punished with [everlasting|T2] destruction from the presence of the [Lord|GF], and from the glory of [his|GS] power;
+2 Thessalonians 1:10	[when|T2] [he|GS] shall come to be glorified in [his|GS] [saints|GP], and to be admired in [all|QU] [them|PR] that believe (because [our|PR] testimony among [you|PR] was believed) in that [day|T1].
 2 Thessalonians 1:11	Wherefore also [we|PR] pray [always|T2] for [you|PR], that [our|PR] [God|GF] would count [you|PR] worthy of this calling, and fulfil [all|QU] the good pleasure of [his|GF] goodness, and the work of faith with power:
-2 Thessalonians 1:12	that the name of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS] may be glorified in [you|PR], and [ye|PR] in [him|GF], according to the grace of [our|PR] [God|GF] and the [Lord|GF] [Jesus|GS] [Christ|GS].
-2 Thessalonians 2:1	[Now|T2] [we|PR] beseech [you|PR], [brethren|GP], by the coming of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS], and by [our|PR] gathering together unto [him|GF],
+2 Thessalonians 1:12	that the name of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS] may be glorified in [you|PR], and [ye|PR] in [him|GS], according to the grace of [our|PR] [God|GF] and the [Lord|GF] [Jesus|GS] [Christ|GS].
+2 Thessalonians 2:1	[Now|T2] [we|PR] beseech [you|PR], [brethren|GP], by the coming of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS], and by [our|PR] gathering together unto [him|GS],
 2 Thessalonians 2:2	that [ye|PR] be not [soon|T2] shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from [us|PR], as that the [day|T1] of [Christ|GS] is at hand.
 2 Thessalonians 2:3	Let no [man|GP] deceive [you|PR] by any means: for that [day|T1] shall not come, except there come a falling away [first|NU], and that [man|GP] of sin be revealed, the [son|GP] of perdition;
 2 Thessalonians 2:4	[who|PR] opposeth and exalteth [himself|PR] [above|L2] [all|QU] that is called [God|GF], or that is worshipped; [so|T2] that [he|PR] as [God|GF] sitteth in the [temple|L1] of [God|GF], shewing [himself|PR] that [he|PR] is [God|GF].
 2 Thessalonians 2:5	Remember [ye|PR] not, that, [when|T2] [I|PR] was yet with [you|PR], [I|PR] told [you|PR] these things?
-2 Thessalonians 2:6	And [now|T2] [ye|PR] know what withholdeth that [he|GF] might be revealed in [his|GF] [time|T1].
+2 Thessalonians 2:6	And [now|T2] [ye|PR] know what withholdeth that [he|PR] might be revealed in [his|PR] [time|T1].
 2 Thessalonians 2:7	For the mystery of iniquity doth [already|T2] work: [only|QU] [he|PR] [who|PR] [now|T2] letteth will let, [until|T2] [he|PR] be taken out of the way.
-2 Thessalonians 2:8	And then shall that [Wicked|DE] be revealed, [whom|PR] the [Lord|GF] shall consume with the spirit of [his|PR] mouth, and shall destroy with the brightness of [his|PR] coming:
+2 Thessalonians 2:8	And then shall that [Wicked|DE] be revealed, [whom|PR] the [Lord|GF] shall consume with the spirit of [his|GS] mouth, and shall destroy with the brightness of [his|GS] coming:
 2 Thessalonians 2:9	even [him|PR], [whose|PR] coming is after the working of [Satan|DE] with [all|QU] power and signs and lying wonders,
 2 Thessalonians 2:10	and with [all|QU] deceivableness of unrighteousness in [them|PR] that perish; because [they|PR] received not the love of the truth, that [they|PR] might be saved.
 2 Thessalonians 2:11	And for this cause [God|GF] shall send [them|PR] strong delusion, that [they|PR] should believe a lie:
@@ -29814,7 +29814,7 @@ Colossians 4:18	The salutation by the hand of [me|PR] [Paul|PN]. Remember [my|PR
 2 Thessalonians 2:13	But [we|PR] are bound to give thanks [alway|T2] to [God|GF] for [you|PR], [brethren|GP] beloved of the [Lord|GF], because [God|GF] hath from the [beginning|T2] chosen [you|PR] to salvation through sanctification of the [Spirit|HS] and belief of the truth:
 2 Thessalonians 2:14	whereunto [he|GF] called [you|PR] by [our|PR] gospel, to the obtaining of the glory of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS].
 2 Thessalonians 2:15	Therefore, [brethren|GP], stand fast, and hold the traditions which [ye|PR] have been taught, whether by word, or [our|PR] epistle.
-2 Thessalonians 2:16	[Now|T2] [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS] [himself|GF], and [God|GF], even [our|PR] [Father|GF], which hath loved [us|PR], and hath given [us|PR] [everlasting|T2] consolation and good hope through grace,
+2 Thessalonians 2:16	[Now|T2] [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS] [himself|GS], and [God|GF], even [our|PR] [Father|GF], which hath loved [us|PR], and hath given [us|PR] [everlasting|T2] consolation and good hope through grace,
 2 Thessalonians 2:17	comfort [your|PR] hearts, and stablish [you|PR] in [every|QU] good word and work.
 2 Thessalonians 3:1	[Finally|T2], [brethren|GP], pray for [us|PR], that the word of the [Lord|GF] may have free course, and be glorified, even as it is with [you|PR]:
 2 Thessalonians 3:2	and that [we|PR] may be delivered from unreasonable and wicked [men|GP]: for [all|QU] [men|GP] have not faith.
@@ -29845,11 +29845,11 @@ Colossians 4:18	The salutation by the hand of [me|PR] [Paul|PN]. Remember [my|PR
 1 Timothy 1:9	knowing this, that the law is not made for a [righteous|GP] [man|GP], but for the [lawless|GP] and disobedient, for the ungodly and for [sinners|GP], for unholy and [profane|GP], for [murderers|GP] of [fathers|GP] and [murderers|GP] of [mothers|GP], for [manslayers|GP],
 1 Timothy 1:10	for [whoremongers|GP], for [them|PR] that defile [themselves|PR] with [mankind|GP], for [menstealers|GP], for [liars|GP], for [perjured|GP] [persons|GP], and if there be any other thing that is contrary to sound doctrine;
 1 Timothy 1:11	according to the glorious gospel of the blessed [God|GF], which was committed to [my|PR] trust.
-1 Timothy 1:12	And [I|PR] thank [Christ|GS] [Jesus|GS] [our|PR] [Lord|GF], [who|GF] hath enabled [me|PR], for that [he|GF] counted [me|PR] faithful, putting [me|PR] into the ministry;
+1 Timothy 1:12	And [I|PR] thank [Christ|GS] [Jesus|GS] [our|PR] [Lord|GF], [who|GS] hath enabled [me|PR], for that [he|GS] counted [me|PR] faithful, putting [me|PR] into the ministry;
 1 Timothy 1:13	[who|PR] was [before|T2] a [blasphemer|GP], and a [persecutor|GP], and injurious: but [I|PR] obtained mercy, because [I|PR] did it ignorantly in unbelief.
 1 Timothy 1:14	And the grace of [our|PR] [Lord|GF] was [exceeding|QU] [abundant|QU] with faith and love which is in [Christ|GS] [Jesus|GS].
 1 Timothy 1:15	This is a faithful saying, and worthy of [all|QU] acceptation, that [Christ|GS] [Jesus|GS] came into the [world|L1] to save [sinners|GP]; of [whom|PR] [I|PR] am chief.
-1 Timothy 1:16	Howbeit for this cause [I|PR] obtained mercy, that in [me|PR] [first|NU] [Jesus|GS] [Christ|GS] might shew forth [all|QU] longsuffering, for a pattern to [them|PR] which should [hereafter|T2] believe on [him|GF] to life [everlasting|T2].
+1 Timothy 1:16	Howbeit for this cause [I|PR] obtained mercy, that in [me|PR] [first|NU] [Jesus|GS] [Christ|GS] might shew forth [all|QU] longsuffering, for a pattern to [them|PR] which should [hereafter|T2] believe on [him|GS] to life [everlasting|T2].
 1 Timothy 1:17	[Now|T2] unto the [King|GP] [eternal|T2], immortal, invisible, the [only|QU] wise [God|GF], be honour and glory [for|T2] [ever|T2] and [ever|T2]. Amen.
 1 Timothy 1:18	This charge [I|PR] commit unto [thee|PR], [son|GP] [Timothy|PN], according to the prophecies which went [before|T2] on [thee|PR], that [thou|PR] by [them|PR] mightest war a good warfare;
 1 Timothy 1:19	holding faith, and a good conscience; which [some|QU] having put away concerning faith have made shipwreck:
@@ -29859,7 +29859,7 @@ Colossians 4:18	The salutation by the hand of [me|PR] [Paul|PN]. Remember [my|PR
 1 Timothy 2:3	For this is good and acceptable in the sight of [God|GF] [our|PR] [Saviour|GF];
 1 Timothy 2:4	[who|GF] will have [all|QU] [men|GP] to be saved, and to come unto the knowledge of the truth.
 1 Timothy 2:5	For there is [one|QU] [God|GF], and [one|QU] [mediator|GP] between [God|GF] and [men|GP], the [man|GP] [Christ|GS] [Jesus|GS];
-1 Timothy 2:6	[who|GF] gave [himself|GF] a ransom for [all|QU], to be testified in [due|T2] [time|T1].
+1 Timothy 2:6	[who|GS] gave [himself|GS] a ransom for [all|QU], to be testified in [due|T2] [time|T1].
 1 Timothy 2:7	Whereunto [I|PR] am ordained a [preacher|GP], and an [apostle|GP], ([I|PR] speak the truth in [Christ|GS], and lie not;) a [teacher|GP] of the [Gentiles|PG] in faith and verity.
 1 Timothy 2:8	[I|PR] will therefore that [men|GP] pray every [where|L2], lifting up holy hands, without wrath and doubting.
 1 Timothy 2:9	In like manner also, that [women|GP] adorn [themselves|PR] in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;
@@ -29938,7 +29938,7 @@ Colossians 4:18	The salutation by the hand of [me|PR] [Paul|PN]. Remember [my|PR
 1 Timothy 6:10	For the love of money is the [root|PL] of [all|QU] evil: which [while|T2] [some|QU] coveted after, [they|PR] have erred from the faith, and pierced [themselves|PR] through with [many|QU] sorrows.
 1 Timothy 6:11	But [thou|PR], O [man|GP] of [God|GF], flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.
 1 Timothy 6:12	Fight the good fight of faith, lay hold on [eternal|T2] life, whereunto [thou|PR] art also called, and hast professed a good profession [before|L2] [many|QU] [witnesses|GP].
-1 Timothy 6:13	[I|PR] give [thee|PR] charge in the sight of [God|GF], [who|GF] quickeneth [all|QU] things, and [before|L2] [Christ|GS] [Jesus|GS], [who|GF] [before|L2] [Pontius|PN] [Pilate|PN] witnessed a good confession;
+1 Timothy 6:13	[I|PR] give [thee|PR] charge in the sight of [God|GF], [who|GF] quickeneth [all|QU] things, and [before|L2] [Christ|GS] [Jesus|GS], [who|GS] [before|L2] [Pontius|PN] [Pilate|PN] witnessed a good confession;
 1 Timothy 6:14	that [thou|PR] keep this commandment without spot, unrebukeable, [until|T2] the appearing of [our|PR] [Lord|GF] [Jesus|GS] [Christ|GS]:
 1 Timothy 6:15	which in [his|GF] [times|T2] [he|GF] shall shew, [who|GF] is the blessed and [only|QU] [Potentate|GS], the [King|GF] of [kings|GP], and [Lord|GF] of [lords|GP];
 1 Timothy 6:16	[who|GF] [only|QU] hath immortality, dwelling in the light which no [man|GP] can approach unto; [whom|GF] no [man|GP] hath seen, nor can see: to [whom|GF] be honour and power [everlasting|T2]. Amen.
@@ -29954,9 +29954,9 @@ Colossians 4:18	The salutation by the hand of [me|PR] [Paul|PN]. Remember [my|PR
 2 Timothy 1:5	[when|T2] [I|PR] call to remembrance the unfeigned faith that is in [thee|PR], which dwelt [first|NU] in [thy|PR] [grandmother|GP] [Lois|PN], and [thy|PR] [mother|GP] [Eunice|PN]; and [I|PR] am persuaded that in [thee|PR] also.
 2 Timothy 1:6	Wherefore [I|PR] put [thee|PR] in remembrance that [thou|PR] stir up the gift of [God|GF], which is in [thee|PR] by the putting on of [my|PR] hands.
 2 Timothy 1:7	For [God|GF] hath not given [us|PR] the spirit of fear; but of power, and of love, and of a sound mind.
-2 Timothy 1:8	Be not [thou|PR] therefore ashamed of the testimony of [our|PR] [Lord|GF], nor of [me|PR] [his|GF] [prisoner|GP]: but be [thou|PR] [partaker|GP] of the afflictions of the gospel according to the power of [God|GF];
+2 Timothy 1:8	Be not [thou|PR] therefore ashamed of the testimony of [our|PR] [Lord|GF], nor of [me|PR] [his|GS] [prisoner|GP]: but be [thou|PR] [partaker|GP] of the afflictions of the gospel according to the power of [God|GF];
 2 Timothy 1:9	[who|GF] hath saved [us|PR], and called [us|PR] with an holy calling, not according to [our|PR] works, but according to [his|GF] own purpose and grace, which was given [us|PR] in [Christ|GS] [Jesus|GS] [before|T2] the [world|L1] [began|T2],
-2 Timothy 1:10	but is [now|T2] made manifest by the appearing of [our|PR] [Saviour|GF] [Jesus|GS] [Christ|GS], [who|GF] hath abolished death, and hath brought life and immortality to light through the gospel:
+2 Timothy 1:10	but is [now|T2] made manifest by the appearing of [our|PR] [Saviour|GF] [Jesus|GS] [Christ|GS], [who|GS] hath abolished death, and hath brought life and immortality to light through the gospel:
 2 Timothy 1:11	whereunto [I|PR] am appointed a [preacher|GP], and an [apostle|GP], and a [teacher|GP] of the [Gentiles|PG].
 2 Timothy 1:12	For the which cause [I|PR] also suffer these things: nevertheless [I|PR] am not ashamed: for [I|PR] know [whom|GF] [I|PR] have believed, and am persuaded that [he|GF] is able to keep that which [I|PR] have committed unto [him|GF] against that [day|T1].
 2 Timothy 1:13	Hold fast the form of sound words, which [thou|PR] hast heard of [me|PR], in faith and love which is in [Christ|GS] [Jesus|GS].
@@ -29975,9 +29975,9 @@ Colossians 4:18	The salutation by the hand of [me|PR] [Paul|PN]. Remember [my|PR
 2 Timothy 2:8	Remember that [Jesus|GS] [Christ|GS] of the [seed|GP] of [David|PN] was raised from the [dead|GP] according to [my|PR] gospel:
 2 Timothy 2:9	[wherein|L2] [I|PR] suffer trouble, as an evil [doer|GP], even unto bonds; but the word of [God|GF] is not bound.
 2 Timothy 2:10	Therefore [I|PR] endure [all|QU] things for the [elect’s|GP] sakes, that [they|PR] may also obtain the salvation which is in [Christ|GS] [Jesus|GS] with eternal glory.
-2 Timothy 2:11	It is a faithful saying: For if [we|PR] be dead with [him|GF], [we|PR] shall also live with [him|GF]:
-2 Timothy 2:12	if [we|PR] suffer, [we|PR] shall also reign with [him|GF]: if [we|PR] deny [him|GF], [he|GF] also will deny [us|PR]:
-2 Timothy 2:13	if [we|PR] believe not, yet [he|GF] abideth faithful: [he|GF] cannot deny [himself|GF].
+2 Timothy 2:11	It is a faithful saying: For if [we|PR] be dead with [him|GS], [we|PR] shall also live with [him|GS]:
+2 Timothy 2:12	if [we|PR] suffer, [we|PR] shall also reign with [him|GS]: if [we|PR] deny [him|GS], [he|GS] also will deny [us|PR]:
+2 Timothy 2:13	if [we|PR] believe not, yet [he|GS] abideth faithful: [he|GS] cannot deny [himself|GS].
 2 Timothy 2:14	Of these things put [them|PR] in remembrance, charging [them|PR] [before|L2] the [Lord|GF] that [they|PR] strive not about words to no profit, but to the subverting of the [hearers|GP].
 2 Timothy 2:15	Study to shew [thyself|PR] approved unto [God|GF], a [workman|GP] that needeth not to be ashamed, rightly dividing the word of truth.
 2 Timothy 2:16	But shun profane and vain babblings: for [they|PR] will [increase|QU] unto [more|QU] ungodliness.
@@ -30008,14 +30008,14 @@ Colossians 4:18	The salutation by the hand of [me|PR] [Paul|PN]. Remember [my|PR
 2 Timothy 3:15	and that from a [child|GP] [thou|PR] hast known the holy scriptures, which are able to make [thee|PR] wise unto salvation through faith which is in [Christ|GS] [Jesus|GS].
 2 Timothy 3:16	All scripture is given by inspiration of [God|GF], and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:
 2 Timothy 3:17	that the [man|GP] of [God|GF] may be perfect, throughly furnished unto [all|QU] good works.
-2 Timothy 4:1	[I|PR] charge [thee|PR] therefore [before|L2] [God|GF], and the [Lord|GF] [Jesus|GS] [Christ|GS], [who|GF] shall judge the [quick|GP] and the [dead|GP] at [his|GF] appearing and [his|GF] kingdom;
+2 Timothy 4:1	[I|PR] charge [thee|PR] therefore [before|L2] [God|GF], and the [Lord|GF] [Jesus|GS] [Christ|GS], [who|GS] shall judge the [quick|GP] and the [dead|GP] at [his|GS] appearing and [his|GS] kingdom;
 2 Timothy 4:2	preach the word; be instant in [season|T2], out of [season|T2]; reprove, rebuke, exhort with [all|QU] longsuffering and doctrine.
 2 Timothy 4:3	For the [time|T1] will come [when|T2] [they|PR] will not endure sound doctrine; but after [their|PR] own lusts shall [they|PR] heap to [themselves|PR] [teachers|GP], having itching ears;
 2 Timothy 4:4	and [they|PR] shall turn away [their|PR] ears from the truth, and shall be turned unto fables.
 2 Timothy 4:5	But watch [thou|PR] in [all|QU] things, endure afflictions, do the work of an [evangelist|GP], make full proof of [thy|PR] ministry.
 2 Timothy 4:6	For [I|PR] am [now|T2] ready to be offered, and the [time|T1] of [my|PR] departure is at hand.
 2 Timothy 4:7	[I|PR] have fought a good fight, [I|PR] have finished [my|PR] course, [I|PR] have kept the faith:
-2 Timothy 4:8	[henceforth|T2] there is laid up for [me|PR] a crown of righteousness, which the [Lord|GF], the righteous [judge|GP], shall give [me|PR] at that [day|T1]: and not to [me|PR] [only|QU], but unto [all|QU] [them|PR] also that love [his|GF] appearing.
+2 Timothy 4:8	[henceforth|T2] there is laid up for [me|PR] a crown of righteousness, which the [Lord|GF], the righteous [judge|GP], shall give [me|PR] at that [day|T1]: and not to [me|PR] [only|QU], but unto [all|QU] [them|PR] also that love [his|GS] appearing.
 2 Timothy 4:9	Do [thy|PR] diligence to come [shortly|T2] unto [me|PR]:
 2 Timothy 4:10	for [Demas|PN] hath forsaken [me|PR], having loved this present [world|L1], and is departed unto [Thessalonica|PP]; [Crescens|PN] to [Galatia|PP], [Titus|PN] unto [Dalmatia|PP].
 2 Timothy 4:11	Only [Luke|PN] is with [me|PR]. Take [Mark|PN], and bring [him|PR] with [thee|PR]: for [he|PR] is profitable to [me|PR] for the ministry.
@@ -30045,7 +30045,7 @@ Titus 1:12	One of [themselves|PR], even a [prophet|GP] of [their|PR] own, said, 
 Titus 1:13	This witness is true. Wherefore rebuke [them|PR] sharply, that [they|PR] may be sound in the faith;
 Titus 1:14	not giving heed to [Jewish|PG] fables, and commandments of [men|GP], that turn from the truth.
 Titus 1:15	Unto the [pure|GP] [all|QU] things are pure: but unto [them|PR] that are defiled and unbelieving is nothing pure; but even [their|PR] mind and conscience is defiled.
-Titus 1:16	[They|PR] profess that [they|PR] know [God|GF]; but in works [they|PR] deny [him|PR], being abominable, and disobedient, and unto [every|QU] good work reprobate.
+Titus 1:16	[They|PR] profess that [they|PR] know [God|GF]; but in works [they|PR] deny [him|GF], being abominable, and disobedient, and unto [every|QU] good work reprobate.
 Titus 2:1	But speak [thou|PR] the things which become sound doctrine:
 Titus 2:2	that the [aged|GP] [men|GP] be sober, grave, temperate, sound in faith, in charity, in patience.
 Titus 2:3	The [aged|GP] [women|GP] likewise, that [they|PR] be in behaviour as becometh holiness, not false [accusers|GP], not given to [much|QU] wine, [teachers|GP] of good things;
@@ -30059,7 +30059,7 @@ Titus 2:10	not purloining, but shewing [all|QU] good fidelity; that [they|PR] ma
 Titus 2:11	For the grace of [God|GF] that bringeth salvation hath appeared to [all|QU] [men|GP],
 Titus 2:12	teaching [us|PR] that, denying ungodliness and worldly lusts, [we|PR] should live soberly, righteously, and godly, in this present [world|L1];
 Titus 2:13	looking for that blessed hope, and the glorious appearing of the great [God|GF] and [our|PR] [Saviour|GF] [Jesus|GS] [Christ|GS];
-Titus 2:14	[who|GS] gave [himself|GF] for [us|PR], that [he|GF] might redeem [us|PR] from [all|QU] iniquity, and purify unto [himself|GF] a peculiar [people|GP], zealous of good works.
+Titus 2:14	[who|GS] gave [himself|GS] for [us|PR], that [he|GS] might redeem [us|PR] from [all|QU] iniquity, and purify unto [himself|GS] a peculiar [people|GP], zealous of good works.
 Titus 2:15	These things speak, and exhort, and rebuke with [all|QU] authority. Let no [man|GP] despise [thee|PR].
 Titus 3:1	Put [them|PR] in mind to be subject to principalities and powers, to obey [magistrates|GP], to be ready to [every|QU] good work,
 Titus 3:2	to speak evil of no [man|GP], to be no [brawlers|GP], but gentle, shewing [all|QU] meekness unto [all|QU] [men|GP].

@@ -1,10 +1,10 @@
 # God the Spirit  `GOD_SPIRIT`  (#5a278c)
 
 - Legend examples (from the PDF's Color Code page): Spirit, Holy Ghost, Comforter, Holy Spirit
-- Occurrences: **284** across **253** verses (0.8% of all verses)
-- Distinct terms: **10**
+- Occurrences: **288** across **254** verses (0.8% of all verses)
+- Distinct terms: **13**
 - Occurrences inside words of Christ (red letter): 42
-- Voice layer of occurrences: narration 184, speech 87, divine 7, quote 3, speech2 2, emphasis 1
+- Voice layer of occurrences: narration 185, speech 88, divine 9, quote 3, speech2 2, emphasis 1
 
 Each term is listed with how many times it carries this color, what share of all
 its colored uses this is, how often the same word is left uncolored, and every verse.
@@ -17,12 +17,15 @@ its colored uses this is, how often the same word is left uncolored, and every v
 | Holy Ghost | 90 | 100% | - |  |
 | spirit | 5 | 98% | 313 | DEMONIC 3, GOD_SON 1 |
 | Comforter | 4 | 50% | 0 | GENERAL_PEOPLE 4 |
+| he | 4 | 0% | 1 | PRONOUN 7240, GOD_FATHER 1835, GOD_SON 1313 |
 | Spirits | 4 | 44% | 25 | DEMONIC 4, GENERAL_PEOPLE 1 |
-| he | 3 | 0% | 1 | PRONOUN 7242, GOD_FATHER 1808, GOD_SON 1339 |
 | of | 3 | 6% | 34424 | GENERAL_TIME 43, GENERAL_PLACE_1 1 |
 | truth | 3 | 75% | 231 | GOD_SON 1 |
 | Holy Spirit | 1 | 100% | - |  |
+| I | 1 | 0% | 1 | PRONOUN 4988, GOD_FATHER 3098, GOD_SON 762 |
 | Master | 1 | 1% | 0 | GENERAL_PEOPLE 96, GOD_SON 59, GOD_FATHER 1 |
+| me | 1 | 0% | 2 | PRONOUN 3067, GOD_FATHER 590, GOD_SON 427 |
+| whom | 1 | 0% | 1 | PRONOUN 643, GOD_SON 70, GOD_FATHER 48 |
 
 ## Every verse, by term
 
@@ -38,11 +41,11 @@ Isa 32:15; 40:7; 42:1; 44:3; 59:21
 ### Comforter (4)
 John 14:16, 26; 15:26; 16:7
 
+### he (4)
+Acts 8:16 | Rom 8:27 | 1Cor 12:11 | Heb 10:15
+
 ### Spirits (4)
 Rev 1:4; 3:1; 4:5; 5:6
-
-### he (3)
-Rom 8:27 | 1Cor 12:11 | Heb 10:15
 
 ### of (3)
 John 14:17; 15:26; 16:13
@@ -53,5 +56,14 @@ John 14:17; 15:26; 16:13
 ### Holy Spirit (1)
 Luke 11:13
 
+### I (1)
+Acts 13:2
+
 ### Master (1)
 John 20:16
+
+### me (1)
+Acts 13:2
+
+### whom (1)
+Acts 5:32
