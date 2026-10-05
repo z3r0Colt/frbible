@@ -152,10 +152,14 @@ text points clearly at the Son or the Spirit.
   mine, he, him, his, thou, thee, thy, thine, who, whom, whose, himself, thyself,
   us/our ("Let us make man", Genesis 1:26). About 1 in 4 uses of "I" in the Bible is
   God speaking.
-* **"Lord" and "God" stay purple Father even when they point to Jesus.** "Lord Jesus"
-  is `[Lord|GF] [Jesus|GS]` all 119 times. "My Lord and my God" (John 20:28) is
-  `[Lord|GF] … [God|GF]`. The Son color is used for his personal names, his messianic
-  titles, and pronouns for him.
+* **"Lord" said of Jesus takes the Son color** (our correction, see section 7). The
+  PDF itself colored every "Lord" with the Father color, even "the Lord Jesus".
+  In our data "Lord Jesus" is `[Lord|GS] [Jesus|GS]`, and Thomas's "My Lord and my
+  God" (John 20:28) is `[Lord|GS] … [God|GF]`. "Lord" still has the Father color
+  when it means God in general or the Father, as in Old Testament quotations
+  ("saith the Lord"), "the angel of the Lord", and "the Lord God Almighty".
+* **"God" keeps the Father color** even in the few verses that call Jesus God
+  (John 20:28, Titus 2:13, Hebrews 1:8). "God" is the name of the whole family color.
 * "lord" for a human master is GENERAL_PEOPLE (249 times). "gods" for idols is DEMONIC.
 
 ### 5.2 GOD_SON `#6a2ea6`
@@ -393,7 +397,7 @@ Use these steps in order. They match what the PDF does.
 
 1. **Is it God?** Any name, title or pronoun for God is purple. Choose Son for
    Jesus' personal names, messianic titles and pronouns; Spirit for the Holy Spirit;
-   Father for everything else (including "Lord" and "God" used of Jesus).
+   Father for everything else. "Lord" said of Jesus is Son; "God" is always Father.
 2. **Is it a spirit being?** Good angels olive-bright. Satan, demons, false gods and
    idols olive-dark.
 3. **Is it a person?** Named person bright blue. Nation or tribe acting as people
@@ -442,7 +446,14 @@ the reason. The original color is still kept (`orig` in `tagged_verses.jsonl`,
    and "the Angel which redeemed me" (Genesis 48:16) but left the same Angel as an
    ordinary angel in Genesis 16, 22, Judges 6, 13 and elsewhere, even though there he
    speaks as God and is worshiped. The rule in 5.2 now applies everywhere.
-4. **A few titles.** "the Highest" (Luke 1:32, 35, 76; 6:35) now has the Father
+4. **"Lord" said of Jesus.** The PDF gave every "Lord" the Father color. By the
+   owner's decision, "Lord" now takes the Son color whenever it means Jesus Christ:
+   "the Lord Jesus", "our Lord", people calling Jesus "Lord", the risen Lord in
+   Acts, Paul's "in the Lord", and "my Lord" in Psalm 110:1 and its quotations.
+   Each New Testament "Lord" was read in context. Debatable ones (some "day of
+   the Lord" passages, parts of James, Jude 1:5) keep the Father color and are
+   listed in `reports/ambiguous_referents.md`.
+5. **A few titles.** "the Highest" (Luke 1:32, 35, 76; 6:35) now has the Father
    color. "Master" said by Mary (John 20:16), "the Holy One" said of Jesus (Mark
    1:24, Luke 4:34, Acts 2:27, 3:14, 13:35) and "that man whom he hath ordained"
    (Acts 17:31) now have the Son color. "God" in Ephesians 2:16 now has the
@@ -456,9 +467,8 @@ had them, and every one is listed in `reports/ambiguous_referents.md`.
 
 Things we did **not** change, on purpose:
 
-* "Lord" and "God" said of Jesus keep the Father color. That is the system's design
-  (purple is "God"), not a slip. A Son-colored "Lord" would show Christ's deity even
-  more plainly, and it is an easy change if you want it.
+* "God" said of Jesus keeps the Father color, because purple is the color of "God"
+  as a whole.
 * The red letters and the numerals (435 for "four hundred thirty and five") are the
   book's layout choices and are left as they are.
 

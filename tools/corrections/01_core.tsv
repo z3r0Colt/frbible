@@ -146,3 +146,9 @@ Luke 1:35	Highest	1	GOD_SON	GOD_FATHER	the power of the Highest
 Luke 1:76	Highest	1	GOD_SON	GOD_FATHER	the prophet of the Highest
 Luke 6:35	Highest	1	GOD_SON	GOD_FATHER	the children of the Highest
 John 20:16	Master	1	GOD_SPIRIT	GOD_SON	Rabboni, Master: Jesus
+#
+# --- "Lord" said of Jesus takes the Son color (owner decision) ---
+Psalms 110:1	Lord	1	GOD_FATHER	GOD_SON	my Lord: Christ (Matthew 22:44, Acts 2:34-36)
+Psalms 110:1	thou	1	PRONOUN	GOD_SON	Christ, seated at the right hand
+Psalms 110:1	thine	1	PRONOUN	GOD_SON	Christ's enemies
+Psalms 110:1	thy	1	PRONOUN	GOD_SON	Christ's footstool
